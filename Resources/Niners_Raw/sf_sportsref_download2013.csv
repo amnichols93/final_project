@@ -1,0 +1,21 @@
+Week,Day,Date,Results,Entering Wins,Rec,Home,Opp,PF,PA,OTotYd,OPassY,ORushY,TO_lost,DTotYd,DPassY,DRushY,TO_won,week_after_bye
+1,Sun,8-Sep,W,0,Jan-00,,Green Bay Packers,34,28,494,404,90,,385,322,63,2,0
+2,Sun,15-Sep,L,1,1-Jan,@,Seattle Seahawks,3,29,207,107,100,5,290,118,172,1,0
+3,Sun,22-Sep,L,1,2-Jan,,Indianapolis Colts,7,27,254,139,115,2,336,152,184,,0
+4,Thu,26-Sep,W,1,2-Feb,@,St. Louis Rams,35,11,370,151,219,2,188,170,18,2,0
+5,Sun,6-Oct,W,2,2-Mar,,Houston Texans,34,3,284,107,177,,313,182,131,4,0
+6,Sun,13-Oct,W,3,2-Apr,,Arizona Cardinals,32,20,387,238,149,2,403,294,109,4,0
+7,Sun,20-Oct,W,4,2-May,@,Tennessee Titans,31,17,349,196,153,,368,298,70,2,0
+8,Sun,27-Oct,W,5,2-Jun,@,Jacksonville Jaguars,42,10,398,177,221,1,318,228,90,1,0
+9,,,,,,,Bye Week,,,,,,,,,,,
+10,Sun,10-Nov,L,6,3-Jun,,Carolina Panthers,9,10,151,46,105,2,250,141,109,2,1
+11,Sun,17-Nov,L,6,4-Jun,@,New Orleans Saints,20,23,196,115,81,1,387,295,92,3,0
+12,Mon,25-Nov,W,6,4-Jul,@,Washington Redskins,27,6,304,228,76,1,190,76,114,1,0
+13,Sun,1-Dec,W,7,4-Aug,,St. Louis Rams,23,13,338,255,83,1,312,198,114,1,0
+14,Sun,8-Dec,W,8,4-Sep,,Seattle Seahawks,19,17,318,155,163,1,264,178,86,1,0
+15,Sun,15-Dec,W,9,4-Oct,@,Tampa Bay Buccaneers,33,14,376,189,187,,183,144,39,2,0
+16,Mon,23-Dec,W,10,4-Nov,,Atlanta Falcons,34,24,379,180,199,,402,341,61,2,0
+17,Sun,29-Dec,W,11,4-Dec,@,Arizona Cardinals,23,20,375,292,83,,482,399,83,2,0
+18,Sun,5-Jan,W,12,13-4,@,Green Bay Packers,23,20,381,214,167,1,281,157,124,,0
+19,Sun,12-Jan,W,13,14-4,@,Carolina Panthers,23,10,315,189,126,,325,232,93,2,0
+20,Sun,19-Jan,L,14,14-5,@,Seattle Seahawks,17,23,308,147,161,3,308,193,115,1,0

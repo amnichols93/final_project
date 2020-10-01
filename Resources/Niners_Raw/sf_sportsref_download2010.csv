@@ -1,0 +1,18 @@
+Week,Day,Date,Results,Entering Wins,Rec,Home,Opp,PF,PA,OTotYd,OPassY,ORushY,TO_lost,DTotYd,DPassY,DRushY,TO_won,week_after_bye
+1,Sun,12-Sep,L,0,Jan-00,@,Seattle Seahawks,6,31,263,214,49,2,242,165,77,1,0
+2,Mon,20-Sep,L,0,1-Jan,,New Orleans Saints,22,25,417,275,142,4,287,237,50,,0
+3,Sun,26-Sep,L,0,1-Feb,@,Kansas City Chiefs,10,31,251,208,43,1,457,250,207,1,0
+4,Sun,3-Oct,L,0,1-Mar,@,Atlanta Falcons,14,16,262,181,81,3,357,259,98,2,0
+5,Sun,10-Oct,L,0,1-Apr,,Philadelphia Eagles,24,27,364,290,74,5,352,227,125,1,0
+6,Sun,17-Oct,W,0,1-May,,Oakland Raiders,17,9,349,191,158,,179,69,110,2,0
+7,Sun,24-Oct,L,1,,@,Carolina Panthers,20,23,282,183,99,1,379,303,76,3,0
+8,Sun,31-Oct,W,0,1-Jun,,Denver Broncos,24,16,339,196,143,,398,339,59,2,0
+9,,,,,1-Jul,,Bye Week,,,,,,,,,,,
+10,Sun,14-Nov,W,2,1-Aug,,St. Louis Rams,23,20,421,323,98,,332,228,104,,1
+11,Sun,21-Nov,L,3,1-Sep,,Tampa Bay Buccaneers,0,21,189,118,71,2,299,137,162,,0
+12,Mon,29-Nov,W,3,2-Sep,@,Arizona Cardinals,27,6,386,125,261,1,203,190,13,2,0
+13,Sun,5-Dec,L,4,2-Oct,@,Green Bay Packers,16,34,269,172,97,1,410,274,136,,0
+14,Sun,12-Dec,W,4,3-Oct,,Seattle Seahawks,40,21,336,241,95,,361,277,84,5,0
+15,Thu,16-Dec,L,5,3-Nov,@,San Diego Chargers,7,34,192,131,61,1,374,266,108,,0
+16,Sun,26-Dec,L,5,3-Dec,@,St. Louis Rams,17,25,331,246,85,2,335,275,60,1,0
+17,Sun,2-Jan,W,5,13-3,,Arizona Cardinals,38,7,362,262,100,,279,201,78,2,0
