@@ -1,0 +1,21 @@
+Week,Day,Date,Results,Entering Wins,Rec,Home,Opp,PF,PA,OTotYd,OPassY,ORushY,TO_lost,DTotYd,DPassY,DRushY,TO_won,week_after_bye
+1,Sun,9-Sep,W,0,Jan-00,@,Green Bay Packers,30,22,377,191,186,,324,279,45,1,0
+2,Sun,16-Sep,W,1,Feb-00,,Detroit Lions,27,19,349,201,148,1,296,214,82,1,0
+3,Sun,23-Sep,L,2,1-Feb,@,Minnesota Vikings,13,24,280,191,89,3,344,198,146,2,0
+4,Sun,30-Sep,W,2,1-Mar,@,New York Jets,34,0,381,134,247,,145,100,45,4,0
+5,Sun,7-Oct,W,3,1-Apr,,Buffalo Bills,45,3,621,310,311,1,204,115,89,2,0
+6,Sun,14-Oct,L,4,2-Apr,,New York Giants,3,26,314,234,80,3,342,193,149,,0
+7,Thu,18-Oct,W,4,2-May,,Seattle Seahawks,13,6,313,138,175,1,251,115,136,1,0
+8,Mon,29-Oct,W,5,2-Jun,@,Arizona Cardinals,24,3,317,204,113,,265,258,7,1,0
+9,,,,,,,Bye Week,,,,,,,,,,,
+10,Sun,11-Nov,T,6,6/2/2001,,St. Louis Rams,24,24,341,158,183,,458,299,159,1,1
+11,Mon,19-Nov,W,6,7/2/2001,,Chicago Bears,32,7,353,232,121,,143,58,85,2,0
+12,Sun,25-Nov,W,7,8/2/2001,@,New Orleans Saints,31,21,375,231,144,2,290,231,59,2,0
+13,Sun,2-Dec,L,8,8/3/2001,@,St. Louis Rams,13,16,339,191,148,1,293,208,85,,0
+14,Sun,9-Dec,W,8,9/3/2001,,Miami Dolphins,27,13,321,166,155,,227,133,94,1,0
+15,Sun,16-Dec,W,9,10/3/2001,@,New England Patriots,41,34,388,208,180,2,520,425,95,4,0
+16,Sun,23-Dec,L,10,10/4/2001,@,Seattle Seahawks,13,42,313,231,82,2,346,170,176,1,0
+17,Sun,30-Dec,W,10,11/4/2001,,Arizona Cardinals,27,13,407,278,129,,262,207,55,2,0
+18,Sat,12-Jan,W,11,12/4/2001,,Green Bay Packers,45,31,579,256,323,1,352,248,104,2,0
+19,Sun,20-Jan,W,12,13-4-1,@,Atlanta Falcons,28,24,373,224,149,1,477,396,81,2,0
+20,Sun,3-Feb,L,13,13-5-1,N,Baltimore Ravens,31,34,468,286,182,2,367,274,93,1,0
