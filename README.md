@@ -5,6 +5,8 @@ Solo team
 
 The goal of this final project is to predict the weekly outcomes of NFL games for the remainder of the season with at least 82% accuracy (14 out of 17 games), and to present these weekly predictions on a website via gitpages.
 
+The reason I chose 14/17 as the target accuracy is because I am currently in a weekly pool for straight wins and the highest weekly score so far was 14 wins in week 2. The typical winning number is approximately 12, but I don't want to take any chances.
+
 ### Steps to complete this project:
 - Download weekly data for the last ten years of each franchise (from Pro Football Reference, cited in each team's section of the "Compiling" notebook)
 - Edit those Excel files so they are compatible with csv format
