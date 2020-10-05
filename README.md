@@ -16,4 +16,4 @@ The goal of this final project is to predict the weekly outcomes of NFL games fo
 - Create the html file and display the data/predictions by week (this will be where the visualizations are displayed)
 
 ### Current Status
-As of the Segment 1 submission, I have the code written for compiling the franchise data and for processing the master dataframe through some machine learning models, however I still need to download/reformat the csv files for 7 out of 32 teams so I can actually save the master dataframe.
+As of the Segment 1 submission, I have the code written for compiling the franchise data and for processing the master dataframe through some machine learning models, however I still need to download/reformat the csv files for 6 out of 32 teams so I can actually save the master dataframe.
