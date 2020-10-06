@@ -1,0 +1,161 @@
+,Week,Day,Results,Wins Tally,Home,Opp,year,Base_Team,PF Tally,PA Tally,OPassY Tally,ORushY Tally,TO_lost Tally,TO_won Tally,DPassY Tally,DRushY Tally,OTotYd Tally,DTotYd Tally,after_bye,Head_Coach,OC,DC,QB
+0,1,Sun,1.0,0.0,1.0,Atlanta Falcons,2019,Vikings,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Mike Zimmer,Kevin Stefanski,George Edwards,Kirk Cousins
+1,2,Sun,0.0,1.0,0.0,Green Bay Packers,2019,Vikings,28.0,12.0,97.0,172.0,0.0,3.0,272.0,73.0,269.0,345.0,0,Mike Zimmer,Kevin Stefanski,George Edwards,Kirk Cousins
+2,3,Sun,1.0,1.0,1.0,Oakland Raiders,2019,Vikings,44.0,33.0,320.0,370.0,4.0,5.0,463.0,217.0,690.0,680.0,0,Mike Zimmer,Kevin Stefanski,George Edwards,Kirk Cousins
+3,4,Sun,0.0,2.0,0.0,Chicago Bears,2019,Vikings,78.0,47.0,494.0,581.0,4.0,6.0,677.0,305.0,1075.0,982.0,0,Mike Zimmer,Kevin Stefanski,George Edwards,Kirk Cousins
+4,5,Sun,1.0,2.0,0.0,New York Giants,2019,Vikings,84.0,63.0,676.0,621.0,6.0,6.0,874.0,377.0,1297.0,1251.0,0,Mike Zimmer,Kevin Stefanski,George Edwards,Kirk Cousins
+5,6,Sun,1.0,3.0,1.0,Philadelphia Eagles,2019,Vikings,112.0,73.0,955.0,832.0,7.0,7.0,1021.0,441.0,1787.0,1462.0,0,Mike Zimmer,Kevin Stefanski,George Edwards,Kirk Cousins
+6,7,Sun,1.0,4.0,0.0,Detroit Lions,2019,Vikings,150.0,93.0,1280.0,954.0,9.0,10.0,1313.0,549.0,2234.0,1862.0,0,Mike Zimmer,Kevin Stefanski,George Edwards,Kirk Cousins
+7,8,Thu,1.0,5.0,1.0,Washington Redskins,2019,Vikings,192.0,123.0,1618.0,1120.0,9.0,11.0,1665.0,630.0,2738.0,2295.0,0,Mike Zimmer,Kevin Stefanski,George Edwards,Kirk Cousins
+8,9,Sun,0.0,6.0,0.0,Kansas City Chiefs,2019,Vikings,211.0,132.0,1891.0,1281.0,10.0,13.0,1796.0,715.0,3172.0,2511.0,0,Mike Zimmer,Kevin Stefanski,George Edwards,Kirk Cousins
+9,10,Sun,1.0,6.0,0.0,Dallas Cowboys,2019,Vikings,234.0,158.0,2103.0,1377.0,10.0,14.0,2026.0,862.0,3480.0,2888.0,0,Mike Zimmer,Kevin Stefanski,George Edwards,Kirk Cousins
+10,11,Sun,1.0,7.0,1.0,Denver Broncos,2019,Vikings,262.0,182.0,2314.0,1530.0,10.0,15.0,2419.0,912.0,3844.0,3331.0,0,Mike Zimmer,Kevin Stefanski,George Edwards,Kirk Cousins
+11,13,Mon,0.0,8.0,0.0,Seattle Seahawks,2019,Vikings,289.0,205.0,2598.0,1567.0,12.0,16.0,2689.0,1036.0,4165.0,3725.0,1,Mike Zimmer,Kevin Stefanski,George Edwards,Kirk Cousins
+12,14,Sun,1.0,8.0,1.0,Detroit Lions,2019,Vikings,319.0,242.0,2874.0,1645.0,15.0,18.0,2915.0,1254.0,4519.0,4169.0,0,Mike Zimmer,Kevin Stefanski,George Edwards,Kirk Cousins
+13,15,Sun,1.0,9.0,0.0,Los Angeles Chargers,2019,Vikings,339.0,249.0,3108.0,1765.0,15.0,20.0,3076.0,1324.0,4873.0,4400.0,0,Mike Zimmer,Kevin Stefanski,George Edwards,Kirk Cousins
+14,16,Mon,0.0,10.0,1.0,Green Bay Packers,2019,Vikings,378.0,259.0,3315.0,1902.0,16.0,27.0,3359.0,1386.0,5217.0,4745.0,0,Mike Zimmer,Kevin Stefanski,George Edwards,Kirk Cousins
+15,17,Sun,0.0,10.0,1.0,Chicago Bears,2019,Vikings,388.0,282.0,3397.0,1959.0,17.0,30.0,3558.0,1570.0,5356.0,5128.0,0,Sean Mannion,Kevin Stefanski,George Edwards,Kirk Cousins
+16,1,Sun,1.0,0.0,1.0,San Francisco 49ers,2018,Vikings,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Mike Zimmer,John DeFilippo,George Edwards,Kirk Cousins
+17,2,Sun,0.0,1.0,0.0,Green Bay Packers,2018,Vikings,24.0,16.0,227.0,116.0,1.0,4.0,237.0,90.0,343.0,327.0,0,Mike Zimmer,John DeFilippo,George Edwards,Kirk Cousins
+18,3,Sun,0.0,1.0,1.0,Buffalo Bills,2018,Vikings,53.0,45.0,639.0,184.0,2.0,4.0,490.0,188.0,823.0,678.0,0,Mike Zimmer,John DeFilippo,George Edwards,Kirk Cousins
+19,4,Thu,0.0,1.0,0.0,Los Angeles Rams,2018,Vikings,59.0,72.0,917.0,198.0,5.0,4.0,654.0,316.0,1115.0,970.0,0,Mike Zimmer,John DeFilippo,George Edwards,Kirk Cousins
+20,5,Sun,1.0,1.0,0.0,Philadelphia Eagles,2018,Vikings,90.0,110.0,1309.0,252.0,6.0,4.0,1110.0,416.0,1561.0,1526.0,0,Mike Zimmer,John DeFilippo,George Edwards,Kirk Cousins
+21,6,Sun,1.0,2.0,1.0,Arizona Cardinals,2018,Vikings,113.0,131.0,1607.0,329.0,7.0,6.0,1393.0,497.0,1936.0,1890.0,0,Mike Zimmer,John DeFilippo,George Edwards,Kirk Cousins
+22,7,Sun,1.0,3.0,0.0,New York Jets,2018,Vikings,140.0,148.0,1823.0,524.0,9.0,8.0,1601.0,557.0,2347.0,2158.0,0,Mike Zimmer,John DeFilippo,George Edwards,Kirk Cousins
+23,8,Sun,0.0,4.0,1.0,New Orleans Saints,2018,Vikings,177.0,165.0,2051.0,612.0,9.0,12.0,1793.0,628.0,2663.0,2421.0,0,Mike Zimmer,John DeFilippo,George Edwards,Kirk Cousins
+24,9,Sun,1.0,4.0,1.0,Detroit Lions,2018,Vikings,197.0,195.0,2389.0,697.0,11.0,13.0,1957.0,734.0,3086.0,2691.0,0,Mike Zimmer,John DeFilippo,George Edwards,Kirk Cousins
+25,11,Sun,0.0,5.0,0.0,Chicago Bears,2018,Vikings,221.0,204.0,2544.0,825.0,13.0,14.0,2100.0,800.0,3369.0,2900.0,1,Mike Zimmer,John DeFilippo,George Edwards,Kirk Cousins
+26,12,Sun,1.0,5.0,1.0,Green Bay Packers,2018,Vikings,241.0,229.0,2790.0,847.0,16.0,17.0,2260.0,948.0,3637.0,3208.0,0,Mike Zimmer,John DeFilippo,George Edwards,Kirk Cousins
+27,13,Sun,0.0,6.0,0.0,New England Patriots,2018,Vikings,265.0,246.0,3115.0,938.0,16.0,18.0,2432.0,1030.0,4053.0,3462.0,0,Mike Zimmer,John DeFilippo,George Edwards,Kirk Cousins
+28,14,Mon,0.0,6.0,0.0,Seattle Seahawks,2018,Vikings,275.0,270.0,3298.0,1033.0,18.0,19.0,2743.0,1190.0,4331.0,3933.0,0,Mike Zimmer,John DeFilippo,George Edwards,Kirk Cousins
+29,15,Sun,1.0,6.0,1.0,Miami Dolphins,2018,Vikings,282.0,291.0,3497.0,1110.0,19.0,20.0,2803.0,1404.0,4607.0,4207.0,0,Mike Zimmer,John DeFilippo,George Edwards,Kirk Cousins
+30,16,Sun,1.0,7.0,0.0,Detroit Lions,2018,Vikings,323.0,308.0,3695.0,1330.0,20.0,20.0,2840.0,1560.0,5025.0,4400.0,0,Mike Zimmer,John DeFilippo,George Edwards,Kirk Cousins
+31,17,Sun,0.0,8.0,1.0,Chicago Bears,2018,Vikings,350.0,317.0,3935.0,1430.0,20.0,20.0,2977.0,1646.0,5365.0,4623.0,0,Mike Zimmer,John DeFilippo,George Edwards,Kirk Cousins
+32,1,Mon,1.0,0.0,1.0,New Orleans Saints,2017,Vikings,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Mike Zimmer,Pat Shurmur,George Edwards,Case Keenum
+33,2,Sun,0.0,1.0,0.0,Pittsburgh Steelers,2017,Vikings,29.0,19.0,341.0,129.0,0.0,0.0,284.0,60.0,470.0,344.0,0,Mike Zimmer,Pat Shurmur,George Edwards,Case Keenum
+34,3,Sun,1.0,1.0,1.0,Tampa Bay Buccaneers,2017,Vikings,38.0,45.0,487.0,220.0,1.0,0.0,517.0,162.0,707.0,679.0,0,Mike Zimmer,Pat Shurmur,George Edwards,Case Keenum
+35,4,Sun,0.0,2.0,1.0,Detroit Lions,2017,Vikings,72.0,62.0,856.0,345.0,1.0,3.0,833.0,188.0,1201.0,1021.0,0,Mike Zimmer,Pat Shurmur,George Edwards,Case Keenum
+36,5,Mon,1.0,2.0,0.0,Chicago Bears,2017,Vikings,79.0,76.0,1053.0,432.0,4.0,3.0,987.0,285.0,1485.0,1272.0,0,Mike Zimmer,Pat Shurmur,George Edwards,Case Keenum
+37,6,Sun,1.0,3.0,1.0,Green Bay Packers,2017,Vikings,99.0,93.0,1194.0,591.0,4.0,5.0,1146.0,400.0,1785.0,1546.0,0,Mike Zimmer,Pat Shurmur,George Edwards,Case Keenum
+38,7,Sun,1.0,4.0,1.0,Baltimore Ravens,2017,Vikings,122.0,103.0,1433.0,703.0,6.0,8.0,1301.0,472.0,2136.0,1773.0,0,Mike Zimmer,Pat Shurmur,George Edwards,Case Keenum
+39,8,Sun,1.0,5.0,0.0,Cleveland Browns,2017,Vikings,146.0,119.0,1621.0,872.0,7.0,8.0,1445.0,536.0,2493.0,1981.0,0,Mike Zimmer,Pat Shurmur,George Edwards,Case Keenum
+40,10,Sun,1.0,6.0,0.0,Washington Redskins,2017,Vikings,179.0,135.0,1908.0,960.0,8.0,10.0,1606.0,651.0,2868.0,2257.0,1,Mike Zimmer,Pat Shurmur,George Edwards,Case Keenum
+41,11,Sun,1.0,7.0,1.0,Los Angeles Rams,2017,Vikings,217.0,165.0,2212.0,1062.0,10.0,11.0,1919.0,732.0,3274.0,2651.0,0,Mike Zimmer,Pat Shurmur,George Edwards,Case Keenum
+42,12,Thu,1.0,8.0,0.0,Detroit Lions,2017,Vikings,241.0,172.0,2492.0,1233.0,10.0,12.0,2128.0,777.0,3725.0,2905.0,0,Mike Zimmer,Pat Shurmur,George Edwards,Case Keenum
+43,13,Sun,1.0,9.0,0.0,Atlanta Falcons,2017,Vikings,271.0,195.0,2764.0,1369.0,10.0,14.0,2364.0,830.0,4133.0,3194.0,0,Mike Zimmer,Pat Shurmur,George Edwards,Case Keenum
+44,14,Sun,0.0,10.0,0.0,Carolina Panthers,2017,Vikings,285.0,204.0,2971.0,1474.0,10.0,14.0,2537.0,932.0,4445.0,3469.0,0,Mike Zimmer,Pat Shurmur,George Edwards,Case Keenum
+45,15,Sun,1.0,10.0,1.0,Cincinnati Bengals,2017,Vikings,309.0,235.0,3227.0,1574.0,13.0,15.0,2666.0,1148.0,4801.0,3814.0,0,Mike Zimmer,Pat Shurmur,George Edwards,Case Keenum
+46,16,Sat,1.0,11.0,0.0,Green Bay Packers,2017,Vikings,343.0,242.0,3449.0,1698.0,14.0,17.0,2781.0,1194.0,5147.0,3975.0,0,Mike Zimmer,Pat Shurmur,George Edwards,Case Keenum
+47,17,Sun,1.0,12.0,1.0,Chicago Bears,2017,Vikings,359.0,242.0,3573.0,1810.0,14.0,19.0,2907.0,1307.0,5383.0,4214.0,0,Mike Zimmer,Pat Shurmur,George Edwards,Case Keenum
+48,1,Sun,1.0,0.0,0.0,Tennessee Titans,2016,Vikings,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Shaun Hill,Norv Turner,George Edwards,Sam Bradford
+49,2,Sun,1.0,1.0,1.0,Green Bay Packers,2016,Vikings,25.0,16.0,236.0,65.0,0.0,3.0,252.0,64.0,301.0,316.0,0,Mike Zimmer,Norv Turner,George Edwards,Sam Bradford
+50,3,Sun,1.0,2.0,0.0,Carolina Panthers,2016,Vikings,42.0,30.0,490.0,95.0,1.0,6.0,432.0,147.0,585.0,579.0,0,Mike Zimmer,Norv Turner,George Edwards,Sam Bradford
+51,4,Mon,1.0,3.0,1.0,New York Giants,2016,Vikings,64.0,40.0,643.0,153.0,1.0,9.0,633.0,252.0,796.0,885.0,0,Mike Zimmer,Norv Turner,George Edwards,Sam Bradford
+52,5,Sun,1.0,4.0,1.0,Houston Texans,2016,Vikings,88.0,50.0,905.0,257.0,1.0,11.0,894.0,330.0,1162.0,1224.0,0,Mike Zimmer,Norv Turner,George Edwards,Sam Bradford
+53,7,Sun,0.0,5.0,0.0,Philadelphia Eagles,2016,Vikings,119.0,63.0,1160.0,353.0,1.0,12.0,1049.0,389.0,1513.0,1438.0,1,Mike Zimmer,Norv Turner,George Edwards,Sam Bradford
+54,8,Mon,0.0,5.0,0.0,Chicago Bears,2016,Vikings,129.0,84.0,1349.0,446.0,5.0,16.0,1187.0,490.0,1795.0,1677.0,0,Mike Zimmer,Norv Turner,George Edwards,Sam Bradford
+55,9,Sun,0.0,5.0,1.0,Detroit Lions,2016,Vikings,139.0,104.0,1550.0,503.0,5.0,16.0,1432.0,648.0,2053.0,2080.0,0,Mike Zimmer,Norv Turner,George Edwards,Sam Bradford
+56,10,Sun,0.0,5.0,0.0,Washington Redskins,2016,Vikings,155.0,126.0,1809.0,581.0,5.0,17.0,1646.0,745.0,2390.0,2391.0,0,Mike Zimmer,Norv Turner,George Edwards,Sam Bradford
+57,11,Sun,1.0,5.0,1.0,Arizona Cardinals,2016,Vikings,175.0,152.0,2093.0,628.0,6.0,18.0,1906.0,873.0,2721.0,2779.0,0,Mike Zimmer,Norv Turner,George Edwards,Sam Bradford
+58,12,Thu,0.0,6.0,0.0,Detroit Lions,2016,Vikings,205.0,176.0,2238.0,700.0,7.0,20.0,2061.0,1008.0,2938.0,3069.0,0,Mike Zimmer,Norv Turner,George Edwards,Sam Bradford
+59,13,Thu,0.0,6.0,1.0,Dallas Cowboys,2016,Vikings,218.0,192.0,2462.0,782.0,8.0,20.0,2275.0,1102.0,3244.0,3377.0,0,Mike Priefer,Norv Turner,George Edwards,Sam Bradford
+60,14,Sun,1.0,6.0,0.0,Jacksonville Jaguars,2016,Vikings,233.0,209.0,2693.0,869.0,9.0,22.0,2399.0,1242.0,3562.0,3641.0,0,Mike Zimmer,Norv Turner,George Edwards,Sam Bradford
+61,15,Sun,0.0,7.0,1.0,Indianapolis Colts,2016,Vikings,258.0,225.0,2985.0,954.0,10.0,22.0,2629.0,1327.0,3939.0,3956.0,0,Mike Zimmer,Norv Turner,George Edwards,Sam Bradford
+62,16,Sat,0.0,7.0,0.0,Green Bay Packers,2016,Vikings,264.0,259.0,3233.0,988.0,13.0,22.0,2879.0,1488.0,4221.0,4367.0,0,Mike Zimmer,Norv Turner,George Edwards,Sam Bradford
+63,17,Sun,1.0,7.0,1.0,Chicago Bears,2016,Vikings,289.0,297.0,3586.0,1081.0,15.0,22.0,3187.0,1528.0,4667.0,4715.0,0,Mike Zimmer,Norv Turner,George Edwards,Sam Bradford
+64,1,Mon,0.0,0.0,0.0,San Francisco 49ers,2015,Vikings,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Mike Zimmer,Norv Turner,George Edwards,Teddy Bridgewater
+65,2,Sun,1.0,0.0,1.0,Detroit Lions,2015,Vikings,3.0,20.0,177.0,71.0,1.0,1.0,165.0,230.0,248.0,395.0,0,Mike Zimmer,Norv Turner,George Edwards,Teddy Bridgewater
+66,3,Sun,1.0,1.0,1.0,San Diego Chargers,2015,Vikings,29.0,36.0,328.0,270.0,2.0,4.0,450.0,268.0,598.0,718.0,0,Mike Zimmer,Norv Turner,George Edwards,Teddy Bridgewater
+67,4,Sun,0.0,2.0,0.0,Denver Broncos,2015,Vikings,60.0,50.0,449.0,433.0,3.0,6.0,729.0,358.0,882.0,1087.0,0,Mike Zimmer,Norv Turner,George Edwards,Teddy Bridgewater
+68,6,Sun,1.0,2.0,1.0,Kansas City Chiefs,2015,Vikings,80.0,73.0,661.0,546.0,4.0,8.0,929.0,502.0,1207.0,1431.0,1,Mike Zimmer,Norv Turner,George Edwards,Teddy Bridgewater
+69,7,Sun,1.0,3.0,0.0,Detroit Lions,2015,Vikings,96.0,83.0,898.0,630.0,6.0,9.0,1200.0,559.0,1528.0,1759.0,0,Mike Zimmer,Norv Turner,George Edwards,Teddy Bridgewater
+70,8,Sun,1.0,4.0,0.0,Chicago Bears,2015,Vikings,124.0,102.0,1183.0,770.0,7.0,9.0,1397.0,636.0,1953.0,2033.0,0,Mike Zimmer,Norv Turner,George Edwards,Teddy Bridgewater
+71,9,Sun,1.0,5.0,1.0,St. Louis Rams,2015,Vikings,147.0,122.0,1363.0,917.0,8.0,9.0,1605.0,733.0,2280.0,2338.0,0,Mike Zimmer,Norv Turner,George Edwards,Teddy Bridgewater
+72,10,Sun,1.0,6.0,0.0,Oakland Raiders,2015,Vikings,168.0,140.0,1511.0,1062.0,9.0,9.0,1765.0,893.0,2573.0,2658.0,0,Mike Zimmer,Norv Turner,George Edwards,Teddy Bridgewater
+73,11,Sun,0.0,7.0,1.0,Green Bay Packers,2015,Vikings,198.0,154.0,1633.0,1325.0,9.0,11.0,2052.0,977.0,2958.0,3029.0,0,Mike Zimmer,Norv Turner,George Edwards,Teddy Bridgewater
+74,12,Sun,1.0,7.0,0.0,Atlanta Falcons,2015,Vikings,211.0,184.0,1881.0,1419.0,10.0,11.0,2248.0,1101.0,3300.0,3349.0,0,Mike Zimmer,Norv Turner,George Edwards,Teddy Bridgewater
+75,13,Sun,0.0,8.0,1.0,Seattle Seahawks,2015,Vikings,231.0,194.0,2055.0,1610.0,11.0,14.0,2458.0,1217.0,3665.0,3675.0,0,Mike Zimmer,Norv Turner,George Edwards,Teddy Bridgewater
+76,14,Thu,0.0,8.0,0.0,Arizona Cardinals,2015,Vikings,238.0,232.0,2149.0,1641.0,12.0,15.0,2718.0,1390.0,3790.0,4108.0,0,Mike Zimmer,Norv Turner,George Edwards,Teddy Bridgewater
+77,15,Sun,1.0,8.0,1.0,Chicago Bears,2015,Vikings,258.0,255.0,2466.0,1713.0,15.0,15.0,3014.0,1487.0,4179.0,4501.0,0,Mike Zimmer,Norv Turner,George Edwards,Teddy Bridgewater
+78,16,Sun,1.0,9.0,1.0,New York Giants,2015,Vikings,296.0,272.0,2687.0,1842.0,15.0,17.0,3213.0,1581.0,4529.0,4794.0,0,Mike Zimmer,Norv Turner,George Edwards,Teddy Bridgewater
+79,17,Sun,1.0,10.0,0.0,Green Bay Packers,2015,Vikings,345.0,289.0,2837.0,2060.0,15.0,20.0,3485.0,1672.0,4897.0,5157.0,0,Mike Zimmer,Norv Turner,George Edwards,Teddy Bridgewater
+80,1,Sun,1.0,0.0,0.0,St. Louis Rams,2014,Vikings,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Mike Zimmer,Norv Turner,George Edwards,Teddy Bridgewater
+81,2,Sun,0.0,1.0,1.0,New England Patriots,2014,Vikings,34.0,6.0,170.0,185.0,0.0,2.0,246.0,72.0,355.0,318.0,0,Mike Zimmer,Norv Turner,George Edwards,Teddy Bridgewater
+82,3,Sun,0.0,1.0,0.0,New Orleans Saints,2014,Vikings,41.0,36.0,333.0,239.0,4.0,2.0,388.0,222.0,572.0,610.0,0,Mike Zimmer,Norv Turner,George Edwards,Teddy Bridgewater
+83,4,Sun,1.0,1.0,1.0,Atlanta Falcons,2014,Vikings,50.0,56.0,521.0,298.0,4.0,2.0,676.0,330.0,819.0,1006.0,0,Mike Zimmer,Norv Turner,George Edwards,Teddy Bridgewater
+84,5,Thu,0.0,2.0,0.0,Green Bay Packers,2014,Vikings,91.0,84.0,838.0,539.0,4.0,4.0,964.0,453.0,1377.0,1417.0,0,Mike Zimmer,Norv Turner,George Edwards,Christian Ponder
+85,6,Sun,0.0,2.0,1.0,Detroit Lions,2014,Vikings,101.0,126.0,1026.0,650.0,7.0,5.0,1128.0,609.0,1676.0,1737.0,0,Mike Zimmer,Norv Turner,George Edwards,Teddy Bridgewater
+86,7,Sun,0.0,2.0,0.0,Buffalo Bills,2014,Vikings,104.0,143.0,1169.0,719.0,10.0,5.0,1283.0,709.0,1888.0,1992.0,0,Mike Zimmer,Norv Turner,George Edwards,Teddy Bridgewater
+87,8,Sun,1.0,2.0,0.0,Tampa Bay Buccaneers,2014,Vikings,120.0,160.0,1287.0,877.0,12.0,9.0,1538.0,827.0,2164.0,2365.0,0,Mike Zimmer,Norv Turner,George Edwards,Teddy Bridgewater
+88,9,Sun,1.0,3.0,1.0,Washington Redskins,2014,Vikings,139.0,173.0,1522.0,974.0,12.0,11.0,1697.0,893.0,2496.0,2590.0,0,Mike Zimmer,Norv Turner,George Edwards,Teddy Bridgewater
+89,11,Sun,0.0,4.0,0.0,Chicago Bears,2014,Vikings,168.0,199.0,1774.0,1074.0,12.0,12.0,1922.0,1015.0,2848.0,2937.0,1,Mike Zimmer,Norv Turner,George Edwards,Teddy Bridgewater
+90,12,Sun,0.0,4.0,1.0,Green Bay Packers,2014,Vikings,181.0,220.0,1921.0,1170.0,13.0,14.0,2252.0,1153.0,3091.0,3405.0,0,Mike Zimmer,Norv Turner,George Edwards,Teddy Bridgewater
+91,13,Sun,1.0,4.0,1.0,Carolina Panthers,2014,Vikings,202.0,244.0,2117.0,1282.0,14.0,14.0,2459.0,1308.0,3399.0,3767.0,0,Mike Zimmer,Norv Turner,George Edwards,Teddy Bridgewater
+92,14,Sun,1.0,5.0,1.0,New York Jets,2014,Vikings,233.0,257.0,2235.0,1374.0,14.0,15.0,2629.0,1486.0,3609.0,4115.0,0,Mike Zimmer,Norv Turner,George Edwards,Teddy Bridgewater
+93,15,Sun,0.0,6.0,0.0,Detroit Lions,2014,Vikings,263.0,281.0,2532.0,1488.0,16.0,17.0,2871.0,1654.0,4020.0,4525.0,0,Mike Zimmer,Norv Turner,George Edwards,Teddy Bridgewater
+94,16,Sun,0.0,6.0,0.0,Miami Dolphins,2014,Vikings,277.0,297.0,2816.0,1564.0,18.0,17.0,3024.0,1734.0,4380.0,4758.0,0,Mike Zimmer,Norv Turner,George Edwards,Teddy Bridgewater
+95,17,Sun,1.0,6.0,1.0,Chicago Bears,2014,Vikings,312.0,334.0,3054.0,1683.0,19.0,19.0,3407.0,1844.0,4737.0,5251.0,0,Mike Zimmer,Norv Turner,George Edwards,Teddy Bridgewater
+96,1,Sun,0.0,0.0,0.0,Detroit Lions,2013,Vikings,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Leslie Frazier,Bill Musgrave,Alan Williams,Christian Ponder
+97,2,Sun,0.0,0.0,0.0,Chicago Bears,2013,Vikings,24.0,34.0,225.0,105.0,4.0,2.0,357.0,112.0,330.0,469.0,0,Leslie Frazier,Bill Musgrave,Alan Williams,Christian Ponder
+98,3,Sun,0.0,0.0,1.0,Cleveland Browns,2013,Vikings,54.0,65.0,452.0,228.0,7.0,6.0,641.0,239.0,680.0,880.0,0,Leslie Frazier,Bill Musgrave,Alan Williams,Christian Ponder
+99,4,Sun,1.0,0.0,1.0,Pittsburgh Steelers,2013,Vikings,81.0,96.0,647.0,362.0,10.0,10.0,947.0,342.0,1009.0,1289.0,0,Leslie Frazier,Bill Musgrave,Alan Williams,Christian Ponder
+100,6,Sun,0.0,1.0,1.0,Carolina Panthers,2013,Vikings,115.0,123.0,895.0,507.0,10.0,12.0,1304.0,419.0,1402.0,1723.0,1,Leslie Frazier,Bill Musgrave,Alan Williams,Christian Ponder
+101,7,Mon,0.0,1.0,0.0,New York Giants,2013,Vikings,125.0,158.0,1110.0,582.0,12.0,12.0,1540.0,550.0,1692.0,2090.0,0,Leslie Frazier,Bill Musgrave,Alan Williams,Josh Freeman
+102,8,Sun,0.0,1.0,1.0,Green Bay Packers,2013,Vikings,132.0,181.0,1286.0,612.0,15.0,13.0,1733.0,614.0,1898.0,2347.0,0,Leslie Frazier,Bill Musgrave,Alan Williams,Christian Ponder
+103,9,Sun,0.0,1.0,0.0,Dallas Cowboys,2013,Vikings,163.0,225.0,1418.0,723.0,15.0,13.0,2015.0,796.0,2141.0,2811.0,0,Leslie Frazier,Bill Musgrave,Alan Williams,Christian Ponder
+104,10,Thu,1.0,1.0,1.0,Washington Redskins,2013,Vikings,186.0,252.0,1642.0,892.0,17.0,14.0,2329.0,832.0,2534.0,3161.0,0,Leslie Frazier,Bill Musgrave,Alan Williams,Christian Ponder
+105,11,Sun,0.0,2.0,0.0,Seattle Seahawks,2013,Vikings,220.0,279.0,1858.0,983.0,18.0,14.0,2571.0,1023.0,2841.0,3594.0,0,Leslie Frazier,Bill Musgrave,Alan Williams,Christian Ponder
+106,12,Sun,0.0,2.0,0.0,Green Bay Packers,2013,Vikings,240.0,320.0,2062.0,1115.0,22.0,14.0,2801.0,1116.0,3177.0,3917.0,0,Leslie Frazier,Bill Musgrave,Alan Williams,Christian Ponder
+107,13,Sun,1.0,2.0,1.0,Chicago Bears,2013,Vikings,266.0,346.0,2277.0,1347.0,23.0,14.0,3099.0,1312.0,3624.0,4411.0,0,Leslie Frazier,Bill Musgrave,Alan Williams,Christian Ponder
+108,14,Sun,0.0,3.0,0.0,Baltimore Ravens,2013,Vikings,289.0,366.0,2527.0,1593.0,24.0,15.0,3444.0,1447.0,4120.0,4891.0,0,Leslie Frazier,Bill Musgrave,Alan Williams,Christian Ponder
+109,15,Sun,1.0,3.0,1.0,Philadelphia Eagles,2013,Vikings,315.0,395.0,2792.0,1707.0,25.0,18.0,3672.0,1544.0,4499.0,5216.0,0,Leslie Frazier,Bill Musgrave,Alan Williams,Christian Ponder
+110,16,Sun,0.0,4.0,0.0,Cincinnati Bengals,2013,Vikings,363.0,425.0,3162.0,1792.0,26.0,19.0,4068.0,1623.0,4954.0,5691.0,0,Leslie Frazier,Bill Musgrave,Alan Williams,Christian Ponder
+111,17,Sun,1.0,4.0,1.0,Detroit Lions,2013,Vikings,377.0,467.0,3256.0,1907.0,30.0,20.0,4413.0,1704.0,5163.0,6117.0,0,Leslie Frazier,Bill Musgrave,Alan Williams,Christian Ponder
+112,1,Sun,1.0,0.0,1.0,Jacksonville Jaguars,2012,Vikings,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Leslie Frazier,Bill Musgrave,Alan Williams,Christian Ponder
+113,2,Sun,0.0,1.0,0.0,Indianapolis Colts,2012,Vikings,26.0,23.0,266.0,123.0,1.0,1.0,242.0,113.0,389.0,355.0,0,Leslie Frazier,Bill Musgrave,Alan Williams,Christian Ponder
+114,3,Sun,1.0,1.0,1.0,San Francisco 49ers,2012,Vikings,46.0,46.0,498.0,218.0,2.0,1.0,436.0,197.0,716.0,633.0,0,Leslie Frazier,Bill Musgrave,Alan Williams,Christian Ponder
+115,4,Sun,1.0,2.0,0.0,Detroit Lions,2012,Vikings,70.0,59.0,696.0,364.0,4.0,4.0,627.0,286.0,1060.0,913.0,0,Leslie Frazier,Bill Musgrave,Alan Williams,Christian Ponder
+116,5,Sun,1.0,3.0,1.0,Tennessee Titans,2012,Vikings,90.0,72.0,796.0,491.0,4.0,5.0,913.0,341.0,1287.0,1254.0,0,Leslie Frazier,Bill Musgrave,Alan Williams,Christian Ponder
+117,6,Sun,0.0,4.0,0.0,Washington Redskins,2012,Vikings,120.0,79.0,1054.0,666.0,6.0,7.0,1128.0,393.0,1720.0,1521.0,0,Leslie Frazier,Bill Musgrave,Alan Williams,Christian Ponder
+118,7,Sun,1.0,4.0,1.0,Arizona Cardinals,2012,Vikings,146.0,117.0,1381.0,760.0,9.0,8.0,1306.0,576.0,2141.0,1882.0,0,Leslie Frazier,Bill Musgrave,Alan Williams,Christian Ponder
+119,8,Thu,0.0,5.0,1.0,Tampa Bay Buccaneers,2012,Vikings,167.0,131.0,1424.0,926.0,11.0,10.0,1536.0,702.0,2350.0,2238.0,0,Leslie Frazier,Bill Musgrave,Alan Williams,Christian Ponder
+120,9,Sun,0.0,5.0,0.0,Seattle Seahawks,2012,Vikings,184.0,167.0,1653.0,1066.0,14.0,10.0,1793.0,861.0,2719.0,2654.0,0,Leslie Frazier,Bill Musgrave,Alan Williams,Christian Ponder
+121,10,Sun,1.0,5.0,1.0,Detroit Lions,2012,Vikings,204.0,197.0,1697.0,1309.0,16.0,10.0,1983.0,1056.0,3006.0,3039.0,0,Leslie Frazier,Bill Musgrave,Alan Williams,Christian Ponder
+122,12,Sun,0.0,6.0,0.0,Chicago Bears,2012,Vikings,238.0,221.0,1904.0,1505.0,16.0,12.0,2291.0,1116.0,3409.0,3407.0,1,Leslie Frazier,Bill Musgrave,Alan Williams,Christian Ponder
+123,13,Sun,0.0,6.0,0.0,Green Bay Packers,2012,Vikings,248.0,249.0,2048.0,1619.0,19.0,14.0,2474.0,1229.0,3667.0,3703.0,0,Leslie Frazier,Bill Musgrave,Alan Williams,Christian Ponder
+124,14,Sun,1.0,6.0,1.0,Chicago Bears,2012,Vikings,262.0,272.0,2167.0,1859.0,21.0,15.0,2757.0,1381.0,4026.0,4138.0,0,Leslie Frazier,Bill Musgrave,Alan Williams,Christian Ponder
+125,15,Sun,1.0,7.0,0.0,St. Louis Rams,2012,Vikings,283.0,286.0,2244.0,2030.0,22.0,17.0,3077.0,1499.0,4274.0,4576.0,0,Leslie Frazier,Bill Musgrave,Alan Williams,Christian Ponder
+126,16,Sun,1.0,8.0,0.0,Houston Texans,2012,Vikings,319.0,308.0,2353.0,2243.0,22.0,19.0,3422.0,1586.0,4596.0,5008.0,0,Leslie Frazier,Bill Musgrave,Alan Williams,Christian Ponder
+127,17,Sun,1.0,9.0,1.0,Green Bay Packers,2012,Vikings,342.0,314.0,2524.0,2417.0,23.0,21.0,3575.0,1620.0,4941.0,5195.0,0,Leslie Frazier,Bill Musgrave,Alan Williams,Christian Ponder
+128,1,Sun,0.0,0.0,0.0,San Diego Chargers,2011,Vikings,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Leslie Frazier,Bill Musgrave,Fred Pagac,Christian Ponder
+129,2,Sun,0.0,0.0,1.0,Tampa Bay Buccaneers,2011,Vikings,17.0,24.0,28.0,159.0,1.0,2.0,330.0,77.0,187.0,407.0,0,Leslie Frazier,Bill Musgrave,Fred Pagac,Christian Ponder
+130,3,Sun,0.0,0.0,1.0,Detroit Lions,2011,Vikings,37.0,48.0,240.0,345.0,2.0,3.0,560.0,182.0,585.0,742.0,0,Leslie Frazier,Bill Musgrave,Fred Pagac,Christian Ponder
+131,4,Sun,0.0,0.0,0.0,Kansas City Chiefs,2011,Vikings,60.0,74.0,429.0,477.0,2.0,3.0,898.0,202.0,906.0,1100.0,0,Leslie Frazier,Bill Musgrave,Fred Pagac,Christian Ponder
+132,5,Sun,1.0,0.0,1.0,Arizona Cardinals,2011,Vikings,77.0,96.0,619.0,628.0,3.0,3.0,1145.0,305.0,1247.0,1450.0,0,Leslie Frazier,Bill Musgrave,Fred Pagac,Christian Ponder
+133,6,Sun,0.0,1.0,0.0,Chicago Bears,2011,Vikings,111.0,106.0,779.0,800.0,4.0,7.0,1359.0,382.0,1579.0,1741.0,0,Leslie Frazier,Bill Musgrave,Fred Pagac,Christian Ponder
+134,7,Sun,0.0,1.0,1.0,Green Bay Packers,2011,Vikings,121.0,145.0,1012.0,853.0,4.0,8.0,1617.0,501.0,1865.0,2118.0,0,Leslie Frazier,Bill Musgrave,Fred Pagac,Christian Ponder
+135,8,Sun,1.0,1.0,0.0,Carolina Panthers,2011,Vikings,148.0,178.0,1229.0,1071.0,6.0,9.0,1924.0,615.0,2300.0,2539.0,0,Leslie Frazier,Bill Musgrave,Fred Pagac,Christian Ponder
+136,10,Mon,0.0,2.0,0.0,Green Bay Packers,2011,Vikings,172.0,199.0,1458.0,1203.0,7.0,11.0,2189.0,755.0,2661.0,2944.0,1,Leslie Frazier,Bill Musgrave,Fred Pagac,Christian Ponder
+137,11,Sun,0.0,2.0,1.0,Oakland Raiders,2011,Vikings,179.0,244.0,1620.0,1307.0,8.0,12.0,2455.0,845.0,2927.0,3300.0,0,Leslie Frazier,Bill Musgrave,Fred Pagac,Christian Ponder
+138,12,Sun,0.0,2.0,0.0,Atlanta Falcons,2011,Vikings,200.0,271.0,1807.0,1431.0,13.0,13.0,2594.0,1007.0,3238.0,3601.0,0,Leslie Frazier,Bill Musgrave,Fred Pagac,Christian Ponder
+139,13,Sun,0.0,2.0,1.0,Denver Broncos,2011,Vikings,214.0,295.0,1969.0,1495.0,13.0,14.0,2840.0,1096.0,3464.0,3936.0,0,Leslie Frazier,Bill Musgrave,Fred Pagac,Christian Ponder
+140,14,Sun,0.0,2.0,0.0,Detroit Lions,2011,Vikings,246.0,330.0,2329.0,1624.0,16.0,16.0,3026.0,1246.0,3953.0,4272.0,0,Leslie Frazier,Bill Musgrave,Fred Pagac,Christian Ponder
+141,15,Sun,0.0,2.0,1.0,New Orleans Saints,2011,Vikings,274.0,364.0,2485.0,1893.0,22.0,16.0,3234.0,1318.0,4378.0,4552.0,0,Leslie Frazier,Bill Musgrave,Fred Pagac,Christian Ponder
+142,16,Sat,1.0,2.0,0.0,Washington Redskins,2011,Vikings,294.0,406.0,2587.0,1998.0,23.0,18.0,3646.0,1479.0,4585.0,5125.0,0,Leslie Frazier,Bill Musgrave,Fred Pagac,Christian Ponder
+143,17,Sun,0.0,3.0,1.0,Chicago Bears,2011,Vikings,327.0,432.0,2735.0,2239.0,23.0,20.0,3902.0,1620.0,4974.0,5522.0,0,Leslie Frazier,Bill Musgrave,Fred Pagac,Christian Ponder
+144,1,Thu,0.0,0.0,0.0,New Orleans Saints,2010,Vikings,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Brad Childress,Darrell Bevell,Leslie Frazier,Brett Favre
+145,2,Sun,0.0,0.0,1.0,Miami Dolphins,2010,Vikings,9.0,14.0,162.0,91.0,1.0,0.0,229.0,79.0,253.0,308.0,0,Brad Childress,Darrell Bevell,Leslie Frazier,Brett Favre
+146,3,Sun,1.0,0.0,1.0,Detroit Lions,2010,Vikings,19.0,28.0,370.0,247.0,5.0,2.0,335.0,199.0,617.0,534.0,0,Brad Childress,Darrell Bevell,Leslie Frazier,Brett Favre
+147,5,Mon,0.0,1.0,0.0,New York Jets,2010,Vikings,43.0,38.0,555.0,430.0,8.0,5.0,567.0,262.0,985.0,829.0,1,Brad Childress,Darrell Bevell,Leslie Frazier,Brett Favre
+148,6,Sun,1.0,1.0,1.0,Dallas Cowboys,2010,Vikings,63.0,67.0,795.0,526.0,11.0,5.0,740.0,417.0,1321.0,1157.0,0,Brad Childress,Darrell Bevell,Leslie Frazier,Brett Favre
+149,7,Sun,0.0,2.0,0.0,Green Bay Packers,2010,Vikings,87.0,88.0,888.0,621.0,12.0,7.0,960.0,511.0,1509.0,1471.0,0,Brad Childress,Darrell Bevell,Leslie Frazier,Brett Favre
+150,8,Sun,0.0,2.0,0.0,New England Patriots,2010,Vikings,111.0,116.0,1094.0,817.0,15.0,9.0,1255.0,595.0,1911.0,1850.0,0,Brad Childress,Darrell Bevell,Leslie Frazier,Brett Favre
+151,9,Sun,1.0,2.0,1.0,Arizona Cardinals,2010,Vikings,129.0,144.0,1379.0,942.0,16.0,9.0,1495.0,717.0,2321.0,2212.0,0,Brad Childress,Darrell Bevell,Leslie Frazier,Brett Favre
+152,10,Sun,0.0,3.0,0.0,Chicago Bears,2010,Vikings,156.0,168.0,1806.0,1022.0,19.0,10.0,1667.0,770.0,2828.0,2437.0,0,Brad Childress,Darrell Bevell,Leslie Frazier,Brett Favre
+153,11,Sun,0.0,3.0,1.0,Green Bay Packers,2010,Vikings,169.0,195.0,1976.0,1092.0,23.0,12.0,1897.0,900.0,3068.0,2797.0,0,Brad Childress,Darrell Bevell,Leslie Frazier,Brett Favre
+154,12,Sun,1.0,3.0,0.0,Washington Redskins,2010,Vikings,172.0,226.0,2183.0,1185.0,25.0,12.0,2180.0,991.0,3368.0,3171.0,0,Brad Childress,Darrell Bevell,Leslie Frazier,Brett Favre
+155,13,Sun,1.0,4.0,1.0,Buffalo Bills,2010,Vikings,189.0,239.0,2345.0,1322.0,25.0,13.0,2367.0,1020.0,3667.0,3387.0,0,Brad Childress,Darrell Bevell,Leslie Frazier,Brett Favre
+156,14,Mon,0.0,5.0,1.0,New York Giants,2010,Vikings,227.0,253.0,2522.0,1532.0,29.0,18.0,2522.0,1104.0,4054.0,3626.0,0,Brad Childress,Darrell Bevell,Leslie Frazier,Tarvaris Jackson
+157,15,Mon,0.0,5.0,1.0,Chicago Bears,2010,Vikings,230.0,274.0,2625.0,1593.0,30.0,20.0,2704.0,1317.0,4218.0,4021.0,0,Brad Childress,Darrell Bevell,Leslie Frazier,Brett Favre
+158,16,Tue,1.0,5.0,0.0,Philadelphia Eagles,2010,Vikings,244.0,314.0,2784.0,1707.0,35.0,21.0,2893.0,1421.0,4491.0,4314.0,0,Brad Childress,Darrell Bevell,Leslie Frazier,Brett Favre
+159,17,Sun,0.0,6.0,0.0,Detroit Lions,2010,Vikings,268.0,328.0,2960.0,1868.0,36.0,24.0,3117.0,1528.0,4828.0,4645.0,0,Brad Childress,Darrell Bevell,Leslie Frazier,Brett Favre

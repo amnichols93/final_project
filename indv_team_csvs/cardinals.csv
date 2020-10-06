@@ -1,0 +1,161 @@
+,Week,Day,Results,Wins Tally,Home,Opp,year,Base_Team,PF Tally,PA Tally,OPassY Tally,ORushY Tally,TO_lost Tally,TO_won Tally,DPassY Tally,DRushY Tally,OTotYd Tally,DTotYd Tally,after_bye,Head_Coach,OC,DC,QB
+0,1,Sun,0.0,0.0,1.0,Detroit Lions,2019,Cardinals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Kliff Kingsbury,Kliff Kingsbury,Vance Joseph,Kyler Murray
+1,2,Sun,0.0,0.0,0.0,Baltimore Ravens,2019,Cardinals,27.0,27.0,275.0,112.0,1.0,2.0,361.0,116.0,387.0,477.0,0,Kliff Kingsbury,Kliff Kingsbury,Vance Joseph,Kyler Murray
+2,3,Sun,0.0,0.0,1.0,Carolina Panthers,2019,Cardinals,44.0,50.0,604.0,132.0,1.0,2.0,619.0,298.0,736.0,917.0,0,Kliff Kingsbury,Kliff Kingsbury,Vance Joseph,Kyler Murray
+3,4,Sun,0.0,0.0,1.0,Seattle Seahawks,2019,Cardinals,64.0,88.0,731.0,253.0,3.0,3.0,859.0,471.0,984.0,1330.0,0,Kliff Kingsbury,Kliff Kingsbury,Vance Joseph,Kyler Murray
+4,5,Sun,1.0,0.0,0.0,Cincinnati Bengals,2019,Cardinals,74.0,115.0,937.0,368.0,4.0,3.0,1084.0,586.0,1305.0,1670.0,0,Kliff Kingsbury,Kliff Kingsbury,Vance Joseph,Kyler Murray
+5,6,Sun,1.0,1.0,1.0,Atlanta Falcons,2019,Cardinals,100.0,138.0,1185.0,634.0,4.0,3.0,1346.0,694.0,1819.0,2040.0,0,Kliff Kingsbury,Kliff Kingsbury,Vance Joseph,Kyler Murray
+6,7,Sun,1.0,2.0,0.0,New York Giants,2019,Cardinals,134.0,171.0,1525.0,736.0,4.0,3.0,1687.0,797.0,2261.0,2484.0,0,Kliff Kingsbury,Kliff Kingsbury,Vance Joseph,Kyler Murray
+7,8,Sun,0.0,3.0,0.0,New Orleans Saints,2019,Cardinals,161.0,192.0,1614.0,892.0,4.0,6.0,1843.0,904.0,2506.0,2747.0,0,Kliff Kingsbury,Kliff Kingsbury,Vance Joseph,Kyler Murray
+8,9,Thu,0.0,3.0,1.0,San Francisco 49ers,2019,Cardinals,170.0,223.0,1811.0,932.0,4.0,7.0,2216.0,1041.0,2743.0,3257.0,0,Kliff Kingsbury,Kliff Kingsbury,Vance Joseph,Kyler Murray
+9,10,Sun,0.0,3.0,0.0,Tampa Bay Buccaneers,2019,Cardinals,195.0,251.0,2015.0,1085.0,4.0,7.0,2526.0,1142.0,3100.0,3668.0,0,Kliff Kingsbury,Kliff Kingsbury,Vance Joseph,Kyler Murray
+10,11,Sun,0.0,3.0,0.0,San Francisco 49ers,2019,Cardinals,222.0,281.0,2357.0,1160.0,6.0,10.0,2865.0,1260.0,3517.0,4125.0,0,Kliff Kingsbury,Kliff Kingsbury,Vance Joseph,Kyler Murray
+11,13,Sun,0.0,3.0,1.0,Los Angeles Rams,2019,Cardinals,248.0,317.0,2488.0,1295.0,8.0,12.0,3273.0,1294.0,3783.0,4567.0,1,Kliff Kingsbury,Kliff Kingsbury,Vance Joseph,Kyler Murray
+12,14,Sun,0.0,3.0,1.0,Pittsburgh Steelers,2019,Cardinals,255.0,351.0,2612.0,1369.0,9.0,12.0,3690.0,1426.0,3981.0,5116.0,0,Kliff Kingsbury,Kliff Kingsbury,Vance Joseph,Kyler Murray
+13,15,Sun,1.0,3.0,1.0,Cleveland Browns,2019,Cardinals,272.0,374.0,2777.0,1440.0,12.0,14.0,3825.0,1566.0,4217.0,5391.0,0,Kliff Kingsbury,Kliff Kingsbury,Vance Joseph,Kyler Murray
+14,16,Sun,1.0,4.0,0.0,Seattle Seahawks,2019,Cardinals,310.0,398.0,2996.0,1666.0,13.0,16.0,4066.0,1718.0,4662.0,5784.0,0,Kliff Kingsbury,Kliff Kingsbury,Vance Joseph,Kyler Murray
+15,17,Sun,0.0,5.0,0.0,Los Angeles Rams,2019,Cardinals,337.0,411.0,3155.0,1919.0,13.0,17.0,4199.0,1809.0,5074.0,6008.0,0,Kliff Kingsbury,Kliff Kingsbury,Vance Joseph,Kyler Murray
+16,1,Sun,0.0,0.0,1.0,Washington Redskins,2018,Cardinals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Steve Wilks,Mike McCoy,Al Holcomb,Josh Rosen
+17,2,Sun,0.0,0.0,0.0,Los Angeles Rams,2018,Cardinals,6.0,24.0,145.0,68.0,2.0,1.0,247.0,182.0,213.0,429.0,0,Steve Wilks,Mike McCoy,Al Holcomb,Josh Rosen
+18,3,Sun,0.0,0.0,1.0,Chicago Bears,2018,Cardinals,6.0,58.0,228.0,122.0,3.0,2.0,589.0,272.0,350.0,861.0,0,Steve Wilks,Mike McCoy,Al Holcomb,Josh Rosen
+19,4,Sun,0.0,0.0,1.0,Seattle Seahawks,2018,Cardinals,20.0,74.0,396.0,175.0,7.0,4.0,783.0,394.0,571.0,1177.0,0,Steve Wilks,Mike McCoy,Al Holcomb,Josh Rosen
+20,5,Sun,1.0,0.0,0.0,San Francisco 49ers,2018,Cardinals,37.0,94.0,567.0,267.0,8.0,4.0,943.0,565.0,834.0,1508.0,0,Steve Wilks,Mike McCoy,Al Holcomb,Josh Rosen
+21,6,Sun,0.0,1.0,0.0,Minnesota Vikings,2018,Cardinals,65.0,112.0,731.0,323.0,8.0,9.0,1243.0,712.0,1054.0,1955.0,0,Steve Wilks,Mike McCoy,Al Holcomb,Josh Rosen
+22,7,Thu,0.0,1.0,1.0,Denver Broncos,2018,Cardinals,82.0,139.0,939.0,383.0,10.0,11.0,1459.0,907.0,1322.0,2366.0,0,Steve Wilks,Mike McCoy,Al Holcomb,Josh Rosen
+23,8,Sun,1.0,1.0,1.0,San Francisco 49ers,2018,Cardinals,92.0,184.0,1093.0,452.0,15.0,12.0,1637.0,1038.0,1545.0,2675.0,0,Steve Wilks,Mike McCoy,Al Holcomb,Josh Rosen
+24,10,Sun,0.0,2.0,0.0,Kansas City Chiefs,2018,Cardinals,110.0,199.0,1326.0,540.0,17.0,12.0,1797.0,1145.0,1866.0,2942.0,1,Steve Wilks,Mike McCoy,Al Holcomb,Josh Rosen
+25,11,Sun,0.0,2.0,1.0,Oakland Raiders,2018,Cardinals,124.0,225.0,1492.0,634.0,19.0,12.0,2009.0,1263.0,2126.0,3272.0,0,Steve Wilks,Mike McCoy,Al Holcomb,Josh Rosen
+26,12,Sun,0.0,2.0,0.0,Los Angeles Chargers,2018,Cardinals,145.0,248.0,1620.0,788.0,21.0,12.0,2182.0,1415.0,2408.0,3597.0,0,Steve Wilks,Mike McCoy,Al Holcomb,Josh Rosen
+27,13,Sun,1.0,2.0,0.0,Green Bay Packers,2018,Cardinals,155.0,293.0,1707.0,850.0,22.0,13.0,2418.0,1593.0,2557.0,4011.0,0,Steve Wilks,Mike McCoy,Al Holcomb,Josh Rosen
+28,14,Sun,0.0,3.0,1.0,Detroit Lions,2018,Cardinals,175.0,310.0,1840.0,1032.0,22.0,13.0,2645.0,1691.0,2872.0,4336.0,0,Steve Wilks,Mike McCoy,Al Holcomb,Josh Rosen
+29,15,Sun,0.0,3.0,0.0,Atlanta Falcons,2018,Cardinals,178.0,327.0,2058.0,1093.0,23.0,14.0,2741.0,1813.0,3151.0,4554.0,0,Steve Wilks,Mike McCoy,Al Holcomb,Josh Rosen
+30,16,Sun,0.0,3.0,1.0,Los Angeles Rams,2018,Cardinals,192.0,367.0,2251.0,1153.0,26.0,14.0,2961.0,2028.0,3404.0,4989.0,0,Steve Wilks,Mike McCoy,Al Holcomb,Josh Rosen
+31,17,Sun,0.0,3.0,0.0,Seattle Seahawks,2018,Cardinals,201.0,398.0,2410.0,1257.0,26.0,15.0,3153.0,2297.0,3667.0,5450.0,0,Steve Wilks,Mike McCoy,Al Holcomb,Josh Rosen
+32,1,Sun,0.0,0.0,0.0,Detroit Lions,2017,Cardinals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Bruce Arians,Harold Goodwin,James Bettcher,Carson Palmer
+33,2,Sun,1.0,0.0,0.0,Indianapolis Colts,2017,Cardinals,23.0,35.0,263.0,45.0,4.0,1.0,285.0,82.0,308.0,367.0,0,Bruce Arians,Harold Goodwin,James Bettcher,Carson Palmer
+34,3,Mon,0.0,1.0,1.0,Dallas Cowboys,2017,Cardinals,39.0,48.0,569.0,128.0,5.0,2.0,475.0,158.0,697.0,633.0,0,Bruce Arians,Harold Goodwin,James Bettcher,Carson Palmer
+35,4,Sun,1.0,1.0,1.0,San Francisco 49ers,2017,Cardinals,56.0,76.0,852.0,177.0,5.0,2.0,649.0,257.0,1029.0,906.0,0,Bruce Arians,Harold Goodwin,James Bettcher,Carson Palmer
+36,5,Sun,0.0,2.0,0.0,Philadelphia Eagles,2017,Cardinals,74.0,91.0,1169.0,228.0,6.0,3.0,859.0,352.0,1397.0,1211.0,0,Bruce Arians,Harold Goodwin,James Bettcher,Carson Palmer
+37,6,Sun,1.0,2.0,1.0,Tampa Bay Buccaneers,2017,Cardinals,81.0,125.0,1445.0,259.0,7.0,4.0,1156.0,474.0,1704.0,1630.0,0,Bruce Arians,Harold Goodwin,James Bettcher,Carson Palmer
+38,7,Sun,0.0,3.0,0.0,Los Angeles Rams,2017,Cardinals,119.0,158.0,1717.0,419.0,9.0,6.0,1500.0,542.0,2136.0,2042.0,0,Bruce Arians,Harold Goodwin,James Bettcher,Carson Palmer
+39,9,Sun,1.0,3.0,0.0,San Francisco 49ers,2017,Cardinals,119.0,191.0,1888.0,444.0,11.0,7.0,1728.0,739.0,2332.0,2467.0,1,Bruce Arians,Harold Goodwin,James Bettcher,Carson Palmer
+40,10,Thu,0.0,4.0,1.0,Seattle Seahawks,2017,Cardinals,139.0,201.0,2089.0,611.0,13.0,9.0,1994.0,802.0,2700.0,2796.0,0,Bruce Arians,Harold Goodwin,James Bettcher,Carson Palmer
+41,11,Sun,0.0,4.0,0.0,Houston Texans,2017,Cardinals,155.0,223.0,2345.0,645.0,14.0,9.0,2206.0,877.0,2990.0,3083.0,0,Bruce Arians,Harold Goodwin,James Bettcher,Carson Palmer
+42,12,Sun,1.0,4.0,1.0,Jacksonville Jaguars,2017,Cardinals,176.0,254.0,2589.0,693.0,16.0,11.0,2429.0,1011.0,3282.0,3440.0,0,Bruce Arians,Harold Goodwin,James Bettcher,Carson Palmer
+43,13,Sun,0.0,5.0,1.0,Los Angeles Rams,2017,Cardinals,203.0,278.0,2825.0,801.0,18.0,14.0,2557.0,1102.0,3626.0,3659.0,0,Bruce Arians,Harold Goodwin,James Bettcher,Carson Palmer
+44,14,Sun,1.0,5.0,1.0,Tennessee Titans,2017,Cardinals,219.0,310.0,3012.0,919.0,20.0,15.0,2770.0,1192.0,3931.0,3962.0,0,Bruce Arians,Harold Goodwin,James Bettcher,Carson Palmer
+45,15,Sun,0.0,6.0,0.0,Washington Redskins,2017,Cardinals,231.0,317.0,3137.0,1055.0,20.0,17.0,2909.0,1257.0,4192.0,4166.0,0,Bruce Arians,Harold Goodwin,James Bettcher,Carson Palmer
+46,16,Sun,1.0,6.0,1.0,New York Giants,2017,Cardinals,246.0,337.0,3282.0,1196.0,22.0,18.0,3096.0,1288.0,4478.0,4384.0,0,Bruce Arians,Harold Goodwin,James Bettcher,Carson Palmer
+47,17,Sun,1.0,7.0,0.0,Seattle Seahawks,2017,Cardinals,269.0,337.0,3497.0,1270.0,24.0,21.0,3346.0,1331.0,4767.0,4677.0,0,Bruce Arians,Harold Goodwin,James Bettcher,Carson Palmer
+48,1,Sun,0.0,0.0,1.0,New England Patriots,2016,Cardinals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Bruce Arians,Harold Goodwin,James Bettcher,Carson Palmer
+49,2,Sun,1.0,0.0,1.0,Tampa Bay Buccaneers,2016,Cardinals,21.0,23.0,252.0,92.0,0.0,2.0,257.0,106.0,344.0,363.0,0,Bruce Arians,Harold Goodwin,James Bettcher,Carson Palmer
+50,3,Sun,0.0,1.0,0.0,Buffalo Bills,2016,Cardinals,61.0,30.0,563.0,197.0,0.0,7.0,478.0,191.0,760.0,669.0,0,Bruce Arians,Harold Goodwin,James Bettcher,Carson Palmer
+51,4,Sun,0.0,1.0,1.0,Los Angeles Rams,2016,Cardinals,79.0,63.0,823.0,285.0,5.0,8.0,567.0,399.0,1108.0,966.0,0,Bruce Arians,Harold Goodwin,James Bettcher,Carson Palmer
+52,5,Thu,1.0,1.0,0.0,San Francisco 49ers,2016,Cardinals,92.0,80.0,1125.0,403.0,10.0,9.0,814.0,440.0,1528.0,1254.0,0,Drew Stanton,Harold Goodwin,James Bettcher,Carson Palmer
+53,6,Mon,1.0,2.0,1.0,New York Jets,2016,Cardinals,125.0,101.0,1241.0,575.0,10.0,12.0,949.0,591.0,1816.0,1540.0,0,Bruce Arians,Harold Goodwin,James Bettcher,Carson Palmer
+54,7,Sun,0.0,3.0,1.0,Seattle Seahawks,2016,Cardinals,153.0,104.0,1466.0,746.0,10.0,14.0,1146.0,624.0,2212.0,1770.0,0,Bruce Arians,Harold Goodwin,James Bettcher,Carson Palmer
+55,8,Sun,0.0,3.0,0.0,Carolina Panthers,2016,Cardinals,159.0,110.0,1777.0,878.0,10.0,14.0,1351.0,676.0,2655.0,2027.0,0,Bruce Arians,Harold Goodwin,James Bettcher,Carson Palmer
+56,10,Sun,1.0,3.0,1.0,San Francisco 49ers,2016,Cardinals,179.0,140.0,2093.0,902.0,12.0,15.0,1559.0,817.0,2995.0,2376.0,1,Bruce Arians,Harold Goodwin,James Bettcher,Carson Palmer
+57,11,Sun,0.0,4.0,0.0,Minnesota Vikings,2016,Cardinals,202.0,160.0,2456.0,982.0,16.0,16.0,1757.0,900.0,3438.0,2657.0,0,Bruce Arians,Harold Goodwin,James Bettcher,Carson Palmer
+58,12,Sun,0.0,4.0,0.0,Atlanta Falcons,2016,Cardinals,226.0,190.0,2611.0,1117.0,18.0,17.0,1902.0,972.0,3728.0,2874.0,0,Bruce Arians,Harold Goodwin,James Bettcher,Carson Palmer
+59,13,Sun,1.0,4.0,1.0,Washington Redskins,2016,Cardinals,245.0,228.0,2885.0,1175.0,19.0,18.0,2146.0,1088.0,4060.0,3234.0,0,Bruce Arians,Harold Goodwin,James Bettcher,Carson Palmer
+60,14,Sun,0.0,5.0,0.0,Miami Dolphins,2016,Cardinals,276.0,251.0,3166.0,1263.0,19.0,20.0,2392.0,1175.0,4429.0,3567.0,0,Bruce Arians,Harold Goodwin,James Bettcher,Carson Palmer
+61,15,Sun,0.0,5.0,1.0,New Orleans Saints,2016,Cardinals,299.0,277.0,3291.0,1438.0,23.0,23.0,2623.0,1258.0,4729.0,3881.0,0,Bruce Arians,Harold Goodwin,James Bettcher,Carson Palmer
+62,16,Sat,1.0,5.0,0.0,Seattle Seahawks,2016,Cardinals,340.0,325.0,3600.0,1554.0,25.0,24.0,2981.0,1388.0,5154.0,4369.0,0,Bruce Arians,Harold Goodwin,James Bettcher,Carson Palmer
+63,17,Sun,1.0,6.0,0.0,Los Angeles Rams,2016,Cardinals,374.0,356.0,3876.0,1648.0,26.0,25.0,3294.0,1466.0,5524.0,4760.0,0,Bruce Arians,Harold Goodwin,James Bettcher,Carson Palmer
+64,1,Sun,1.0,0.0,1.0,New Orleans Saints,2015,Cardinals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Bruce Arians,Harold Goodwin,James Bettcher,Carson Palmer
+65,2,Sun,1.0,1.0,0.0,Chicago Bears,2015,Cardinals,31.0,19.0,307.0,120.0,1.0,1.0,354.0,54.0,427.0,408.0,0,Bruce Arians,Harold Goodwin,James Bettcher,Carson Palmer
+66,3,Sun,1.0,2.0,1.0,San Francisco 49ers,2015,Cardinals,79.0,42.0,492.0,235.0,3.0,3.0,580.0,163.0,727.0,743.0,0,Bruce Arians,Harold Goodwin,James Bettcher,Carson Palmer
+67,4,Sun,0.0,3.0,1.0,St. Louis Rams,2015,Cardinals,126.0,49.0,799.0,374.0,4.0,7.0,633.0,266.0,1173.0,899.0,0,Bruce Arians,Harold Goodwin,James Bettcher,Carson Palmer
+68,5,Sun,1.0,3.0,0.0,Detroit Lions,2015,Cardinals,148.0,73.0,1133.0,487.0,7.0,7.0,797.0,430.0,1620.0,1227.0,0,Bruce Arians,Harold Goodwin,James Bettcher,Carson Palmer
+69,6,Sun,0.0,4.0,0.0,Pittsburgh Steelers,2015,Cardinals,190.0,90.0,1291.0,674.0,7.0,13.0,1176.0,486.0,1965.0,1662.0,0,Bruce Arians,Harold Goodwin,James Bettcher,Carson Palmer
+70,7,Mon,1.0,4.0,1.0,Baltimore Ravens,2015,Cardinals,203.0,115.0,1705.0,729.0,10.0,13.0,1345.0,627.0,2434.0,1972.0,0,Bruce Arians,Harold Goodwin,James Bettcher,Carson Palmer
+71,8,Sun,1.0,5.0,0.0,Cleveland Browns,2015,Cardinals,229.0,133.0,1969.0,879.0,10.0,15.0,1566.0,682.0,2848.0,2248.0,0,Bruce Arians,Harold Goodwin,James Bettcher,Carson Palmer
+72,10,Sun,1.0,6.0,0.0,Seattle Seahawks,2015,Cardinals,263.0,153.0,2341.0,998.0,14.0,17.0,1781.0,721.0,3339.0,2502.0,1,Bruce Arians,Harold Goodwin,James Bettcher,Carson Palmer
+73,11,Sun,1.0,7.0,1.0,Cincinnati Bengals,2015,Cardinals,302.0,185.0,2675.0,1115.0,17.0,18.0,2009.0,836.0,3790.0,2845.0,0,Bruce Arians,Harold Goodwin,James Bettcher,Carson Palmer
+74,12,Sun,1.0,8.0,0.0,San Francisco 49ers,2015,Cardinals,336.0,216.0,2976.0,1197.0,19.0,19.0,2287.0,935.0,4173.0,3222.0,0,Bruce Arians,Harold Goodwin,James Bettcher,Carson Palmer
+75,13,Sun,1.0,9.0,0.0,St. Louis Rams,2015,Cardinals,355.0,229.0,3243.0,1267.0,19.0,21.0,2588.0,1002.0,4510.0,3590.0,0,Bruce Arians,Harold Goodwin,James Bettcher,Carson Palmer
+76,14,Thu,1.0,10.0,1.0,Minnesota Vikings,2015,Cardinals,382.0,232.0,3592.0,1442.0,19.0,22.0,2734.0,1068.0,5034.0,3802.0,0,Bruce Arians,Harold Goodwin,James Bettcher,Carson Palmer
+77,15,Sun,1.0,11.0,0.0,Philadelphia Eagles,2015,Cardinals,405.0,252.0,3888.0,1539.0,19.0,25.0,3051.0,1140.0,5427.0,4191.0,0,Bruce Arians,Harold Goodwin,James Bettcher,Carson Palmer
+78,16,Sun,1.0,12.0,1.0,Green Bay Packers,2015,Cardinals,445.0,269.0,4151.0,1769.0,19.0,29.0,3401.0,1214.0,5920.0,4615.0,0,Bruce Arians,Harold Goodwin,James Bettcher,Carson Palmer
+79,17,Sun,0.0,13.0,1.0,Seattle Seahawks,2015,Cardinals,483.0,277.0,4411.0,1890.0,21.0,33.0,3478.0,1315.0,6301.0,4793.0,0,Bruce Arians,Harold Goodwin,James Bettcher,Carson Palmer
+80,1,Mon,1.0,0.0,1.0,San Diego Chargers,2014,Cardinals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Carson Palmer,Harold Goodwin,Todd Bowles,Drew Stanton
+81,2,Sun,1.0,1.0,0.0,New York Giants,2014,Cardinals,18.0,17.0,294.0,109.0,2.0,1.0,238.0,52.0,403.0,290.0,0,Bruce Arians,Harold Goodwin,Todd Bowles,Drew Stanton
+82,3,Sun,1.0,2.0,1.0,San Francisco 49ers,2014,Cardinals,43.0,31.0,436.0,233.0,2.0,5.0,498.0,133.0,669.0,631.0,0,Bruce Arians,Harold Goodwin,Todd Bowles,Drew Stanton
+83,5,Sun,0.0,3.0,0.0,Denver Broncos,2014,Cardinals,66.0,45.0,690.0,317.0,3.0,5.0,734.0,215.0,1007.0,949.0,1,Bruce Arians,Harold Goodwin,Todd Bowles,Drew Stanton
+84,6,Sun,1.0,3.0,1.0,Washington Redskins,2014,Cardinals,86.0,86.0,868.0,354.0,3.0,7.0,1210.0,307.0,1222.0,1517.0,0,Bruce Arians,Harold Goodwin,Todd Bowles,Drew Stanton
+85,7,Sun,1.0,4.0,0.0,Oakland Raiders,2014,Cardinals,116.0,106.0,1111.0,428.0,3.0,11.0,1545.0,379.0,1539.0,1924.0,0,Bruce Arians,Harold Goodwin,Todd Bowles,Drew Stanton
+86,8,Sun,1.0,5.0,1.0,Philadelphia Eagles,2014,Cardinals,140.0,119.0,1353.0,551.0,4.0,11.0,1709.0,435.0,1904.0,2144.0,0,Bruce Arians,Harold Goodwin,Todd Bowles,Drew Stanton
+87,9,Sun,1.0,6.0,0.0,Dallas Cowboys,2014,Cardinals,164.0,139.0,1682.0,622.0,5.0,14.0,2120.0,545.0,2304.0,2665.0,0,Bruce Arians,Harold Goodwin,Todd Bowles,Drew Stanton
+88,10,Sun,1.0,7.0,1.0,St. Louis Rams,2014,Cardinals,192.0,156.0,1919.0,724.0,6.0,16.0,2294.0,637.0,2643.0,2931.0,0,Bruce Arians,Harold Goodwin,Todd Bowles,Drew Stanton
+89,11,Sun,1.0,8.0,1.0,Detroit Lions,2014,Cardinals,223.0,170.0,2226.0,752.0,7.0,19.0,2468.0,707.0,2978.0,3175.0,0,Bruce Arians,Harold Goodwin,Todd Bowles,Drew Stanton
+90,12,Sun,0.0,9.0,0.0,Seattle Seahawks,2014,Cardinals,237.0,176.0,2532.0,798.0,9.0,20.0,2632.0,805.0,3330.0,3437.0,0,Bruce Arians,Harold Goodwin,Todd Bowles,Drew Stanton
+91,13,Sun,0.0,9.0,0.0,Atlanta Falcons,2014,Cardinals,240.0,195.0,2672.0,862.0,10.0,20.0,2801.0,929.0,3534.0,3730.0,0,Bruce Arians,Harold Goodwin,Todd Bowles,Drew Stanton
+92,14,Sun,1.0,9.0,1.0,Kansas City Chiefs,2014,Cardinals,258.0,224.0,2966.0,897.0,13.0,21.0,3159.0,1071.0,3863.0,4230.0,0,Bruce Arians,Harold Goodwin,Todd Bowles,Drew Stanton
+93,15,Thu,1.0,10.0,0.0,St. Louis Rams,2014,Cardinals,275.0,238.0,3191.0,1038.0,13.0,23.0,3423.0,1197.0,4229.0,4620.0,0,Bruce Arians,Harold Goodwin,Todd Bowles,Drew Stanton
+94,16,Sun,0.0,11.0,1.0,Seattle Seahawks,2014,Cardinals,287.0,244.0,3322.0,1181.0,13.0,25.0,3634.0,1266.0,4503.0,4900.0,0,Bruce Arians,Harold Goodwin,Todd Bowles,Drew Stanton
+95,17,Sun,0.0,11.0,0.0,San Francisco 49ers,2014,Cardinals,293.0,279.0,3509.0,1210.0,14.0,25.0,3963.0,1533.0,4719.0,5496.0,0,Bruce Arians,Harold Goodwin,Todd Bowles,Drew Stanton
+96,1,Sun,0.0,0.0,0.0,St. Louis Rams,2013,Cardinals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Bruce Arians,Harold Goodwin,Todd Bowles,Carson Palmer
+97,2,Sun,1.0,0.0,1.0,Detroit Lions,2013,Cardinals,24.0,27.0,304.0,86.0,2.0,2.0,299.0,67.0,390.0,366.0,0,Bruce Arians,Harold Goodwin,Todd Bowles,Carson Palmer
+98,3,Sun,0.0,1.0,0.0,New Orleans Saints,2013,Cardinals,49.0,48.0,565.0,173.0,3.0,3.0,572.0,116.0,738.0,688.0,0,Bruce Arians,Harold Goodwin,Todd Bowles,Carson Palmer
+99,4,Sun,1.0,1.0,0.0,Tampa Bay Buccaneers,2013,Cardinals,56.0,79.0,726.0,259.0,5.0,4.0,891.0,220.0,985.0,1111.0,0,Bruce Arians,Harold Goodwin,Todd Bowles,Carson Palmer
+100,5,Sun,1.0,2.0,1.0,Carolina Panthers,2013,Cardinals,69.0,89.0,966.0,315.0,8.0,7.0,1064.0,300.0,1281.0,1364.0,0,Bruce Arians,Harold Goodwin,Todd Bowles,Carson Palmer
+101,6,Sun,0.0,3.0,0.0,San Francisco 49ers,2013,Cardinals,91.0,95.0,1126.0,405.0,11.0,11.0,1322.0,395.0,1531.0,1717.0,0,Bruce Arians,Harold Goodwin,Todd Bowles,Carson Palmer
+102,7,Thu,0.0,3.0,1.0,Seattle Seahawks,2013,Cardinals,111.0,127.0,1420.0,514.0,15.0,13.0,1560.0,544.0,1934.0,2104.0,0,Bruce Arians,Harold Goodwin,Todd Bowles,Carson Palmer
+103,8,Sun,1.0,3.0,1.0,Atlanta Falcons,2013,Cardinals,133.0,161.0,1624.0,544.0,17.0,15.0,1769.0,679.0,2168.0,2448.0,0,Bruce Arians,Harold Goodwin,Todd Bowles,Carson Palmer
+104,10,Sun,1.0,4.0,1.0,Houston Texans,2013,Cardinals,160.0,174.0,1771.0,745.0,18.0,19.0,2034.0,706.0,2516.0,2740.0,1,Bruce Arians,Harold Goodwin,Todd Bowles,Carson Palmer
+105,11,Sun,1.0,5.0,0.0,Jacksonville Jaguars,2013,Cardinals,187.0,198.0,2006.0,842.0,21.0,20.0,2193.0,782.0,2848.0,2975.0,0,Bruce Arians,Harold Goodwin,Todd Bowles,Carson Palmer
+106,12,Sun,1.0,6.0,1.0,Indianapolis Colts,2013,Cardinals,214.0,212.0,2408.0,856.0,21.0,22.0,2435.0,814.0,3264.0,3249.0,0,Bruce Arians,Harold Goodwin,Todd Bowles,Carson Palmer
+107,13,Sun,0.0,7.0,0.0,Philadelphia Eagles,2013,Cardinals,254.0,223.0,2698.0,976.0,21.0,23.0,2594.0,894.0,3674.0,3488.0,0,Bruce Arians,Harold Goodwin,Todd Bowles,Carson Palmer
+108,14,Sun,1.0,7.0,1.0,St. Louis Rams,2013,Cardinals,275.0,247.0,2958.0,1066.0,24.0,23.0,2796.0,999.0,4024.0,3795.0,0,Bruce Arians,Harold Goodwin,Todd Bowles,Carson Palmer
+109,15,Sun,1.0,8.0,0.0,Tennessee Titans,2013,Cardinals,305.0,257.0,3220.0,1173.0,25.0,25.0,2953.0,1099.0,4393.0,4052.0,0,Bruce Arians,Harold Goodwin,Todd Bowles,Carson Palmer
+110,16,Sun,1.0,9.0,0.0,Seattle Seahawks,2013,Cardinals,342.0,291.0,3435.0,1318.0,25.0,28.0,3347.0,1165.0,4753.0,4512.0,0,Bruce Arians,Harold Goodwin,Todd Bowles,Carson Palmer
+111,17,Sun,0.0,10.0,1.0,San Francisco 49ers,2013,Cardinals,359.0,301.0,3603.0,1457.0,29.0,30.0,3436.0,1268.0,5060.0,4704.0,0,Bruce Arians,Harold Goodwin,Todd Bowles,Carson Palmer
+112,1,Sun,1.0,0.0,1.0,Seattle Seahawks,2012,Cardinals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Ken Whisenhunt,Mike Miller,Ray Horton,John Skelton
+113,2,Sun,1.0,1.0,0.0,New England Patriots,2012,Cardinals,20.0,16.0,210.0,43.0,2.0,2.0,139.0,115.0,253.0,254.0,0,Ken Whisenhunt,Mike Miller,Ray Horton,John Skelton
+114,3,Sun,1.0,2.0,1.0,Philadelphia Eagles,2012,Cardinals,40.0,34.0,350.0,145.0,4.0,3.0,436.0,205.0,495.0,641.0,0,Ken Whisenhunt,Mike Miller,Ray Horton,John Skelton
+115,4,Sun,1.0,3.0,1.0,Miami Dolphins,2012,Cardinals,67.0,40.0,543.0,244.0,4.0,6.0,630.0,318.0,787.0,948.0,0,Ken Whisenhunt,Mike Miller,Ray Horton,John Skelton
+116,5,Thu,0.0,4.0,0.0,St. Louis Rams,2012,Cardinals,91.0,61.0,812.0,272.0,6.0,10.0,1024.0,404.0,1084.0,1428.0,0,Ken Whisenhunt,Mike Miller,Ray Horton,John Skelton
+117,6,Sun,0.0,4.0,1.0,Buffalo Bills,2012,Cardinals,94.0,78.0,1049.0,317.0,7.0,11.0,1155.0,515.0,1366.0,1670.0,0,Ken Whisenhunt,Mike Miller,Ray Horton,John Skelton
+118,7,Sun,0.0,4.0,0.0,Minnesota Vikings,2012,Cardinals,110.0,97.0,1199.0,499.0,9.0,13.0,1296.0,680.0,1698.0,1976.0,0,Ken Whisenhunt,Mike Miller,Ray Horton,John Skelton
+119,8,Mon,0.0,4.0,1.0,San Francisco 49ers,2012,Cardinals,124.0,118.0,1429.0,625.0,11.0,15.0,1339.0,846.0,2054.0,2185.0,0,Ken Whisenhunt,Mike Miller,Ray Horton,John Skelton
+120,9,Sun,0.0,4.0,0.0,Green Bay Packers,2012,Cardinals,127.0,142.0,1687.0,632.0,12.0,15.0,1543.0,959.0,2319.0,2502.0,0,Ken Whisenhunt,Mike Miller,Ray Horton,John Skelton
+121,11,Sun,0.0,4.0,0.0,Atlanta Falcons,2012,Cardinals,144.0,173.0,1973.0,686.0,14.0,16.0,1751.0,1135.0,2659.0,2886.0,1,Ken Whisenhunt,Mike Miller,Ray Horton,John Skelton
+122,12,Sun,0.0,4.0,1.0,St. Louis Rams,2012,Cardinals,163.0,196.0,2014.0,823.0,15.0,22.0,2047.0,1193.0,2837.0,3240.0,0,Ken Whisenhunt,Mike Miller,Ray Horton,John Skelton
+123,13,Sun,0.0,4.0,0.0,New York Jets,2012,Cardinals,180.0,227.0,2315.0,897.0,19.0,23.0,2241.0,1366.0,3212.0,3607.0,0,Ken Whisenhunt,Mike Miller,Ray Horton,John Skelton
+124,14,Sun,0.0,4.0,0.0,Seattle Seahawks,2012,Cardinals,186.0,234.0,2371.0,978.0,20.0,27.0,2353.0,1543.0,3349.0,3896.0,0,Ken Whisenhunt,Mike Miller,Ray Horton,John Skelton
+125,15,Sun,1.0,4.0,1.0,Detroit Lions,2012,Cardinals,186.0,292.0,2482.0,1021.0,28.0,28.0,2562.0,1827.0,3503.0,4389.0,0,Ken Whisenhunt,Mike Miller,Ray Horton,Ryan Lindley
+126,16,Sun,0.0,5.0,1.0,Chicago Bears,2012,Cardinals,224.0,302.0,2579.0,1120.0,29.0,32.0,2790.0,1911.0,3699.0,4701.0,0,Ken Whisenhunt,Mike Miller,Ray Horton,John Skelton
+127,17,Sun,0.0,5.0,0.0,San Francisco 49ers,2012,Cardinals,237.0,330.0,2798.0,1149.0,32.0,33.0,2935.0,2063.0,3947.0,4998.0,0,Ken Whisenhunt,Mike Miller,Ray Horton,Bryan Hoyer
+128,1,Sun,1.0,0.0,1.0,Carolina Panthers,2011,Cardinals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Ken Whisenhunt,Mike Miller,Ray Horton,Kevin Kolb
+129,2,Sun,0.0,1.0,0.0,Washington Redskins,2011,Cardinals,28.0,21.0,295.0,99.0,1.0,1.0,403.0,74.0,394.0,477.0,0,Ken Whisenhunt,Mike Miller,Ray Horton,Kevin Kolb
+130,3,Sun,0.0,1.0,0.0,Seattle Seahawks,2011,Cardinals,49.0,43.0,526.0,192.0,3.0,3.0,686.0,246.0,718.0,932.0,0,Ken Whisenhunt,Mike Miller,Ray Horton,Kevin Kolb
+131,4,Sun,0.0,1.0,1.0,New York Giants,2011,Cardinals,59.0,56.0,760.0,282.0,5.0,4.0,825.0,368.0,1042.0,1193.0,0,Ken Whisenhunt,Mike Miller,Ray Horton,Kevin Kolb
+132,5,Sun,0.0,1.0,0.0,Minnesota Vikings,2011,Cardinals,86.0,87.0,972.0,438.0,7.0,6.0,1131.0,422.0,1410.0,1553.0,0,Ken Whisenhunt,Mike Miller,Ray Horton,Kevin Kolb
+133,7,Sun,0.0,1.0,1.0,Pittsburgh Steelers,2011,Cardinals,96.0,121.0,1186.0,515.0,11.0,7.0,1291.0,594.0,1701.0,1885.0,1,Ken Whisenhunt,Mike Miller,Ray Horton,Kevin Kolb
+134,8,Sun,0.0,1.0,0.0,Baltimore Ravens,2011,Cardinals,116.0,153.0,1443.0,588.0,12.0,7.0,1645.0,685.0,2031.0,2330.0,0,Ken Whisenhunt,Mike Miller,Ray Horton,Kevin Kolb
+135,9,Sun,1.0,1.0,1.0,St. Louis Rams,2011,Cardinals,143.0,183.0,1541.0,697.0,13.0,9.0,1943.0,792.0,2238.0,2735.0,0,Ken Whisenhunt,Mike Miller,Ray Horton,Kevin Kolb
+136,10,Sun,1.0,2.0,0.0,Philadelphia Eagles,2011,Cardinals,162.0,196.0,1733.0,767.0,13.0,10.0,2176.0,942.0,2500.0,3118.0,0,Ken Whisenhunt,Mike Miller,Ray Horton,Kevin Kolb
+137,11,Sun,0.0,3.0,0.0,San Francisco 49ers,2011,Cardinals,183.0,213.0,2015.0,855.0,15.0,12.0,2299.0,1108.0,2870.0,3407.0,0,Ken Whisenhunt,Mike Miller,Ray Horton,Kevin Kolb
+138,12,Sun,1.0,3.0,0.0,St. Louis Rams,2011,Cardinals,190.0,236.0,2164.0,935.0,20.0,13.0,2566.0,1272.0,3099.0,3838.0,0,Ken Whisenhunt,Mike Miller,Ray Horton,Kevin Kolb
+139,13,Sun,1.0,4.0,1.0,Dallas Cowboys,2011,Cardinals,213.0,256.0,2270.0,1203.0,23.0,15.0,2752.0,1358.0,3473.0,4110.0,0,Ken Whisenhunt,Mike Miller,Ray Horton,Kevin Kolb
+140,14,Sun,1.0,5.0,1.0,San Francisco 49ers,2011,Cardinals,232.0,269.0,2494.0,1306.0,23.0,15.0,3013.0,1433.0,3800.0,4446.0,0,Ken Whisenhunt,Mike Miller,Ray Horton,Kevin Kolb
+141,15,Sun,1.0,6.0,1.0,Cleveland Browns,2011,Cardinals,253.0,288.0,2764.0,1361.0,26.0,15.0,3156.0,1523.0,4125.0,4679.0,0,Ken Whisenhunt,Mike Miller,Ray Horton,Kevin Kolb
+142,16,Sat,0.0,7.0,0.0,Cincinnati Bengals,2011,Cardinals,273.0,305.0,3053.0,1435.0,27.0,16.0,3369.0,1643.0,4488.0,5012.0,0,Ken Whisenhunt,Mike Miller,Ray Horton,Kevin Kolb
+143,17,Sun,1.0,7.0,1.0,Seattle Seahawks,2011,Cardinals,289.0,328.0,3310.0,1494.0,30.0,18.0,3505.0,1808.0,4804.0,5313.0,0,Ken Whisenhunt,Mike Miller,Ray Horton,John Skelton
+144,1,Sun,1.0,0.0,1.0,Seattle Seahawks,2010,Cardinals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Ken Whisenhunt,Mike Miller,Ray Horton,Derek Anderson
+145,2,Sun,1.0,1.0,0.0,New England Patriots,2010,Cardinals,20.0,16.0,210.0,43.0,2.0,2.0,139.0,115.0,253.0,254.0,0,Ken Whisenhunt,Mike Miller,Ray Horton,Derek Anderson
+146,3,Sun,1.0,2.0,1.0,Philadelphia Eagles,2010,Cardinals,40.0,34.0,350.0,145.0,4.0,3.0,436.0,205.0,495.0,641.0,0,Ken Whisenhunt,Mike Miller,Ray Horton,Derek Anderson
+147,4,Sun,1.0,3.0,1.0,Miami Dolphins,2010,Cardinals,67.0,40.0,543.0,244.0,4.0,6.0,630.0,318.0,787.0,948.0,0,Ken Whisenhunt,Mike Miller,Ray Horton,Derek Anderson
+148,5,Thu,0.0,4.0,0.0,St. Louis Rams,2010,Cardinals,91.0,61.0,812.0,272.0,6.0,10.0,1024.0,404.0,1084.0,1428.0,0,Ken Whisenhunt,Mike Miller,Ray Horton,Derek Anderson
+149,6,Sun,0.0,4.0,1.0,Buffalo Bills,2010,Cardinals,94.0,78.0,1049.0,317.0,7.0,11.0,1155.0,515.0,1366.0,1670.0,0,Ken Whisenhunt,Mike Miller,Ray Horton,Derek Anderson
+150,7,Sun,0.0,4.0,0.0,Minnesota Vikings,2010,Cardinals,110.0,97.0,1199.0,499.0,9.0,13.0,1296.0,680.0,1698.0,1976.0,0,Ken Whisenhunt,Mike Miller,Ray Horton,Derek Anderson
+151,8,Mon,0.0,4.0,1.0,San Francisco 49ers,2010,Cardinals,124.0,118.0,1429.0,625.0,11.0,15.0,1339.0,846.0,2054.0,2185.0,0,Ken Whisenhunt,Mike Miller,Ray Horton,Derek Anderson
+152,9,Sun,0.0,4.0,0.0,Green Bay Packers,2010,Cardinals,127.0,142.0,1687.0,632.0,12.0,15.0,1543.0,959.0,2319.0,2502.0,0,Ken Whisenhunt,Mike Miller,Ray Horton,Derek Anderson
+153,11,Sun,0.0,4.0,0.0,Atlanta Falcons,2010,Cardinals,144.0,173.0,1973.0,686.0,14.0,16.0,1751.0,1135.0,2659.0,2886.0,1,Ken Whisenhunt,Mike Miller,Ray Horton,Derek Anderson
+154,12,Sun,0.0,4.0,1.0,St. Louis Rams,2010,Cardinals,163.0,196.0,2014.0,823.0,15.0,22.0,2047.0,1193.0,2837.0,3240.0,0,Ken Whisenhunt,Mike Miller,Ray Horton,Derek Anderson
+155,13,Sun,0.0,4.0,0.0,New York Jets,2010,Cardinals,180.0,227.0,2315.0,897.0,19.0,23.0,2241.0,1366.0,3212.0,3607.0,0,Ken Whisenhunt,Mike Miller,Ray Horton,Derek Anderson
+156,14,Sun,0.0,4.0,0.0,Seattle Seahawks,2010,Cardinals,186.0,234.0,2371.0,978.0,20.0,27.0,2353.0,1543.0,3349.0,3896.0,0,Ken Whisenhunt,Mike Miller,Ray Horton,Derek Anderson
+157,15,Sun,1.0,4.0,1.0,Detroit Lions,2010,Cardinals,186.0,292.0,2482.0,1021.0,28.0,28.0,2562.0,1827.0,3503.0,4389.0,0,Ken Whisenhunt,Mike Miller,Ray Horton,Derek Anderson
+158,16,Sun,0.0,5.0,1.0,Chicago Bears,2010,Cardinals,224.0,302.0,2579.0,1120.0,29.0,32.0,2790.0,1911.0,3699.0,4701.0,0,Ken Whisenhunt,Mike Miller,Ray Horton,Derek Anderson
+159,17,Sun,0.0,5.0,0.0,San Francisco 49ers,2010,Cardinals,237.0,330.0,2798.0,1149.0,32.0,33.0,2935.0,2063.0,3947.0,4998.0,0,Ken Whisenhunt,Mike Miller,Ray Horton,Derek Anderson

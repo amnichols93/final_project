@@ -1,0 +1,161 @@
+,Week,Day,Results,Wins Tally,Home,Opp,year,Base_Team,PF Tally,PA Tally,OPassY Tally,ORushY Tally,TO_lost Tally,TO_won Tally,DPassY Tally,DRushY Tally,OTotYd Tally,DTotYd Tally,after_bye,Head_Coach,OC,DC,QB
+0,1,Sun,0.0,0.0,0.0,Minnesota Vikings,2019,Falcons,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Dan Quinn,Dirk Koetter,Dan Quinn,Matt Ryan
+1,2,Sun,1.0,0.0,1.0,Philadelphia Eagles,2019,Falcons,12.0,28.0,272.0,73.0,3.0,0.0,97.0,172.0,345.0,269.0,0,Dan Quinn,Dirk Koetter,Dan Quinn,Matt Ryan
+2,3,Sun,0.0,1.0,0.0,Indianapolis Colts,2019,Falcons,36.0,48.0,582.0,130.0,6.0,3.0,334.0,221.0,712.0,555.0,0,Dan Quinn,Dirk Koetter,Dan Quinn,Matt Ryan
+3,4,Sun,0.0,1.0,1.0,Tennessee Titans,2019,Falcons,60.0,75.0,886.0,223.0,7.0,3.0,634.0,300.0,1109.0,934.0,0,Dan Quinn,Dirk Koetter,Dan Quinn,Matt Ryan
+4,5,Sun,0.0,1.0,0.0,Houston Texans,2019,Falcons,70.0,99.0,1250.0,281.0,8.0,3.0,861.0,438.0,1531.0,1299.0,0,Dan Quinn,Dirk Koetter,Dan Quinn,Matt Ryan
+5,6,Sun,0.0,1.0,0.0,Arizona Cardinals,2019,Falcons,102.0,152.0,1566.0,338.0,9.0,4.0,1287.0,604.0,1904.0,1891.0,0,Dan Quinn,Dirk Koetter,Dan Quinn,Matt Ryan
+6,7,Sun,0.0,1.0,1.0,Los Angeles Rams,2019,Falcons,135.0,186.0,1907.0,441.0,9.0,4.0,1627.0,706.0,2348.0,2333.0,0,Dan Quinn,Dirk Koetter,Dan Quinn,Matt Ryan
+7,8,Sun,0.0,1.0,1.0,Seattle Seahawks,2019,Falcons,145.0,223.0,2093.0,479.0,12.0,4.0,1918.0,796.0,2572.0,2714.0,0,Matt Schaub,Dirk Koetter,Dan Quinn,Matt Ryan
+8,10,Sun,1.0,1.0,0.0,New Orleans Saints,2019,Falcons,165.0,250.0,2534.0,548.0,15.0,4.0,2089.0,947.0,3082.0,3036.0,0,Dan Quinn,Dirk Koetter,Dan Quinn,Matt Ryan
+9,11,Sun,1.0,2.0,0.0,Carolina Panthers,2019,Falcons,191.0,259.0,2708.0,691.0,16.0,4.0,2347.0,999.0,3399.0,3346.0,0,Dan Quinn,Dirk Koetter,Dan Quinn,Matt Ryan
+10,12,Sun,0.0,3.0,1.0,Tampa Bay Buccaneers,2019,Falcons,220.0,262.0,3003.0,745.0,16.0,8.0,2617.0,1076.0,3748.0,3693.0,0,Dan Quinn,Dirk Koetter,Dan Quinn,Matt Ryan
+11,13,Thu,0.0,3.0,1.0,New Orleans Saints,2019,Falcons,242.0,297.0,3283.0,802.0,18.0,10.0,2930.0,1209.0,4085.0,4139.0,0,Dan Quinn,Dirk Koetter,Dan Quinn,Matt Ryan
+12,14,Sun,1.0,3.0,1.0,Carolina Panthers,2019,Falcons,260.0,323.0,3542.0,891.0,21.0,10.0,3114.0,1304.0,4433.0,4418.0,0,Dan Quinn,Dirk Koetter,Dan Quinn,Matt Ryan
+13,15,Sun,1.0,4.0,0.0,San Francisco 49ers,2019,Falcons,300.0,343.0,3844.0,1050.0,21.0,14.0,3359.0,1404.0,4894.0,4763.0,0,Dan Quinn,Dirk Koetter,Dan Quinn,Matt Ryan
+14,16,Sun,1.0,5.0,1.0,Jacksonville Jaguars,2019,Falcons,329.0,365.0,4045.0,1139.0,22.0,16.0,3552.0,1524.0,5184.0,5076.0,0,Dan Quinn,Dirk Koetter,Dan Quinn,Matt Ryan
+15,17,Sun,1.0,6.0,0.0,Tampa Bay Buccaneers,2019,Falcons,353.0,377.0,4428.0,1274.0,24.0,17.0,3725.0,1639.0,5702.0,5364.0,0,Dan Quinn,Dirk Koetter,Dan Quinn,Matt Ryan
+16,1,Thu,0.0,0.0,0.0,Philadelphia Eagles,2018,Falcons,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Dan Quinn,Steve Sarkisian,Marquand Manuel,Matt Ryan
+17,2,Sun,1.0,0.0,1.0,Carolina Panthers,2018,Falcons,12.0,18.0,225.0,74.0,1.0,2.0,119.0,113.0,299.0,232.0,0,Dan Quinn,Steve Sarkisian,Marquand Manuel,Matt Ryan
+18,3,Sun,0.0,1.0,1.0,New Orleans Saints,2018,Falcons,43.0,42.0,497.0,244.0,2.0,3.0,437.0,234.0,741.0,671.0,0,Dan Quinn,Steve Sarkisian,Marquand Manuel,Matt Ryan
+19,4,Sun,0.0,1.0,1.0,Cincinnati Bengals,2018,Falcons,80.0,85.0,856.0,292.0,2.0,3.0,828.0,377.0,1148.0,1205.0,0,Dan Quinn,Steve Sarkisian,Marquand Manuel,Matt Ryan
+20,5,Sun,0.0,1.0,0.0,Pittsburgh Steelers,2018,Falcons,116.0,122.0,1259.0,384.0,2.0,4.0,1136.0,476.0,1643.0,1612.0,0,Dan Quinn,Steve Sarkisian,Marquand Manuel,Matt Ryan
+21,6,Sun,1.0,1.0,1.0,Tampa Bay Buccaneers,2018,Falcons,133.0,163.0,1521.0,446.0,3.0,5.0,1386.0,607.0,1967.0,1993.0,0,Dan Quinn,Steve Sarkisian,Marquand Manuel,Matt Ryan
+22,7,Mon,1.0,2.0,1.0,New York Giants,2018,Falcons,167.0,192.0,1868.0,516.0,3.0,7.0,1775.0,728.0,2384.0,2503.0,0,Dan Quinn,Steve Sarkisian,Marquand Manuel,Matt Ryan
+23,9,Sun,1.0,3.0,0.0,Washington Redskins,2018,Falcons,190.0,212.0,2224.0,583.0,4.0,7.0,2147.0,789.0,2807.0,2936.0,1,Dan Quinn,Steve Sarkisian,Marquand Manuel,Matt Ryan
+24,10,Sun,0.0,4.0,0.0,Cleveland Browns,2018,Falcons,228.0,226.0,2561.0,737.0,5.0,8.0,2434.0,868.0,3298.0,3302.0,0,Dan Quinn,Steve Sarkisian,Marquand Manuel,Matt Ryan
+25,11,Sun,0.0,4.0,1.0,Dallas Cowboys,2018,Falcons,244.0,254.0,2872.0,808.0,7.0,9.0,2650.0,1079.0,3680.0,3729.0,0,Dan Quinn,Steve Sarkisian,Marquand Manuel,Matt Ryan
+26,12,Thu,0.0,4.0,0.0,New Orleans Saints,2018,Falcons,263.0,276.0,3146.0,888.0,8.0,9.0,2841.0,1211.0,4034.0,4052.0,0,Dan Quinn,Steve Sarkisian,Marquand Manuel,Matt Ryan
+27,13,Sun,0.0,4.0,1.0,Baltimore Ravens,2018,Falcons,280.0,307.0,3486.0,914.0,12.0,10.0,3003.0,1361.0,4400.0,4364.0,0,Dan Quinn,Steve Sarkisian,Marquand Manuel,Matt Ryan
+28,14,Sun,0.0,4.0,0.0,Green Bay Packers,2018,Falcons,296.0,333.0,3583.0,948.0,13.0,11.0,3162.0,1568.0,4531.0,4730.0,0,Dan Quinn,Steve Sarkisian,Marquand Manuel,Matt Ryan
+29,15,Sun,1.0,4.0,1.0,Arizona Cardinals,2018,Falcons,316.0,367.0,3820.0,1055.0,15.0,11.0,3324.0,1706.0,4875.0,5030.0,0,Dan Quinn,Steve Sarkisian,Marquand Manuel,Matt Ryan
+30,16,Sun,1.0,5.0,0.0,Carolina Panthers,2018,Falcons,356.0,381.0,4040.0,1270.0,15.0,14.0,3517.0,1766.0,5310.0,5283.0,0,Dan Quinn,Steve Sarkisian,Marquand Manuel,Matt Ryan
+31,17,Sun,1.0,6.0,0.0,Tampa Bay Buccaneers,2018,Falcons,380.0,391.0,4273.0,1464.0,17.0,18.0,3812.0,1907.0,5737.0,5719.0,0,Dan Quinn,Steve Sarkisian,Marquand Manuel,Matt Ryan
+32,1,Sun,1.0,0.0,0.0,Chicago Bears,2017,Falcons,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Dan Quinn,Steve Sarkisian,Marquand Manuel,Matt Ryan
+33,2,Sun,1.0,1.0,1.0,Green Bay Packers,2017,Falcons,23.0,17.0,308.0,64.0,0.0,0.0,176.0,125.0,372.0,301.0,0,Dan Quinn,Steve Sarkisian,Marquand Manuel,Matt Ryan
+34,3,Sun,1.0,2.0,0.0,Detroit Lions,2017,Falcons,57.0,40.0,531.0,205.0,0.0,2.0,484.0,184.0,736.0,668.0,0,Dan Quinn,Steve Sarkisian,Marquand Manuel,Matt Ryan
+35,4,Sun,0.0,3.0,1.0,Buffalo Bills,2017,Falcons,87.0,66.0,808.0,356.0,3.0,2.0,737.0,255.0,1164.0,992.0,0,Dan Quinn,Steve Sarkisian,Marquand Manuel,Matt Ryan
+36,6,Sun,0.0,3.0,1.0,Miami Dolphins,2017,Falcons,104.0,89.0,1050.0,503.0,6.0,2.0,901.0,372.0,1553.0,1273.0,1,Dan Quinn,Steve Sarkisian,Marquand Manuel,Matt Ryan
+37,7,Sun,0.0,3.0,0.0,New England Patriots,2017,Falcons,121.0,109.0,1289.0,603.0,7.0,3.0,1052.0,510.0,1892.0,1562.0,0,Dan Quinn,Steve Sarkisian,Marquand Manuel,Matt Ryan
+38,8,Sun,1.0,3.0,0.0,New York Jets,2017,Falcons,128.0,132.0,1512.0,723.0,7.0,3.0,1293.0,672.0,2235.0,1965.0,0,Dan Quinn,Steve Sarkisian,Marquand Manuel,Matt Ryan
+39,9,Sun,0.0,4.0,0.0,Carolina Panthers,2017,Falcons,153.0,152.0,1758.0,863.0,9.0,4.0,1529.0,715.0,2621.0,2244.0,0,Dan Quinn,Steve Sarkisian,Marquand Manuel,Matt Ryan
+40,10,Sun,1.0,4.0,1.0,Dallas Cowboys,2017,Falcons,170.0,172.0,2060.0,916.0,10.0,6.0,1658.0,916.0,2976.0,2574.0,0,Dan Quinn,Steve Sarkisian,Marquand Manuel,Matt Ryan
+41,11,Mon,1.0,5.0,0.0,Seattle Seahawks,2017,Falcons,197.0,179.0,2264.0,1048.0,11.0,8.0,1784.0,1023.0,3312.0,2807.0,0,Dan Quinn,Steve Sarkisian,Marquand Manuel,Matt Ryan
+42,12,Sun,1.0,6.0,1.0,Tampa Bay Buccaneers,2017,Falcons,231.0,210.0,2454.0,1137.0,12.0,10.0,2008.0,1159.0,3591.0,3167.0,0,Dan Quinn,Steve Sarkisian,Marquand Manuel,Matt Ryan
+43,13,Sun,0.0,7.0,1.0,Minnesota Vikings,2017,Falcons,265.0,230.0,2822.0,1285.0,13.0,10.0,2287.0,1253.0,4107.0,3540.0,0,Dan Quinn,Steve Sarkisian,Marquand Manuel,Matt Ryan
+44,14,Thu,1.0,7.0,1.0,New Orleans Saints,2017,Falcons,274.0,244.0,2995.0,1387.0,13.0,10.0,2494.0,1358.0,4382.0,3852.0,0,Dan Quinn,Steve Sarkisian,Marquand Manuel,Matt Ryan
+45,15,Mon,1.0,8.0,0.0,Tampa Bay Buccaneers,2017,Falcons,294.0,261.0,3206.0,1519.0,16.0,11.0,2750.0,1408.0,4725.0,4158.0,0,Dan Quinn,Steve Sarkisian,Marquand Manuel,Matt Ryan
+46,16,Sun,0.0,9.0,0.0,New Orleans Saints,2017,Falcons,318.0,282.0,3415.0,1720.0,16.0,12.0,3039.0,1492.0,5135.0,4531.0,0,Dan Quinn,Steve Sarkisian,Marquand Manuel,Matt Ryan
+47,17,Sun,1.0,9.0,1.0,Carolina Panthers,2017,Falcons,331.0,305.0,3679.0,1787.0,18.0,13.0,3268.0,1578.0,5466.0,4846.0,0,Dan Quinn,Steve Sarkisian,Marquand Manuel,Matt Ryan
+48,1,Sun,0.0,0.0,1.0,Tampa Bay Buccaneers,2016,Falcons,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Dan Quinn,Kyle Shanahan,Richard Smith,Matt Ryan
+49,2,Sun,1.0,0.0,0.0,Oakland Raiders,2016,Falcons,24.0,31.0,322.0,52.0,0.0,1.0,281.0,90.0,374.0,371.0,0,Dan Quinn,Kyle Shanahan,Richard Smith,Matt Ryan
+50,3,Mon,1.0,1.0,0.0,New Orleans Saints,2016,Falcons,59.0,59.0,711.0,191.0,1.0,1.0,580.0,245.0,902.0,825.0,0,Dan Quinn,Kyle Shanahan,Richard Smith,Matt Ryan
+51,4,Sun,1.0,2.0,1.0,Carolina Panthers,2016,Falcons,104.0,91.0,936.0,408.0,1.0,3.0,939.0,360.0,1344.0,1299.0,0,Dan Quinn,Kyle Shanahan,Richard Smith,Matt Ryan
+52,5,Sun,1.0,3.0,0.0,Denver Broncos,2016,Falcons,152.0,124.0,1417.0,498.0,2.0,5.0,1268.0,409.0,1915.0,1677.0,0,Dan Quinn,Kyle Shanahan,Richard Smith,Matt Ryan
+53,6,Sun,0.0,4.0,0.0,Seattle Seahawks,2016,Falcons,175.0,140.0,1667.0,620.0,3.0,6.0,1451.0,493.0,2287.0,1944.0,0,Dan Quinn,Kyle Shanahan,Richard Smith,Matt Ryan
+54,7,Sun,0.0,4.0,1.0,San Diego Chargers,2016,Falcons,199.0,166.0,1977.0,672.0,5.0,6.0,1712.0,565.0,2649.0,2277.0,0,Dan Quinn,Kyle Shanahan,Richard Smith,Matt Ryan
+55,8,Sun,1.0,4.0,1.0,Green Bay Packers,2016,Falcons,229.0,199.0,2233.0,802.0,6.0,8.0,2060.0,643.0,3035.0,2703.0,0,Dan Quinn,Kyle Shanahan,Richard Smith,Matt Ryan
+56,9,Thu,1.0,5.0,0.0,Tampa Bay Buccaneers,2016,Falcons,262.0,231.0,2510.0,892.0,6.0,8.0,2283.0,751.0,3402.0,3034.0,0,Dan Quinn,Kyle Shanahan,Richard Smith,Matt Ryan
+57,10,Sun,0.0,6.0,0.0,Philadelphia Eagles,2016,Falcons,305.0,259.0,2835.0,1028.0,7.0,10.0,2609.0,821.0,3863.0,3430.0,0,Dan Quinn,Kyle Shanahan,Richard Smith,Matt Ryan
+58,12,Sun,1.0,6.0,1.0,Arizona Cardinals,2016,Falcons,320.0,283.0,3090.0,1076.0,8.0,11.0,2830.0,1029.0,4166.0,3859.0,1,Dan Quinn,Kyle Shanahan,Richard Smith,Matt Ryan
+59,13,Sun,0.0,7.0,1.0,Kansas City Chiefs,2016,Falcons,358.0,302.0,3334.0,1192.0,9.0,12.0,3104.0,1087.0,4526.0,4191.0,0,Dan Quinn,Kyle Shanahan,Richard Smith,Matt Ryan
+60,14,Sun,1.0,7.0,0.0,Los Angeles Rams,2016,Falcons,386.0,331.0,3624.0,1320.0,10.0,13.0,3370.0,1210.0,4944.0,4580.0,0,Dan Quinn,Kyle Shanahan,Richard Smith,Matt Ryan
+61,15,Sun,1.0,8.0,1.0,San Francisco 49ers,2016,Falcons,428.0,345.0,3844.0,1386.0,10.0,18.0,3578.0,1314.0,5230.0,4892.0,0,Dan Quinn,Kyle Shanahan,Richard Smith,Matt Ryan
+62,16,Sat,1.0,9.0,0.0,Carolina Panthers,2016,Falcons,469.0,358.0,4146.0,1634.0,11.0,19.0,3743.0,1421.0,5780.0,5164.0,0,Dan Quinn,Kyle Shanahan,Richard Smith,Matt Ryan
+63,17,Sun,1.0,10.0,1.0,New Orleans Saints,2016,Falcons,502.0,374.0,4402.0,1786.0,11.0,21.0,3926.0,1540.0,6188.0,5466.0,0,Dan Quinn,Kyle Shanahan,Richard Smith,Matt Ryan
+64,1,Mon,1.0,0.0,1.0,Philadelphia Eagles,2015,Falcons,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Dan Quinn,Kyle Shanahan,Richard Smith,Matt Ryan
+65,2,Sun,1.0,1.0,0.0,New York Giants,2015,Falcons,26.0,24.0,290.0,105.0,2.0,2.0,336.0,63.0,395.0,399.0,0,Dan Quinn,Kyle Shanahan,Richard Smith,Matt Ryan
+66,3,Sun,1.0,2.0,0.0,Dallas Cowboys,2015,Falcons,50.0,44.0,636.0,161.0,2.0,3.0,627.0,160.0,797.0,787.0,0,Dan Quinn,Kyle Shanahan,Richard Smith,Matt Ryan
+67,4,Sun,1.0,3.0,1.0,Houston Texans,2015,Falcons,89.0,72.0,916.0,319.0,2.0,4.0,847.0,287.0,1235.0,1134.0,0,Dan Quinn,Kyle Shanahan,Richard Smith,Matt Ryan
+68,5,Sun,1.0,4.0,1.0,Washington Redskins,2015,Falcons,137.0,93.0,1159.0,454.0,2.0,8.0,1221.0,341.0,1613.0,1562.0,0,Dan Quinn,Kyle Shanahan,Richard Smith,Matt Ryan
+69,6,Thu,0.0,5.0,0.0,New Orleans Saints,2015,Falcons,162.0,112.0,1401.0,630.0,5.0,10.0,1440.0,392.0,2031.0,1832.0,0,Dan Quinn,Kyle Shanahan,Richard Smith,Matt Ryan
+70,7,Sun,1.0,5.0,0.0,Tennessee Titans,2015,Falcons,183.0,143.0,1664.0,780.0,8.0,10.0,1744.0,473.0,2444.0,2217.0,0,Dan Quinn,Kyle Shanahan,Richard Smith,Matt Ryan
+71,8,Sun,0.0,6.0,1.0,Tampa Bay Buccaneers,2015,Falcons,193.0,150.0,1915.0,907.0,10.0,12.0,1923.0,550.0,2822.0,2473.0,0,Dan Quinn,Kyle Shanahan,Richard Smith,Matt Ryan
+72,9,Sun,0.0,6.0,0.0,San Francisco 49ers,2015,Falcons,213.0,173.0,2310.0,1008.0,14.0,12.0,2096.0,667.0,3318.0,2763.0,0,Dan Quinn,Kyle Shanahan,Richard Smith,Matt Ryan
+73,11,Sun,0.0,6.0,1.0,Indianapolis Colts,2015,Falcons,229.0,190.0,2595.0,1025.0,14.0,14.0,2281.0,800.0,3620.0,3081.0,1,Dan Quinn,Kyle Shanahan,Richard Smith,Matt Ryan
+74,12,Sun,0.0,6.0,1.0,Minnesota Vikings,2015,Falcons,250.0,214.0,2870.0,1125.0,18.0,17.0,2483.0,874.0,3995.0,3357.0,0,Dan Quinn,Kyle Shanahan,Richard Smith,Matt Ryan
+75,13,Sun,0.0,6.0,0.0,Tampa Bay Buccaneers,2015,Falcons,260.0,234.0,3080.0,1241.0,21.0,18.0,2657.0,1065.0,4321.0,3722.0,0,Dan Quinn,Kyle Shanahan,Richard Smith,Matt Ryan
+76,14,Sun,0.0,6.0,0.0,Carolina Panthers,2015,Falcons,279.0,257.0,3335.0,1305.0,22.0,20.0,2879.0,1231.0,4640.0,4110.0,0,Dan Quinn,Kyle Shanahan,Richard Smith,Matt Ryan
+77,15,Sun,1.0,6.0,0.0,Jacksonville Jaguars,2015,Falcons,279.0,295.0,3511.0,1359.0,26.0,20.0,3161.0,1373.0,4870.0,4534.0,0,Dan Quinn,Kyle Shanahan,Richard Smith,Matt Ryan
+78,16,Sun,1.0,7.0,1.0,Carolina Panthers,2015,Falcons,302.0,312.0,3756.0,1442.0,27.0,21.0,3446.0,1458.0,5198.0,4904.0,0,Dan Quinn,Kyle Shanahan,Richard Smith,Matt Ryan
+79,17,Sun,0.0,8.0,1.0,New Orleans Saints,2015,Falcons,322.0,325.0,4052.0,1519.0,28.0,22.0,3559.0,1613.0,5571.0,5172.0,0,Dan Quinn,Kyle Shanahan,Richard Smith,Matt Ryan
+80,1,Sun,1.0,0.0,1.0,New Orleans Saints,2014,Falcons,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Mike Smith,Dirk Koetter,Mike Nolan,Matt Ryan
+81,2,Sun,0.0,1.0,0.0,Cincinnati Bengals,2014,Falcons,37.0,34.0,445.0,123.0,1.0,2.0,333.0,139.0,568.0,472.0,0,Mike Smith,Dirk Koetter,Mike Nolan,Matt Ryan
+82,3,Thu,1.0,1.0,1.0,Tampa Bay Buccaneers,2014,Falcons,47.0,58.0,657.0,220.0,4.0,2.0,635.0,309.0,877.0,944.0,0,Mike Smith,Dirk Koetter,Mike Nolan,Matt Ryan
+83,4,Sun,0.0,2.0,0.0,Minnesota Vikings,2014,Falcons,103.0,72.0,1001.0,364.0,8.0,7.0,788.0,373.0,1365.0,1161.0,0,Mike Smith,Dirk Koetter,Mike Nolan,Matt Ryan
+84,5,Sun,0.0,2.0,0.0,New York Giants,2014,Falcons,131.0,113.0,1289.0,487.0,10.0,7.0,1105.0,614.0,1776.0,1719.0,0,Mike Smith,Dirk Koetter,Mike Nolan,Matt Ryan
+85,6,Sun,0.0,2.0,1.0,Chicago Bears,2014,Falcons,151.0,143.0,1596.0,577.0,11.0,9.0,1298.0,738.0,2173.0,2036.0,0,Mike Smith,Dirk Koetter,Mike Nolan,Matt Ryan
+86,7,Sun,0.0,2.0,0.0,Baltimore Ravens,2014,Falcons,164.0,170.0,1841.0,619.0,12.0,9.0,1673.0,841.0,2460.0,2514.0,0,Mike Smith,Dirk Koetter,Mike Nolan,Matt Ryan
+87,8,Sun,0.0,2.0,1.0,Detroit Lions,2014,Falcons,171.0,199.0,2027.0,687.0,13.0,12.0,1921.0,964.0,2714.0,2885.0,0,Mike Smith,Dirk Koetter,Mike Nolan,Matt Ryan
+88,10,Sun,1.0,2.0,0.0,Tampa Bay Buccaneers,2014,Falcons,192.0,221.0,2240.0,765.0,14.0,13.0,2246.0,1024.0,3005.0,3270.0,1,Mike Smith,Dirk Koetter,Mike Nolan,Matt Ryan
+89,11,Sun,1.0,3.0,0.0,Carolina Panthers,2014,Falcons,219.0,238.0,2452.0,875.0,14.0,16.0,2527.0,1116.0,3327.0,3643.0,0,Mike Smith,Dirk Koetter,Mike Nolan,Matt Ryan
+90,12,Sun,0.0,4.0,1.0,Cleveland Browns,2014,Falcons,238.0,255.0,2712.0,961.0,15.0,18.0,2812.0,1222.0,3673.0,4034.0,0,Mike Smith,Dirk Koetter,Mike Nolan,Matt Ryan
+91,13,Sun,1.0,4.0,1.0,Arizona Cardinals,2014,Falcons,262.0,281.0,2964.0,1024.0,17.0,21.0,3125.0,1384.0,3988.0,4509.0,0,Mike Smith,Dirk Koetter,Mike Nolan,Matt Ryan
+92,14,Mon,0.0,5.0,0.0,Green Bay Packers,2014,Falcons,291.0,299.0,3322.0,1166.0,18.0,24.0,3419.0,1419.0,4488.0,4838.0,0,Mike Smith,Dirk Koetter,Mike Nolan,Matt Ryan
+93,15,Sun,0.0,5.0,1.0,Pittsburgh Steelers,2014,Falcons,328.0,342.0,3696.0,1257.0,19.0,24.0,3742.0,1598.0,4953.0,5340.0,0,Mike Smith,Dirk Koetter,Mike Nolan,Matt Ryan
+94,16,Sun,1.0,5.0,0.0,New Orleans Saints,2014,Falcons,348.0,369.0,4006.0,1354.0,20.0,24.0,4095.0,1643.0,5360.0,5738.0,0,Mike Smith,Dirk Koetter,Mike Nolan,Matt Ryan
+95,17,Sun,0.0,6.0,1.0,Carolina Panthers,2014,Falcons,378.0,383.0,4328.0,1435.0,20.0,28.0,4366.0,1700.0,5763.0,6066.0,0,Mike Smith,Dirk Koetter,Mike Nolan,Matt Ryan
+96,1,Sun,0.0,0.0,0.0,New Orleans Saints,2013,Falcons,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Mike Smith,Dirk Koetter,Mike Nolan,Matt Ryan
+97,2,Sun,1.0,0.0,1.0,St. Louis Rams,2013,Falcons,17.0,23.0,279.0,88.0,2.0,1.0,341.0,78.0,367.0,419.0,0,Mike Smith,Dirk Koetter,Mike Nolan,Matt Ryan
+98,3,Sun,0.0,1.0,0.0,Miami Dolphins,2013,Falcons,48.0,47.0,636.0,124.0,2.0,2.0,693.0,147.0,760.0,840.0,0,Mike Smith,Dirk Koetter,Mike Nolan,Matt Ryan
+99,4,Sun,0.0,1.0,1.0,New England Patriots,2013,Falcons,71.0,74.0,867.0,270.0,4.0,4.0,888.0,237.0,1137.0,1125.0,0,Mike Smith,Dirk Koetter,Mike Nolan,Matt Ryan
+100,5,Mon,0.0,1.0,1.0,New York Jets,2013,Falcons,94.0,104.0,1266.0,328.0,5.0,4.0,1204.0,369.0,1594.0,1573.0,0,Mike Smith,Dirk Koetter,Mike Nolan,Matt Ryan
+101,7,Sun,1.0,1.0,1.0,Tampa Bay Buccaneers,2013,Falcons,122.0,134.0,1565.0,392.0,6.0,4.0,1374.0,487.0,1957.0,1861.0,1,Mike Smith,Dirk Koetter,Mike Nolan,Matt Ryan
+102,8,Sun,0.0,2.0,0.0,Arizona Cardinals,2013,Falcons,153.0,157.0,1838.0,410.0,7.0,5.0,1600.0,598.0,2248.0,2198.0,0,Mike Smith,Dirk Koetter,Mike Nolan,Matt Ryan
+103,9,Sun,0.0,2.0,0.0,Carolina Panthers,2013,Falcons,166.0,184.0,2103.0,437.0,11.0,6.0,1747.0,799.0,2540.0,2546.0,0,Mike Smith,Dirk Koetter,Mike Nolan,Matt Ryan
+104,10,Sun,0.0,2.0,1.0,Seattle Seahawks,2013,Falcons,176.0,218.0,2314.0,515.0,15.0,8.0,1989.0,930.0,2829.0,2919.0,0,Mike Smith,Dirk Koetter,Mike Nolan,Matt Ryan
+105,11,Sun,0.0,2.0,0.0,Tampa Bay Buccaneers,2013,Falcons,186.0,251.0,2476.0,579.0,16.0,8.0,2268.0,1141.0,3055.0,3409.0,0,Mike Smith,Dirk Koetter,Mike Nolan,Matt Ryan
+106,12,Thu,0.0,2.0,1.0,New Orleans Saints,2013,Falcons,214.0,292.0,2744.0,731.0,19.0,8.0,2492.0,1327.0,3475.0,3819.0,0,Mike Smith,Dirk Koetter,Mike Nolan,Matt Ryan
+107,13,Sun,1.0,2.0,0.0,Buffalo Bills,2013,Falcons,227.0,309.0,3008.0,822.0,20.0,8.0,2763.0,1430.0,3830.0,4193.0,0,Mike Smith,Dirk Koetter,Mike Nolan,Matt Ryan
+108,14,Sun,0.0,3.0,0.0,Green Bay Packers,2013,Falcons,261.0,340.0,3280.0,973.0,21.0,10.0,2973.0,1625.0,4253.0,4598.0,0,Mike Smith,Dirk Koetter,Mike Nolan,Matt Ryan
+109,15,Sun,1.0,3.0,1.0,Washington Redskins,2013,Falcons,282.0,362.0,3482.0,1056.0,23.0,12.0,3195.0,1737.0,4538.0,4932.0,0,Mike Smith,Dirk Koetter,Mike Nolan,Matt Ryan
+110,16,Mon,0.0,4.0,0.0,San Francisco 49ers,2013,Falcons,309.0,388.0,3671.0,1110.0,25.0,19.0,3568.0,1840.0,4781.0,5408.0,0,Mike Smith,Dirk Koetter,Mike Nolan,Matt Ryan
+111,17,Sun,0.0,4.0,1.0,Carolina Panthers,2013,Falcons,333.0,422.0,4012.0,1171.0,27.0,19.0,3748.0,2039.0,5183.0,5787.0,0,Mike Smith,Dirk Koetter,Mike Nolan,Matt Ryan
+112,1,Sun,1.0,0.0,0.0,Kansas City Chiefs,2012,Falcons,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Mike Smith,Dirk Koetter,Mike Nolan,Matt Ryan
+113,2,Mon,1.0,1.0,1.0,Denver Broncos,2012,Falcons,40.0,24.0,292.0,84.0,0.0,3.0,241.0,152.0,376.0,393.0,0,Mike Smith,Dirk Koetter,Mike Nolan,Matt Ryan
+114,3,Sun,1.0,2.0,0.0,San Diego Chargers,2012,Falcons,67.0,45.0,500.0,151.0,0.0,7.0,459.0,270.0,651.0,729.0,0,Mike Smith,Dirk Koetter,Mike Nolan,Matt Ryan
+115,4,Sun,1.0,3.0,1.0,Carolina Panthers,2012,Falcons,94.0,48.0,765.0,270.0,1.0,11.0,623.0,386.0,1035.0,1009.0,0,Mike Smith,Dirk Koetter,Mike Nolan,Matt Ryan
+116,5,Sun,1.0,4.0,0.0,Washington Redskins,2012,Falcons,124.0,76.0,1070.0,391.0,2.0,12.0,828.0,585.0,1461.0,1413.0,0,Mike Smith,Dirk Koetter,Mike Nolan,Matt Ryan
+117,6,Sun,1.0,5.0,1.0,Oakland Raiders,2012,Falcons,148.0,93.0,1408.0,474.0,4.0,14.0,1015.0,714.0,1882.0,1729.0,0,Mike Smith,Dirk Koetter,Mike Nolan,Matt Ryan
+118,8,Sun,1.0,6.0,0.0,Philadelphia Eagles,2012,Falcons,171.0,113.0,1649.0,519.0,7.0,17.0,1340.0,863.0,2168.0,2203.0,1,Mike Smith,Dirk Koetter,Mike Nolan,Matt Ryan
+119,9,Sun,1.0,7.0,1.0,Dallas Cowboys,2012,Falcons,201.0,130.0,1895.0,665.0,7.0,17.0,1518.0,955.0,2560.0,2473.0,0,Mike Smith,Dirk Koetter,Mike Nolan,Matt Ryan
+120,10,Sun,0.0,8.0,0.0,New Orleans Saints,2012,Falcons,220.0,143.0,2225.0,788.0,7.0,17.0,1830.0,1020.0,3013.0,2850.0,0,Mike Smith,Dirk Koetter,Mike Nolan,Matt Ryan
+121,11,Sun,1.0,8.0,1.0,Arizona Cardinals,2012,Falcons,247.0,174.0,2633.0,834.0,8.0,18.0,2122.0,1168.0,3467.0,3290.0,0,Mike Smith,Dirk Koetter,Mike Nolan,Matt Ryan
+122,12,Sun,1.0,9.0,0.0,Tampa Bay Buccaneers,2012,Falcons,270.0,193.0,2929.0,892.0,14.0,19.0,2163.0,1305.0,3821.0,3468.0,0,Mike Smith,Dirk Koetter,Mike Nolan,Matt Ryan
+123,13,Thu,1.0,10.0,1.0,New Orleans Saints,2012,Falcons,294.0,216.0,3274.0,971.0,16.0,19.0,2439.0,1355.0,4245.0,3794.0,0,Mike Smith,Dirk Koetter,Mike Nolan,Matt Ryan
+124,14,Sun,0.0,11.0,0.0,Carolina Panthers,2012,Falcons,317.0,229.0,3433.0,1095.0,17.0,24.0,2774.0,1456.0,4528.0,4230.0,0,Mike Smith,Dirk Koetter,Mike Nolan,Matt Ryan
+125,15,Sun,1.0,11.0,1.0,New York Giants,2012,Falcons,337.0,259.0,3760.0,1130.0,18.0,24.0,3054.0,1651.0,4890.0,4705.0,0,Mike Smith,Dirk Koetter,Mike Nolan,Matt Ryan
+126,16,Sat,1.0,12.0,0.0,Detroit Lions,2012,Falcons,371.0,259.0,4025.0,1259.0,18.0,27.0,3213.0,1748.0,5284.0,4961.0,0,Mike Smith,Dirk Koetter,Mike Nolan,Matt Ryan
+127,17,Sun,0.0,13.0,1.0,Tampa Bay Buccaneers,2012,Falcons,402.0,277.0,4296.0,1332.0,18.0,30.0,3656.0,1827.0,5628.0,5483.0,0,Mike Smith,Dirk Koetter,Mike Nolan,Matt Ryan
+128,1,Sun,0.0,0.0,0.0,Chicago Bears,2011,Falcons,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Mike Smith,Mike Mularkey,Brian VanGorder,Matt Ryan
+129,2,Sun,1.0,0.0,1.0,Philadelphia Eagles,2011,Falcons,12.0,30.0,276.0,110.0,3.0,1.0,289.0,88.0,386.0,377.0,0,Mike Smith,Mike Mularkey,Brian VanGorder,Matt Ryan
+130,3,Sun,0.0,1.0,0.0,Tampa Bay Buccaneers,2011,Falcons,47.0,61.0,456.0,248.0,5.0,4.0,603.0,221.0,704.0,824.0,0,Mike Smith,Mike Mularkey,Brian VanGorder,Matt Ryan
+131,4,Sun,1.0,1.0,0.0,Seattle Seahawks,2011,Falcons,60.0,77.0,751.0,278.0,8.0,6.0,783.0,336.0,1029.0,1119.0,0,Mike Smith,Mike Mularkey,Brian VanGorder,Matt Ryan
+132,5,Sun,0.0,2.0,1.0,Green Bay Packers,2011,Falcons,90.0,105.0,1042.0,399.0,8.0,8.0,1102.0,389.0,1441.0,1491.0,0,Mike Smith,Mike Mularkey,Brian VanGorder,Matt Ryan
+133,6,Sun,1.0,2.0,1.0,Carolina Panthers,2011,Falcons,104.0,130.0,1198.0,494.0,10.0,9.0,1471.0,446.0,1692.0,1917.0,0,Mike Smith,Mike Mularkey,Brian VanGorder,Matt Ryan
+134,7,Sun,1.0,3.0,0.0,Detroit Lions,2011,Falcons,135.0,147.0,1357.0,660.0,10.0,12.0,1700.0,585.0,2017.0,2285.0,0,Mike Smith,Mike Mularkey,Brian VanGorder,Matt Ryan
+135,9,Sun,1.0,4.0,0.0,Indianapolis Colts,2011,Falcons,158.0,163.0,1556.0,789.0,12.0,13.0,1859.0,689.0,2345.0,2548.0,1,Mike Smith,Mike Mularkey,Brian VanGorder,Matt Ryan
+136,10,Sun,0.0,5.0,1.0,New Orleans Saints,2011,Falcons,189.0,170.0,1825.0,952.0,13.0,15.0,1962.0,772.0,2777.0,2734.0,0,Mike Smith,Mike Mularkey,Brian VanGorder,Matt Ryan
+137,11,Sun,1.0,5.0,1.0,Tennessee Titans,2011,Falcons,212.0,196.0,2168.0,1090.0,14.0,15.0,2284.0,813.0,3258.0,3097.0,0,Mike Smith,Mike Mularkey,Brian VanGorder,Matt Ryan
+138,12,Sun,1.0,6.0,1.0,Minnesota Vikings,2011,Falcons,235.0,213.0,2484.0,1206.0,15.0,16.0,2541.0,854.0,3690.0,3395.0,0,Mike Smith,Mike Mularkey,Brian VanGorder,Matt Ryan
+139,13,Sun,0.0,7.0,0.0,Houston Texans,2011,Falcons,259.0,227.0,2730.0,1295.0,16.0,16.0,2703.0,918.0,4025.0,3621.0,0,Mike Smith,Mike Mularkey,Brian VanGorder,Matt Ryan
+140,14,Sun,1.0,7.0,0.0,Carolina Panthers,2011,Falcons,269.0,244.0,2997.0,1365.0,18.0,17.0,2878.0,1080.0,4362.0,3958.0,0,Mike Smith,Mike Mularkey,Brian VanGorder,Matt Ryan
+141,15,Thu,1.0,8.0,1.0,Jacksonville Jaguars,2011,Falcons,300.0,267.0,3305.0,1451.0,18.0,19.0,3137.0,1237.0,4756.0,4374.0,0,Mike Smith,Mike Mularkey,Brian VanGorder,Matt Ryan
+142,16,Mon,0.0,9.0,0.0,New Orleans Saints,2011,Falcons,341.0,281.0,3581.0,1548.0,18.0,23.0,3228.0,1353.0,5129.0,4581.0,0,Mike Smith,Mike Mularkey,Brian VanGorder,Matt Ryan
+143,17,Sun,1.0,9.0,1.0,Tampa Bay Buccaneers,2011,Falcons,357.0,326.0,4015.0,1583.0,19.0,25.0,3527.0,1517.0,5598.0,5044.0,0,Mike Smith,Mike Mularkey,Brian VanGorder,Matt Ryan
+144,1,Sun,0.0,0.0,0.0,Pittsburgh Steelers,2010,Falcons,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Mike Smith,Mike Mularkey,Brian VanGorder,Matt Ryan
+145,2,Sun,1.0,0.0,1.0,Arizona Cardinals,2010,Falcons,9.0,15.0,237.0,58.0,1.0,1.0,211.0,143.0,295.0,354.0,0,Mike Smith,Mike Mularkey,Brian VanGorder,Matt Ryan
+146,3,Sun,1.0,1.0,0.0,New Orleans Saints,2010,Falcons,50.0,22.0,460.0,279.0,2.0,4.0,360.0,261.0,739.0,621.0,0,Mike Smith,Mike Mularkey,Brian VanGorder,Matt Ryan
+147,4,Sun,1.0,2.0,1.0,San Francisco 49ers,2010,Falcons,77.0,46.0,675.0,481.0,3.0,7.0,715.0,304.0,1156.0,1019.0,0,Mike Smith,Mike Mularkey,Brian VanGorder,Matt Ryan
+148,5,Sun,1.0,3.0,0.0,Cleveland Browns,2010,Falcons,93.0,60.0,934.0,579.0,5.0,10.0,896.0,385.0,1513.0,1281.0,0,Mike Smith,Mike Mularkey,Brian VanGorder,Matt Ryan
+149,6,Sun,0.0,4.0,0.0,Philadelphia Eagles,2010,Falcons,113.0,70.0,1107.0,744.0,6.0,13.0,1117.0,433.0,1851.0,1550.0,0,Mike Smith,Mike Mularkey,Brian VanGorder,Matt Ryan
+150,7,Sun,1.0,4.0,1.0,Cincinnati Bengals,2010,Falcons,130.0,101.0,1335.0,809.0,8.0,14.0,1437.0,587.0,2144.0,2024.0,0,Mike Smith,Mike Mularkey,Brian VanGorder,Matt Ryan
+151,9,Sun,1.0,5.0,1.0,Tampa Bay Buccaneers,2010,Falcons,169.0,133.0,1634.0,962.0,10.0,15.0,1822.0,671.0,2596.0,2493.0,1,Mike Smith,Mike Mularkey,Brian VanGorder,Matt Ryan
+152,10,Thu,1.0,6.0,1.0,Baltimore Ravens,2010,Falcons,196.0,154.0,1869.0,1092.0,10.0,17.0,2004.0,767.0,2961.0,2771.0,0,Mike Smith,Mike Mularkey,Brian VanGorder,Matt Ryan
+153,11,Sun,1.0,7.0,0.0,St. Louis Rams,2010,Falcons,222.0,175.0,2171.0,1152.0,10.0,19.0,2208.0,883.0,3323.0,3091.0,0,Mike Smith,Mike Mularkey,Brian VanGorder,Matt Ryan
+154,12,Sun,1.0,8.0,1.0,Green Bay Packers,2010,Falcons,256.0,192.0,2424.0,1290.0,10.0,20.0,2441.0,954.0,3714.0,3395.0,0,Mike Smith,Mike Mularkey,Brian VanGorder,Matt Ryan
+155,13,Sun,1.0,9.0,0.0,Tampa Bay Buccaneers,2010,Falcons,276.0,209.0,2601.0,1407.0,10.0,21.0,2782.0,1031.0,4008.0,3813.0,0,Mike Smith,Mike Mularkey,Brian VanGorder,Matt Ryan
+156,14,Sun,1.0,10.0,0.0,Carolina Panthers,2010,Falcons,304.0,233.0,2806.0,1492.0,12.0,22.0,2956.0,1182.0,4298.0,4138.0,0,Mike Smith,Mike Mularkey,Brian VanGorder,Matt Ryan
+157,15,Sun,1.0,11.0,0.0,Seattle Seahawks,2010,Falcons,335.0,243.0,3006.0,1619.0,13.0,24.0,3032.0,1394.0,4625.0,4426.0,0,Mike Smith,Mike Mularkey,Brian VanGorder,Matt Ryan
+158,16,Mon,0.0,12.0,1.0,New Orleans Saints,2010,Falcons,369.0,261.0,3174.0,1717.0,14.0,27.0,3175.0,1485.0,4891.0,4660.0,0,Mike Smith,Mike Mularkey,Brian VanGorder,Matt Ryan
+159,17,Sun,1.0,12.0,1.0,Carolina Panthers,2010,Falcons,383.0,278.0,3314.0,1792.0,16.0,29.0,3471.0,1557.0,5106.0,5028.0,0,Mike Smith,Mike Mularkey,Brian VanGorder,Matt Ryan

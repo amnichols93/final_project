@@ -1,0 +1,161 @@
+,Week,Day,Results,Wins Tally,Home,Opp,year,Base_Team,PF Tally,PA Tally,OPassY Tally,ORushY Tally,TO_lost Tally,TO_won Tally,DPassY Tally,DRushY Tally,OTotYd Tally,DTotYd Tally,after_bye,Head_Coach,OC,DC,QB
+0,1,Mon,1.0,0.0,1.0,Denver Broncos,2019,Raiders,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Jon Gruden,Greg Olson,Paul Guenther,Derek Carr
+1,2,Sun,0.0,1.0,1.0,Kansas City Chiefs,2019,Raiders,24.0,16.0,259.0,98.0,0.0,0.0,249.0,95.0,357.0,344.0,0,Jon Gruden,Greg Olson,Paul Guenther,Derek Carr
+2,3,Sun,0.0,1.0,0.0,Minnesota Vikings,2019,Raiders,34.0,44.0,437.0,227.0,2.0,1.0,685.0,126.0,664.0,811.0,0,Jon Gruden,Greg Olson,Paul Guenther,Derek Carr
+3,4,Sun,1.0,1.0,0.0,Indianapolis Colts,2019,Raiders,48.0,78.0,651.0,315.0,3.0,1.0,859.0,337.0,966.0,1196.0,0,Jon Gruden,Greg Olson,Paul Guenther,Derek Carr
+4,5,Sun,1.0,2.0,1.0,Chicago Bears,2019,Raiders,79.0,102.0,840.0,503.0,4.0,3.0,1124.0,418.0,1343.0,1542.0,0,Jon Gruden,Greg Olson,Paul Guenther,Derek Carr
+5,7,Sun,0.0,3.0,0.0,Green Bay Packers,2019,Raiders,103.0,123.0,1069.0,672.0,6.0,5.0,1318.0,460.0,1741.0,1778.0,1,Jon Gruden,Greg Olson,Paul Guenther,Derek Carr
+6,8,Sun,0.0,3.0,0.0,Houston Texans,2019,Raiders,127.0,165.0,1398.0,827.0,8.0,5.0,1739.0,520.0,2225.0,2259.0,0,Jon Gruden,Greg Olson,Paul Guenther,Derek Carr
+7,9,Sun,1.0,3.0,1.0,Detroit Lions,2019,Raiders,151.0,192.0,1683.0,920.0,8.0,5.0,1997.0,650.0,2603.0,2647.0,0,Jon Gruden,Greg Olson,Paul Guenther,Derek Carr
+8,10,Thu,1.0,4.0,1.0,Los Angeles Chargers,2019,Raiders,182.0,216.0,1962.0,1091.0,8.0,7.0,2380.0,740.0,3053.0,3120.0,0,Jon Gruden,Greg Olson,Paul Guenther,Derek Carr
+9,11,Sun,1.0,5.0,1.0,Cincinnati Bengals,2019,Raiders,208.0,240.0,2162.0,1169.0,8.0,10.0,2549.0,886.0,3331.0,3435.0,0,Jon Gruden,Greg Olson,Paul Guenther,Derek Carr
+10,12,Sun,0.0,6.0,0.0,New York Jets,2019,Raiders,225.0,250.0,2435.0,1282.0,10.0,12.0,2622.0,1059.0,3717.0,3681.0,0,Jon Gruden,Greg Olson,Paul Guenther,Derek Carr
+11,13,Sun,0.0,6.0,0.0,Kansas City Chiefs,2019,Raiders,228.0,284.0,2575.0,1350.0,12.0,13.0,2935.0,1147.0,3925.0,4082.0,0,Jon Gruden,Greg Olson,Paul Guenther,Derek Carr
+12,14,Sun,0.0,6.0,1.0,Tennessee Titans,2019,Raiders,237.0,324.0,2785.0,1472.0,15.0,13.0,3098.0,1243.0,4257.0,4341.0,0,Jon Gruden,Greg Olson,Paul Guenther,Derek Carr
+13,15,Sun,0.0,6.0,1.0,Jacksonville Jaguars,2019,Raiders,258.0,366.0,3043.0,1569.0,16.0,14.0,3489.0,1404.0,4612.0,4893.0,0,Jon Gruden,Greg Olson,Paul Guenther,Derek Carr
+14,16,Sun,1.0,6.0,0.0,Los Angeles Chargers,2019,Raiders,274.0,386.0,3279.0,1697.0,16.0,14.0,3674.0,1481.0,4976.0,5155.0,0,Jon Gruden,Greg Olson,Paul Guenther,Derek Carr
+15,17,Sun,0.0,7.0,0.0,Denver Broncos,2019,Raiders,298.0,403.0,3546.0,1796.0,16.0,14.0,3939.0,1500.0,5342.0,5439.0,0,Jon Gruden,Greg Olson,Paul Guenther,Derek Carr
+16,1,Mon,0.0,0.0,1.0,Los Angeles Rams,2018,Raiders,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Jon Gruden,Greg Olson,Paul Guenther,Derek Carr
+17,2,Sun,0.0,0.0,0.0,Denver Broncos,2018,Raiders,13.0,33.0,300.0,95.0,3.0,0.0,225.0,140.0,395.0,365.0,0,Jon Gruden,Greg Olson,Paul Guenther,Derek Carr
+18,3,Sun,0.0,0.0,0.0,Miami Dolphins,2018,Raiders,32.0,53.0,581.0,187.0,3.0,1.0,442.0,308.0,768.0,750.0,0,Jon Gruden,Greg Olson,Paul Guenther,Derek Carr
+19,4,Sun,1.0,0.0,1.0,Cleveland Browns,2018,Raiders,52.0,81.0,906.0,296.0,5.0,1.0,774.0,349.0,1202.0,1123.0,0,Jon Gruden,Greg Olson,Paul Guenther,Derek Carr
+20,5,Sun,0.0,1.0,0.0,Los Angeles Chargers,2018,Raiders,97.0,123.0,1332.0,435.0,7.0,5.0,1053.0,557.0,1767.0,1610.0,0,Jon Gruden,Greg Olson,Paul Guenther,Derek Carr
+21,6,Sun,0.0,1.0,1.0,Seattle Seahawks,2018,Raiders,107.0,149.0,1580.0,476.0,9.0,5.0,1386.0,636.0,2056.0,2022.0,0,Jon Gruden,Greg Olson,Paul Guenther,Derek Carr
+22,8,Sun,0.0,1.0,1.0,Indianapolis Colts,2018,Raiders,110.0,176.0,1686.0,555.0,11.0,6.0,1600.0,791.0,2241.0,2391.0,1,Jon Gruden,Greg Olson,Paul Guenther,Derek Carr
+23,9,Thu,0.0,1.0,0.0,San Francisco 49ers,2018,Raiders,138.0,218.0,1930.0,658.0,12.0,6.0,1839.0,1013.0,2588.0,2852.0,0,Jon Gruden,Greg Olson,Paul Guenther,Derek Carr
+24,10,Sun,0.0,1.0,1.0,Los Angeles Chargers,2018,Raiders,141.0,252.0,2070.0,760.0,12.0,6.0,2101.0,1156.0,2830.0,3257.0,0,Jon Gruden,Greg Olson,Paul Guenther,Derek Carr
+25,11,Sun,1.0,1.0,0.0,Arizona Cardinals,2018,Raiders,147.0,272.0,2273.0,874.0,13.0,7.0,2323.0,1269.0,3147.0,3592.0,0,Jon Gruden,Greg Olson,Paul Guenther,Derek Carr
+26,12,Sun,0.0,2.0,0.0,Baltimore Ravens,2018,Raiders,170.0,293.0,2446.0,1026.0,13.0,9.0,2451.0,1423.0,3472.0,3874.0,0,Jon Gruden,Greg Olson,Paul Guenther,Derek Carr
+27,13,Sun,0.0,2.0,1.0,Kansas City Chiefs,2018,Raiders,187.0,327.0,2628.0,1093.0,14.0,11.0,2625.0,1665.0,3721.0,4290.0,0,Jon Gruden,Greg Olson,Paul Guenther,Derek Carr
+28,14,Sun,1.0,2.0,1.0,Pittsburgh Steelers,2018,Raiders,220.0,367.0,2899.0,1264.0,17.0,12.0,2920.0,1839.0,4163.0,4759.0,0,Jon Gruden,Greg Olson,Paul Guenther,Derek Carr
+29,15,Sun,0.0,3.0,0.0,Cincinnati Bengals,2018,Raiders,244.0,388.0,3198.0,1319.0,18.0,13.0,3220.0,1879.0,4517.0,5099.0,0,Jon Gruden,Greg Olson,Paul Guenther,Derek Carr
+30,16,Mon,1.0,3.0,1.0,Denver Broncos,2018,Raiders,260.0,418.0,3427.0,1387.0,20.0,14.0,3343.0,2050.0,4814.0,5393.0,0,Jon Gruden,Greg Olson,Paul Guenther,Derek Carr
+31,17,Sun,0.0,4.0,0.0,Kansas City Chiefs,2018,Raiders,287.0,432.0,3586.0,1501.0,20.0,16.0,3543.0,2150.0,5087.0,5693.0,0,Jon Gruden,Greg Olson,Paul Guenther,Derek Carr
+32,1,Sun,1.0,0.0,0.0,Tennessee Titans,2017,Raiders,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Jack Del Rio,Todd Downing,Ken Norton,Derek Carr
+33,2,Sun,1.0,1.0,1.0,New York Jets,2017,Raiders,26.0,16.0,250.0,109.0,0.0,0.0,255.0,95.0,359.0,350.0,0,Jack Del Rio,Todd Downing,Ken Norton,Derek Carr
+34,3,Sun,0.0,2.0,0.0,Washington Redskins,2017,Raiders,71.0,36.0,480.0,289.0,0.0,2.0,400.0,221.0,769.0,621.0,0,Jack Del Rio,Todd Downing,Ken Norton,Derek Carr
+35,4,Sun,0.0,2.0,0.0,Denver Broncos,2017,Raiders,81.0,63.0,576.0,321.0,3.0,4.0,756.0,337.0,897.0,1093.0,0,Jack Del Rio,Todd Downing,Ken Norton,Derek Carr
+36,5,Sun,0.0,2.0,1.0,Baltimore Ravens,2017,Raiders,91.0,79.0,806.0,345.0,4.0,4.0,911.0,480.0,1151.0,1391.0,0,EJ Manuel,Todd Downing,Ken Norton,Derek Carr
+37,6,Sun,0.0,2.0,1.0,Los Angeles Chargers,2017,Raiders,108.0,109.0,943.0,453.0,5.0,4.0,1133.0,623.0,1396.0,1756.0,0,Jack Del Rio,Todd Downing,Ken Norton,Derek Carr
+38,7,Thu,1.0,2.0,1.0,Kansas City Chiefs,2017,Raiders,124.0,126.0,1108.0,562.0,7.0,5.0,1396.0,703.0,1670.0,2099.0,0,Jack Del Rio,Todd Downing,Ken Norton,Derek Carr
+39,8,Sun,0.0,3.0,0.0,Buffalo Bills,2017,Raiders,155.0,156.0,1525.0,650.0,7.0,5.0,1727.0,797.0,2175.0,2524.0,0,Jack Del Rio,Todd Downing,Ken Norton,Derek Carr
+40,9,Sun,1.0,3.0,0.0,Miami Dolphins,2017,Raiders,169.0,190.0,1838.0,704.0,11.0,5.0,1892.0,963.0,2542.0,2855.0,0,Jack Del Rio,Todd Downing,Ken Norton,Derek Carr
+41,11,Sun,0.0,4.0,1.0,New England Patriots,2017,Raiders,196.0,214.0,2133.0,788.0,13.0,6.0,2201.0,1049.0,2921.0,3250.0,1,Jack Del Rio,Todd Downing,Ken Norton,Derek Carr
+42,12,Sun,1.0,4.0,1.0,Denver Broncos,2017,Raiders,204.0,247.0,2368.0,897.0,15.0,6.0,2533.0,1138.0,3265.0,3671.0,0,Jack Del Rio,Todd Downing,Ken Norton,Derek Carr
+43,13,Sun,1.0,5.0,1.0,New York Giants,2017,Raiders,225.0,261.0,2612.0,1001.0,16.0,7.0,2693.0,1194.0,3613.0,3887.0,0,Jack Del Rio,Todd Downing,Ken Norton,Derek Carr
+44,14,Sun,0.0,6.0,0.0,Kansas City Chiefs,2017,Raiders,249.0,278.0,2894.0,1120.0,17.0,9.0,2893.0,1259.0,4014.0,4152.0,0,Jack Del Rio,Todd Downing,Ken Norton,Derek Carr
+45,15,Sun,0.0,6.0,1.0,Dallas Cowboys,2017,Raiders,264.0,304.0,3092.0,1190.0,20.0,10.0,3136.0,1424.0,4282.0,4560.0,0,Jack Del Rio,Todd Downing,Ken Norton,Derek Carr
+46,16,Mon,0.0,6.0,0.0,Philadelphia Eagles,2017,Raiders,281.0,324.0,3263.0,1312.0,21.0,12.0,3340.0,1550.0,4575.0,4890.0,0,Jack Del Rio,Todd Downing,Ken Norton,Derek Carr
+47,17,Sun,0.0,6.0,0.0,Los Angeles Chargers,2017,Raiders,291.0,343.0,3400.0,1449.0,26.0,14.0,3478.0,1628.0,4849.0,5106.0,0,Jack Del Rio,Todd Downing,Ken Norton,Derek Carr
+48,1,Sun,1.0,0.0,0.0,New Orleans Saints,2016,Raiders,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Jack Del Rio,Bill Musgrave,Ken Norton,Derek Carr
+49,2,Sun,0.0,1.0,1.0,Atlanta Falcons,2016,Raiders,35.0,34.0,319.0,167.0,0.0,1.0,419.0,88.0,486.0,507.0,0,Jack Del Rio,Bill Musgrave,Ken Norton,Derek Carr
+50,3,Sun,1.0,1.0,0.0,Tennessee Titans,2016,Raiders,63.0,69.0,618.0,322.0,0.0,2.0,808.0,227.0,940.0,1035.0,0,Jack Del Rio,Bill Musgrave,Ken Norton,Derek Carr
+51,4,Sun,1.0,2.0,0.0,Baltimore Ravens,2016,Raiders,80.0,79.0,863.0,445.0,1.0,5.0,1020.0,408.0,1308.0,1428.0,0,Jack Del Rio,Bill Musgrave,Ken Norton,Derek Carr
+52,5,Sun,1.0,3.0,1.0,San Diego Chargers,2016,Raiders,108.0,106.0,1062.0,507.0,2.0,6.0,1302.0,538.0,1569.0,1840.0,0,Jack Del Rio,Bill Musgrave,Ken Norton,Derek Carr
+53,6,Sun,0.0,4.0,1.0,Kansas City Chiefs,2016,Raiders,142.0,137.0,1362.0,596.0,3.0,10.0,1653.0,610.0,1958.0,2263.0,0,Jack Del Rio,Bill Musgrave,Ken Norton,Derek Carr
+54,7,Sun,1.0,4.0,0.0,Jacksonville Jaguars,2016,Raiders,152.0,163.0,1583.0,660.0,5.0,10.0,1876.0,793.0,2243.0,2669.0,0,Jack Del Rio,Bill Musgrave,Ken Norton,Derek Carr
+55,8,Sun,1.0,5.0,0.0,Tampa Bay Buccaneers,2016,Raiders,185.0,179.0,1783.0,804.0,5.0,13.0,2115.0,898.0,2587.0,3013.0,0,Jack Del Rio,Bill Musgrave,Ken Norton,Derek Carr
+56,9,Sun,1.0,6.0,1.0,Denver Broncos,2016,Raiders,215.0,203.0,2281.0,932.0,6.0,13.0,2283.0,1000.0,3213.0,3283.0,0,Jack Del Rio,Bill Musgrave,Ken Norton,Derek Carr
+57,11,Mon,1.0,7.0,1.0,Houston Texans,2016,Raiders,245.0,223.0,2460.0,1150.0,6.0,15.0,2549.0,1033.0,3610.0,3582.0,1,Jack Del Rio,Bill Musgrave,Ken Norton,Derek Carr
+58,12,Sun,1.0,8.0,1.0,Carolina Panthers,2016,Raiders,272.0,243.0,2755.0,1180.0,7.0,17.0,2779.0,1157.0,3935.0,3936.0,0,Jack Del Rio,Bill Musgrave,Ken Norton,Derek Carr
+59,13,Sun,1.0,9.0,1.0,Buffalo Bills,2016,Raiders,307.0,275.0,3065.0,1236.0,9.0,19.0,3008.0,1286.0,4301.0,4294.0,0,Jack Del Rio,Bill Musgrave,Ken Norton,Derek Carr
+60,14,Thu,0.0,10.0,0.0,Kansas City Chiefs,2016,Raiders,345.0,299.0,3325.0,1375.0,9.0,21.0,3178.0,1498.0,4700.0,4676.0,0,Jack Del Rio,Bill Musgrave,Ken Norton,Derek Carr
+61,15,Sun,1.0,10.0,0.0,San Diego Chargers,2016,Raiders,358.0,320.0,3434.0,1510.0,9.0,24.0,3436.0,1563.0,4944.0,4999.0,0,Jack Del Rio,Bill Musgrave,Ken Norton,Derek Carr
+62,16,Sat,1.0,11.0,1.0,Indianapolis Colts,2016,Raiders,377.0,336.0,3634.0,1655.0,11.0,26.0,3626.0,1636.0,5289.0,5262.0,0,Jack Del Rio,Bill Musgrave,Ken Norton,Derek Carr
+63,17,Sun,0.0,12.0,0.0,Denver Broncos,2016,Raiders,410.0,361.0,3887.0,1865.0,11.0,29.0,3914.0,1738.0,5752.0,5652.0,0,Matt McGloin,Bill Musgrave,Ken Norton,Derek Carr
+64,1,Sun,0.0,0.0,1.0,Cincinnati Bengals,2015,Raiders,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Jack Del Rio,Bill Musgrave,Ken Norton,Derek Carr
+65,2,Sun,1.0,0.0,1.0,Baltimore Ravens,2015,Raiders,13.0,33.0,183.0,63.0,2.0,0.0,269.0,127.0,246.0,396.0,0,Jack Del Rio,Bill Musgrave,Ken Norton,Derek Carr
+66,3,Sun,1.0,1.0,0.0,Cleveland Browns,2015,Raiders,50.0,66.0,534.0,160.0,3.0,2.0,653.0,236.0,694.0,889.0,0,Jack Del Rio,Bill Musgrave,Ken Norton,Derek Carr
+67,4,Sun,0.0,2.0,0.0,Chicago Bears,2015,Raiders,77.0,86.0,848.0,315.0,4.0,4.0,969.0,275.0,1163.0,1244.0,0,Jack Del Rio,Bill Musgrave,Ken Norton,Derek Carr
+68,5,Sun,0.0,2.0,1.0,Denver Broncos,2015,Raiders,97.0,108.0,1021.0,385.0,6.0,7.0,1242.0,373.0,1406.0,1615.0,0,Jack Del Rio,Bill Musgrave,Ken Norton,Derek Carr
+69,7,Sun,1.0,2.0,0.0,San Diego Chargers,2015,Raiders,107.0,124.0,1244.0,450.0,9.0,9.0,1496.0,416.0,1694.0,1912.0,1,Jack Del Rio,Bill Musgrave,Ken Norton,Derek Carr
+70,8,Sun,1.0,3.0,1.0,New York Jets,2015,Raiders,144.0,153.0,1526.0,580.0,9.0,11.0,1823.0,506.0,2106.0,2329.0,0,Jack Del Rio,Bill Musgrave,Ken Norton,Derek Carr
+71,9,Sun,0.0,4.0,0.0,Pittsburgh Steelers,2015,Raiders,178.0,173.0,1859.0,698.0,9.0,12.0,2115.0,580.0,2557.0,2695.0,0,Jack Del Rio,Bill Musgrave,Ken Norton,Derek Carr
+72,10,Sun,0.0,4.0,1.0,Minnesota Vikings,2015,Raiders,213.0,211.0,2160.0,837.0,13.0,14.0,2517.0,775.0,2997.0,3292.0,0,Jack Del Rio,Bill Musgrave,Ken Norton,Derek Carr
+73,11,Sun,0.0,4.0,0.0,Detroit Lions,2015,Raiders,227.0,241.0,2447.0,921.0,15.0,14.0,2639.0,1038.0,3368.0,3677.0,0,Jack Del Rio,Bill Musgrave,Ken Norton,Derek Carr
+74,12,Sun,1.0,4.0,0.0,Tennessee Titans,2015,Raiders,240.0,259.0,2611.0,973.0,15.0,14.0,2905.0,1147.0,3584.0,4052.0,0,Jack Del Rio,Bill Musgrave,Ken Norton,Derek Carr
+75,13,Sun,0.0,5.0,1.0,Kansas City Chiefs,2015,Raiders,264.0,280.0,2934.0,1057.0,17.0,16.0,3110.0,1191.0,3991.0,4301.0,0,Jack Del Rio,Bill Musgrave,Ken Norton,Derek Carr
+76,14,Sun,1.0,5.0,0.0,Denver Broncos,2015,Raiders,284.0,314.0,3196.0,1156.0,20.0,18.0,3253.0,1280.0,4352.0,4533.0,0,Jack Del Rio,Bill Musgrave,Ken Norton,Derek Carr
+77,15,Sun,0.0,6.0,1.0,Green Bay Packers,2015,Raiders,299.0,326.0,3295.0,1183.0,20.0,20.0,3529.0,1314.0,4478.0,4843.0,0,Jack Del Rio,Bill Musgrave,Ken Norton,Derek Carr
+78,16,Thu,1.0,6.0,1.0,San Diego Chargers,2015,Raiders,319.0,356.0,3547.0,1303.0,22.0,22.0,3719.0,1417.0,4850.0,5136.0,0,Jack Del Rio,Bill Musgrave,Ken Norton,Derek Carr
+79,17,Sun,0.0,7.0,0.0,Kansas City Chiefs,2015,Raiders,342.0,376.0,3722.0,1409.0,23.0,23.0,3990.0,1489.0,5131.0,5479.0,0,Jack Del Rio,Bill Musgrave,Ken Norton,Derek Carr
+80,1,Sun,0.0,0.0,0.0,New York Jets,2014,Raiders,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Dennis Allen,Greg Olson,Jason Tarver,Derek Carr
+81,2,Sun,0.0,0.0,1.0,Houston Texans,2014,Raiders,14.0,19.0,133.0,25.0,0.0,2.0,190.0,212.0,158.0,402.0,0,Dennis Allen,Greg Olson,Jason Tarver,Derek Carr
+82,3,Sun,0.0,0.0,0.0,New England Patriots,2014,Raiders,28.0,49.0,396.0,126.0,4.0,2.0,329.0,400.0,522.0,729.0,0,Dennis Allen,Greg Olson,Jason Tarver,Derek Carr
+83,4,Sun,0.0,0.0,1.0,Miami Dolphins,2014,Raiders,37.0,65.0,570.0,193.0,5.0,2.0,550.0,476.0,763.0,1026.0,0,Dennis Allen,Greg Olson,Jason Tarver,Derek Carr
+84,6,Sun,0.0,0.0,1.0,San Diego Chargers,2014,Raiders,51.0,103.0,834.0,246.0,9.0,5.0,828.0,633.0,1080.0,1461.0,1,Dennis Allen,Greg Olson,Jason Tarver,Derek Carr
+85,7,Sun,0.0,0.0,1.0,Arizona Cardinals,2014,Raiders,79.0,134.0,1116.0,360.0,10.0,5.0,1135.0,749.0,1476.0,1884.0,0,Dennis Allen,Greg Olson,Jason Tarver,Derek Carr
+86,8,Sun,0.0,0.0,0.0,Cleveland Browns,2014,Raiders,92.0,158.0,1280.0,416.0,10.0,6.0,1377.0,872.0,1696.0,2249.0,0,Dennis Allen,Greg Olson,Jason Tarver,Derek Carr
+87,9,Sun,0.0,0.0,0.0,Seattle Seahawks,2014,Raiders,105.0,181.0,1591.0,492.0,13.0,6.0,1644.0,911.0,2083.0,2555.0,0,Dennis Allen,Greg Olson,Jason Tarver,Derek Carr
+88,10,Sun,0.0,0.0,1.0,Denver Broncos,2014,Raiders,129.0,211.0,1780.0,529.0,16.0,6.0,1821.0,1060.0,2309.0,2881.0,0,Dennis Allen,Greg Olson,Jason Tarver,Derek Carr
+89,11,Sun,0.0,0.0,0.0,San Diego Chargers,2014,Raiders,146.0,252.0,1972.0,559.0,19.0,8.0,2174.0,1178.0,2531.0,3352.0,0,Dennis Allen,Greg Olson,Jason Tarver,Derek Carr
+90,12,Thu,1.0,0.0,1.0,Kansas City Chiefs,2014,Raiders,152.0,265.0,2134.0,630.0,20.0,8.0,2354.0,1298.0,2764.0,3652.0,0,Dennis Allen,Greg Olson,Jason Tarver,Derek Carr
+91,13,Sun,0.0,1.0,0.0,St. Louis Rams,2014,Raiders,176.0,285.0,2306.0,809.0,21.0,8.0,2571.0,1394.0,3115.0,3965.0,0,Dennis Allen,Greg Olson,Jason Tarver,Derek Carr
+92,14,Sun,1.0,1.0,1.0,San Francisco 49ers,2014,Raiders,176.0,337.0,2489.0,870.0,26.0,8.0,2747.0,1566.0,3359.0,4313.0,0,Dennis Allen,Greg Olson,Jason Tarver,Derek Carr
+93,15,Sun,0.0,2.0,0.0,Kansas City Chiefs,2014,Raiders,200.0,350.0,2734.0,955.0,26.0,10.0,2898.0,1663.0,3689.0,4561.0,0,Dennis Allen,Greg Olson,Jason Tarver,Derek Carr
+94,16,Sun,1.0,2.0,1.0,Buffalo Bills,2014,Raiders,213.0,381.0,2936.0,1033.0,27.0,11.0,3193.0,1756.0,3969.0,4949.0,0,Dennis Allen,Greg Olson,Jason Tarver,Derek Carr
+95,17,Sun,0.0,3.0,0.0,Denver Broncos,2014,Raiders,239.0,405.0,3143.0,1173.0,27.0,13.0,3501.0,1769.0,4316.0,5270.0,0,Dennis Allen,Greg Olson,Jason Tarver,Derek Carr
+96,1,Sun,0.0,0.0,0.0,Indianapolis Colts,2013,Raiders,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Dennis Allen,Greg Olson,Jason Tarver,Terrelle Pryor
+97,2,Sun,1.0,0.0,1.0,Jacksonville Jaguars,2013,Raiders,17.0,21.0,201.0,171.0,2.0,0.0,147.0,127.0,372.0,274.0,0,Dennis Allen,Greg Olson,Jason Tarver,Terrelle Pryor
+98,3,Mon,0.0,1.0,0.0,Denver Broncos,2013,Raiders,36.0,30.0,315.0,397.0,3.0,0.0,361.0,161.0,712.0,522.0,0,Dennis Allen,Greg Olson,Jason Tarver,Terrelle Pryor
+99,4,Sun,0.0,1.0,1.0,Washington Redskins,2013,Raiders,57.0,67.0,608.0,446.0,3.0,2.0,733.0,325.0,1054.0,1058.0,0,Dennis Allen,Greg Olson,Jason Tarver,Matt Flynn
+100,5,Sun,1.0,1.0,1.0,San Diego Chargers,2013,Raiders,71.0,91.0,802.0,550.0,6.0,3.0,950.0,447.0,1352.0,1397.0,0,Dennis Allen,Greg Olson,Jason Tarver,Terrelle Pryor
+101,6,Sun,0.0,2.0,0.0,Kansas City Chiefs,2013,Raiders,98.0,108.0,997.0,654.0,6.0,8.0,1341.0,483.0,1651.0,1824.0,0,Dennis Allen,Greg Olson,Jason Tarver,Terrelle Pryor
+102,8,Sun,1.0,2.0,1.0,Pittsburgh Steelers,2013,Raiders,105.0,132.0,1150.0,775.0,9.0,9.0,1446.0,594.0,1925.0,2040.0,1,Dennis Allen,Greg Olson,Jason Tarver,Terrelle Pryor
+103,9,Sun,0.0,3.0,1.0,Philadelphia Eagles,2013,Raiders,126.0,150.0,1232.0,972.0,12.0,11.0,1687.0,629.0,2204.0,2316.0,0,Dennis Allen,Greg Olson,Jason Tarver,Terrelle Pryor
+104,10,Sun,0.0,3.0,0.0,New York Giants,2013,Raiders,146.0,199.0,1582.0,1182.0,14.0,11.0,2105.0,753.0,2764.0,2858.0,0,Dennis Allen,Greg Olson,Jason Tarver,Terrelle Pryor
+105,11,Sun,1.0,3.0,0.0,Houston Texans,2013,Raiders,166.0,223.0,1688.0,1289.0,16.0,14.0,2223.0,886.0,2977.0,3109.0,0,Dennis Allen,Greg Olson,Jason Tarver,Terrelle Pryor
+106,12,Sun,0.0,4.0,1.0,Tennessee Titans,2013,Raiders,194.0,246.0,1864.0,1454.0,16.0,16.0,2527.0,976.0,3318.0,3503.0,0,Dennis Allen,Greg Olson,Jason Tarver,Terrelle Pryor
+107,13,Thu,0.0,4.0,0.0,Dallas Cowboys,2013,Raiders,213.0,269.0,2124.0,1547.0,18.0,16.0,2839.0,1090.0,3671.0,3929.0,0,Dennis Allen,Greg Olson,Jason Tarver,Terrelle Pryor
+108,14,Sun,0.0,4.0,0.0,New York Jets,2013,Raiders,237.0,300.0,2379.0,1597.0,20.0,17.0,3047.0,1234.0,3976.0,4281.0,0,Dennis Allen,Greg Olson,Jason Tarver,Terrelle Pryor
+109,15,Sun,0.0,4.0,1.0,Kansas City Chiefs,2013,Raiders,264.0,337.0,2612.0,1747.0,21.0,18.0,3256.0,1377.0,4359.0,4633.0,0,Dennis Allen,Greg Olson,Jason Tarver,Terrelle Pryor
+110,16,Sun,0.0,4.0,0.0,San Diego Chargers,2013,Raiders,295.0,393.0,2943.0,1877.0,28.0,19.0,3562.0,1455.0,4820.0,5017.0,0,Dennis Allen,Greg Olson,Jason Tarver,Terrelle Pryor
+111,17,Sun,0.0,4.0,1.0,Denver Broncos,2013,Raiders,308.0,419.0,3149.0,1936.0,30.0,22.0,3758.0,1603.0,5085.0,5361.0,0,Dennis Allen,Greg Olson,Jason Tarver,Terrelle Pryor
+112,1,Mon,0.0,0.0,1.0,San Diego Chargers,2012,Raiders,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Dennis Allen,Greg Knapp,Jason Tarver,Carson Palmer
+113,2,Sun,0.0,0.0,0.0,Miami Dolphins,2012,Raiders,14.0,22.0,276.0,45.0,1.0,0.0,226.0,32.0,321.0,258.0,0,Dennis Allen,Greg Knapp,Jason Tarver,Carson Palmer
+114,3,Sun,1.0,0.0,1.0,Pittsburgh Steelers,2012,Raiders,27.0,57.0,649.0,68.0,2.0,0.0,415.0,295.0,717.0,710.0,0,Dennis Allen,Greg Knapp,Jason Tarver,Carson Palmer
+115,4,Sun,0.0,1.0,0.0,Denver Broncos,2012,Raiders,61.0,88.0,851.0,187.0,3.0,2.0,794.0,349.0,1038.0,1143.0,0,Dennis Allen,Greg Knapp,Jason Tarver,Carson Palmer
+116,6,Sun,0.0,1.0,0.0,Atlanta Falcons,2012,Raiders,67.0,125.0,1032.0,243.0,3.0,3.0,1132.0,514.0,1275.0,1646.0,1,Dennis Allen,Greg Knapp,Jason Tarver,Carson Palmer
+117,7,Sun,1.0,1.0,1.0,Jacksonville Jaguars,2012,Raiders,87.0,148.0,1357.0,392.0,6.0,6.0,1373.0,559.0,1749.0,1932.0,0,Dennis Allen,Greg Knapp,Jason Tarver,Carson Palmer
+118,8,Sun,1.0,2.0,0.0,Kansas City Chiefs,2012,Raiders,113.0,171.0,1639.0,461.0,9.0,7.0,1528.0,613.0,2100.0,2141.0,0,Dennis Allen,Greg Knapp,Jason Tarver,Carson Palmer
+119,9,Sun,0.0,3.0,1.0,Tampa Bay Buccaneers,2012,Raiders,139.0,187.0,1848.0,596.0,10.0,11.0,1725.0,715.0,2444.0,2440.0,0,Dennis Allen,Greg Knapp,Jason Tarver,Carson Palmer
+120,10,Sun,0.0,3.0,0.0,Baltimore Ravens,2012,Raiders,171.0,229.0,2250.0,618.0,13.0,12.0,1962.0,993.0,2868.0,2955.0,0,Dennis Allen,Greg Knapp,Jason Tarver,Carson Palmer
+121,11,Sun,0.0,3.0,1.0,New Orleans Saints,2012,Raiders,191.0,284.0,2600.0,690.0,16.0,13.0,2303.0,1071.0,3290.0,3374.0,0,Dennis Allen,Greg Knapp,Jason Tarver,Carson Palmer
+122,12,Sun,0.0,3.0,0.0,Cincinnati Bengals,2012,Raiders,208.0,322.0,2884.0,810.0,18.0,13.0,2532.0,1222.0,3694.0,3754.0,0,Dennis Allen,Greg Knapp,Jason Tarver,Carson Palmer
+123,13,Sun,0.0,3.0,1.0,Cleveland Browns,2012,Raiders,218.0,356.0,3003.0,909.0,20.0,13.0,2726.0,1443.0,3912.0,4169.0,0,Dennis Allen,Greg Knapp,Jason Tarver,Carson Palmer
+124,14,Thu,0.0,3.0,1.0,Denver Broncos,2012,Raiders,235.0,376.0,3347.0,994.0,21.0,15.0,3079.0,1565.0,4341.0,4644.0,0,Dennis Allen,Greg Knapp,Jason Tarver,Carson Palmer
+125,15,Sun,1.0,3.0,1.0,Kansas City Chiefs,2012,Raiders,248.0,402.0,3610.0,1055.0,23.0,16.0,3367.0,1705.0,4665.0,5072.0,0,Dennis Allen,Greg Knapp,Jason Tarver,Carson Palmer
+126,16,Sun,0.0,4.0,0.0,Carolina Panthers,2012,Raiders,263.0,402.0,3792.0,1258.0,24.0,17.0,3476.0,1715.0,5050.0,5191.0,0,Dennis Allen,Greg Knapp,Jason Tarver,Carson Palmer
+127,17,Sun,0.0,4.0,0.0,San Diego Chargers,2012,Raiders,269.0,419.0,3934.0,1305.0,25.0,19.0,3635.0,1827.0,5239.0,5462.0,0,Terrelle Pryor,Greg Knapp,Jason Tarver,Carson Palmer
+128,1,Mon,1.0,0.0,0.0,Denver Broncos,2011,Raiders,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Hue Jackson,Al Saunders,Chuck Bresnahan,Carson Palmer
+129,2,Sun,0.0,1.0,0.0,Buffalo Bills,2011,Raiders,23.0,20.0,99.0,190.0,1.0,3.0,272.0,38.0,289.0,310.0,0,Hue Jackson,Al Saunders,Chuck Bresnahan,Carson Palmer
+130,3,Sun,1.0,1.0,1.0,New York Jets,2011,Raiders,58.0,58.0,422.0,321.0,3.0,4.0,530.0,261.0,743.0,791.0,0,Hue Jackson,Al Saunders,Chuck Bresnahan,Carson Palmer
+131,4,Sun,0.0,2.0,1.0,New England Patriots,2011,Raiders,92.0,82.0,571.0,555.0,3.0,6.0,869.0,361.0,1126.0,1230.0,0,Hue Jackson,Al Saunders,Chuck Bresnahan,Carson Palmer
+132,5,Sun,1.0,2.0,0.0,Houston Texans,2011,Raiders,111.0,113.0,915.0,715.0,5.0,6.0,1095.0,544.0,1630.0,1639.0,0,Hue Jackson,Al Saunders,Chuck Bresnahan,Carson Palmer
+133,6,Sun,1.0,3.0,1.0,Cleveland Browns,2011,Raiders,136.0,133.0,1099.0,809.0,6.0,8.0,1498.0,614.0,1908.0,2112.0,0,Hue Jackson,Al Saunders,Chuck Bresnahan,Carson Palmer
+134,7,Sun,0.0,4.0,1.0,Kansas City Chiefs,2011,Raiders,160.0,150.0,1277.0,960.0,7.0,9.0,1701.0,679.0,2237.0,2380.0,0,Hue Jackson,Al Saunders,Chuck Bresnahan,Kyle Boller
+135,9,Sun,0.0,4.0,1.0,Denver Broncos,2011,Raiders,160.0,178.0,1444.0,1115.0,13.0,11.0,1862.0,818.0,2559.0,2680.0,1,Hue Jackson,Al Saunders,Chuck Bresnahan,Carson Palmer
+136,10,Thu,1.0,4.0,0.0,San Diego Chargers,2011,Raiders,184.0,216.0,1760.0,1215.0,16.0,11.0,1975.0,1117.0,2975.0,3092.0,0,Hue Jackson,Al Saunders,Chuck Bresnahan,Carson Palmer
+137,11,Sun,1.0,5.0,0.0,Minnesota Vikings,2011,Raiders,208.0,233.0,2058.0,1406.0,18.0,13.0,2214.0,1192.0,3464.0,3406.0,0,Hue Jackson,Al Saunders,Chuck Bresnahan,Carson Palmer
+138,12,Sun,1.0,6.0,1.0,Chicago Bears,2011,Raiders,235.0,254.0,2197.0,1568.0,19.0,18.0,2401.0,1316.0,3765.0,3717.0,0,Hue Jackson,Al Saunders,Chuck Bresnahan,Carson Palmer
+139,13,Sun,0.0,7.0,0.0,Miami Dolphins,2011,Raiders,260.0,274.0,2465.0,1641.0,20.0,21.0,2630.0,1488.0,4106.0,4118.0,0,Hue Jackson,Al Saunders,Chuck Bresnahan,Carson Palmer
+140,14,Sun,0.0,7.0,0.0,Green Bay Packers,2011,Raiders,274.0,308.0,2723.0,1687.0,21.0,21.0,2783.0,1697.0,4410.0,4480.0,0,Hue Jackson,Al Saunders,Chuck Bresnahan,Carson Palmer
+141,15,Sun,0.0,7.0,1.0,Detroit Lions,2011,Raiders,290.0,354.0,2963.0,1804.0,26.0,22.0,3038.0,1833.0,4767.0,4871.0,0,Hue Jackson,Al Saunders,Chuck Bresnahan,Carson Palmer
+142,16,Sat,1.0,7.0,0.0,Kansas City Chiefs,2011,Raiders,317.0,382.0,3308.0,1936.0,27.0,23.0,3413.0,1890.0,5244.0,5303.0,0,Hue Jackson,Al Saunders,Chuck Bresnahan,Carson Palmer
+143,17,Sun,0.0,8.0,1.0,San Diego Chargers,2011,Raiders,333.0,395.0,3545.0,2007.0,29.0,25.0,3713.0,2025.0,5552.0,5738.0,0,Hue Jackson,Al Saunders,Chuck Bresnahan,Carson Palmer
+144,1,Sun,0.0,0.0,0.0,Tennessee Titans,2010,Raiders,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Tom Cable,Hue Jackson,John Marshall,Jason Campbell
+145,2,Sun,1.0,0.0,1.0,St. Louis Rams,2010,Raiders,13.0,38.0,150.0,136.0,2.0,1.0,140.0,205.0,286.0,345.0,0,Tom Cable,Hue Jackson,John Marshall,Jason Campbell
+146,3,Sun,0.0,1.0,0.0,Arizona Cardinals,2010,Raiders,29.0,52.0,381.0,309.0,4.0,2.0,275.0,280.0,690.0,555.0,0,Tom Cable,Hue Jackson,John Marshall,Jason Campbell
+147,4,Sun,0.0,1.0,1.0,Houston Texans,2010,Raiders,52.0,76.0,612.0,442.0,5.0,5.0,383.0,399.0,1054.0,782.0,0,Tom Cable,Hue Jackson,John Marshall,Jason Campbell
+148,5,Sun,1.0,1.0,1.0,San Diego Chargers,2010,Raiders,76.0,107.0,857.0,560.0,8.0,5.0,575.0,648.0,1417.0,1223.0,0,Tom Cable,Hue Jackson,John Marshall,Jason Campbell
+149,6,Sun,0.0,2.0,0.0,San Francisco 49ers,2010,Raiders,111.0,134.0,1025.0,671.0,8.0,8.0,990.0,739.0,1696.0,1729.0,0,Tom Cable,Hue Jackson,John Marshall,Jason Campbell
+150,7,Sun,1.0,2.0,0.0,Denver Broncos,2010,Raiders,120.0,151.0,1094.0,781.0,10.0,8.0,1181.0,897.0,1875.0,2078.0,0,Tom Cable,Hue Jackson,John Marshall,Jason Campbell
+151,8,Sun,1.0,3.0,1.0,Seattle Seahawks,2010,Raiders,179.0,165.0,1274.0,1109.0,10.0,11.0,1346.0,972.0,2383.0,2318.0,0,Tom Cable,Hue Jackson,John Marshall,Jason Campbell
+152,9,Sun,1.0,4.0,1.0,Kansas City Chiefs,2010,Raiders,212.0,168.0,1580.0,1348.0,10.0,12.0,1463.0,1019.0,2928.0,2482.0,0,Tom Cable,Hue Jackson,John Marshall,Jason Campbell
+153,11,Sun,0.0,5.0,0.0,Pittsburgh Steelers,2010,Raiders,235.0,188.0,1789.0,1460.0,13.0,14.0,1663.0,1123.0,3249.0,2786.0,1,Tom Cable,Hue Jackson,John Marshall,Jason Campbell
+154,12,Sun,0.0,5.0,1.0,Miami Dolphins,2010,Raiders,238.0,223.0,1910.0,1521.0,16.0,15.0,1932.0,1285.0,3431.0,3217.0,0,Tom Cable,Hue Jackson,John Marshall,Bruce Gradkowski
+155,13,Sun,1.0,5.0,0.0,San Diego Chargers,2010,Raiders,255.0,256.0,2157.0,1537.0,19.0,16.0,2217.0,1471.0,3694.0,3688.0,0,Tom Cable,Hue Jackson,John Marshall,Jason Campbell
+156,14,Sun,0.0,6.0,0.0,Jacksonville Jaguars,2010,Raiders,283.0,269.0,2274.0,1788.0,20.0,18.0,2482.0,1492.0,4062.0,3974.0,0,Tom Cable,Hue Jackson,John Marshall,Jason Campbell
+157,15,Sun,1.0,6.0,1.0,Denver Broncos,2010,Raiders,314.0,307.0,2597.0,1941.0,22.0,19.0,2633.0,1726.0,4538.0,4359.0,0,Tom Cable,Hue Jackson,John Marshall,Jason Campbell
+158,16,Sun,0.0,7.0,1.0,Indianapolis Colts,2010,Raiders,353.0,330.0,2835.0,2205.0,25.0,20.0,2762.0,1832.0,5040.0,4594.0,0,Tom Cable,Hue Jackson,John Marshall,Jason Campbell
+159,17,Sun,1.0,7.0,0.0,Kansas City Chiefs,2010,Raiders,379.0,361.0,3045.0,2285.0,25.0,22.0,2941.0,2023.0,5330.0,4964.0,0,Tom Cable,Hue Jackson,John Marshall,Jason Campbell

@@ -1,0 +1,161 @@
+,Week,Day,Results,Wins Tally,Home,Opp,year,Base_Team,PF Tally,PA Tally,OPassY Tally,ORushY Tally,TO_lost Tally,TO_won Tally,DPassY Tally,DRushY Tally,OTotYd Tally,DTotYd Tally,after_bye,Head_Coach,OC,DC,QB
+0,1,Thu,1.0,0.0,0.0,Chicago Bears,2019,Packers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Matt LaFleur,Nathaniel Hackett,Mike Pettine,Aaron Rodgers
+1,2,Sun,1.0,1.0,1.0,Minnesota Vikings,2019,Packers,10.0,3.0,166.0,47.0,0.0,1.0,208.0,46.0,213.0,254.0,0,Matt LaFleur,Nathaniel Hackett,Mike Pettine,Aaron Rodgers
+2,3,Sun,1.0,2.0,1.0,Denver Broncos,2019,Packers,31.0,19.0,357.0,191.0,2.0,5.0,431.0,244.0,548.0,675.0,0,Matt LaFleur,Nathaniel Hackett,Mike Pettine,Aaron Rodgers
+3,4,Thu,0.0,3.0,1.0,Philadelphia Eagles,2019,Packers,58.0,35.0,592.0,268.0,2.0,8.0,592.0,393.0,860.0,985.0,0,Matt LaFleur,Nathaniel Hackett,Mike Pettine,Aaron Rodgers
+4,5,Sun,1.0,3.0,0.0,Dallas Cowboys,2019,Packers,85.0,69.0,1006.0,345.0,4.0,8.0,752.0,569.0,1351.0,1321.0,0,Matt LaFleur,Nathaniel Hackett,Mike Pettine,Aaron Rodgers
+5,6,Mon,1.0,4.0,1.0,Detroit Lions,2019,Packers,119.0,93.0,1221.0,465.0,4.0,11.0,1193.0,691.0,1686.0,1884.0,0,Matt LaFleur,Nathaniel Hackett,Mike Pettine,Aaron Rodgers
+6,7,Sun,1.0,5.0,1.0,Oakland Raiders,2019,Packers,142.0,115.0,1498.0,635.0,7.0,11.0,1436.0,747.0,2133.0,2183.0,0,Matt LaFleur,Nathaniel Hackett,Mike Pettine,Aaron Rodgers
+7,8,Sun,1.0,6.0,0.0,Kansas City Chiefs,2019,Packers,184.0,139.0,1919.0,695.0,7.0,13.0,1765.0,902.0,2614.0,2667.0,0,Matt LaFleur,Nathaniel Hackett,Mike Pettine,Aaron Rodgers
+8,9,Sun,0.0,7.0,0.0,Los Angeles Chargers,2019,Packers,215.0,163.0,2175.0,813.0,7.0,14.0,2014.0,990.0,2988.0,3004.0,0,Matt LaFleur,Nathaniel Hackett,Mike Pettine,Aaron Rodgers
+9,10,Sun,1.0,7.0,1.0,Carolina Panthers,2019,Packers,226.0,189.0,2314.0,858.0,7.0,14.0,2297.0,1149.0,3172.0,3446.0,0,Matt LaFleur,Nathaniel Hackett,Mike Pettine,Aaron Rodgers
+10,12,Sun,0.0,8.0,0.0,San Francisco 49ers,2019,Packers,250.0,205.0,2539.0,1021.0,7.0,16.0,2578.0,1269.0,3560.0,3847.0,1,Matt LaFleur,Nathaniel Hackett,Mike Pettine,Aaron Rodgers
+11,13,Sun,1.0,8.0,0.0,New York Giants,2019,Packers,258.0,242.0,2620.0,1138.0,8.0,16.0,2805.0,1381.0,3758.0,4186.0,0,Matt LaFleur,Nathaniel Hackett,Mike Pettine,Aaron Rodgers
+12,14,Sun,1.0,9.0,1.0,Washington Redskins,2019,Packers,289.0,255.0,2863.0,1217.0,8.0,19.0,3045.0,1476.0,4080.0,4521.0,0,Matt LaFleur,Nathaniel Hackett,Mike Pettine,Aaron Rodgers
+13,15,Sun,1.0,10.0,1.0,Chicago Bears,2019,Packers,309.0,270.0,3030.0,1391.0,9.0,20.0,3186.0,1597.0,4421.0,4783.0,0,Matt LaFleur,Nathaniel Hackett,Mike Pettine,Aaron Rodgers
+14,16,Mon,1.0,11.0,0.0,Minnesota Vikings,2019,Packers,330.0,283.0,3222.0,1491.0,9.0,23.0,3505.0,1693.0,4713.0,5198.0,0,Matt LaFleur,Nathaniel Hackett,Mike Pettine,Aaron Rodgers
+15,17,Sun,1.0,12.0,0.0,Detroit Lions,2019,Packers,353.0,293.0,3421.0,1675.0,12.0,24.0,3587.0,1750.0,5096.0,5337.0,0,Matt LaFleur,Nathaniel Hackett,Mike Pettine,Aaron Rodgers
+16,1,Sun,1.0,0.0,1.0,Chicago Bears,2018,Packers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Mike McCarthy,Joe Philbin,Mike Pettine,Aaron Rodgers
+17,2,Sun,0.0,1.0,1.0,Minnesota Vikings,2018,Packers,24.0,23.0,301.0,69.0,2.0,1.0,155.0,139.0,370.0,294.0,0,Mike McCarthy,Joe Philbin,Mike Pettine,Aaron Rodgers
+18,3,Sun,0.0,1.0,0.0,Washington Redskins,2018,Packers,53.0,52.0,554.0,167.0,2.0,2.0,567.0,207.0,721.0,774.0,0,Mike McCarthy,Joe Philbin,Mike Pettine,Aaron Rodgers
+19,4,Sun,1.0,1.0,1.0,Buffalo Bills,2018,Packers,70.0,83.0,794.0,267.0,3.0,3.0,787.0,373.0,1061.0,1160.0,0,Mike McCarthy,Joe Philbin,Mike Pettine,Aaron Rodgers
+20,5,Sun,0.0,2.0,0.0,Detroit Lions,2018,Packers,92.0,83.0,1076.0,408.0,5.0,6.0,874.0,431.0,1484.0,1305.0,0,Mike McCarthy,Joe Philbin,Mike Pettine,Aaron Rodgers
+21,6,Mon,1.0,2.0,1.0,San Francisco 49ers,2018,Packers,115.0,114.0,1499.0,506.0,8.0,6.0,1044.0,525.0,2005.0,1569.0,0,Mike McCarthy,Joe Philbin,Mike Pettine,Aaron Rodgers
+22,8,Sun,0.0,3.0,0.0,Los Angeles Rams,2018,Packers,148.0,144.0,1904.0,622.0,8.0,9.0,1271.0,699.0,2526.0,1970.0,1,Mike McCarthy,Joe Philbin,Mike Pettine,Aaron Rodgers
+23,9,Sun,0.0,3.0,0.0,New England Patriots,2018,Packers,175.0,173.0,2157.0,728.0,9.0,9.0,1552.0,834.0,2885.0,2386.0,0,Mike McCarthy,Joe Philbin,Mike Pettine,Aaron Rodgers
+24,10,Sun,1.0,3.0,1.0,Miami Dolphins,2018,Packers,192.0,204.0,2407.0,845.0,10.0,9.0,1862.0,957.0,3252.0,2819.0,0,Mike McCarthy,Joe Philbin,Mike Pettine,Aaron Rodgers
+25,11,Thu,0.0,4.0,0.0,Seattle Seahawks,2018,Packers,223.0,216.0,2589.0,1040.0,11.0,11.0,2025.0,1088.0,3629.0,3113.0,0,Mike McCarthy,Joe Philbin,Mike Pettine,Aaron Rodgers
+26,12,Sun,0.0,4.0,0.0,Minnesota Vikings,2018,Packers,247.0,243.0,2900.0,1088.0,11.0,12.0,2230.0,1261.0,3988.0,3491.0,0,Mike McCarthy,Joe Philbin,Mike Pettine,Aaron Rodgers
+27,13,Sun,0.0,4.0,1.0,Arizona Cardinals,2018,Packers,264.0,267.0,3072.0,1170.0,12.0,12.0,2555.0,1352.0,4242.0,3907.0,0,Mike McCarthy,Joe Philbin,Mike Pettine,Aaron Rodgers
+28,14,Sun,1.0,4.0,1.0,Atlanta Falcons,2018,Packers,281.0,287.0,3299.0,1268.0,12.0,12.0,2688.0,1534.0,4567.0,4222.0,0,Mike McCarthy,Joe Philbin,Mike Pettine,Aaron Rodgers
+29,15,Sun,0.0,5.0,0.0,Chicago Bears,2018,Packers,315.0,307.0,3461.0,1406.0,12.0,14.0,2925.0,1641.0,4867.0,4566.0,0,Mike McCarthy,Joe Philbin,Mike Pettine,Aaron Rodgers
+30,16,Sun,1.0,5.0,0.0,New York Jets,2018,Packers,332.0,331.0,3696.0,1494.0,13.0,15.0,3157.0,1741.0,5190.0,4898.0,0,Mike McCarthy,Joe Philbin,Mike Pettine,Aaron Rodgers
+31,17,Sun,0.0,6.0,1.0,Detroit Lions,2018,Packers,376.0,369.0,4109.0,1621.0,14.0,15.0,3480.0,1788.0,5730.0,5268.0,0,Mike McCarthy,Joe Philbin,Mike Pettine,Aaron Rodgers
+32,1,Sun,1.0,0.0,1.0,Seattle Seahawks,2017,Packers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Mike McCarthy,Edgar Bennett,Dom Capers,Brett Hundley
+33,2,Sun,0.0,1.0,0.0,Atlanta Falcons,2017,Packers,17.0,9.0,286.0,84.0,1.0,1.0,135.0,90.0,370.0,225.0,0,Mike McCarthy,Edgar Bennett,Dom Capers,Brett Hundley
+34,3,Sun,1.0,1.0,1.0,Cincinnati Bengals,2017,Packers,40.0,43.0,594.0,143.0,3.0,1.0,358.0,231.0,737.0,589.0,0,Mike McCarthy,Edgar Bennett,Dom Capers,Brett Hundley
+35,4,Thu,1.0,2.0,1.0,Chicago Bears,2017,Packers,67.0,67.0,874.0,207.0,4.0,2.0,549.0,341.0,1081.0,890.0,0,Mike McCarthy,Edgar Bennett,Dom Capers,Brett Hundley
+36,5,Sun,1.0,3.0,0.0,Dallas Cowboys,2017,Packers,102.0,81.0,1043.0,298.0,4.0,6.0,754.0,444.0,1341.0,1198.0,0,Mike McCarthy,Edgar Bennett,Dom Capers,Brett Hundley
+37,6,Sun,0.0,4.0,0.0,Minnesota Vikings,2017,Packers,137.0,112.0,1225.0,458.0,5.0,9.0,999.0,607.0,1683.0,1606.0,0,Mike McCarthy,Edgar Bennett,Dom Capers,Brett Hundley
+38,7,Sun,0.0,4.0,1.0,New Orleans Saints,2017,Packers,147.0,135.0,1380.0,530.0,8.0,11.0,1238.0,719.0,1910.0,1957.0,0,Mike McCarthy,Edgar Bennett,Dom Capers,Brett Hundley
+39,9,Mon,0.0,4.0,1.0,Detroit Lions,2017,Packers,164.0,161.0,1459.0,711.0,9.0,13.0,1562.0,880.0,2170.0,2442.0,1,Mike McCarthy,Edgar Bennett,Dom Capers,Brett Hundley
+40,10,Sun,1.0,4.0,0.0,Chicago Bears,2017,Packers,181.0,191.0,1692.0,789.0,9.0,14.0,1915.0,944.0,2481.0,2859.0,0,Mike McCarthy,Edgar Bennett,Dom Capers,Brett Hundley
+41,11,Sun,0.0,5.0,1.0,Baltimore Ravens,2017,Packers,204.0,207.0,1874.0,949.0,9.0,15.0,2183.0,999.0,2823.0,3182.0,0,Mike McCarthy,Edgar Bennett,Dom Capers,Brett Hundley
+42,12,Sun,0.0,5.0,0.0,Pittsburgh Steelers,2017,Packers,204.0,230.0,2064.0,1024.0,14.0,16.0,2344.0,1057.0,3088.0,3401.0,0,Mike McCarthy,Edgar Bennett,Dom Capers,Brett Hundley
+43,13,Sun,1.0,5.0,1.0,Tampa Bay Buccaneers,2017,Packers,232.0,261.0,2291.0,1104.0,14.0,19.0,2685.0,1178.0,3395.0,3863.0,0,Mike McCarthy,Edgar Bennett,Dom Capers,Brett Hundley
+44,14,Sun,1.0,6.0,0.0,Cleveland Browns,2017,Packers,258.0,281.0,2368.0,1303.0,15.0,20.0,2915.0,1343.0,3671.0,4258.0,0,Mike McCarthy,Edgar Bennett,Dom Capers,Brett Hundley
+45,15,Sun,0.0,7.0,0.0,Carolina Panthers,2017,Packers,285.0,302.0,2624.0,1388.0,15.0,22.0,3124.0,1479.0,4012.0,4603.0,0,Mike McCarthy,Edgar Bennett,Dom Capers,Aaron Rodgers
+46,16,Sat,0.0,7.0,1.0,Minnesota Vikings,2017,Packers,309.0,333.0,2888.0,1508.0,19.0,22.0,3360.0,1630.0,4396.0,4990.0,0,Mike McCarthy,Edgar Bennett,Dom Capers,Brett Hundley
+47,17,Sun,0.0,7.0,0.0,Detroit Lions,2017,Packers,309.0,349.0,3014.0,1621.0,21.0,22.0,3484.0,1742.0,4635.0,5226.0,0,Mike McCarthy,Edgar Bennett,Dom Capers,Brett Hundley
+48,1,Sun,1.0,0.0,0.0,Jacksonville Jaguars,2016,Packers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Mike McCarthy,Edgar Bennett,Dom Capers,Aaron Rodgers
+49,2,Sun,0.0,1.0,0.0,Minnesota Vikings,2016,Packers,27.0,23.0,199.0,95.0,0.0,1.0,300.0,48.0,294.0,348.0,0,Mike McCarthy,Edgar Bennett,Dom Capers,Aaron Rodgers
+50,3,Sun,1.0,1.0,1.0,Detroit Lions,2016,Packers,41.0,40.0,379.0,178.0,3.0,2.0,554.0,78.0,557.0,632.0,0,Mike McCarthy,Edgar Bennett,Dom Capers,Aaron Rodgers
+51,5,Sun,1.0,2.0,1.0,New York Giants,2016,Packers,75.0,67.0,580.0,301.0,3.0,3.0,922.0,128.0,881.0,1050.0,1,Mike McCarthy,Edgar Bennett,Dom Capers,Aaron Rodgers
+52,6,Sun,0.0,3.0,1.0,Dallas Cowboys,2016,Packers,98.0,83.0,839.0,448.0,5.0,4.0,1100.0,171.0,1287.0,1271.0,0,Mike McCarthy,Edgar Bennett,Dom Capers,Aaron Rodgers
+53,7,Thu,1.0,3.0,1.0,Chicago Bears,2016,Packers,114.0,113.0,1133.0,526.0,9.0,6.0,1333.0,362.0,1659.0,1695.0,0,Mike McCarthy,Edgar Bennett,Dom Capers,Aaron Rodgers
+54,8,Sun,0.0,4.0,0.0,Atlanta Falcons,2016,Packers,140.0,123.0,1436.0,629.0,10.0,8.0,1453.0,431.0,2065.0,1884.0,0,Mike McCarthy,Edgar Bennett,Dom Capers,Aaron Rodgers
+55,9,Sun,0.0,4.0,1.0,Indianapolis Colts,2016,Packers,172.0,156.0,1659.0,737.0,10.0,8.0,1730.0,521.0,2396.0,2251.0,0,Mike McCarthy,Edgar Bennett,Dom Capers,Aaron Rodgers
+56,10,Sun,0.0,4.0,0.0,Tennessee Titans,2016,Packers,198.0,187.0,1948.0,853.0,11.0,10.0,2000.0,606.0,2801.0,2606.0,0,Mike McCarthy,Edgar Bennett,Dom Capers,Aaron Rodgers
+57,11,Sun,0.0,4.0,0.0,Washington Redskins,2016,Packers,223.0,234.0,2281.0,922.0,14.0,10.0,2292.0,760.0,3203.0,3052.0,0,Mike McCarthy,Edgar Bennett,Dom Capers,Aaron Rodgers
+58,12,Mon,1.0,4.0,0.0,Philadelphia Eagles,2016,Packers,247.0,276.0,2621.0,1006.0,16.0,10.0,2656.0,911.0,3627.0,3567.0,0,Mike McCarthy,Edgar Bennett,Dom Capers,Aaron Rodgers
+59,13,Sun,1.0,5.0,1.0,Houston Texans,2016,Packers,274.0,289.0,2934.0,1080.0,16.0,11.0,2867.0,992.0,4014.0,3859.0,0,Mike McCarthy,Edgar Bennett,Dom Capers,Aaron Rodgers
+60,14,Sun,1.0,6.0,1.0,Seattle Seahawks,2016,Packers,295.0,302.0,3134.0,1189.0,17.0,12.0,3051.0,1115.0,4323.0,4166.0,0,Mike McCarthy,Edgar Bennett,Dom Capers,Aaron Rodgers
+61,15,Sun,1.0,7.0,0.0,Chicago Bears,2016,Packers,333.0,312.0,3371.0,1282.0,17.0,18.0,3269.0,1251.0,4653.0,4520.0,0,Mike McCarthy,Edgar Bennett,Dom Capers,Aaron Rodgers
+62,16,Sat,1.0,8.0,1.0,Minnesota Vikings,2016,Packers,363.0,339.0,3596.0,1508.0,17.0,22.0,3623.0,1346.0,5104.0,4969.0,0,Mike McCarthy,Edgar Bennett,Dom Capers,Aaron Rodgers
+63,17,Sun,1.0,9.0,0.0,Detroit Lions,2016,Packers,401.0,364.0,3904.0,1548.0,17.0,24.0,3976.0,1439.0,5452.0,5415.0,0,Mike McCarthy,Edgar Bennett,Dom Capers,Aaron Rodgers
+64,1,Sun,1.0,0.0,0.0,Chicago Bears,2015,Packers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Mike McCarthy,Edgar Bennett,Dom Capers,Aaron Rodgers
+65,2,Sun,1.0,1.0,1.0,Seattle Seahawks,2015,Packers,31.0,23.0,189.0,133.0,0.0,1.0,213.0,189.0,322.0,402.0,0,Mike McCarthy,Edgar Bennett,Dom Capers,Aaron Rodgers
+66,3,Mon,1.0,2.0,1.0,Kansas City Chiefs,2015,Packers,58.0,40.0,423.0,260.0,1.0,3.0,418.0,308.0,683.0,726.0,0,Mike McCarthy,Edgar Bennett,Dom Capers,Aaron Rodgers
+67,4,Sun,1.0,3.0,0.0,San Francisco 49ers,2015,Packers,96.0,68.0,748.0,383.0,1.0,4.0,669.0,383.0,1131.0,1052.0,0,Mike McCarthy,Edgar Bennett,Dom Capers,Aaron Rodgers
+68,5,Sun,1.0,4.0,1.0,St. Louis Rams,2015,Packers,113.0,71.0,948.0,545.0,1.0,5.0,788.0,460.0,1493.0,1248.0,0,Mike McCarthy,Edgar Bennett,Dom Capers,Aaron Rodgers
+69,6,Sun,1.0,5.0,1.0,San Diego Chargers,2015,Packers,137.0,81.0,1184.0,631.0,4.0,9.0,931.0,651.0,1815.0,1582.0,0,Mike McCarthy,Edgar Bennett,Dom Capers,Aaron Rodgers
+70,8,Sun,0.0,6.0,0.0,Denver Broncos,2015,Packers,164.0,101.0,1421.0,764.0,4.0,10.0,1419.0,711.0,2185.0,2130.0,1,Mike McCarthy,Edgar Bennett,Dom Capers,Aaron Rodgers
+71,9,Sun,0.0,6.0,0.0,Carolina Panthers,2015,Packers,174.0,130.0,1471.0,854.0,4.0,11.0,1759.0,871.0,2325.0,2630.0,0,Mike McCarthy,Edgar Bennett,Dom Capers,Aaron Rodgers
+72,10,Sun,0.0,6.0,1.0,Detroit Lions,2015,Packers,203.0,167.0,1802.0,925.0,6.0,12.0,2056.0,1001.0,2727.0,3057.0,0,Mike McCarthy,Edgar Bennett,Dom Capers,Aaron Rodgers
+73,11,Sun,1.0,6.0,0.0,Minnesota Vikings,2015,Packers,219.0,185.0,2127.0,972.0,6.0,13.0,2298.0,1046.0,3099.0,3344.0,0,Mike McCarthy,Edgar Bennett,Dom Capers,Aaron Rodgers
+74,12,Thu,0.0,7.0,1.0,Chicago Bears,2015,Packers,249.0,198.0,2323.0,1096.0,6.0,14.0,2546.0,1140.0,3419.0,3686.0,0,Mike McCarthy,Edgar Bennett,Dom Capers,Aaron Rodgers
+75,13,Thu,1.0,7.0,0.0,Detroit Lions,2015,Packers,262.0,215.0,2511.0,1273.0,8.0,14.0,2735.0,1241.0,3784.0,3976.0,0,Mike McCarthy,Edgar Bennett,Dom Capers,Aaron Rodgers
+76,14,Sun,1.0,8.0,1.0,Dallas Cowboys,2015,Packers,289.0,238.0,2757.0,1340.0,9.0,15.0,2940.0,1342.0,4097.0,4282.0,0,Mike McCarthy,Edgar Bennett,Dom Capers,Aaron Rodgers
+77,15,Sun,1.0,9.0,0.0,Oakland Raiders,2015,Packers,317.0,245.0,2962.0,1570.0,9.0,16.0,3039.0,1513.0,4532.0,4552.0,0,Mike McCarthy,Edgar Bennett,Dom Capers,Aaron Rodgers
+78,16,Sun,0.0,10.0,0.0,Arizona Cardinals,2015,Packers,347.0,265.0,3152.0,1673.0,11.0,18.0,3291.0,1633.0,4825.0,4924.0,0,Mike McCarthy,Edgar Bennett,Dom Capers,Aaron Rodgers
+79,17,Sun,0.0,10.0,1.0,Minnesota Vikings,2015,Packers,355.0,303.0,3229.0,1774.0,15.0,20.0,3551.0,1754.0,5003.0,5305.0,0,Mike McCarthy,Edgar Bennett,Dom Capers,Aaron Rodgers
+80,1,Thu,0.0,0.0,0.0,Seattle Seahawks,2014,Packers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Mike McCarthy,Tom Clements,Dom Capers,Aaron Rodgers
+81,2,Sun,1.0,0.0,1.0,New York Jets,2014,Packers,16.0,36.0,175.0,80.0,1.0,1.0,191.0,207.0,255.0,398.0,0,Mike McCarthy,Tom Clements,Dom Capers,Aaron Rodgers
+82,3,Sun,0.0,1.0,0.0,Detroit Lions,2014,Packers,47.0,60.0,485.0,160.0,2.0,2.0,357.0,354.0,645.0,711.0,0,Mike McCarthy,Tom Clements,Dom Capers,Aaron Rodgers
+83,4,Sun,1.0,1.0,0.0,Chicago Bears,2014,Packers,54.0,79.0,632.0,236.0,3.0,5.0,595.0,469.0,868.0,1064.0,0,Mike McCarthy,Tom Clements,Dom Capers,Aaron Rodgers
+84,5,Thu,1.0,2.0,1.0,Minnesota Vikings,2014,Packers,92.0,96.0,934.0,292.0,3.0,7.0,856.0,704.0,1226.0,1560.0,0,Mike McCarthy,Tom Clements,Dom Capers,Aaron Rodgers
+85,6,Sun,1.0,3.0,0.0,Miami Dolphins,2014,Packers,134.0,106.0,1098.0,448.0,4.0,10.0,1044.0,815.0,1546.0,1859.0,0,Mike McCarthy,Tom Clements,Dom Capers,Aaron Rodgers
+86,7,Sun,1.0,4.0,1.0,Carolina Panthers,2014,Packers,161.0,130.0,1346.0,569.0,4.0,13.0,1281.0,927.0,1915.0,2208.0,0,Mike McCarthy,Tom Clements,Dom Capers,Aaron Rodgers
+87,8,Sun,0.0,5.0,0.0,New Orleans Saints,2014,Packers,199.0,147.0,1587.0,691.0,4.0,14.0,1504.0,1035.0,2278.0,2539.0,0,Mike McCarthy,Tom Clements,Dom Capers,Aaron Rodgers
+88,10,Sun,1.0,5.0,1.0,Chicago Bears,2014,Packers,222.0,191.0,1989.0,780.0,7.0,15.0,1806.0,1228.0,2769.0,3034.0,1,Mike McCarthy,Tom Clements,Dom Capers,Aaron Rodgers
+89,11,Sun,1.0,6.0,1.0,Philadelphia Eagles,2014,Packers,277.0,205.0,2308.0,912.0,8.0,18.0,2062.0,1283.0,3220.0,3345.0,0,Mike McCarthy,Tom Clements,Dom Capers,Aaron Rodgers
+90,12,Sun,1.0,7.0,0.0,Minnesota Vikings,2014,Packers,330.0,225.0,2673.0,1022.0,8.0,22.0,2382.0,1392.0,3695.0,3774.0,0,Mike McCarthy,Tom Clements,Dom Capers,Aaron Rodgers
+91,13,Sun,1.0,8.0,1.0,New England Patriots,2014,Packers,354.0,246.0,2880.0,1177.0,8.0,23.0,2578.0,1504.0,4057.0,4082.0,0,Mike McCarthy,Tom Clements,Dom Capers,Aaron Rodgers
+92,14,Mon,1.0,9.0,1.0,Atlanta Falcons,2014,Packers,380.0,267.0,3228.0,1307.0,8.0,23.0,2814.0,1588.0,4535.0,4402.0,0,Mike McCarthy,Tom Clements,Dom Capers,Aaron Rodgers
+93,15,Sun,0.0,10.0,0.0,Buffalo Bills,2014,Packers,423.0,304.0,3551.0,1486.0,8.0,24.0,3188.0,1679.0,5037.0,4867.0,0,Mike McCarthy,Tom Clements,Dom Capers,Aaron Rodgers
+94,16,Sun,1.0,10.0,0.0,Tampa Bay Buccaneers,2014,Packers,436.0,325.0,3726.0,1644.0,10.0,25.0,3328.0,1792.0,5370.0,5120.0,0,Mike McCarthy,Tom Clements,Dom Capers,Aaron Rodgers
+95,17,Sun,1.0,11.0,1.0,Detroit Lions,2014,Packers,456.0,328.0,4036.0,1765.0,11.0,26.0,3421.0,1808.0,5801.0,5229.0,0,Mike McCarthy,Tom Clements,Dom Capers,Aaron Rodgers
+96,1,Sun,0.0,0.0,0.0,San Francisco 49ers,2013,Packers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Mike McCarthy,Tom Clements,Dom Capers,Aaron Rodgers
+97,2,Sun,1.0,0.0,1.0,Washington Redskins,2013,Packers,28.0,34.0,322.0,63.0,2.0,0.0,404.0,90.0,385.0,494.0,0,Mike McCarthy,Tom Clements,Dom Capers,Aaron Rodgers
+98,3,Sun,0.0,1.0,0.0,Cincinnati Bengals,2013,Packers,66.0,54.0,763.0,202.0,3.0,1.0,718.0,198.0,965.0,916.0,0,Mike McCarthy,Tom Clements,Dom Capers,Aaron Rodgers
+99,5,Sun,1.0,1.0,1.0,Detroit Lions,2013,Packers,96.0,88.0,980.0,384.0,7.0,5.0,933.0,280.0,1364.0,1213.0,1,Mike McCarthy,Tom Clements,Dom Capers,Aaron Rodgers
+100,6,Sun,1.0,2.0,0.0,Baltimore Ravens,2013,Packers,118.0,97.0,1249.0,564.0,7.0,5.0,1155.0,344.0,1813.0,1499.0,0,Mike McCarthy,Tom Clements,Dom Capers,Aaron Rodgers
+101,7,Sun,1.0,3.0,1.0,Cleveland Browns,2013,Packers,137.0,114.0,1547.0,704.0,9.0,6.0,1468.0,391.0,2251.0,1859.0,0,Mike McCarthy,Tom Clements,Dom Capers,Aaron Rodgers
+102,8,Sun,1.0,4.0,0.0,Minnesota Vikings,2013,Packers,168.0,127.0,1800.0,808.0,9.0,7.0,1601.0,474.0,2608.0,2075.0,0,Mike McCarthy,Tom Clements,Dom Capers,Aaron Rodgers
+103,9,Mon,0.0,5.0,1.0,Chicago Bears,2013,Packers,212.0,158.0,2082.0,990.0,9.0,7.0,1733.0,585.0,3072.0,2318.0,0,Mike McCarthy,Tom Clements,Dom Capers,Aaron Rodgers
+104,10,Sun,0.0,5.0,1.0,Philadelphia Eagles,2013,Packers,232.0,185.0,2195.0,1189.0,10.0,7.0,2004.0,756.0,3384.0,2760.0,0,Mike McCarthy,Tom Clements,Dom Capers,Seneca Wallace
+105,11,Sun,0.0,5.0,0.0,New York Giants,2013,Packers,245.0,212.0,2492.0,1288.0,12.0,8.0,2215.0,960.0,3780.0,3175.0,0,Mike McCarthy,Tom Clements,Dom Capers,Aaron Rodgers
+106,12,Sun,0.0,5.0,1.0,Minnesota Vikings,2013,Packers,258.0,239.0,2831.0,1343.0,15.0,9.0,2471.0,1038.0,4174.0,3509.0,0,Mike McCarthy,Tom Clements,Dom Capers,Aaron Rodgers
+107,13,Thu,0.0,5.0,0.0,Detroit Lions,2013,Packers,284.0,265.0,3129.0,1539.0,15.0,10.0,2686.0,1270.0,4668.0,3956.0,0,Mike McCarthy,Tom Clements,Dom Capers,Aaron Rodgers
+108,14,Sun,1.0,5.0,1.0,Atlanta Falcons,2013,Packers,294.0,305.0,3231.0,1563.0,18.0,14.0,3006.0,1511.0,4794.0,4517.0,0,Mike McCarthy,Tom Clements,Dom Capers,Aaron Rodgers
+109,15,Sun,1.0,6.0,0.0,Dallas Cowboys,2013,Packers,316.0,326.0,3453.0,1675.0,20.0,16.0,3208.0,1594.0,5128.0,4802.0,0,Mike McCarthy,Tom Clements,Dom Capers,Aaron Rodgers
+110,16,Sun,0.0,7.0,1.0,Pittsburgh Steelers,2013,Packers,353.0,362.0,3736.0,1825.0,21.0,18.0,3540.0,1728.0,5561.0,5268.0,0,Mike McCarthy,Tom Clements,Dom Capers,Aaron Rodgers
+111,17,Sun,1.0,7.0,0.0,Chicago Bears,2013,Packers,384.0,400.0,3955.0,1976.0,23.0,20.0,3732.0,1879.0,5931.0,5611.0,0,Mike McCarthy,Tom Clements,Dom Capers,Aaron Rodgers
+112,1,Sun,0.0,0.0,1.0,San Francisco 49ers,2012,Packers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Mike McCarthy,Tom Clements,Dom Capers,Aaron Rodgers
+113,2,Thu,1.0,0.0,1.0,Chicago Bears,2012,Packers,22.0,30.0,279.0,45.0,1.0,0.0,191.0,186.0,324.0,377.0,0,Mike McCarthy,Tom Clements,Dom Capers,Aaron Rodgers
+114,3,Mon,0.0,1.0,0.0,Seattle Seahawks,2012,Packers,45.0,40.0,494.0,151.0,3.0,4.0,265.0,280.0,645.0,545.0,0,Mike McCarthy,Tom Clements,Dom Capers,Aaron Rodgers
+115,4,Sun,1.0,1.0,1.0,New Orleans Saints,2012,Packers,57.0,54.0,678.0,235.0,3.0,4.0,376.0,407.0,913.0,783.0,0,Mike McCarthy,Tom Clements,Dom Capers,Aaron Rodgers
+116,5,Sun,0.0,2.0,0.0,Indianapolis Colts,2012,Packers,85.0,81.0,997.0,337.0,5.0,4.0,805.0,452.0,1334.0,1257.0,0,Mike McCarthy,Tom Clements,Dom Capers,Aaron Rodgers
+117,6,Sun,1.0,2.0,0.0,Houston Texans,2012,Packers,112.0,111.0,1204.0,486.0,6.0,5.0,1150.0,571.0,1690.0,1721.0,0,Mike McCarthy,Tom Clements,Dom Capers,Aaron Rodgers
+118,7,Sun,1.0,3.0,0.0,St. Louis Rams,2012,Packers,154.0,135.0,1532.0,585.0,6.0,8.0,1381.0,661.0,2117.0,2042.0,0,Mike McCarthy,Tom Clements,Dom Capers,Aaron Rodgers
+119,8,Sun,1.0,4.0,1.0,Jacksonville Jaguars,2012,Packers,184.0,155.0,1864.0,655.0,6.0,9.0,1627.0,769.0,2519.0,2396.0,0,Mike McCarthy,Tom Clements,Dom Capers,Aaron Rodgers
+120,9,Sun,1.0,5.0,1.0,Arizona Cardinals,2012,Packers,208.0,170.0,2036.0,721.0,7.0,10.0,1906.0,831.0,2757.0,2737.0,0,Mike McCarthy,Tom Clements,Dom Capers,Aaron Rodgers
+121,11,Sun,1.0,6.0,0.0,Detroit Lions,2012,Packers,239.0,187.0,2244.0,897.0,8.0,12.0,2192.0,885.0,3141.0,3077.0,1,Mike McCarthy,Tom Clements,Dom Capers,Aaron Rodgers
+122,12,Sun,0.0,7.0,0.0,New York Giants,2012,Packers,263.0,207.0,2463.0,992.0,9.0,16.0,2444.0,995.0,3455.0,3439.0,0,Mike McCarthy,Tom Clements,Dom Capers,Aaron Rodgers
+123,13,Sun,1.0,7.0,1.0,Minnesota Vikings,2012,Packers,273.0,245.0,2664.0,1108.0,11.0,16.0,2687.0,1142.0,3772.0,3829.0,0,Mike McCarthy,Tom Clements,Dom Capers,Aaron Rodgers
+124,14,Sun,1.0,8.0,1.0,Detroit Lions,2012,Packers,296.0,259.0,2947.0,1260.0,12.0,18.0,2806.0,1382.0,4207.0,4188.0,0,Mike McCarthy,Tom Clements,Dom Capers,Aaron Rodgers
+125,15,Sun,1.0,9.0,0.0,Chicago Bears,2012,Packers,323.0,279.0,3095.0,1400.0,13.0,20.0,3057.0,1517.0,4495.0,4574.0,0,Mike McCarthy,Tom Clements,Dom Capers,Aaron Rodgers
+126,16,Sun,1.0,10.0,1.0,Tennessee Titans,2012,Packers,344.0,292.0,3373.0,1513.0,15.0,21.0,3164.0,1600.0,4886.0,4764.0,0,Mike McCarthy,Tom Clements,Dom Capers,Aaron Rodgers
+127,17,Sun,0.0,11.0,0.0,Minnesota Vikings,2012,Packers,399.0,299.0,3716.0,1630.0,15.0,23.0,3265.0,1679.0,5346.0,4944.0,0,Mike McCarthy,Tom Clements,Dom Capers,Aaron Rodgers
+128,1,Thu,1.0,0.0,1.0,New Orleans Saints,2011,Packers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Mike McCarthy,Joe Philbin,Dom Capers,Aaron Rodgers
+129,2,Sun,1.0,1.0,0.0,Carolina Panthers,2011,Packers,42.0,34.0,296.0,103.0,0.0,1.0,396.0,81.0,399.0,477.0,0,Mike McCarthy,Joe Philbin,Dom Capers,Aaron Rodgers
+130,3,Sun,1.0,2.0,0.0,Chicago Bears,2011,Packers,72.0,57.0,591.0,227.0,1.0,5.0,800.0,152.0,818.0,952.0,0,Mike McCarthy,Joe Philbin,Dom Capers,Aaron Rodgers
+131,4,Sun,1.0,3.0,1.0,Denver Broncos,2011,Packers,99.0,74.0,883.0,327.0,3.0,7.0,1078.0,165.0,1210.0,1243.0,0,Mike McCarthy,Joe Philbin,Dom Capers,Aaron Rodgers
+132,5,Sun,1.0,4.0,0.0,Atlanta Falcons,2011,Packers,148.0,97.0,1279.0,438.0,5.0,11.0,1343.0,284.0,1717.0,1627.0,0,Mike McCarthy,Joe Philbin,Dom Capers,Aaron Rodgers
+133,6,Sun,1.0,5.0,1.0,St. Louis Rams,2011,Packers,173.0,111.0,1648.0,495.0,6.0,13.0,1499.0,379.0,2143.0,1878.0,0,Mike McCarthy,Joe Philbin,Dom Capers,Aaron Rodgers
+134,7,Sun,1.0,6.0,0.0,Minnesota Vikings,2011,Packers,197.0,114.0,1957.0,585.0,7.0,14.0,1805.0,497.0,2542.0,2302.0,0,Mike McCarthy,Joe Philbin,Dom Capers,Aaron Rodgers
+135,9,Sun,1.0,7.0,0.0,San Diego Chargers,2011,Packers,230.0,141.0,2264.0,699.0,8.0,16.0,2022.0,715.0,2963.0,2737.0,1,Mike McCarthy,Joe Philbin,Dom Capers,Aaron Rodgers
+136,10,Mon,1.0,8.0,1.0,Minnesota Vikings,2011,Packers,275.0,179.0,2496.0,835.0,8.0,19.0,2397.0,800.0,3331.0,3197.0,0,Mike McCarthy,Joe Philbin,Dom Capers,Aaron Rodgers
+137,11,Sun,1.0,9.0,1.0,Tampa Bay Buccaneers,2011,Packers,320.0,186.0,2762.0,925.0,9.0,20.0,2559.0,904.0,3687.0,3463.0,0,Mike McCarthy,Joe Philbin,Dom Capers,Aaron Rodgers
+138,12,Thu,1.0,10.0,0.0,Detroit Lions,2011,Packers,355.0,212.0,3049.0,1016.0,10.0,22.0,2893.0,1025.0,4065.0,3918.0,0,Mike McCarthy,Joe Philbin,Dom Capers,Aaron Rodgers
+139,13,Sun,1.0,11.0,0.0,New York Giants,2011,Packers,382.0,227.0,3345.0,1069.0,10.0,25.0,3166.0,1161.0,4414.0,4327.0,0,Mike McCarthy,Joe Philbin,Dom Capers,Aaron Rodgers
+140,14,Sun,1.0,12.0,1.0,Oakland Raiders,2011,Packers,420.0,262.0,3705.0,1158.0,11.0,27.0,3513.0,1261.0,4863.0,4774.0,0,Mike McCarthy,Joe Philbin,Dom Capers,Aaron Rodgers
+141,15,Sun,0.0,13.0,0.0,Kansas City Chiefs,2011,Packers,466.0,278.0,3960.0,1294.0,12.0,32.0,3753.0,1378.0,5254.0,5131.0,0,Mike McCarthy,Joe Philbin,Dom Capers,Aaron Rodgers
+142,16,Sun,1.0,13.0,1.0,Chicago Bears,2011,Packers,480.0,297.0,4173.0,1396.0,12.0,32.0,4052.0,1517.0,5569.0,5569.0,0,Mike McCarthy,Joe Philbin,Dom Capers,Aaron Rodgers
+143,17,Sun,1.0,14.0,1.0,Detroit Lions,2011,Packers,515.0,318.0,4455.0,1477.0,12.0,34.0,4294.0,1716.0,5932.0,6010.0,0,Matt Flynn,Joe Philbin,Dom Capers,Aaron Rodgers
+144,1,Sun,1.0,0.0,0.0,Philadelphia Eagles,2010,Packers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Mike McCarthy,Joe Philbin,Dom Capers,Aaron Rodgers
+145,2,Sun,1.0,1.0,1.0,Buffalo Bills,2010,Packers,27.0,20.0,167.0,132.0,2.0,1.0,171.0,149.0,299.0,320.0,0,Mike McCarthy,Joe Philbin,Dom Capers,Aaron Rodgers
+146,3,Mon,0.0,2.0,0.0,Chicago Bears,2010,Packers,61.0,27.0,422.0,223.0,2.0,3.0,233.0,273.0,645.0,506.0,0,Mike McCarthy,Joe Philbin,Dom Capers,Aaron Rodgers
+147,4,Sun,1.0,2.0,1.0,Detroit Lions,2010,Packers,78.0,47.0,738.0,286.0,4.0,4.0,432.0,350.0,1024.0,782.0,0,Mike McCarthy,Joe Philbin,Dom Capers,Aaron Rodgers
+148,5,Sun,0.0,3.0,0.0,Washington Redskins,2010,Packers,106.0,73.0,907.0,378.0,8.0,7.0,740.0,473.0,1285.0,1213.0,0,Mike McCarthy,Joe Philbin,Dom Capers,Aaron Rodgers
+149,6,Sun,0.0,3.0,1.0,Miami Dolphins,2010,Packers,119.0,89.0,1177.0,535.0,10.0,8.0,1062.0,524.0,1712.0,1586.0,0,Mike McCarthy,Joe Philbin,Dom Capers,Aaron Rodgers
+150,7,Sun,1.0,3.0,1.0,Minnesota Vikings,2010,Packers,139.0,112.0,1460.0,611.0,11.0,9.0,1293.0,674.0,2071.0,1967.0,0,Mike McCarthy,Joe Philbin,Dom Capers,Aaron Rodgers
+151,8,Sun,1.0,4.0,0.0,New York Jets,2010,Packers,167.0,136.0,1755.0,695.0,13.0,12.0,1499.0,870.0,2450.0,2369.0,0,Mike McCarthy,Joe Philbin,Dom Capers,Aaron Rodgers
+152,9,Sun,1.0,5.0,1.0,Dallas Cowboys,2010,Packers,176.0,136.0,1911.0,776.0,13.0,15.0,1740.0,989.0,2687.0,2729.0,0,Mike McCarthy,Joe Philbin,Dom Capers,Aaron Rodgers
+153,11,Sun,1.0,6.0,0.0,Minnesota Vikings,2010,Packers,221.0,143.0,2188.0,914.0,13.0,19.0,1906.0,1028.0,3102.0,2934.0,1,Mike McCarthy,Joe Philbin,Dom Capers,Aaron Rodgers
+154,12,Sun,0.0,7.0,0.0,Atlanta Falcons,2010,Packers,252.0,146.0,2471.0,1005.0,13.0,21.0,2113.0,1121.0,3476.0,3234.0,0,Mike McCarthy,Joe Philbin,Dom Capers,Aaron Rodgers
+155,13,Sun,1.0,7.0,1.0,San Francisco 49ers,2010,Packers,269.0,166.0,2812.0,1082.0,14.0,21.0,2290.0,1238.0,3894.0,3528.0,0,Mike McCarthy,Joe Philbin,Dom Capers,Aaron Rodgers
+156,14,Sun,0.0,8.0,0.0,Detroit Lions,2010,Packers,303.0,182.0,3086.0,1218.0,14.0,22.0,2462.0,1335.0,4304.0,3797.0,0,Mike McCarthy,Joe Philbin,Dom Capers,Aaron Rodgers
+157,15,Sun,0.0,8.0,0.0,New England Patriots,2010,Packers,306.0,189.0,3278.0,1284.0,17.0,24.0,2558.0,1525.0,4562.0,4083.0,0,Matt Flynn,Joe Philbin,Dom Capers,Aaron Rodgers
+158,16,Sun,1.0,8.0,1.0,New York Giants,2010,Packers,333.0,220.0,3504.0,1427.0,19.0,24.0,2694.0,1638.0,4931.0,4332.0,0,Mike McCarthy,Joe Philbin,Dom Capers,Aaron Rodgers
+159,17,Sun,1.0,9.0,1.0,Chicago Bears,2010,Packers,378.0,237.0,3900.0,1546.0,20.0,30.0,2990.0,1728.0,5446.0,4718.0,0,Mike McCarthy,Joe Philbin,Dom Capers,Aaron Rodgers

@@ -1,0 +1,161 @@
+,Week,Day,Results,Wins Tally,Home,Opp,year,Base_Team,PF Tally,PA Tally,OPassY Tally,ORushY Tally,TO_lost Tally,TO_won Tally,DPassY Tally,DRushY Tally,OTotYd Tally,DTotYd Tally,after_bye,Head_Coach,OC,DC,QB
+0,1,Sun,1.0,0.0,0.0,New York Jets,2019,Bills,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Sean McDermott,Brian Daboll,Leslie Frazier,Josh Allen
+1,2,Sun,1.0,1.0,0.0,New York Giants,2019,Bills,17.0,16.0,242.0,128.0,4.0,1.0,155.0,68.0,370.0,223.0,0,Sean McDermott,Brian Daboll,Leslie Frazier,Josh Allen
+2,3,Sun,1.0,2.0,1.0,Cincinnati Bengals,2019,Bills,45.0,30.0,479.0,279.0,4.0,3.0,396.0,197.0,758.0,593.0,0,Sean McDermott,Brian Daboll,Leslie Frazier,Josh Allen
+3,4,Sun,0.0,3.0,1.0,New England Patriots,2019,Bills,66.0,47.0,720.0,454.0,6.0,7.0,636.0,263.0,1174.0,899.0,0,Sean McDermott,Brian Daboll,Leslie Frazier,Josh Allen
+4,5,Sun,1.0,3.0,0.0,Tennessee Titans,2019,Bills,76.0,63.0,960.0,589.0,10.0,8.0,786.0,337.0,1549.0,1123.0,0,Sean McDermott,Brian Daboll,Leslie Frazier,Josh Allen
+5,7,Sun,1.0,4.0,1.0,Miami Dolphins,2019,Bills,90.0,70.0,1164.0,698.0,11.0,8.0,936.0,439.0,1862.0,1375.0,1,Sean McDermott,Brian Daboll,Leslie Frazier,Josh Allen
+6,8,Sun,0.0,5.0,1.0,Philadelphia Eagles,2019,Bills,121.0,91.0,1352.0,815.0,11.0,10.0,1208.0,548.0,2167.0,1756.0,0,Sean McDermott,Brian Daboll,Leslie Frazier,Josh Allen
+7,9,Sun,1.0,5.0,1.0,Washington Redskins,2019,Bills,134.0,122.0,1507.0,913.0,12.0,11.0,1361.0,766.0,2420.0,2127.0,0,Sean McDermott,Brian Daboll,Leslie Frazier,Josh Allen
+8,10,Sun,0.0,6.0,0.0,Cleveland Browns,2019,Bills,158.0,131.0,1653.0,1035.0,12.0,11.0,1477.0,893.0,2688.0,2370.0,0,Sean McDermott,Brian Daboll,Leslie Frazier,Josh Allen
+9,11,Sun,1.0,6.0,0.0,Miami Dolphins,2019,Bills,174.0,150.0,1913.0,1119.0,12.0,11.0,1698.0,1040.0,3032.0,2738.0,0,Sean McDermott,Brian Daboll,Leslie Frazier,Josh Allen
+10,12,Sun,1.0,7.0,1.0,Denver Broncos,2019,Bills,211.0,170.0,2169.0,1287.0,12.0,12.0,1978.0,1063.0,3456.0,3041.0,0,Sean McDermott,Brian Daboll,Leslie Frazier,Josh Allen
+11,13,Thu,1.0,8.0,0.0,Dallas Cowboys,2019,Bills,231.0,173.0,2349.0,1531.0,13.0,13.0,2027.0,1148.0,3880.0,3175.0,0,Sean McDermott,Brian Daboll,Leslie Frazier,Josh Allen
+12,14,Sun,0.0,9.0,1.0,Baltimore Ravens,2019,Bills,257.0,188.0,2581.0,1655.0,13.0,15.0,2350.0,1251.0,4236.0,3601.0,0,Sean McDermott,Brian Daboll,Leslie Frazier,Josh Allen
+13,15,Sun,1.0,9.0,0.0,Pittsburgh Steelers,2019,Bills,274.0,212.0,2686.0,1759.0,14.0,16.0,2489.0,1369.0,4445.0,3858.0,0,Sean McDermott,Brian Daboll,Leslie Frazier,Josh Allen
+14,16,Sat,0.0,10.0,0.0,New England Patriots,2019,Bills,291.0,222.0,2817.0,1889.0,16.0,21.0,2667.0,1420.0,4706.0,4087.0,0,Sean McDermott,Brian Daboll,Leslie Frazier,Josh Allen
+15,17,Sun,0.0,10.0,1.0,New York Jets,2019,Bills,308.0,246.0,2993.0,1981.0,16.0,22.0,2938.0,1563.0,4974.0,4501.0,0,Sean McDermott,Brian Daboll,Leslie Frazier,Josh Allen
+16,1,Sun,0.0,0.0,0.0,Baltimore Ravens,2018,Bills,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Nathan Peterman,Brian Daboll,Leslie Frazier,Josh Allen
+17,2,Sun,0.0,0.0,1.0,Los Angeles Chargers,2018,Bills,3.0,47.0,70.0,83.0,2.0,1.0,252.0,117.0,153.0,369.0,0,Sean McDermott,Brian Daboll,Leslie Frazier,Josh Allen
+18,3,Sun,1.0,0.0,0.0,Minnesota Vikings,2018,Bills,23.0,78.0,279.0,167.0,4.0,1.0,492.0,226.0,446.0,718.0,0,Sean McDermott,Brian Daboll,Leslie Frazier,Josh Allen
+19,4,Sun,0.0,1.0,0.0,Green Bay Packers,2018,Bills,50.0,84.0,443.0,295.0,4.0,4.0,770.0,240.0,738.0,1010.0,0,Sean McDermott,Brian Daboll,Leslie Frazier,Josh Allen
+20,5,Sun,1.0,1.0,1.0,Tennessee Titans,2018,Bills,50.0,106.0,530.0,353.0,7.0,6.0,1052.0,381.0,883.0,1433.0,0,Sean McDermott,Brian Daboll,Leslie Frazier,Josh Allen
+21,6,Sun,0.0,2.0,0.0,Houston Texans,2018,Bills,63.0,118.0,609.0,497.0,8.0,9.0,1173.0,481.0,1106.0,1654.0,0,Sean McDermott,Brian Daboll,Leslie Frazier,Josh Allen
+22,7,Sun,0.0,2.0,0.0,Indianapolis Colts,2018,Bills,76.0,138.0,738.0,597.0,11.0,12.0,1315.0,555.0,1335.0,1870.0,0,Sean McDermott,Brian Daboll,Leslie Frazier,Josh Allen
+23,8,Mon,0.0,2.0,1.0,New England Patriots,2018,Bills,81.0,175.0,906.0,732.0,16.0,12.0,1471.0,775.0,1638.0,2246.0,0,Sean McDermott,Brian Daboll,Leslie Frazier,Josh Allen
+24,9,Sun,0.0,2.0,1.0,Chicago Bears,2018,Bills,87.0,200.0,1193.0,778.0,18.0,12.0,1782.0,851.0,1971.0,2633.0,0,Sean McDermott,Brian Daboll,Leslie Frazier,Nathan Peterman
+25,10,Sun,1.0,2.0,0.0,New York Jets,2018,Bills,96.0,241.0,1359.0,876.0,22.0,13.0,1908.0,915.0,2235.0,2823.0,0,Sean McDermott,Brian Daboll,Leslie Frazier,Matt Barkley
+26,12,Sun,1.0,3.0,1.0,Jacksonville Jaguars,2018,Bills,137.0,251.0,1598.0,1088.0,22.0,15.0,2024.0,998.0,2686.0,3022.0,1,Sean McDermott,Brian Daboll,Leslie Frazier,Josh Allen
+27,13,Sun,0.0,4.0,0.0,Miami Dolphins,2018,Bills,161.0,272.0,1758.0,1255.0,22.0,17.0,2131.0,1224.0,3013.0,3355.0,0,Sean McDermott,Brian Daboll,Leslie Frazier,Josh Allen
+28,14,Sun,0.0,4.0,1.0,New York Jets,2018,Bills,178.0,293.0,1975.0,1453.0,25.0,18.0,2246.0,1284.0,3428.0,3530.0,0,Sean McDermott,Brian Daboll,Leslie Frazier,Josh Allen
+29,15,Sun,1.0,4.0,1.0,Detroit Lions,2018,Bills,201.0,320.0,2167.0,1629.0,28.0,20.0,2416.0,1362.0,3796.0,3778.0,0,Sean McDermott,Brian Daboll,Leslie Frazier,Josh Allen
+30,16,Sun,0.0,5.0,0.0,New England Patriots,2018,Bills,215.0,333.0,2362.0,1746.0,28.0,20.0,2624.0,1467.0,4108.0,4091.0,0,Sean McDermott,Brian Daboll,Leslie Frazier,Josh Allen
+31,17,Sun,1.0,5.0,1.0,Miami Dolphins,2018,Bills,227.0,357.0,2579.0,1818.0,31.0,23.0,2741.0,1740.0,4397.0,4481.0,0,Sean McDermott,Brian Daboll,Leslie Frazier,Josh Allen
+32,1,Sun,1.0,0.0,1.0,New York Jets,2017,Bills,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Sean McDermott,Rick Dennison,Leslie Frazier,Tyrod Taylor
+33,2,Sun,0.0,1.0,0.0,Carolina Panthers,2017,Bills,21.0,12.0,218.0,190.0,1.0,2.0,176.0,38.0,408.0,214.0,0,Sean McDermott,Rick Dennison,Leslie Frazier,Tyrod Taylor
+34,3,Sun,1.0,1.0,1.0,Denver Broncos,2017,Bills,24.0,21.0,325.0,259.0,1.0,2.0,354.0,115.0,584.0,469.0,0,Sean McDermott,Rick Dennison,Leslie Frazier,Tyrod Taylor
+35,4,Sun,1.0,2.0,0.0,Atlanta Falcons,2017,Bills,50.0,37.0,522.0,334.0,1.0,4.0,609.0,226.0,856.0,835.0,0,Sean McDermott,Rick Dennison,Leslie Frazier,Tyrod Taylor
+36,5,Sun,0.0,3.0,0.0,Cincinnati Bengals,2017,Bills,73.0,54.0,686.0,451.0,1.0,7.0,851.0,373.0,1137.0,1224.0,0,Sean McDermott,Rick Dennison,Leslie Frazier,Tyrod Taylor
+37,7,Sun,1.0,3.0,1.0,Tampa Bay Buccaneers,2017,Bills,89.0,74.0,825.0,533.0,2.0,10.0,1174.0,438.0,1358.0,1612.0,1,Sean McDermott,Rick Dennison,Leslie Frazier,Tyrod Taylor
+38,8,Sun,1.0,4.0,1.0,Oakland Raiders,2017,Bills,119.0,101.0,1086.0,706.0,3.0,13.0,1552.0,507.0,1792.0,2059.0,0,Sean McDermott,Rick Dennison,Leslie Frazier,Tyrod Taylor
+39,9,Thu,0.0,5.0,0.0,New York Jets,2017,Bills,153.0,115.0,1251.0,872.0,3.0,17.0,1865.0,561.0,2123.0,2426.0,0,Sean McDermott,Rick Dennison,Leslie Frazier,Tyrod Taylor
+40,10,Sun,0.0,5.0,1.0,New Orleans Saints,2017,Bills,174.0,149.0,1495.0,935.0,6.0,17.0,2002.0,755.0,2430.0,2757.0,0,Sean McDermott,Rick Dennison,Leslie Frazier,Tyrod Taylor
+41,11,Sun,0.0,5.0,0.0,Los Angeles Chargers,2017,Bills,184.0,196.0,1624.0,1004.0,7.0,18.0,2186.0,1053.0,2628.0,3239.0,0,Nathan Peterman,Rick Dennison,Leslie Frazier,Tyrod Taylor
+42,12,Sun,1.0,5.0,0.0,Kansas City Chiefs,2017,Bills,208.0,250.0,1844.0,1177.0,13.0,18.0,2469.0,1199.0,3021.0,3668.0,0,Sean McDermott,Rick Dennison,Leslie Frazier,Tyrod Taylor
+43,13,Sun,0.0,6.0,1.0,New England Patriots,2017,Bills,224.0,260.0,2008.0,1281.0,13.0,19.0,2650.0,1254.0,3289.0,3904.0,0,Sean McDermott,Rick Dennison,Leslie Frazier,Tyrod Taylor
+44,14,Sun,1.0,6.0,1.0,Indianapolis Colts,2017,Bills,227.0,283.0,2093.0,1464.0,14.0,20.0,2894.0,1445.0,3557.0,4339.0,0,Sean McDermott,Rick Dennison,Leslie Frazier,Nathan Peterman
+45,15,Sun,1.0,7.0,1.0,Miami Dolphins,2017,Bills,240.0,290.0,2185.0,1691.0,16.0,20.0,2958.0,1608.0,3876.0,4566.0,0,Sean McDermott,Rick Dennison,Leslie Frazier,Tyrod Taylor
+46,16,Sun,0.0,8.0,0.0,New England Patriots,2017,Bills,264.0,306.0,2397.0,1807.0,16.0,23.0,3207.0,1708.0,4204.0,4915.0,0,Sean McDermott,Rick Dennison,Leslie Frazier,Tyrod Taylor
+47,17,Sun,1.0,8.0,0.0,Miami Dolphins,2017,Bills,280.0,343.0,2639.0,1891.0,16.0,24.0,3425.0,1901.0,4530.0,5326.0,0,Sean McDermott,Rick Dennison,Leslie Frazier,Tyrod Taylor
+48,1,Sun,0.0,0.0,0.0,Baltimore Ravens,2016,Bills,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Rex Ryan,Greg Roman,Dennis Thurman,Tyrod Taylor
+49,2,Thu,0.0,0.0,1.0,New York Jets,2016,Bills,7.0,13.0,95.0,65.0,0.0,1.0,225.0,83.0,160.0,308.0,0,Rex Ryan,Greg Roman,Dennis Thurman,Tyrod Taylor
+50,3,Sun,1.0,0.0,1.0,Arizona Cardinals,2016,Bills,38.0,50.0,402.0,151.0,1.0,2.0,595.0,206.0,553.0,801.0,0,Rex Ryan,Greg Roman,Dennis Thurman,Tyrod Taylor
+51,4,Sun,1.0,1.0,0.0,New England Patriots,2016,Bills,71.0,68.0,491.0,359.0,2.0,7.0,855.0,294.0,850.0,1149.0,0,Rex Ryan,Greg Roman,Dennis Thurman,Tyrod Taylor
+52,5,Sun,1.0,2.0,0.0,Los Angeles Rams,2016,Bills,87.0,68.0,735.0,493.0,2.0,8.0,1042.0,384.0,1228.0,1426.0,0,Rex Ryan,Greg Roman,Dennis Thurman,Tyrod Taylor
+53,6,Sun,1.0,3.0,1.0,San Francisco 49ers,2016,Bills,117.0,87.0,847.0,686.0,2.0,11.0,1285.0,486.0,1533.0,1771.0,0,Rex Ryan,Greg Roman,Dennis Thurman,Tyrod Taylor
+54,7,Sun,0.0,4.0,0.0,Miami Dolphins,2016,Bills,162.0,103.0,1026.0,999.0,4.0,12.0,1452.0,619.0,2025.0,2071.0,0,Rex Ryan,Greg Roman,Dennis Thurman,Tyrod Taylor
+55,8,Sun,0.0,4.0,1.0,New England Patriots,2016,Bills,187.0,131.0,1226.0,1066.0,4.0,12.0,1650.0,875.0,2292.0,2525.0,0,Rex Ryan,Greg Roman,Dennis Thurman,Tyrod Taylor
+56,9,Mon,0.0,4.0,0.0,Seattle Seahawks,2016,Bills,212.0,172.0,1435.0,1233.0,4.0,12.0,1935.0,947.0,2668.0,2882.0,0,Rex Ryan,Greg Roman,Dennis Thurman,Tyrod Taylor
+57,11,Sun,1.0,4.0,0.0,Cincinnati Bengals,2016,Bills,237.0,203.0,1698.0,1395.0,5.0,12.0,2180.0,980.0,3093.0,3160.0,1,Rex Ryan,Greg Roman,Dennis Thurman,Tyrod Taylor
+58,12,Sun,1.0,5.0,1.0,Jacksonville Jaguars,2016,Bills,253.0,215.0,1857.0,1578.0,6.0,14.0,2387.0,1073.0,3435.0,3460.0,0,Rex Ryan,Greg Roman,Dennis Thurman,Tyrod Taylor
+59,13,Sun,0.0,6.0,0.0,Oakland Raiders,2016,Bills,281.0,236.0,2008.0,1731.0,6.0,14.0,2505.0,1256.0,3739.0,3761.0,0,Rex Ryan,Greg Roman,Dennis Thurman,Tyrod Taylor
+60,14,Sun,0.0,6.0,1.0,Pittsburgh Steelers,2016,Bills,305.0,274.0,2178.0,1943.0,8.0,14.0,2765.0,1395.0,4121.0,4160.0,0,Rex Ryan,Greg Roman,Dennis Thurman,Tyrod Taylor
+61,15,Sun,1.0,6.0,1.0,Cleveland Browns,2016,Bills,325.0,301.0,2386.0,2010.0,9.0,17.0,2985.0,1635.0,4396.0,4620.0,0,Rex Ryan,Greg Roman,Dennis Thurman,Tyrod Taylor
+62,16,Sat,0.0,7.0,1.0,Miami Dolphins,2016,Bills,358.0,314.0,2557.0,2290.0,9.0,17.0,3147.0,1742.0,4847.0,4889.0,0,Rex Ryan,Greg Roman,Dennis Thurman,Tyrod Taylor
+63,17,Sun,0.0,7.0,0.0,New York Jets,2016,Bills,389.0,348.0,2874.0,2562.0,9.0,18.0,3380.0,2003.0,5436.0,5383.0,0,EJ Manuel,Greg Roman,Dennis Thurman,Tyrod Taylor
+64,1,Sun,1.0,0.0,1.0,Indianapolis Colts,2015,Bills,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Rex Ryan,Greg Roman,Dennis Thurman,Tyrod Taylor
+65,2,Sun,0.0,1.0,1.0,New England Patriots,2015,Bills,27.0,14.0,195.0,147.0,0.0,3.0,240.0,64.0,342.0,304.0,0,Rex Ryan,Greg Roman,Dennis Thurman,Tyrod Taylor
+66,3,Sun,1.0,1.0,0.0,Miami Dolphins,2015,Bills,59.0,54.0,384.0,307.0,3.0,5.0,691.0,120.0,691.0,811.0,0,Rex Ryan,Greg Roman,Dennis Thurman,Tyrod Taylor
+67,4,Sun,0.0,2.0,1.0,New York Giants,2015,Bills,100.0,68.0,661.0,458.0,3.0,8.0,980.0,222.0,1119.0,1202.0,0,Rex Ryan,Greg Roman,Dennis Thurman,Tyrod Taylor
+68,5,Sun,1.0,2.0,0.0,Tennessee Titans,2015,Bills,110.0,92.0,919.0,513.0,5.0,9.0,1191.0,314.0,1432.0,1505.0,0,Rex Ryan,Greg Roman,Dennis Thurman,Tyrod Taylor
+69,6,Sun,0.0,3.0,1.0,Cincinnati Bengals,2015,Bills,124.0,105.0,1001.0,640.0,6.0,10.0,1370.0,411.0,1641.0,1781.0,0,Rex Ryan,Greg Roman,Dennis Thurman,Tyrod Taylor
+70,7,Sun,0.0,3.0,0.0,Jacksonville Jaguars,2015,Bills,145.0,139.0,1257.0,752.0,7.0,10.0,1613.0,523.0,2009.0,2136.0,0,Rex Ryan,Greg Roman,Dennis Thurman,Tyrod Taylor
+71,9,Sun,1.0,3.0,1.0,Miami Dolphins,2015,Bills,176.0,173.0,1517.0,867.0,11.0,11.0,1788.0,643.0,2384.0,2431.0,1,Rex Ryan,Greg Roman,Dennis Thurman,Tyrod Taylor
+72,10,Thu,1.0,4.0,0.0,New York Jets,2015,Bills,209.0,190.0,1671.0,1133.0,11.0,12.0,2077.0,751.0,2804.0,2828.0,0,Rex Ryan,Greg Roman,Dennis Thurman,Tyrod Taylor
+73,11,Mon,0.0,5.0,0.0,New England Patriots,2015,Bills,231.0,207.0,1803.0,1281.0,11.0,16.0,2267.0,879.0,3084.0,3146.0,0,Rex Ryan,Greg Roman,Dennis Thurman,Tyrod Taylor
+74,12,Sun,0.0,5.0,0.0,Kansas City Chiefs,2015,Bills,244.0,227.0,2028.0,1375.0,12.0,17.0,2538.0,964.0,3403.0,3502.0,0,Rex Ryan,Greg Roman,Dennis Thurman,Tyrod Taylor
+75,13,Sun,1.0,5.0,1.0,Houston Texans,2015,Bills,266.0,257.0,2314.0,1504.0,14.0,17.0,2793.0,1122.0,3818.0,3915.0,0,Rex Ryan,Greg Roman,Dennis Thurman,Tyrod Taylor
+76,14,Sun,0.0,6.0,0.0,Philadelphia Eagles,2015,Bills,296.0,278.0,2517.0,1691.0,14.0,18.0,3068.0,1248.0,4208.0,4316.0,0,Rex Ryan,Greg Roman,Dennis Thurman,Tyrod Taylor
+77,15,Sun,0.0,6.0,0.0,Washington Redskins,2015,Bills,316.0,301.0,2777.0,1843.0,16.0,19.0,3300.0,1364.0,4620.0,4664.0,0,Rex Ryan,Greg Roman,Dennis Thurman,Tyrod Taylor
+78,16,Sun,1.0,6.0,1.0,Dallas Cowboys,2015,Bills,341.0,336.0,2989.0,2083.0,16.0,20.0,3608.0,1487.0,5072.0,5095.0,0,Rex Ryan,Greg Roman,Dennis Thurman,Tyrod Taylor
+79,17,Sun,1.0,7.0,1.0,New York Jets,2015,Bills,357.0,342.0,3161.0,2319.0,18.0,22.0,3794.0,1608.0,5480.0,5402.0,0,Rex Ryan,Greg Roman,Dennis Thurman,Tyrod Taylor
+80,1,Sun,1.0,0.0,0.0,Chicago Bears,2014,Bills,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Doug Marrone,Nathaniel Hackett,Jim Schwartz,Kyle Orton
+81,2,Sun,1.0,1.0,1.0,Miami Dolphins,2014,Bills,23.0,20.0,167.0,193.0,1.0,3.0,341.0,86.0,360.0,427.0,0,Doug Marrone,Nathaniel Hackett,Jim Schwartz,Kyle Orton
+82,3,Sun,0.0,2.0,1.0,San Diego Chargers,2014,Bills,52.0,30.0,369.0,306.0,1.0,5.0,551.0,166.0,675.0,717.0,0,Doug Marrone,Nathaniel Hackett,Jim Schwartz,Kyle Orton
+83,4,Sun,0.0,2.0,0.0,Houston Texans,2014,Bills,62.0,52.0,574.0,393.0,1.0,5.0,801.0,249.0,967.0,1050.0,0,Doug Marrone,Nathaniel Hackett,Jim Schwartz,Kyle Orton
+84,5,Sun,1.0,2.0,0.0,Detroit Lions,2014,Bills,79.0,75.0,794.0,489.0,3.0,8.0,1065.0,286.0,1283.0,1351.0,0,Doug Marrone,Nathaniel Hackett,Jim Schwartz,Kyle Orton
+85,6,Sun,0.0,3.0,1.0,New England Patriots,2014,Bills,96.0,89.0,1088.0,538.0,4.0,10.0,1269.0,355.0,1626.0,1624.0,0,Doug Marrone,Nathaniel Hackett,Jim Schwartz,Kyle Orton
+86,7,Sun,1.0,3.0,1.0,Minnesota Vikings,2014,Bills,118.0,126.0,1356.0,606.0,7.0,10.0,1615.0,405.0,1962.0,2020.0,0,Doug Marrone,Nathaniel Hackett,Jim Schwartz,Kyle Orton
+87,8,Sun,1.0,4.0,0.0,New York Jets,2014,Bills,135.0,142.0,1611.0,724.0,11.0,12.0,1733.0,563.0,2335.0,2296.0,0,Doug Marrone,Nathaniel Hackett,Jim Schwartz,Kyle Orton
+88,10,Sun,0.0,5.0,1.0,Kansas City Chiefs,2014,Bills,178.0,165.0,1824.0,791.0,11.0,18.0,1870.0,738.0,2615.0,2608.0,1,Doug Marrone,Nathaniel Hackett,Jim Schwartz,Kyle Orton
+89,11,Thu,0.0,5.0,0.0,Miami Dolphins,2014,Bills,191.0,182.0,2077.0,902.0,14.0,19.0,2021.0,865.0,2979.0,2886.0,0,Doug Marrone,Nathaniel Hackett,Jim Schwartz,Kyle Orton
+90,12,Mon,1.0,5.0,1.0,New York Jets,2014,Bills,200.0,204.0,2260.0,956.0,14.0,21.0,2226.0,990.0,3216.0,3216.0,0,Doug Marrone,Nathaniel Hackett,Jim Schwartz,Kyle Orton
+91,13,Sun,1.0,6.0,1.0,Cleveland Browns,2014,Bills,238.0,207.0,2480.0,1072.0,14.0,22.0,2352.0,1082.0,3552.0,3434.0,0,Doug Marrone,Nathaniel Hackett,Jim Schwartz,Kyle Orton
+92,14,Sun,0.0,7.0,0.0,Denver Broncos,2014,Bills,264.0,217.0,2661.0,1178.0,16.0,25.0,2593.0,1156.0,3839.0,3749.0,0,Doug Marrone,Nathaniel Hackett,Jim Schwartz,Kyle Orton
+93,15,Sun,1.0,7.0,1.0,Green Bay Packers,2014,Bills,281.0,241.0,3002.0,1252.0,19.0,28.0,2766.0,1289.0,4254.0,4055.0,0,Doug Marrone,Nathaniel Hackett,Jim Schwartz,Kyle Orton
+94,16,Sun,0.0,8.0,0.0,Oakland Raiders,2014,Bills,302.0,254.0,3142.0,1365.0,20.0,30.0,2941.0,1447.0,4507.0,4388.0,0,Doug Marrone,Nathaniel Hackett,Jim Schwartz,Kyle Orton
+95,17,Sun,1.0,8.0,0.0,New England Patriots,2014,Bills,326.0,280.0,3450.0,1378.0,22.0,30.0,3148.0,1587.0,4828.0,4735.0,0,Doug Marrone,Nathaniel Hackett,Jim Schwartz,Kyle Orton
+96,1,Sun,0.0,0.0,1.0,New England Patriots,2013,Bills,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Doug Marrone,Nathaniel Hackett,Mike Pettine,EJ Manuel
+97,2,Sun,1.0,0.0,1.0,Carolina Panthers,2013,Bills,21.0,23.0,150.0,136.0,2.0,3.0,273.0,158.0,286.0,431.0,0,Doug Marrone,Nathaniel Hackett,Mike Pettine,EJ Manuel
+98,3,Sun,0.0,1.0,0.0,New York Jets,2013,Bills,45.0,46.0,437.0,285.0,4.0,4.0,456.0,283.0,722.0,739.0,0,Doug Marrone,Nathaniel Hackett,Mike Pettine,EJ Manuel
+99,4,Sun,1.0,1.0,1.0,Baltimore Ravens,2013,Bills,65.0,73.0,645.0,405.0,4.0,6.0,787.0,465.0,1050.0,1252.0,0,Doug Marrone,Nathaniel Hackett,Mike Pettine,EJ Manuel
+100,5,Thu,0.0,2.0,0.0,Cleveland Browns,2013,Bills,88.0,93.0,792.0,608.0,7.0,11.0,1108.0,489.0,1400.0,1597.0,0,Doug Marrone,Nathaniel Hackett,Mike Pettine,EJ Manuel
+101,6,Sun,0.0,2.0,1.0,Cincinnati Bengals,2013,Bills,112.0,130.0,980.0,763.0,8.0,11.0,1307.0,580.0,1743.0,1887.0,0,Doug Marrone,Nathaniel Hackett,Mike Pettine,EJ Manuel
+102,7,Sun,1.0,2.0,0.0,Miami Dolphins,2013,Bills,136.0,157.0,1172.0,893.0,9.0,12.0,1625.0,745.0,2065.0,2370.0,0,Doug Marrone,Nathaniel Hackett,Mike Pettine,EJ Manuel
+103,8,Sun,0.0,3.0,0.0,New Orleans Saints,2013,Bills,159.0,178.0,1350.0,983.0,10.0,15.0,1798.0,865.0,2333.0,2663.0,0,Doug Marrone,Nathaniel Hackett,Mike Pettine,EJ Manuel
+104,9,Sun,0.0,3.0,1.0,Kansas City Chiefs,2013,Bills,176.0,213.0,1561.0,1071.0,13.0,15.0,2107.0,942.0,2632.0,3049.0,0,Doug Marrone,Nathaniel Hackett,Mike Pettine,Jeff Tuel
+105,10,Sun,0.0,3.0,0.0,Pittsburgh Steelers,2013,Bills,189.0,236.0,1790.0,1312.0,16.0,15.0,2222.0,1037.0,3102.0,3259.0,0,Doug Marrone,Nathaniel Hackett,Mike Pettine,EJ Manuel
+106,11,Sun,1.0,3.0,1.0,New York Jets,2013,Bills,199.0,259.0,1922.0,1407.0,17.0,16.0,2386.0,1173.0,3329.0,3559.0,0,Doug Marrone,Nathaniel Hackett,Mike Pettine,EJ Manuel
+107,13,Sun,0.0,4.0,1.0,Atlanta Falcons,2013,Bills,236.0,273.0,2167.0,1475.0,17.0,20.0,2519.0,1307.0,3642.0,3826.0,1,Doug Marrone,Nathaniel Hackett,Mike Pettine,EJ Manuel
+108,14,Sun,0.0,4.0,0.0,Tampa Bay Buccaneers,2013,Bills,267.0,307.0,2377.0,1670.0,19.0,21.0,2791.0,1458.0,4047.0,4249.0,0,Doug Marrone,Nathaniel Hackett,Mike Pettine,EJ Manuel
+109,15,Sun,1.0,4.0,0.0,Jacksonville Jaguars,2013,Bills,273.0,334.0,2524.0,1737.0,24.0,23.0,2872.0,1623.0,4261.0,4495.0,0,Doug Marrone,Nathaniel Hackett,Mike Pettine,EJ Manuel
+110,16,Sun,1.0,5.0,1.0,Miami Dolphins,2013,Bills,300.0,354.0,2692.0,1935.0,26.0,27.0,3067.0,1782.0,4627.0,4849.0,0,Doug Marrone,Nathaniel Hackett,Mike Pettine,EJ Manuel
+111,17,Sun,0.0,6.0,0.0,New England Patriots,2013,Bills,319.0,354.0,2879.0,2138.0,27.0,29.0,3156.0,1796.0,5017.0,4952.0,0,Doug Marrone,Nathaniel Hackett,Mike Pettine,EJ Manuel
+112,1,Sun,0.0,0.0,0.0,New York Jets,2012,Bills,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Chan Gailey,Curtis Modkins,Dave Wannstedt,Ryan Fitzpatrick
+113,2,Sun,1.0,0.0,1.0,Kansas City Chiefs,2012,Bills,28.0,48.0,195.0,195.0,4.0,1.0,266.0,118.0,390.0,384.0,0,Chan Gailey,Curtis Modkins,Dave Wannstedt,Ryan Fitzpatrick
+114,3,Sun,1.0,1.0,0.0,Cleveland Browns,2012,Bills,63.0,65.0,373.0,396.0,4.0,4.0,538.0,268.0,769.0,806.0,0,Chan Gailey,Curtis Modkins,Dave Wannstedt,Ryan Fitzpatrick
+115,4,Sun,0.0,2.0,1.0,New England Patriots,2012,Bills,87.0,79.0,579.0,534.0,5.0,6.0,745.0,301.0,1113.0,1046.0,0,Chan Gailey,Curtis Modkins,Dave Wannstedt,Ryan Fitzpatrick
+116,5,Sun,0.0,2.0,0.0,San Francisco 49ers,2012,Bills,115.0,131.0,919.0,632.0,11.0,8.0,1078.0,548.0,1551.0,1626.0,0,Chan Gailey,Curtis Modkins,Dave Wannstedt,Ryan Fitzpatrick
+117,6,Sun,1.0,2.0,0.0,Arizona Cardinals,2012,Bills,118.0,176.0,1034.0,721.0,13.0,9.0,1388.0,859.0,1755.0,2247.0,0,Chan Gailey,Curtis Modkins,Dave Wannstedt,Ryan Fitzpatrick
+118,7,Sun,0.0,3.0,1.0,Tennessee Titans,2012,Bills,137.0,192.0,1175.0,886.0,15.0,11.0,1538.0,1041.0,2061.0,2579.0,0,Chan Gailey,Curtis Modkins,Dave Wannstedt,Ryan Fitzpatrick
+119,9,Sun,0.0,3.0,0.0,Houston Texans,2012,Bills,171.0,227.0,1391.0,1052.0,17.0,11.0,1731.0,1238.0,2443.0,2969.0,1,Chan Gailey,Curtis Modkins,Dave Wannstedt,Ryan Fitzpatrick
+120,10,Sun,0.0,3.0,0.0,New England Patriots,2012,Bills,180.0,248.0,1621.0,1126.0,18.0,11.0,1987.0,1356.0,2747.0,3343.0,0,Chan Gailey,Curtis Modkins,Dave Wannstedt,Ryan Fitzpatrick
+121,11,Thu,1.0,3.0,1.0,Miami Dolphins,2012,Bills,211.0,285.0,1940.0,1288.0,21.0,11.0,2217.0,1473.0,3228.0,3690.0,0,Chan Gailey,Curtis Modkins,Dave Wannstedt,Ryan Fitzpatrick
+122,12,Sun,0.0,4.0,0.0,Indianapolis Colts,2012,Bills,230.0,299.0,2101.0,1408.0,21.0,14.0,2341.0,1533.0,3509.0,3874.0,0,Chan Gailey,Curtis Modkins,Dave Wannstedt,Ryan Fitzpatrick
+123,13,Sun,1.0,4.0,1.0,Jacksonville Jaguars,2012,Bills,243.0,319.0,2270.0,1543.0,22.0,16.0,2566.0,1620.0,3813.0,4186.0,0,Chan Gailey,Curtis Modkins,Dave Wannstedt,Ryan Fitzpatrick
+124,14,Sun,0.0,5.0,1.0,St. Louis Rams,2012,Bills,277.0,337.0,2382.0,1775.0,24.0,18.0,2752.0,1670.0,4157.0,4422.0,0,Chan Gailey,Curtis Modkins,Dave Wannstedt,Ryan Fitzpatrick
+125,15,Sun,0.0,5.0,1.0,Seattle Seahawks,2012,Bills,289.0,352.0,2602.0,1836.0,26.0,19.0,2959.0,1748.0,4438.0,4707.0,0,Chan Gailey,Curtis Modkins,Dave Wannstedt,Ryan Fitzpatrick
+126,16,Sun,0.0,5.0,0.0,Miami Dolphins,2012,Bills,306.0,402.0,2817.0,1954.0,29.0,19.0,3155.0,2018.0,4771.0,5173.0,0,Chan Gailey,Curtis Modkins,Dave Wannstedt,Ryan Fitzpatrick
+127,17,Sun,1.0,5.0,1.0,New York Jets,2012,Bills,316.0,426.0,3044.0,2108.0,33.0,19.0,3274.0,2200.0,5152.0,5474.0,0,Chan Gailey,Curtis Modkins,Dave Wannstedt,Ryan Fitzpatrick
+128,1,Sun,1.0,0.0,0.0,Kansas City Chiefs,2011,Bills,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Chan Gailey,Curtis Modkins,George Edwards,Ryan Fitzpatrick
+129,2,Sun,1.0,1.0,1.0,Oakland Raiders,2011,Bills,41.0,7.0,201.0,163.0,1.0,3.0,105.0,108.0,364.0,213.0,0,Chan Gailey,Curtis Modkins,George Edwards,Ryan Fitzpatrick
+130,3,Sun,1.0,2.0,1.0,New England Patriots,2011,Bills,79.0,42.0,459.0,386.0,2.0,5.0,428.0,239.0,845.0,667.0,0,Chan Gailey,Curtis Modkins,George Edwards,Ryan Fitzpatrick
+131,4,Sun,0.0,3.0,0.0,Cincinnati Bengals,2011,Bills,113.0,73.0,828.0,465.0,4.0,9.0,815.0,347.0,1293.0,1162.0,0,Chan Gailey,Curtis Modkins,George Edwards,Ryan Fitzpatrick
+132,5,Sun,1.0,3.0,1.0,Philadelphia Eagles,2011,Bills,133.0,96.0,1018.0,548.0,4.0,11.0,1102.0,518.0,1566.0,1620.0,0,Chan Gailey,Curtis Modkins,George Edwards,Ryan Fitzpatrick
+133,6,Sun,0.0,4.0,0.0,New York Giants,2011,Bills,164.0,120.0,1206.0,691.0,5.0,16.0,1417.0,692.0,1897.0,2109.0,0,Chan Gailey,Curtis Modkins,George Edwards,Ryan Fitzpatrick
+134,8,Sun,1.0,4.0,1.0,Washington Redskins,2011,Bills,188.0,147.0,1425.0,846.0,7.0,16.0,1709.0,814.0,2271.0,2523.0,1,Chan Gailey,Curtis Modkins,George Edwards,Ryan Fitzpatrick
+135,9,Sun,0.0,5.0,1.0,New York Jets,2011,Bills,211.0,147.0,1677.0,984.0,9.0,18.0,1861.0,840.0,2661.0,2701.0,0,Chan Gailey,Curtis Modkins,George Edwards,Ryan Fitzpatrick
+136,10,Sun,0.0,5.0,0.0,Dallas Cowboys,2011,Bills,222.0,174.0,1868.0,1080.0,12.0,20.0,2083.0,966.0,2948.0,3049.0,0,Chan Gailey,Curtis Modkins,George Edwards,Ryan Fitzpatrick
+137,11,Sun,0.0,5.0,0.0,Miami Dolphins,2011,Bills,229.0,218.0,2004.0,1215.0,16.0,20.0,2353.0,1129.0,3219.0,3482.0,0,Chan Gailey,Curtis Modkins,George Edwards,Ryan Fitzpatrick
+138,12,Sun,0.0,5.0,0.0,New York Jets,2011,Bills,237.0,253.0,2208.0,1256.0,18.0,20.0,2500.0,1224.0,3464.0,3724.0,0,Chan Gailey,Curtis Modkins,George Edwards,Ryan Fitzpatrick
+139,13,Sun,0.0,5.0,1.0,Tennessee Titans,2011,Bills,261.0,281.0,2458.0,1342.0,18.0,22.0,2680.0,1362.0,3800.0,4042.0,0,Chan Gailey,Curtis Modkins,George Edwards,Ryan Fitzpatrick
+140,14,Sun,0.0,5.0,0.0,San Diego Chargers,2011,Bills,278.0,304.0,2740.0,1446.0,20.0,22.0,2810.0,1549.0,4186.0,4359.0,0,Chan Gailey,Curtis Modkins,George Edwards,Ryan Fitzpatrick
+141,15,Sun,0.0,5.0,1.0,Miami Dolphins,2011,Bills,288.0,341.0,2925.0,1542.0,23.0,23.0,3026.0,1699.0,4467.0,4725.0,0,Chan Gailey,Curtis Modkins,George Edwards,Ryan Fitzpatrick
+142,16,Sat,1.0,5.0,1.0,Denver Broncos,2011,Bills,311.0,371.0,3216.0,1655.0,26.0,26.0,3220.0,1953.0,4871.0,5173.0,0,Chan Gailey,Curtis Modkins,George Edwards,Ryan Fitzpatrick
+143,17,Sun,0.0,6.0,0.0,New England Patriots,2011,Bills,351.0,385.0,3407.0,1815.0,26.0,29.0,3372.0,2086.0,5222.0,5458.0,0,Chan Gailey,Curtis Modkins,George Edwards,Ryan Fitzpatrick
+144,1,Sun,0.0,0.0,1.0,Miami Dolphins,2010,Bills,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Chan Gailey,Curtis Modkins,George Edwards,Ryan Fitzpatrick
+145,2,Sun,0.0,0.0,0.0,Green Bay Packers,2010,Bills,10.0,15.0,116.0,50.0,0.0,0.0,164.0,132.0,166.0,296.0,0,Chan Gailey,Curtis Modkins,George Edwards,Ryan Fitzpatrick
+146,3,Sun,0.0,0.0,0.0,New England Patriots,2010,Bills,17.0,49.0,178.0,174.0,2.0,0.0,419.0,223.0,352.0,642.0,0,Chan Gailey,Curtis Modkins,George Edwards,Ryan Fitzpatrick
+147,4,Sun,0.0,0.0,1.0,New York Jets,2010,Bills,47.0,87.0,418.0,308.0,4.0,1.0,664.0,423.0,726.0,1087.0,0,Chan Gailey,Curtis Modkins,George Edwards,Ryan Fitzpatrick
+148,5,Sun,0.0,0.0,1.0,Jacksonville Jaguars,2010,Bills,61.0,125.0,527.0,422.0,6.0,1.0,835.0,696.0,949.0,1531.0,0,Chan Gailey,Curtis Modkins,George Edwards,Ryan Fitzpatrick
+149,7,Sun,0.0,0.0,0.0,Baltimore Ravens,2010,Bills,87.0,161.0,723.0,532.0,6.0,4.0,1000.0,912.0,1255.0,1912.0,1,Chan Gailey,Curtis Modkins,George Edwards,Ryan Fitzpatrick
+150,8,Sun,0.0,0.0,0.0,Kansas City Chiefs,2010,Bills,121.0,198.0,1105.0,664.0,10.0,6.0,1229.0,1047.0,1769.0,2276.0,0,Chan Gailey,Curtis Modkins,George Edwards,Ryan Fitzpatrick
+151,9,Sun,0.0,0.0,1.0,Chicago Bears,2010,Bills,131.0,211.0,1296.0,801.0,11.0,6.0,1369.0,1321.0,2097.0,2690.0,0,Chan Gailey,Curtis Modkins,George Edwards,Ryan Fitzpatrick
+152,10,Sun,1.0,0.0,1.0,Detroit Lions,2010,Bills,150.0,233.0,1590.0,847.0,14.0,7.0,1547.0,1426.0,2437.0,2973.0,0,Chan Gailey,Curtis Modkins,George Edwards,Ryan Fitzpatrick
+153,11,Sun,1.0,1.0,0.0,Cincinnati Bengals,2010,Bills,164.0,245.0,1729.0,996.0,15.0,8.0,1861.0,1502.0,2725.0,3363.0,0,Chan Gailey,Curtis Modkins,George Edwards,Ryan Fitzpatrick
+154,12,Sun,0.0,2.0,1.0,Pittsburgh Steelers,2010,Bills,213.0,276.0,2037.0,1137.0,17.0,11.0,2089.0,1635.0,3174.0,3724.0,0,Chan Gailey,Curtis Modkins,George Edwards,Ryan Fitzpatrick
+155,13,Sun,0.0,2.0,0.0,Minnesota Vikings,2010,Bills,229.0,295.0,2292.0,1211.0,19.0,12.0,2309.0,1841.0,3503.0,4150.0,0,Chan Gailey,Curtis Modkins,George Edwards,Ryan Fitzpatrick
+156,14,Sun,1.0,2.0,1.0,Cleveland Browns,2010,Bills,243.0,333.0,2447.0,1295.0,24.0,16.0,2486.0,2051.0,3742.0,4537.0,0,Chan Gailey,Curtis Modkins,George Edwards,Ryan Fitzpatrick
+157,15,Sun,1.0,3.0,0.0,Miami Dolphins,2010,Bills,256.0,339.0,2578.0,1487.0,25.0,19.0,2568.0,2156.0,4065.0,4724.0,0,Chan Gailey,Curtis Modkins,George Edwards,Ryan Fitzpatrick
+158,16,Sun,0.0,4.0,1.0,New England Patriots,2010,Bills,273.0,353.0,2789.0,1558.0,26.0,21.0,2829.0,2221.0,4347.0,5050.0,0,Chan Gailey,Curtis Modkins,George Edwards,Ryan Fitzpatrick
+159,17,Sun,0.0,4.0,0.0,New York Jets,2010,Bills,276.0,387.0,3033.0,1683.0,33.0,21.0,2960.0,2438.0,4716.0,5398.0,0,Chan Gailey,Curtis Modkins,George Edwards,Brian Brohm

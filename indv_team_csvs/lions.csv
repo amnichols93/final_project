@@ -1,0 +1,161 @@
+,Week,Day,Results,Wins Tally,Home,Opp,year,Base_Team,PF Tally,PA Tally,OPassY Tally,ORushY Tally,TO_lost Tally,TO_won Tally,DPassY Tally,DRushY Tally,OTotYd Tally,DTotYd Tally,after_bye,Head_Coach,OC,DC,QB
+0,1,Sun,0.0,0.0,0.0,Arizona Cardinals,2019,Lions,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Matt Patricia,Darrell Bevell,Paul Pasqualoni,Matthew Stafford
+1,2,Sun,1.0,0.0,1.0,Los Angeles Chargers,2019,Lions,27.0,27.0,361.0,116.0,2.0,1.0,275.0,112.0,477.0,387.0,0,Matt Patricia,Darrell Bevell,Paul Pasqualoni,Matthew Stafford
+2,3,Sun,1.0,1.0,0.0,Philadelphia Eagles,2019,Lions,40.0,37.0,606.0,210.0,4.0,3.0,562.0,249.0,816.0,811.0,0,Matt Patricia,Darrell Bevell,Paul Pasqualoni,Matthew Stafford
+3,4,Sun,0.0,2.0,1.0,Kansas City Chiefs,2019,Lions,67.0,61.0,807.0,296.0,4.0,5.0,808.0,376.0,1103.0,1184.0,0,Matt Patricia,Darrell Bevell,Paul Pasqualoni,Matthew Stafford
+4,6,Mon,0.0,2.0,0.0,Green Bay Packers,2019,Lions,97.0,95.0,1068.0,482.0,6.0,8.0,1123.0,499.0,1550.0,1622.0,1,Matt Patricia,Darrell Bevell,Paul Pasqualoni,Matthew Stafford
+5,7,Sun,0.0,2.0,1.0,Minnesota Vikings,2019,Lions,119.0,118.0,1311.0,538.0,6.0,11.0,1400.0,669.0,1849.0,2069.0,0,Matt Patricia,Darrell Bevell,Paul Pasqualoni,Matthew Stafford
+6,8,Sun,1.0,2.0,1.0,New York Giants,2019,Lions,149.0,160.0,1663.0,619.0,7.0,11.0,1738.0,835.0,2282.0,2573.0,0,Matt Patricia,Darrell Bevell,Paul Pasqualoni,Matthew Stafford
+7,9,Sun,0.0,3.0,0.0,Oakland Raiders,2019,Lions,180.0,186.0,1979.0,678.0,9.0,12.0,2028.0,915.0,2657.0,2943.0,0,Matt Patricia,Darrell Bevell,Paul Pasqualoni,Matthew Stafford
+8,10,Sun,0.0,3.0,0.0,Chicago Bears,2019,Lions,204.0,217.0,2362.0,768.0,11.0,12.0,2307.0,1086.0,3130.0,3393.0,0,Matt Patricia,Darrell Bevell,Paul Pasqualoni,Matthew Stafford
+9,11,Sun,0.0,3.0,1.0,Dallas Cowboys,2019,Lions,217.0,237.0,2621.0,866.0,12.0,12.0,2452.0,1167.0,3487.0,3619.0,0,Matt Patricia,Darrell Bevell,Paul Pasqualoni,Matthew Stafford
+10,12,Sun,0.0,3.0,0.0,Washington Redskins,2019,Lions,244.0,272.0,2812.0,987.0,12.0,13.0,2886.0,1242.0,3799.0,4128.0,0,Matt Patricia,Darrell Bevell,Paul Pasqualoni,Matthew Stafford
+11,13,Thu,0.0,3.0,1.0,Chicago Bears,2019,Lions,260.0,291.0,3001.0,1162.0,16.0,15.0,3030.0,1328.0,4163.0,4358.0,0,Matt Patricia,Darrell Bevell,Paul Pasqualoni,Matthew Stafford
+12,14,Sun,0.0,3.0,0.0,Minnesota Vikings,2019,Lions,280.0,315.0,3260.0,1267.0,17.0,16.0,3361.0,1416.0,4527.0,4777.0,0,Matt Patricia,Darrell Bevell,Paul Pasqualoni,Matthew Stafford
+13,15,Sun,0.0,3.0,1.0,Tampa Bay Buccaneers,2019,Lions,287.0,335.0,3421.0,1337.0,19.0,16.0,3595.0,1536.0,4758.0,5131.0,0,Matt Patricia,Darrell Bevell,Paul Pasqualoni,Matthew Stafford
+14,16,Sun,0.0,3.0,0.0,Denver Broncos,2019,Lions,304.0,373.0,3671.0,1382.0,22.0,17.0,4041.0,1585.0,5053.0,5626.0,0,Matt Patricia,Darrell Bevell,Paul Pasqualoni,Matthew Stafford
+15,17,Sun,0.0,3.0,1.0,Green Bay Packers,2019,Lions,321.0,400.0,3766.0,1478.0,22.0,17.0,4239.0,1735.0,5244.0,5974.0,0,Matt Patricia,Darrell Bevell,Paul Pasqualoni,Matthew Stafford
+16,1,Mon,0.0,0.0,1.0,New York Jets,2018,Lions,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Matt Patricia,Jim Bob Cooter,Paul Pasqualoni,Matthew Stafford
+17,2,Sun,0.0,0.0,0.0,San Francisco 49ers,2018,Lions,17.0,48.0,300.0,39.0,5.0,2.0,180.0,169.0,339.0,349.0,0,Matt Patricia,Jim Bob Cooter,Paul Pasqualoni,Matthew Stafford
+18,3,Sun,1.0,0.0,1.0,New England Patriots,2018,Lions,44.0,78.0,629.0,137.0,6.0,2.0,336.0,359.0,766.0,695.0,0,Matt Patricia,Jim Bob Cooter,Paul Pasqualoni,Matthew Stafford
+19,4,Sun,0.0,1.0,0.0,Dallas Cowboys,2018,Lions,70.0,88.0,884.0,296.0,7.0,3.0,456.0,448.0,1180.0,904.0,0,Matt Patricia,Jim Bob Cooter,Paul Pasqualoni,Matthew Stafford
+20,5,Sun,1.0,1.0,1.0,Green Bay Packers,2018,Lions,94.0,114.0,1170.0,392.0,7.0,3.0,687.0,631.0,1562.0,1318.0,0,Matt Patricia,Jim Bob Cooter,Paul Pasqualoni,Matthew Stafford
+21,7,Sun,1.0,2.0,0.0,Miami Dolphins,2018,Lions,125.0,137.0,1340.0,486.0,7.0,6.0,1110.0,729.0,1826.0,1839.0,1,Matt Patricia,Jim Bob Cooter,Paul Pasqualoni,Matthew Stafford
+22,8,Sun,0.0,3.0,1.0,Seattle Seahawks,2018,Lions,157.0,158.0,1549.0,734.0,7.0,6.0,1325.0,836.0,2283.0,2161.0,0,Matt Patricia,Jim Bob Cooter,Paul Pasqualoni,Matthew Stafford
+23,9,Sun,0.0,3.0,0.0,Minnesota Vikings,2018,Lions,171.0,186.0,1846.0,768.0,10.0,6.0,1562.0,1012.0,2614.0,2574.0,0,Matt Patricia,Jim Bob Cooter,Paul Pasqualoni,Matthew Stafford
+24,10,Sun,0.0,3.0,0.0,Chicago Bears,2018,Lions,180.0,210.0,1989.0,834.0,11.0,8.0,1717.0,1140.0,2823.0,2857.0,0,Matt Patricia,Jim Bob Cooter,Paul Pasqualoni,Matthew Stafford
+25,11,Sun,1.0,3.0,1.0,Carolina Panthers,2018,Lions,202.0,244.0,2218.0,910.0,14.0,8.0,2065.0,1194.0,3128.0,3259.0,0,Matt Patricia,Jim Bob Cooter,Paul Pasqualoni,Matthew Stafford
+26,12,Thu,0.0,4.0,1.0,Chicago Bears,2018,Lions,222.0,263.0,2433.0,1004.0,14.0,9.0,2396.0,1250.0,3437.0,3646.0,0,Matt Patricia,Jim Bob Cooter,Paul Pasqualoni,Matthew Stafford
+27,13,Sun,0.0,4.0,1.0,Los Angeles Rams,2018,Lions,238.0,286.0,2655.0,1115.0,16.0,10.0,2622.0,1288.0,3770.0,3910.0,0,Matt Patricia,Jim Bob Cooter,Paul Pasqualoni,Matthew Stafford
+28,14,Sun,1.0,4.0,0.0,Arizona Cardinals,2018,Lions,254.0,316.0,2863.0,1217.0,18.0,12.0,2817.0,1437.0,4080.0,4254.0,0,Matt Patricia,Jim Bob Cooter,Paul Pasqualoni,Matthew Stafford
+29,15,Sun,0.0,5.0,0.0,Buffalo Bills,2018,Lions,271.0,319.0,2959.0,1339.0,19.0,13.0,3035.0,1498.0,4298.0,4533.0,0,Matt Patricia,Jim Bob Cooter,Paul Pasqualoni,Matthew Stafford
+30,16,Sun,0.0,5.0,1.0,Minnesota Vikings,2018,Lions,284.0,333.0,3167.0,1444.0,19.0,13.0,3230.0,1615.0,4611.0,4845.0,0,Matt Patricia,Jim Bob Cooter,Paul Pasqualoni,Matthew Stafford
+31,17,Sun,1.0,5.0,0.0,Green Bay Packers,2018,Lions,293.0,360.0,3304.0,1530.0,19.0,13.0,3470.0,1715.0,4834.0,5185.0,0,Matt Patricia,Jim Bob Cooter,Paul Pasqualoni,Matthew Stafford
+32,1,Sun,1.0,0.0,1.0,Arizona Cardinals,2017,Lions,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Jim Caldwell,Jim Bob Cooter,Teryl Austin,Matthew Stafford
+33,2,Mon,1.0,1.0,0.0,New York Giants,2017,Lions,35.0,23.0,285.0,82.0,1.0,4.0,263.0,45.0,367.0,308.0,0,Jim Caldwell,Jim Bob Cooter,Teryl Austin,Matthew Stafford
+34,3,Sun,0.0,2.0,1.0,Atlanta Falcons,2017,Lions,59.0,33.0,404.0,220.0,2.0,5.0,471.0,107.0,624.0,578.0,0,Jim Caldwell,Jim Bob Cooter,Teryl Austin,Matthew Stafford
+35,4,Sun,1.0,2.0,0.0,Minnesota Vikings,2017,Lions,85.0,63.0,657.0,291.0,2.0,8.0,748.0,258.0,948.0,1006.0,0,Jim Caldwell,Jim Bob Cooter,Teryl Austin,Matthew Stafford
+36,5,Sun,0.0,3.0,1.0,Carolina Panthers,2017,Lions,99.0,70.0,811.0,388.0,2.0,11.0,945.0,345.0,1199.0,1290.0,0,Jim Caldwell,Jim Bob Cooter,Teryl Austin,Matthew Stafford
+37,6,Sun,0.0,3.0,0.0,New Orleans Saints,2017,Lions,123.0,97.0,1003.0,438.0,3.0,11.0,1279.0,373.0,1441.0,1652.0,0,Jim Caldwell,Jim Bob Cooter,Teryl Austin,Matthew Stafford
+38,8,Sun,0.0,3.0,1.0,Pittsburgh Steelers,2017,Lions,161.0,149.0,1284.0,504.0,8.0,14.0,1465.0,566.0,1788.0,2031.0,1,Jim Caldwell,Jim Bob Cooter,Teryl Austin,Matthew Stafford
+39,9,Mon,1.0,3.0,0.0,Green Bay Packers,2017,Lions,176.0,169.0,1695.0,575.0,9.0,16.0,1782.0,641.0,2270.0,2423.0,0,Jim Caldwell,Jim Bob Cooter,Teryl Austin,Matthew Stafford
+40,10,Sun,1.0,4.0,1.0,Cleveland Browns,2017,Lions,206.0,186.0,2048.0,639.0,10.0,16.0,2015.0,719.0,2687.0,2734.0,0,Jim Caldwell,Jim Bob Cooter,Teryl Austin,Matthew Stafford
+41,11,Sun,1.0,5.0,0.0,Chicago Bears,2017,Lions,244.0,210.0,2289.0,743.0,11.0,18.0,2227.0,920.0,3032.0,3147.0,0,Jim Caldwell,Jim Bob Cooter,Teryl Austin,Matthew Stafford
+42,12,Thu,0.0,6.0,1.0,Minnesota Vikings,2017,Lions,271.0,234.0,2576.0,808.0,12.0,19.0,2403.0,1142.0,3384.0,3545.0,0,Jim Caldwell,Jim Bob Cooter,Teryl Austin,Matthew Stafford
+43,13,Sun,0.0,6.0,0.0,Baltimore Ravens,2017,Lions,294.0,264.0,2812.0,861.0,14.0,19.0,2675.0,1278.0,3673.0,3953.0,0,Jim Caldwell,Jim Bob Cooter,Teryl Austin,Matthew Stafford
+44,14,Sun,1.0,6.0,0.0,Tampa Bay Buccaneers,2017,Lions,314.0,308.0,3106.0,939.0,17.0,19.0,2944.0,1379.0,4045.0,4323.0,0,Jim Caldwell,Jim Bob Cooter,Teryl Austin,Matthew Stafford
+45,15,Sat,1.0,7.0,1.0,Chicago Bears,2017,Lions,338.0,329.0,3487.0,992.0,20.0,24.0,3211.0,1512.0,4479.0,4723.0,0,Jim Caldwell,Jim Bob Cooter,Teryl Austin,Matthew Stafford
+46,16,Sun,0.0,8.0,0.0,Cincinnati Bengals,2017,Lions,358.0,339.0,3689.0,1083.0,21.0,27.0,3517.0,1555.0,4772.0,5072.0,0,Jim Caldwell,Jim Bob Cooter,Teryl Austin,Matthew Stafford
+47,17,Sun,1.0,8.0,1.0,Green Bay Packers,2017,Lions,375.0,365.0,3878.0,1170.0,22.0,28.0,3739.0,1697.0,5048.0,5436.0,0,Jim Caldwell,Jim Bob Cooter,Teryl Austin,Matthew Stafford
+48,1,Sun,1.0,0.0,0.0,Indianapolis Colts,2016,Lions,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Jim Caldwell,Jim Bob Cooter,Teryl Austin,Matthew Stafford
+49,2,Sun,0.0,1.0,1.0,Tennessee Titans,2016,Lions,39.0,35.0,332.0,116.0,0.0,0.0,368.0,82.0,448.0,450.0,0,Jim Caldwell,Jim Bob Cooter,Teryl Austin,Matthew Stafford
+50,3,Sun,0.0,1.0,0.0,Green Bay Packers,2016,Lions,54.0,51.0,570.0,253.0,1.0,1.0,592.0,221.0,823.0,813.0,0,Jim Caldwell,Jim Bob Cooter,Teryl Austin,Matthew Stafford
+51,4,Sun,0.0,1.0,0.0,Chicago Bears,2016,Lions,81.0,85.0,938.0,303.0,2.0,1.0,793.0,344.0,1241.0,1137.0,0,Jim Caldwell,Jim Bob Cooter,Teryl Austin,Matthew Stafford
+52,5,Sun,1.0,1.0,1.0,Philadelphia Eagles,2016,Lions,95.0,102.0,1135.0,369.0,4.0,1.0,1087.0,458.0,1504.0,1545.0,0,Jim Caldwell,Jim Bob Cooter,Teryl Austin,Matthew Stafford
+53,6,Sun,1.0,2.0,1.0,Los Angeles Rams,2016,Lions,119.0,125.0,1299.0,449.0,5.0,3.0,1317.0,574.0,1748.0,1891.0,0,Jim Caldwell,Jim Bob Cooter,Teryl Austin,Matthew Stafford
+54,7,Sun,1.0,3.0,1.0,Washington Redskins,2016,Lions,150.0,153.0,1564.0,532.0,5.0,4.0,1628.0,650.0,2096.0,2278.0,0,Jim Caldwell,Jim Bob Cooter,Teryl Austin,Matthew Stafford
+55,8,Sun,0.0,4.0,0.0,Houston Texans,2016,Lions,170.0,170.0,1814.0,626.0,5.0,6.0,1911.0,780.0,2440.0,2691.0,0,Jim Caldwell,Jim Bob Cooter,Teryl Austin,Matthew Stafford
+56,9,Sun,1.0,4.0,0.0,Minnesota Vikings,2016,Lions,183.0,190.0,2045.0,684.0,5.0,7.0,2075.0,885.0,2729.0,2960.0,0,Jim Caldwell,Jim Bob Cooter,Teryl Austin,Matthew Stafford
+57,11,Sun,1.0,5.0,1.0,Jacksonville Jaguars,2016,Lions,205.0,206.0,2259.0,781.0,6.0,7.0,2334.0,963.0,3040.0,3297.0,1,Jim Caldwell,Jim Bob Cooter,Teryl Austin,Matthew Stafford
+58,12,Thu,1.0,6.0,1.0,Minnesota Vikings,2016,Lions,231.0,225.0,2522.0,795.0,8.0,10.0,2536.0,1046.0,3317.0,3582.0,0,Jim Caldwell,Jim Bob Cooter,Teryl Austin,Matthew Stafford
+59,13,Sun,1.0,7.0,0.0,New Orleans Saints,2016,Lions,247.0,238.0,2736.0,889.0,8.0,11.0,2760.0,1128.0,3625.0,3888.0,0,Jim Caldwell,Jim Bob Cooter,Teryl Austin,Matthew Stafford
+60,14,Sun,1.0,8.0,1.0,Chicago Bears,2016,Lions,275.0,251.0,3073.0,974.0,8.0,14.0,3079.0,1178.0,4047.0,4257.0,0,Jim Caldwell,Jim Bob Cooter,Teryl Austin,Matthew Stafford
+61,15,Sun,0.0,9.0,0.0,New York Giants,2016,Lions,295.0,268.0,3282.0,1088.0,10.0,14.0,3283.0,1270.0,4370.0,4553.0,0,Jim Caldwell,Jim Bob Cooter,Teryl Austin,Matthew Stafford
+62,16,Mon,0.0,9.0,0.0,Dallas Cowboys,2016,Lions,301.0,285.0,3550.0,1144.0,12.0,14.0,3469.0,1384.0,4694.0,4853.0,0,Jim Caldwell,Jim Bob Cooter,Teryl Austin,Matthew Stafford
+63,17,Sun,0.0,9.0,1.0,Green Bay Packers,2016,Lions,322.0,327.0,3779.0,1234.0,14.0,14.0,3680.0,1548.0,5013.0,5228.0,0,Jim Caldwell,Jim Bob Cooter,Teryl Austin,Matthew Stafford
+64,1,Sun,0.0,0.0,0.0,San Diego Chargers,2015,Lions,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Jim Caldwell,Joe Lombardi,Teryl Austin,Matthew Stafford
+65,2,Sun,0.0,0.0,0.0,Minnesota Vikings,2015,Lions,28.0,33.0,233.0,69.0,2.0,3.0,387.0,96.0,302.0,483.0,0,Jim Caldwell,Joe Lombardi,Teryl Austin,Matthew Stafford
+66,3,Sun,0.0,0.0,1.0,Denver Broncos,2015,Lions,44.0,59.0,518.0,107.0,5.0,4.0,538.0,295.0,625.0,833.0,0,Jim Caldwell,Joe Lombardi,Teryl Austin,Matthew Stafford
+67,4,Mon,0.0,0.0,0.0,Seattle Seahawks,2015,Lions,56.0,83.0,780.0,135.0,8.0,6.0,851.0,336.0,915.0,1187.0,0,Jim Caldwell,Joe Lombardi,Teryl Austin,Matthew Stafford
+68,5,Sun,0.0,0.0,1.0,Arizona Cardinals,2015,Lions,66.0,96.0,983.0,188.0,9.0,9.0,1086.0,446.0,1171.0,1532.0,0,Jim Caldwell,Joe Lombardi,Teryl Austin,Matthew Stafford
+69,6,Sun,1.0,0.0,1.0,Chicago Bears,2015,Lions,83.0,138.0,1362.0,244.0,15.0,9.0,1244.0,633.0,1606.0,1877.0,0,Jim Caldwell,Joe Lombardi,Teryl Austin,Matthew Stafford
+70,7,Sun,0.0,1.0,1.0,Minnesota Vikings,2015,Lions,120.0,172.0,1753.0,399.0,18.0,10.0,1597.0,724.0,2152.0,2321.0,0,Jim Caldwell,Joe Lombardi,Teryl Austin,Matthew Stafford
+71,8,Sun,0.0,1.0,0.0,Kansas City Chiefs,2015,Lions,139.0,200.0,1950.0,476.0,18.0,11.0,1882.0,864.0,2426.0,2746.0,0,Jim Caldwell,Joe Lombardi,Teryl Austin,Matthew Stafford
+72,10,Sun,1.0,1.0,0.0,Green Bay Packers,2015,Lions,149.0,245.0,2145.0,557.0,20.0,11.0,2016.0,1070.0,2702.0,3086.0,1,Jim Caldwell,Joe Lombardi,Teryl Austin,Matthew Stafford
+73,11,Sun,1.0,2.0,1.0,Oakland Raiders,2015,Lions,167.0,261.0,2387.0,602.0,21.0,11.0,2341.0,1117.0,2989.0,3458.0,0,Jim Caldwell,Joe Lombardi,Teryl Austin,Matthew Stafford
+74,12,Thu,1.0,3.0,1.0,Philadelphia Eagles,2015,Lions,185.0,274.0,2653.0,711.0,21.0,11.0,2505.0,1169.0,3364.0,3674.0,0,Jim Caldwell,Joe Lombardi,Teryl Austin,Matthew Stafford
+75,13,Thu,0.0,4.0,1.0,Green Bay Packers,2015,Lions,230.0,288.0,2975.0,819.0,21.0,12.0,2664.0,1237.0,3794.0,3901.0,0,Jim Caldwell,Joe Lombardi,Teryl Austin,Matthew Stafford
+76,14,Sun,0.0,4.0,0.0,St. Louis Rams,2015,Lions,253.0,315.0,3180.0,920.0,22.0,13.0,2910.0,1304.0,4100.0,4214.0,0,Jim Caldwell,Joe Lombardi,Teryl Austin,Matthew Stafford
+77,15,Mon,1.0,4.0,0.0,New Orleans Saints,2015,Lions,267.0,336.0,3400.0,1031.0,23.0,15.0,3024.0,1507.0,4431.0,4531.0,0,Jim Caldwell,Joe Lombardi,Teryl Austin,Matthew Stafford
+78,16,Sun,1.0,5.0,1.0,San Francisco 49ers,2015,Lions,302.0,363.0,3646.0,1181.0,24.0,15.0,3354.0,1576.0,4827.0,4930.0,0,Jim Caldwell,Joe Lombardi,Teryl Austin,Matthew Stafford
+79,17,Sun,1.0,6.0,0.0,Chicago Bears,2015,Lions,334.0,380.0,3930.0,1268.0,24.0,16.0,3555.0,1697.0,5198.0,5252.0,0,Jim Caldwell,Joe Lombardi,Teryl Austin,Matthew Stafford
+80,1,Mon,1.0,0.0,1.0,New York Giants,2014,Lions,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Jim Caldwell,Joe Lombardi,Jim Bob Cooter,Matthew Stafford
+81,2,Sun,0.0,1.0,0.0,Carolina Panthers,2014,Lions,35.0,14.0,341.0,76.0,0.0,2.0,144.0,53.0,417.0,197.0,0,Jim Caldwell,Joe Lombardi,Jim Bob Cooter,Matthew Stafford
+82,3,Sun,1.0,1.0,1.0,Green Bay Packers,2014,Lions,42.0,38.0,594.0,146.0,3.0,2.0,395.0,115.0,740.0,510.0,0,Jim Caldwell,Joe Lombardi,Jim Bob Cooter,Matthew Stafford
+83,4,Sun,1.0,2.0,0.0,New York Jets,2014,Lions,61.0,45.0,832.0,261.0,6.0,3.0,542.0,191.0,1093.0,733.0,0,Jim Caldwell,Joe Lombardi,Jim Bob Cooter,Matthew Stafford
+84,5,Sun,0.0,3.0,1.0,Buffalo Bills,2014,Lions,85.0,62.0,1104.0,349.0,6.0,5.0,746.0,323.0,1453.0,1069.0,0,Jim Caldwell,Joe Lombardi,Jim Bob Cooter,Matthew Stafford
+85,6,Sun,1.0,3.0,0.0,Minnesota Vikings,2014,Lions,99.0,79.0,1308.0,418.0,8.0,6.0,1040.0,372.0,1726.0,1412.0,0,Jim Caldwell,Joe Lombardi,Jim Bob Cooter,Matthew Stafford
+86,7,Sun,1.0,4.0,1.0,New Orleans Saints,2014,Lions,116.0,82.0,1463.0,518.0,8.0,9.0,1183.0,441.0,1981.0,1624.0,0,Jim Caldwell,Joe Lombardi,Jim Bob Cooter,Matthew Stafford
+87,8,Sun,1.0,5.0,0.0,Atlanta Falcons,2014,Lions,140.0,105.0,1748.0,577.0,10.0,11.0,1518.0,514.0,2325.0,2032.0,0,Jim Caldwell,Joe Lombardi,Jim Bob Cooter,Matthew Stafford
+88,10,Sun,1.0,6.0,1.0,Miami Dolphins,2014,Lions,162.0,126.0,2073.0,637.0,11.0,12.0,1731.0,592.0,2710.0,2323.0,1,Jim Caldwell,Joe Lombardi,Jim Bob Cooter,Matthew Stafford
+89,11,Sun,0.0,7.0,0.0,Arizona Cardinals,2014,Lions,182.0,142.0,2361.0,700.0,12.0,14.0,1909.0,642.0,3061.0,2551.0,0,Jim Caldwell,Joe Lombardi,Jim Bob Cooter,Matthew Stafford
+90,12,Sun,0.0,7.0,0.0,New England Patriots,2014,Lions,188.0,156.0,2525.0,798.0,13.0,16.0,2215.0,688.0,3323.0,2903.0,0,Jim Caldwell,Joe Lombardi,Jim Bob Cooter,Matthew Stafford
+91,13,Thu,1.0,7.0,1.0,Chicago Bears,2014,Lions,197.0,190.0,2769.0,889.0,14.0,17.0,2564.0,778.0,3658.0,3342.0,0,Jim Caldwell,Joe Lombardi,Jim Bob Cooter,Matthew Stafford
+92,14,Sun,1.0,8.0,1.0,Tampa Bay Buccaneers,2014,Lions,231.0,207.0,3152.0,980.0,15.0,19.0,2820.0,791.0,4132.0,3611.0,0,Jim Caldwell,Joe Lombardi,Jim Bob Cooter,Matthew Stafford
+93,15,Sun,1.0,9.0,1.0,Minnesota Vikings,2014,Lions,265.0,224.0,3446.0,1093.0,16.0,22.0,3027.0,817.0,4539.0,3844.0,0,Jim Caldwell,Joe Lombardi,Jim Bob Cooter,Matthew Stafford
+94,16,Sun,1.0,10.0,0.0,Chicago Bears,2014,Lions,281.0,238.0,3599.0,1173.0,16.0,24.0,3311.0,893.0,4772.0,4204.0,0,Jim Caldwell,Joe Lombardi,Jim Bob Cooter,Matthew Stafford
+95,17,Sun,0.0,11.0,0.0,Green Bay Packers,2014,Lions,301.0,252.0,3828.0,1311.0,19.0,25.0,3481.0,957.0,5139.0,4438.0,0,Jim Caldwell,Joe Lombardi,Jim Bob Cooter,Matthew Stafford
+96,1,Sun,1.0,0.0,1.0,Minnesota Vikings,2013,Lions,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Jim Schwartz,Scott Linehan,Gunther Cunningham,Matthew Stafford
+97,2,Sun,0.0,1.0,0.0,Arizona Cardinals,2013,Lions,34.0,24.0,357.0,112.0,2.0,4.0,225.0,105.0,469.0,330.0,0,Jim Schwartz,Scott Linehan,Gunther Cunningham,Matthew Stafford
+98,3,Sun,1.0,1.0,0.0,Washington Redskins,2013,Lions,55.0,49.0,630.0,161.0,3.0,5.0,486.0,192.0,791.0,678.0,0,Jim Schwartz,Scott Linehan,Gunther Cunningham,Matthew Stafford
+99,4,Sun,1.0,2.0,1.0,Chicago Bears,2013,Lions,82.0,69.0,1008.0,224.0,4.0,7.0,786.0,312.0,1232.0,1098.0,0,Jim Schwartz,Scott Linehan,Gunther Cunningham,Matthew Stafford
+100,5,Sun,0.0,3.0,0.0,Green Bay Packers,2013,Lions,122.0,101.0,1236.0,383.0,7.0,11.0,1072.0,443.0,1619.0,1515.0,0,Jim Schwartz,Scott Linehan,Gunther Cunningham,Matthew Stafford
+101,6,Sun,1.0,3.0,0.0,Cleveland Browns,2013,Lions,131.0,123.0,1458.0,447.0,7.0,11.0,1341.0,623.0,1905.0,1964.0,0,Jim Schwartz,Scott Linehan,Gunther Cunningham,Matthew Stafford
+102,7,Sun,0.0,4.0,1.0,Cincinnati Bengals,2013,Lions,162.0,140.0,1706.0,565.0,8.0,13.0,1610.0,749.0,2271.0,2359.0,0,Jim Schwartz,Scott Linehan,Gunther Cunningham,Matthew Stafford
+103,8,Sun,1.0,4.0,1.0,Dallas Cowboys,2013,Lions,186.0,167.0,2063.0,642.0,8.0,13.0,1974.0,806.0,2705.0,2780.0,0,Jim Schwartz,Scott Linehan,Gunther Cunningham,Matthew Stafford
+104,10,Sun,1.0,5.0,0.0,Chicago Bears,2013,Lions,217.0,197.0,2543.0,785.0,12.0,13.0,2180.0,868.0,3328.0,3048.0,1,Jim Schwartz,Scott Linehan,Gunther Cunningham,Matthew Stafford
+105,11,Sun,0.0,6.0,0.0,Pittsburgh Steelers,2013,Lions,238.0,216.0,2762.0,930.0,13.0,14.0,2480.0,906.0,3692.0,3386.0,0,Jim Schwartz,Scott Linehan,Gunther Cunningham,Matthew Stafford
+106,12,Sun,0.0,6.0,1.0,Tampa Bay Buccaneers,2013,Lions,265.0,253.0,3106.0,1037.0,16.0,14.0,2838.0,946.0,4143.0,3784.0,0,Jim Schwartz,Scott Linehan,Gunther Cunningham,Matthew Stafford
+107,13,Thu,1.0,6.0,1.0,Green Bay Packers,2013,Lions,286.0,277.0,3392.0,1141.0,21.0,14.0,3045.0,968.0,4533.0,4013.0,0,Jim Schwartz,Scott Linehan,Gunther Cunningham,Matthew Stafford
+108,14,Sun,0.0,7.0,0.0,Philadelphia Eagles,2013,Lions,326.0,287.0,3712.0,1382.0,25.0,17.0,3147.0,992.0,5094.0,4139.0,0,Jim Schwartz,Scott Linehan,Gunther Cunningham,Matthew Stafford
+109,15,Mon,0.0,7.0,1.0,Baltimore Ravens,2013,Lions,346.0,321.0,3863.0,1462.0,28.0,18.0,3326.0,1291.0,5325.0,4617.0,0,Jim Schwartz,Scott Linehan,Gunther Cunningham,Matthew Stafford
+110,16,Sun,0.0,7.0,1.0,New York Giants,2013,Lions,362.0,339.0,4093.0,1581.0,31.0,18.0,3541.0,1381.0,5674.0,4922.0,0,Jim Schwartz,Scott Linehan,Gunther Cunningham,Matthew Stafford
+111,17,Sun,0.0,7.0,0.0,Minnesota Vikings,2013,Lions,382.0,362.0,4300.0,1729.0,34.0,20.0,3779.0,1422.0,6029.0,5201.0,0,Jim Schwartz,Scott Linehan,Gunther Cunningham,Matthew Stafford
+112,1,Sun,1.0,0.0,1.0,St. Louis Rams,2012,Lions,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Jim Schwartz,Scott Linehan,Gunther Cunningham,Matthew Stafford
+113,2,Sun,0.0,1.0,0.0,San Francisco 49ers,2012,Lions,27.0,23.0,346.0,83.0,3.0,0.0,173.0,77.0,429.0,250.0,0,Jim Schwartz,Scott Linehan,Gunther Cunningham,Matthew Stafford
+114,3,Sun,0.0,1.0,0.0,Tennessee Titans,2012,Lions,46.0,50.0,560.0,165.0,4.0,1.0,374.0,225.0,725.0,599.0,0,Jim Schwartz,Scott Linehan,Gunther Cunningham,Matthew Stafford
+115,4,Sun,0.0,1.0,1.0,Minnesota Vikings,2012,Lions,87.0,94.0,1002.0,306.0,5.0,3.0,752.0,284.0,1308.0,1036.0,0,Jim Schwartz,Scott Linehan,Gunther Cunningham,Matthew Stafford
+116,6,Sun,1.0,1.0,0.0,Philadelphia Eagles,2012,Lions,100.0,114.0,1288.0,361.0,6.0,3.0,852.0,411.0,1649.0,1263.0,1,Jim Schwartz,Scott Linehan,Gunther Cunningham,Matthew Stafford
+117,7,Mon,0.0,2.0,0.0,Chicago Bears,2012,Lions,126.0,137.0,1599.0,499.0,7.0,6.0,1138.0,482.0,2098.0,1620.0,0,Jim Schwartz,Scott Linehan,Gunther Cunningham,Matthew Stafford
+118,8,Sun,1.0,2.0,1.0,Seattle Seahawks,2012,Lions,133.0,150.0,1842.0,596.0,11.0,6.0,1263.0,653.0,2438.0,1916.0,0,Jim Schwartz,Scott Linehan,Gunther Cunningham,Matthew Stafford
+119,9,Sun,1.0,3.0,0.0,Jacksonville Jaguars,2012,Lions,161.0,174.0,2173.0,680.0,12.0,8.0,1499.0,786.0,2853.0,2285.0,0,Jim Schwartz,Scott Linehan,Gunther Cunningham,Matthew Stafford
+120,10,Sun,0.0,4.0,0.0,Minnesota Vikings,2012,Lions,192.0,188.0,2458.0,829.0,12.0,10.0,1714.0,850.0,3287.0,2564.0,0,Jim Schwartz,Scott Linehan,Gunther Cunningham,Matthew Stafford
+121,11,Sun,0.0,4.0,1.0,Green Bay Packers,2012,Lions,216.0,222.0,2766.0,889.0,14.0,10.0,1921.0,1046.0,3655.0,2967.0,0,Jim Schwartz,Scott Linehan,Gunther Cunningham,Matthew Stafford
+122,12,Thu,0.0,4.0,1.0,Houston Texans,2012,Lions,236.0,246.0,3018.0,999.0,18.0,11.0,2140.0,1141.0,4017.0,3281.0,0,Jim Schwartz,Scott Linehan,Gunther Cunningham,Matthew Stafford
+123,13,Sun,0.0,4.0,1.0,Indianapolis Colts,2012,Lions,267.0,280.0,3437.0,1105.0,19.0,12.0,2436.0,1346.0,4542.0,3782.0,0,Jim Schwartz,Scott Linehan,Gunther Cunningham,Matthew Stafford
+124,14,Sun,0.0,4.0,0.0,Green Bay Packers,2012,Lions,300.0,315.0,3750.0,1243.0,20.0,15.0,2808.0,1433.0,4993.0,4241.0,0,Jim Schwartz,Scott Linehan,Gunther Cunningham,Matthew Stafford
+125,15,Sun,0.0,4.0,0.0,Arizona Cardinals,2012,Lions,320.0,342.0,4001.0,1378.0,22.0,16.0,2956.0,1573.0,5379.0,4529.0,0,Jim Schwartz,Scott Linehan,Gunther Cunningham,Matthew Stafford
+126,16,Sat,0.0,4.0,1.0,Atlanta Falcons,2012,Lions,330.0,380.0,4229.0,1462.0,26.0,17.0,3053.0,1672.0,5691.0,4725.0,0,Jim Schwartz,Scott Linehan,Gunther Cunningham,Matthew Stafford
+127,17,Sun,0.0,4.0,1.0,Chicago Bears,2012,Lions,348.0,411.0,4672.0,1541.0,29.0,17.0,3324.0,1745.0,6213.0,5069.0,0,Jim Schwartz,Scott Linehan,Gunther Cunningham,Matthew Stafford
+128,1,Sun,1.0,0.0,0.0,Tampa Bay Buccaneers,2011,Lions,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Jim Schwartz,Scott Linehan,Gunther Cunningham,Matthew Stafford
+129,2,Sun,1.0,1.0,1.0,Kansas City Chiefs,2011,Lions,27.0,20.0,305.0,126.0,1.0,2.0,259.0,56.0,431.0,315.0,0,Jim Schwartz,Scott Linehan,Gunther Cunningham,Matthew Stafford
+130,3,Sun,1.0,2.0,0.0,Minnesota Vikings,2011,Lions,75.0,23.0,627.0,215.0,2.0,8.0,375.0,207.0,842.0,582.0,0,Jim Schwartz,Scott Linehan,Gunther Cunningham,Matthew Stafford
+131,4,Sun,1.0,3.0,0.0,Dallas Cowboys,2011,Lions,101.0,46.0,965.0,235.0,2.0,8.0,564.0,339.0,1200.0,903.0,0,Jim Schwartz,Scott Linehan,Gunther Cunningham,Matthew Stafford
+132,5,Mon,1.0,4.0,1.0,Chicago Bears,2011,Lions,135.0,76.0,1205.0,298.0,3.0,11.0,885.0,452.0,1503.0,1337.0,0,Jim Schwartz,Scott Linehan,Gunther Cunningham,Matthew Stafford
+133,6,Sun,0.0,5.0,1.0,San Francisco 49ers,2011,Lions,159.0,89.0,1419.0,479.0,4.0,11.0,1122.0,574.0,1898.0,1696.0,0,Jim Schwartz,Scott Linehan,Gunther Cunningham,Matthew Stafford
+134,7,Sun,0.0,5.0,1.0,Atlanta Falcons,2011,Lions,178.0,114.0,1663.0,545.0,4.0,13.0,1233.0,777.0,2208.0,2010.0,0,Jim Schwartz,Scott Linehan,Gunther Cunningham,Matthew Stafford
+135,8,Sun,1.0,5.0,0.0,Denver Broncos,2011,Lions,194.0,137.0,1822.0,649.0,5.0,15.0,1432.0,906.0,2471.0,2338.0,0,Jim Schwartz,Scott Linehan,Gunther Cunningham,Matthew Stafford
+136,10,Sun,0.0,6.0,0.0,Chicago Bears,2011,Lions,239.0,147.0,2085.0,762.0,5.0,18.0,1549.0,1101.0,2847.0,2650.0,1,Jim Schwartz,Scott Linehan,Gunther Cunningham,Matthew Stafford
+137,11,Sun,1.0,6.0,1.0,Carolina Panthers,2011,Lions,252.0,184.0,2398.0,842.0,11.0,19.0,1656.0,1210.0,3240.0,2866.0,0,Jim Schwartz,Scott Linehan,Gunther Cunningham,Matthew Stafford
+138,12,Thu,0.0,7.0,1.0,Green Bay Packers,2011,Lions,301.0,219.0,2724.0,1011.0,14.0,23.0,1928.0,1347.0,3735.0,3275.0,0,Jim Schwartz,Scott Linehan,Gunther Cunningham,Matthew Stafford
+139,13,Sun,0.0,7.0,0.0,New Orleans Saints,2011,Lions,316.0,246.0,2997.0,1147.0,17.0,23.0,2224.0,1400.0,4144.0,3624.0,0,Jim Schwartz,Scott Linehan,Gunther Cunningham,Matthew Stafford
+140,14,Sun,1.0,7.0,1.0,Minnesota Vikings,2011,Lions,333.0,277.0,3376.0,1234.0,18.0,23.0,2562.0,1500.0,4610.0,4062.0,0,Jim Schwartz,Scott Linehan,Gunther Cunningham,Matthew Stafford
+141,15,Sun,1.0,8.0,0.0,Oakland Raiders,2011,Lions,367.0,305.0,3584.0,1306.0,18.0,29.0,2718.0,1769.0,4890.0,4487.0,0,Jim Schwartz,Scott Linehan,Gunther Cunningham,Matthew Stafford
+142,16,Sat,1.0,9.0,1.0,San Diego Chargers,2011,Lions,395.0,332.0,3959.0,1363.0,19.0,30.0,3063.0,1901.0,5322.0,4964.0,0,Jim Schwartz,Scott Linehan,Gunther Cunningham,Matthew Stafford
+143,17,Sun,0.0,10.0,0.0,Green Bay Packers,2011,Lions,433.0,342.0,4312.0,1450.0,19.0,32.0,3362.0,1969.0,5762.0,5331.0,0,Jim Schwartz,Scott Linehan,Gunther Cunningham,Matthew Stafford
+144,1,Sun,1.0,0.0,1.0,Minnesota Vikings,2010,Lions,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Jim Schwartz,Scott Linehan,Gunther Cunningham,Matthew Stafford
+145,2,Sun,0.0,1.0,0.0,Arizona Cardinals,2010,Lions,34.0,24.0,357.0,112.0,2.0,4.0,225.0,105.0,469.0,330.0,0,Jim Schwartz,Scott Linehan,Gunther Cunningham,Shaun Hill
+146,3,Sun,1.0,1.0,0.0,Washington Redskins,2010,Lions,55.0,49.0,630.0,161.0,3.0,5.0,486.0,192.0,791.0,678.0,0,Jim Schwartz,Scott Linehan,Gunther Cunningham,Shaun Hill
+147,4,Sun,1.0,2.0,1.0,Chicago Bears,2010,Lions,82.0,69.0,1008.0,224.0,4.0,7.0,786.0,312.0,1232.0,1098.0,0,Jim Schwartz,Scott Linehan,Gunther Cunningham,Shaun Hill
+148,5,Sun,0.0,3.0,0.0,Green Bay Packers,2010,Lions,122.0,101.0,1236.0,383.0,7.0,11.0,1072.0,443.0,1619.0,1515.0,0,Jim Schwartz,Scott Linehan,Gunther Cunningham,Shaun Hill
+149,6,Sun,1.0,3.0,0.0,Cleveland Browns,2010,Lions,131.0,123.0,1458.0,447.0,7.0,11.0,1341.0,623.0,1905.0,1964.0,0,Jim Schwartz,Scott Linehan,Gunther Cunningham,Shaun Hill
+150,7,Sun,0.0,4.0,1.0,Cincinnati Bengals,2010,Lions,162.0,140.0,1706.0,565.0,8.0,13.0,1610.0,749.0,2271.0,2359.0,0,Jim Schwartz,Scott Linehan,Gunther Cunningham,Shaun Hill
+151,8,Sun,1.0,4.0,1.0,Dallas Cowboys,2010,Lions,186.0,167.0,2063.0,642.0,8.0,13.0,1974.0,806.0,2705.0,2780.0,0,Jim Schwartz,Scott Linehan,Gunther Cunningham,Shaun Hill
+152,10,Sun,1.0,5.0,0.0,Chicago Bears,2010,Lions,217.0,197.0,2543.0,785.0,12.0,13.0,2180.0,868.0,3328.0,3048.0,1,Jim Schwartz,Scott Linehan,Gunther Cunningham,Shaun Hill
+153,11,Sun,0.0,6.0,0.0,Pittsburgh Steelers,2010,Lions,238.0,216.0,2762.0,930.0,13.0,14.0,2480.0,906.0,3692.0,3386.0,0,Jim Schwartz,Scott Linehan,Gunther Cunningham,Shaun Hill
+154,12,Sun,0.0,6.0,1.0,Tampa Bay Buccaneers,2010,Lions,265.0,253.0,3106.0,1037.0,16.0,14.0,2838.0,946.0,4143.0,3784.0,0,Jim Schwartz,Scott Linehan,Gunther Cunningham,Shaun Hill
+155,13,Thu,1.0,6.0,1.0,Green Bay Packers,2010,Lions,286.0,277.0,3392.0,1141.0,21.0,14.0,3045.0,968.0,4533.0,4013.0,0,Jim Schwartz,Scott Linehan,Gunther Cunningham,Shaun Hill
+156,14,Sun,0.0,7.0,0.0,Philadelphia Eagles,2010,Lions,326.0,287.0,3712.0,1382.0,25.0,17.0,3147.0,992.0,5094.0,4139.0,0,Jim Schwartz,Scott Linehan,Gunther Cunningham,Shaun Hill
+157,15,Mon,0.0,7.0,1.0,Baltimore Ravens,2010,Lions,346.0,321.0,3863.0,1462.0,28.0,18.0,3326.0,1291.0,5325.0,4617.0,0,Jim Schwartz,Scott Linehan,Gunther Cunningham,Shaun Hill
+158,16,Sun,0.0,7.0,1.0,New York Giants,2010,Lions,362.0,339.0,4093.0,1581.0,31.0,18.0,3541.0,1381.0,5674.0,4922.0,0,Jim Schwartz,Scott Linehan,Gunther Cunningham,Shaun Hill
+159,17,Sun,0.0,7.0,0.0,Minnesota Vikings,2010,Lions,382.0,362.0,4300.0,1729.0,34.0,20.0,3779.0,1422.0,6029.0,5201.0,0,Jim Schwartz,Scott Linehan,Gunther Cunningham,Shaun Hill
