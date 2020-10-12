@@ -1,161 +1,177 @@
 ,Week,Day,Results,Wins Tally,Home,Opp,year,Base_Team,PF Tally,PA Tally,OPassY Tally,ORushY Tally,TO_lost Tally,TO_won Tally,DPassY Tally,DRushY Tally,OTotYd Tally,DTotYd Tally,after_bye,Head_Coach,OC,DC,QB
-0,1,Sun,0.0,0.0,0.0,New England Patriots,2019,Steelers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Mason Rudolph
-1,2,Sun,0.0,0.0,1.0,Seattle Seahawks,2019,Steelers,3.0,33.0,276.0,32.0,1.0,0.0,366.0,99.0,308.0,465.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Mason Rudolph
-2,3,Sun,0.0,0.0,0.0,San Francisco 49ers,2019,Steelers,29.0,61.0,456.0,113.0,2.0,2.0,640.0,250.0,569.0,890.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Mason Rudolph
-3,4,Mon,1.0,0.0,1.0,Cincinnati Bengals,2019,Steelers,49.0,85.0,616.0,192.0,4.0,7.0,908.0,418.0,808.0,1326.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Mason Rudolph
-4,5,Sun,0.0,1.0,1.0,Baltimore Ravens,2019,Steelers,76.0,88.0,876.0,258.0,5.0,9.0,1010.0,491.0,1134.0,1501.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Mason Rudolph
-5,6,Sun,1.0,1.0,0.0,Los Angeles Chargers,2019,Steelers,99.0,114.0,1068.0,335.0,7.0,12.0,1149.0,629.0,1403.0,1778.0,0,Devlin Hodges,Randy Fichtner,Keith Butler,Mason Rudolph
-6,8,Mon,1.0,2.0,1.0,Miami Dolphins,2019,Steelers,123.0,131.0,1200.0,459.0,8.0,15.0,1465.0,661.0,1659.0,2126.0,1,Mike Tomlin,Randy Fichtner,Keith Butler,Mason Rudolph
-7,9,Sun,1.0,3.0,1.0,Indianapolis Colts,2019,Steelers,150.0,145.0,1436.0,617.0,9.0,19.0,1635.0,721.0,2053.0,2356.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Mason Rudolph
-8,10,Sun,1.0,4.0,1.0,Los Angeles Rams,2019,Steelers,176.0,169.0,1619.0,707.0,11.0,22.0,1824.0,860.0,2326.0,2684.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Mason Rudolph
-9,11,Thu,0.0,5.0,0.0,Cleveland Browns,2019,Steelers,193.0,181.0,1850.0,749.0,13.0,26.0,2042.0,948.0,2599.0,2990.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Mason Rudolph
-10,12,Sun,1.0,5.0,0.0,Cincinnati Bengals,2019,Steelers,200.0,202.0,2028.0,807.0,17.0,26.0,2231.0,1052.0,2835.0,3283.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Mason Rudolph
-11,13,Sun,1.0,6.0,1.0,Cleveland Browns,2019,Steelers,216.0,212.0,2207.0,966.0,18.0,28.0,2389.0,1138.0,3173.0,3527.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Mason Rudolph
-12,14,Sun,1.0,7.0,0.0,Arizona Cardinals,2019,Steelers,236.0,225.0,2406.0,1090.0,19.0,30.0,2562.0,1244.0,3496.0,3806.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Mason Rudolph
-13,15,Sun,0.0,8.0,1.0,Buffalo Bills,2019,Steelers,259.0,242.0,2541.0,1230.0,21.0,33.0,2727.0,1315.0,3771.0,4042.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Mason Rudolph
-14,16,Sun,0.0,8.0,0.0,New York Jets,2019,Steelers,269.0,259.0,2719.0,1281.0,26.0,35.0,2858.0,1445.0,4000.0,4303.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Mason Rudolph
-15,17,Sun,0.0,8.0,0.0,Baltimore Ravens,2019,Steelers,279.0,275.0,2904.0,1356.0,28.0,36.0,3032.0,1530.0,4260.0,4562.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Mason Rudolph
-16,1,Sun,0.0,0.0,0.0,Cleveland Browns,2018,Steelers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Ben Roethlisberger
-17,2,Sun,0.0,0.0,1.0,Kansas City Chiefs,2018,Steelers,21.0,21.0,313.0,159.0,6.0,1.0,150.0,177.0,472.0,327.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Ben Roethlisberger
-18,3,Mon,1.0,0.0,0.0,Tampa Bay Buccaneers,2018,Steelers,58.0,63.0,755.0,192.0,6.0,2.0,472.0,304.0,947.0,776.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Ben Roethlisberger
-19,4,Sun,0.0,1.0,1.0,Baltimore Ravens,2018,Steelers,88.0,90.0,1090.0,270.0,7.0,6.0,864.0,367.0,1360.0,1231.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Ben Roethlisberger
-20,5,Sun,1.0,1.0,1.0,Atlanta Falcons,2018,Steelers,102.0,116.0,1355.0,289.0,9.0,7.0,1219.0,463.0,1644.0,1682.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Ben Roethlisberger
-21,6,Sun,1.0,2.0,0.0,Cincinnati Bengals,2018,Steelers,143.0,133.0,1605.0,420.0,10.0,8.0,1481.0,525.0,2025.0,2006.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Ben Roethlisberger
-22,8,Sun,1.0,3.0,1.0,Cleveland Browns,2018,Steelers,171.0,154.0,1974.0,532.0,10.0,8.0,1694.0,587.0,2506.0,2281.0,1,Mike Tomlin,Randy Fichtner,Keith Butler,Ben Roethlisberger
-23,9,Sun,1.0,4.0,0.0,Baltimore Ravens,2018,Steelers,204.0,172.0,2227.0,700.0,12.0,9.0,1857.0,661.0,2927.0,2518.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Ben Roethlisberger
-24,10,Thu,1.0,5.0,1.0,Carolina Panthers,2018,Steelers,227.0,188.0,2509.0,813.0,12.0,9.0,2061.0,722.0,3322.0,2783.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Ben Roethlisberger
-25,11,Sun,1.0,6.0,0.0,Jacksonville Jaguars,2018,Steelers,279.0,209.0,2828.0,951.0,12.0,11.0,2208.0,817.0,3779.0,3025.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Ben Roethlisberger
-26,12,Sun,0.0,7.0,0.0,Denver Broncos,2018,Steelers,299.0,225.0,3125.0,977.0,15.0,12.0,2272.0,996.0,4102.0,3268.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Ben Roethlisberger
-27,13,Sun,0.0,7.0,1.0,Los Angeles Chargers,2018,Steelers,316.0,249.0,3577.0,1052.0,19.0,12.0,2456.0,1120.0,4629.0,3576.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Ben Roethlisberger
-28,14,Sun,0.0,7.0,0.0,Oakland Raiders,2018,Steelers,346.0,282.0,3848.0,1117.0,20.0,12.0,2742.0,1205.0,4965.0,3947.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Ben Roethlisberger
-29,15,Sun,1.0,7.0,1.0,New England Patriots,2018,Steelers,367.0,306.0,4148.0,1157.0,21.0,13.0,3041.0,1260.0,5305.0,4301.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Ben Roethlisberger
-30,16,Sun,0.0,8.0,0.0,New Orleans Saints,2018,Steelers,384.0,316.0,4366.0,1315.0,23.0,14.0,3313.0,1356.0,5681.0,4669.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Ben Roethlisberger
-31,17,Sun,1.0,8.0,1.0,Cincinnati Bengals,2018,Steelers,412.0,347.0,4730.0,1380.0,25.0,15.0,3626.0,1413.0,6110.0,5039.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Ben Roethlisberger
-32,1,Sun,1.0,0.0,0.0,Cleveland Browns,2017,Steelers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
-33,2,Sun,1.0,1.0,1.0,Minnesota Vikings,2017,Steelers,21.0,18.0,255.0,35.0,1.0,1.0,180.0,57.0,290.0,237.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
-34,3,Sun,0.0,2.0,0.0,Chicago Bears,2017,Steelers,47.0,27.0,488.0,137.0,1.0,2.0,326.0,148.0,625.0,474.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
-35,4,Sun,1.0,2.0,0.0,Baltimore Ravens,2017,Steelers,64.0,50.0,700.0,207.0,3.0,4.0,410.0,370.0,907.0,780.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
-36,5,Sun,0.0,3.0,1.0,Jacksonville Jaguars,2017,Steelers,90.0,59.0,908.0,380.0,4.0,7.0,616.0,452.0,1288.0,1068.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
-37,6,Sun,1.0,3.0,0.0,Kansas City Chiefs,2017,Steelers,99.0,89.0,1209.0,450.0,9.0,8.0,698.0,683.0,1659.0,1381.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
-38,7,Sun,1.0,4.0,1.0,Cincinnati Bengals,2017,Steelers,118.0,102.0,1454.0,644.0,10.0,8.0,921.0,711.0,2098.0,1632.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
-39,8,Sun,1.0,5.0,0.0,Detroit Lions,2017,Steelers,147.0,116.0,1722.0,796.0,10.0,10.0,1029.0,782.0,2518.0,1811.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
-40,10,Sun,1.0,6.0,0.0,Indianapolis Colts,2017,Steelers,167.0,131.0,2039.0,871.0,12.0,11.0,1440.0,853.0,2910.0,2293.0,1,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
-41,11,Thu,1.0,7.0,1.0,Tennessee Titans,2017,Steelers,187.0,148.0,2267.0,959.0,13.0,12.0,1636.0,924.0,3226.0,2560.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
-42,12,Sun,1.0,8.0,1.0,Green Bay Packers,2017,Steelers,227.0,165.0,2551.0,1024.0,13.0,16.0,1900.0,976.0,3575.0,2876.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
-43,13,Mon,1.0,9.0,0.0,Cincinnati Bengals,2017,Steelers,258.0,193.0,2892.0,1145.0,16.0,16.0,2127.0,1056.0,4037.0,3183.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
-44,14,Sun,1.0,10.0,1.0,Baltimore Ravens,2017,Steelers,281.0,213.0,3174.0,1237.0,17.0,16.0,2350.0,1186.0,4411.0,3536.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
-45,15,Sun,0.0,11.0,1.0,New England Patriots,2017,Steelers,320.0,251.0,3660.0,1296.0,17.0,17.0,2611.0,1338.0,4956.0,3949.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
-46,16,Mon,1.0,11.0,0.0,Houston Texans,2017,Steelers,344.0,278.0,3930.0,1439.0,18.0,18.0,2894.0,1415.0,5369.0,4309.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
-47,17,Sun,1.0,12.0,1.0,Cleveland Browns,2017,Steelers,378.0,284.0,4156.0,1543.0,18.0,20.0,2945.0,1591.0,5699.0,4536.0,0,Landry Jones,Todd Haley,Keith Butler,Ben Roethlisberger
-48,1,Mon,1.0,0.0,0.0,Washington Redskins,2016,Steelers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
-49,2,Sun,1.0,1.0,1.0,Cincinnati Bengals,2016,Steelers,38.0,16.0,290.0,147.0,1.0,2.0,329.0,55.0,437.0,384.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
-50,3,Sun,0.0,2.0,0.0,Philadelphia Eagles,2016,Steelers,62.0,32.0,540.0,271.0,3.0,4.0,695.0,101.0,811.0,796.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
-51,4,Sun,1.0,2.0,1.0,Kansas City Chiefs,2016,Steelers,65.0,66.0,762.0,300.0,5.0,4.0,996.0,226.0,1062.0,1222.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
-52,5,Sun,1.0,3.0,1.0,New York Jets,2016,Steelers,108.0,80.0,1049.0,449.0,5.0,6.0,1266.0,313.0,1498.0,1579.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
-53,6,Sun,0.0,4.0,0.0,Miami Dolphins,2016,Steelers,139.0,93.0,1424.0,510.0,6.0,6.0,1510.0,385.0,1934.0,1895.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
-54,7,Sun,0.0,4.0,1.0,New England Patriots,2016,Steelers,154.0,123.0,1593.0,638.0,8.0,6.0,1762.0,607.0,2231.0,2369.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
-55,9,Sun,0.0,4.0,0.0,Baltimore Ravens,2016,Steelers,170.0,150.0,1874.0,732.0,9.0,8.0,1984.0,747.0,2606.0,2731.0,1,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
-56,10,Sun,0.0,4.0,1.0,Dallas Cowboys,2016,Steelers,184.0,171.0,2115.0,768.0,10.0,9.0,2208.0,797.0,2883.0,3005.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
-57,11,Sun,1.0,4.0,0.0,Cleveland Browns,2016,Steelers,214.0,206.0,2515.0,816.0,10.0,10.0,2503.0,924.0,3331.0,3427.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
-58,12,Thu,1.0,5.0,0.0,Indianapolis Colts,2016,Steelers,238.0,215.0,2682.0,962.0,10.0,12.0,2679.0,957.0,3644.0,3636.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
-59,13,Sun,1.0,6.0,1.0,New York Giants,2016,Steelers,266.0,222.0,2903.0,1110.0,10.0,14.0,2898.0,1048.0,4013.0,3946.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
-60,14,Sun,1.0,7.0,0.0,Buffalo Bills,2016,Steelers,290.0,236.0,3175.0,1227.0,12.0,16.0,3076.0,1104.0,4402.0,4180.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
-61,15,Sun,1.0,8.0,0.0,Cincinnati Bengals,2016,Steelers,317.0,256.0,3395.0,1467.0,15.0,17.0,3284.0,1171.0,4862.0,4455.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
-62,16,Sun,1.0,9.0,1.0,Baltimore Ravens,2016,Steelers,341.0,276.0,3680.0,1564.0,15.0,18.0,3430.0,1247.0,5244.0,4677.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
-63,17,Sun,1.0,10.0,1.0,Cleveland Browns,2016,Steelers,372.0,303.0,3959.0,1691.0,17.0,19.0,3676.0,1369.0,5650.0,5045.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
-64,1,Thu,0.0,0.0,0.0,New England Patriots,2015,Steelers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
-65,2,Sun,1.0,0.0,1.0,San Francisco 49ers,2015,Steelers,21.0,28.0,330.0,134.0,1.0,0.0,281.0,80.0,464.0,361.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
-66,3,Sun,1.0,1.0,0.0,St. Louis Rams,2015,Steelers,64.0,46.0,699.0,218.0,1.0,1.0,579.0,191.0,917.0,770.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
-67,4,Thu,0.0,2.0,1.0,Baltimore Ravens,2015,Steelers,76.0,52.0,896.0,280.0,2.0,2.0,766.0,262.0,1176.0,1028.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
-68,5,Mon,1.0,2.0,0.0,San Diego Chargers,2015,Steelers,96.0,75.0,992.0,447.0,2.0,4.0,931.0,453.0,1439.0,1384.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
-69,6,Sun,1.0,3.0,1.0,Arizona Cardinals,2015,Steelers,120.0,95.0,1186.0,602.0,3.0,6.0,1285.0,505.0,1788.0,1790.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
-70,7,Sun,0.0,4.0,0.0,Kansas City Chiefs,2015,Steelers,145.0,108.0,1355.0,743.0,3.0,9.0,1699.0,560.0,2098.0,2259.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
-71,8,Sun,0.0,4.0,1.0,Cincinnati Bengals,2015,Steelers,158.0,131.0,1547.0,890.0,6.0,9.0,1938.0,698.0,2437.0,2636.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
-72,9,Sun,1.0,4.0,1.0,Oakland Raiders,2015,Steelers,168.0,147.0,1787.0,1006.0,9.0,11.0,2156.0,776.0,2793.0,2932.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
-73,10,Sun,1.0,5.0,1.0,Cleveland Browns,2015,Steelers,206.0,182.0,2189.0,1201.0,11.0,15.0,2457.0,915.0,3390.0,3372.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
-74,12,Sun,0.0,6.0,0.0,Seattle Seahawks,2015,Steelers,236.0,191.0,2588.0,1261.0,13.0,18.0,2784.0,930.0,3849.0,3714.0,1,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
-75,13,Sun,1.0,6.0,1.0,Indianapolis Colts,2015,Steelers,266.0,230.0,3068.0,1319.0,17.0,18.0,3120.0,1030.0,4387.0,4150.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
-76,14,Sun,1.0,7.0,0.0,Cincinnati Bengals,2015,Steelers,311.0,240.0,3432.0,1477.0,19.0,21.0,3306.0,1084.0,4909.0,4390.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
-77,15,Sun,1.0,8.0,1.0,Denver Broncos,2015,Steelers,344.0,260.0,3702.0,1561.0,20.0,24.0,3627.0,1148.0,5263.0,4775.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
-78,16,Sun,0.0,9.0,0.0,Baltimore Ravens,2015,Steelers,378.0,287.0,4056.0,1584.0,22.0,26.0,3908.0,1252.0,5640.0,5160.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
-79,17,Sun,1.0,9.0,0.0,Cleveland Browns,2015,Steelers,395.0,307.0,4254.0,1694.0,25.0,26.0,4173.0,1373.0,5948.0,5546.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
-80,1,Sun,1.0,0.0,1.0,Cleveland Browns,2014,Steelers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
-81,2,Thu,0.0,1.0,0.0,Baltimore Ravens,2014,Steelers,30.0,27.0,376.0,127.0,1.0,0.0,198.0,191.0,503.0,389.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
-82,3,Sun,1.0,1.0,0.0,Carolina Panthers,2014,Steelers,36.0,53.0,578.0,226.0,4.0,0.0,364.0,348.0,804.0,712.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
-83,4,Sun,0.0,2.0,1.0,Tampa Bay Buccaneers,2014,Steelers,73.0,72.0,768.0,490.0,4.0,2.0,671.0,390.0,1258.0,1061.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
-84,5,Sun,1.0,2.0,0.0,Jacksonville Jaguars,2014,Steelers,97.0,99.0,1073.0,575.0,5.0,3.0,958.0,453.0,1648.0,1411.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
-85,6,Sun,0.0,3.0,0.0,Cleveland Browns,2014,Steelers,114.0,108.0,1334.0,686.0,6.0,5.0,1145.0,509.0,2020.0,1654.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
-86,7,Mon,1.0,3.0,1.0,Houston Texans,2014,Steelers,124.0,139.0,1555.0,824.0,7.0,6.0,1355.0,667.0,2379.0,2022.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
-87,8,Sun,1.0,4.0,1.0,Indianapolis Colts,2014,Steelers,154.0,162.0,1807.0,900.0,8.0,9.0,1616.0,799.0,2707.0,2415.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
-88,9,Sun,1.0,5.0,1.0,Baltimore Ravens,2014,Steelers,205.0,196.0,2329.0,1017.0,10.0,11.0,2001.0,862.0,3346.0,2863.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
-89,10,Sun,0.0,6.0,0.0,New York Jets,2014,Steelers,248.0,219.0,2650.0,1072.0,11.0,13.0,2270.0,925.0,3722.0,3195.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
-90,11,Mon,1.0,6.0,0.0,Tennessee Titans,2014,Steelers,261.0,239.0,2976.0,1108.0,15.0,13.0,2395.0,1075.0,4084.0,3470.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
-91,13,Sun,0.0,7.0,1.0,New Orleans Saints,2014,Steelers,288.0,263.0,3156.0,1314.0,16.0,14.0,2658.0,1124.0,4470.0,3782.0,1,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
-92,14,Sun,1.0,7.0,0.0,Cincinnati Bengals,2014,Steelers,320.0,298.0,3591.0,1417.0,18.0,14.0,2908.0,1267.0,5008.0,4175.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
-93,15,Sun,1.0,8.0,0.0,Atlanta Falcons,2014,Steelers,362.0,319.0,3941.0,1610.0,18.0,16.0,3230.0,1353.0,5551.0,4583.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
-94,16,Sun,1.0,9.0,1.0,Kansas City Chiefs,2014,Steelers,389.0,339.0,4294.0,1655.0,18.0,17.0,3540.0,1450.0,5949.0,4990.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
-95,17,Sun,1.0,10.0,1.0,Cincinnati Bengals,2014,Steelers,409.0,351.0,4508.0,1723.0,18.0,18.0,3828.0,1489.0,6231.0,5317.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
-96,1,Sun,0.0,0.0,1.0,Tennessee Titans,2013,Steelers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
-97,2,Mon,0.0,0.0,0.0,Cincinnati Bengals,2013,Steelers,9.0,16.0,163.0,31.0,2.0,0.0,117.0,112.0,194.0,229.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
-98,3,Sun,0.0,0.0,1.0,Chicago Bears,2013,Steelers,19.0,36.0,397.0,75.0,4.0,0.0,397.0,239.0,472.0,636.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
-99,4,Sun,0.0,0.0,0.0,Minnesota Vikings,2013,Steelers,42.0,76.0,776.0,155.0,9.0,0.0,548.0,346.0,931.0,894.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
-100,6,Sun,1.0,0.0,0.0,New York Jets,2013,Steelers,69.0,110.0,1133.0,232.0,11.0,0.0,796.0,491.0,1365.0,1287.0,1,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
-101,7,Sun,1.0,1.0,1.0,Baltimore Ravens,2013,Steelers,88.0,116.0,1388.0,305.0,11.0,2.0,980.0,574.0,1693.0,1554.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
-102,8,Sun,0.0,2.0,0.0,Oakland Raiders,2013,Steelers,107.0,132.0,1533.0,446.0,12.0,2.0,1185.0,656.0,1979.0,1841.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
-103,9,Sun,0.0,2.0,0.0,New England Patriots,2013,Steelers,125.0,153.0,1774.0,481.0,14.0,5.0,1267.0,853.0,2255.0,2120.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
-104,10,Sun,1.0,2.0,1.0,Buffalo Bills,2013,Steelers,156.0,208.0,2145.0,589.0,17.0,6.0,1680.0,1050.0,2734.0,2730.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
-105,11,Sun,1.0,3.0,1.0,Detroit Lions,2013,Steelers,179.0,218.0,2309.0,725.0,18.0,7.0,1812.0,1145.0,3034.0,2957.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
-106,12,Sun,1.0,4.0,0.0,Cleveland Browns,2013,Steelers,216.0,245.0,2667.0,765.0,18.0,10.0,2156.0,1252.0,3432.0,3408.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
-107,13,Thu,0.0,5.0,0.0,Baltimore Ravens,2013,Steelers,243.0,256.0,2884.0,850.0,18.0,14.0,2468.0,1307.0,3734.0,3775.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
-108,14,Sun,0.0,5.0,1.0,Miami Dolphins,2013,Steelers,263.0,278.0,3141.0,922.0,18.0,14.0,2705.0,1381.0,4063.0,4086.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
-109,15,Sun,1.0,5.0,1.0,Cincinnati Bengals,2013,Steelers,291.0,312.0,3469.0,1006.0,19.0,15.0,2891.0,1562.0,4475.0,4453.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
-110,16,Sun,1.0,6.0,0.0,Green Bay Packers,2013,Steelers,321.0,332.0,3653.0,1112.0,20.0,16.0,3113.0,1619.0,4765.0,4732.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
-111,17,Sun,1.0,7.0,1.0,Cleveland Browns,2013,Steelers,359.0,363.0,3845.0,1263.0,22.0,18.0,3332.0,1770.0,5108.0,5102.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
-112,1,Sun,0.0,0.0,0.0,Denver Broncos,2012,Steelers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
-113,2,Sun,1.0,0.0,1.0,New York Jets,2012,Steelers,19.0,31.0,209.0,75.0,1.0,1.0,240.0,94.0,284.0,334.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
-114,3,Sun,0.0,1.0,0.0,Oakland Raiders,2012,Steelers,46.0,41.0,474.0,141.0,1.0,2.0,369.0,184.0,615.0,553.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
-115,5,Sun,1.0,1.0,1.0,Philadelphia Eagles,2012,Steelers,77.0,75.0,853.0,195.0,3.0,3.0,571.0,303.0,1048.0,874.0,1,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
-116,6,Thu,0.0,2.0,0.0,Tennessee Titans,2012,Steelers,93.0,89.0,1073.0,318.0,3.0,5.0,739.0,381.0,1391.0,1120.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
-117,7,Sun,1.0,2.0,0.0,Cincinnati Bengals,2012,Steelers,116.0,115.0,1429.0,374.0,4.0,6.0,1004.0,475.0,1803.0,1479.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
-118,8,Sun,1.0,3.0,1.0,Washington Redskins,2012,Steelers,140.0,132.0,1693.0,541.0,6.0,7.0,1109.0,555.0,2234.0,1664.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
-119,9,Sun,1.0,4.0,0.0,New York Giants,2012,Steelers,167.0,144.0,1908.0,681.0,6.0,7.0,1278.0,641.0,2589.0,1919.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
-120,10,Mon,1.0,5.0,1.0,Kansas City Chiefs,2012,Steelers,191.0,164.0,2099.0,839.0,8.0,8.0,1392.0,709.0,2938.0,2101.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
-121,11,Sun,0.0,6.0,1.0,Baltimore Ravens,2012,Steelers,207.0,177.0,2253.0,934.0,9.0,9.0,1540.0,851.0,3187.0,2391.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Byron Leftwich
-122,12,Sun,0.0,6.0,0.0,Cleveland Browns,2012,Steelers,217.0,190.0,2428.0,1068.0,12.0,9.0,1693.0,898.0,3496.0,2591.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
-123,13,Sun,1.0,6.0,0.0,Baltimore Ravens,2012,Steelers,231.0,210.0,2621.0,1117.0,20.0,10.0,1823.0,1006.0,3738.0,2829.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
-124,14,Sun,0.0,7.0,1.0,San Diego Chargers,2012,Steelers,254.0,230.0,2891.0,1213.0,23.0,12.0,2000.0,1117.0,4104.0,3117.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
-125,15,Sun,0.0,7.0,0.0,Dallas Cowboys,2012,Steelers,278.0,264.0,3162.0,1282.0,25.0,12.0,2200.0,1211.0,4444.0,3411.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
-126,16,Sun,0.0,7.0,1.0,Cincinnati Bengals,2012,Steelers,302.0,291.0,3481.0,1351.0,27.0,13.0,2528.0,1298.0,4832.0,3826.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
-127,17,Sun,1.0,7.0,1.0,Cleveland Browns,2012,Steelers,312.0,304.0,3666.0,1446.0,30.0,16.0,2781.0,1312.0,5112.0,4093.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
-128,1,Sun,0.0,0.0,0.0,Baltimore Ravens,2011,Steelers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger
-129,2,Sun,1.0,0.0,1.0,Seattle Seahawks,2011,Steelers,7.0,35.0,246.0,66.0,7.0,0.0,215.0,170.0,312.0,385.0,0,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger
-130,3,Sun,1.0,1.0,0.0,Indianapolis Colts,2011,Steelers,31.0,35.0,543.0,190.0,7.0,0.0,348.0,201.0,733.0,549.0,0,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger
-131,4,Sun,0.0,2.0,0.0,Houston Texans,2011,Steelers,54.0,55.0,884.0,257.0,10.0,1.0,492.0,298.0,1141.0,790.0,0,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger
-132,5,Sun,1.0,2.0,1.0,Tennessee Titans,2011,Steelers,64.0,72.0,1062.0,375.0,11.0,1.0,630.0,478.0,1437.0,1108.0,0,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger
-133,6,Sun,1.0,3.0,1.0,Jacksonville Jaguars,2011,Steelers,102.0,89.0,1319.0,549.0,12.0,2.0,870.0,544.0,1868.0,1414.0,0,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger
-134,7,Sun,1.0,4.0,0.0,Arizona Cardinals,2011,Steelers,119.0,102.0,1504.0,734.0,12.0,2.0,946.0,677.0,2238.0,1623.0,0,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger
-135,8,Sun,1.0,5.0,1.0,New England Patriots,2011,Steelers,151.0,122.0,1858.0,825.0,12.0,3.0,1203.0,750.0,2683.0,1953.0,0,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger
-136,9,Sun,0.0,6.0,1.0,Baltimore Ravens,2011,Steelers,176.0,139.0,2187.0,923.0,13.0,3.0,1373.0,793.0,3110.0,2166.0,0,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger
-137,10,Sun,1.0,6.0,0.0,Cincinnati Bengals,2011,Steelers,196.0,162.0,2509.0,993.0,15.0,4.0,1662.0,860.0,3502.0,2522.0,0,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger
-138,12,Sun,1.0,7.0,0.0,Kansas City Chiefs,2011,Steelers,220.0,179.0,2732.0,1098.0,16.0,6.0,1832.0,969.0,3830.0,2801.0,1,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger
-139,13,Sun,1.0,8.0,1.0,Cincinnati Bengals,2011,Steelers,233.0,188.0,2914.0,1206.0,18.0,10.0,1994.0,1059.0,4120.0,3053.0,0,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger
-140,14,Thu,1.0,9.0,1.0,Cleveland Browns,2011,Steelers,268.0,195.0,3073.0,1342.0,18.0,12.0,2122.0,1163.0,4415.0,3285.0,0,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger
-141,15,Mon,0.0,10.0,0.0,San Francisco 49ers,2011,Steelers,282.0,198.0,3342.0,1489.0,21.0,14.0,2328.0,1261.0,4831.0,3589.0,0,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger
-142,16,Sat,1.0,10.0,1.0,St. Louis Rams,2011,Steelers,285.0,218.0,3647.0,1573.0,25.0,14.0,2515.0,1361.0,5220.0,3876.0,0,Charlie Batch,Bruce Arians,Dick LeBeau,Ben Roethlisberger
-143,17,Sun,1.0,11.0,0.0,Cleveland Browns,2011,Steelers,312.0,218.0,3855.0,1742.0,26.0,14.0,2583.0,1525.0,5597.0,4108.0,0,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger
-144,1,Sun,1.0,0.0,1.0,Atlanta Falcons,2010,Steelers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger
-145,2,Sun,1.0,1.0,0.0,Tennessee Titans,2010,Steelers,15.0,9.0,211.0,143.0,1.0,1.0,237.0,58.0,354.0,295.0,0,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger
-146,3,Sun,1.0,2.0,0.0,Tampa Bay Buccaneers,2010,Steelers,34.0,20.0,232.0,249.0,2.0,8.0,429.0,104.0,481.0,533.0,0,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger
-147,4,Sun,0.0,3.0,1.0,Baltimore Ravens,2010,Steelers,72.0,33.0,418.0,450.0,4.0,10.0,657.0,179.0,868.0,836.0,0,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger
-148,6,Sun,1.0,3.0,1.0,Cleveland Browns,2010,Steelers,86.0,50.0,544.0,534.0,5.0,12.0,907.0,249.0,1078.0,1156.0,1,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger
-149,7,Sun,1.0,4.0,0.0,Miami Dolphins,2010,Steelers,114.0,60.0,801.0,655.0,6.0,15.0,1165.0,318.0,1456.0,1483.0,0,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger
-150,8,Sun,0.0,5.0,0.0,New Orleans Saints,2010,Steelers,137.0,82.0,1091.0,713.0,8.0,17.0,1414.0,382.0,1804.0,1796.0,0,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger
-151,9,Mon,1.0,5.0,0.0,Cincinnati Bengals,2010,Steelers,147.0,102.0,1262.0,821.0,10.0,19.0,1702.0,412.0,2083.0,2114.0,0,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger
-152,10,Sun,0.0,6.0,1.0,New England Patriots,2010,Steelers,174.0,123.0,1455.0,942.0,12.0,21.0,1920.0,466.0,2397.0,2386.0,0,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger
-153,11,Sun,1.0,6.0,1.0,Oakland Raiders,2010,Steelers,200.0,162.0,1804.0,1018.0,13.0,21.0,2270.0,569.0,2822.0,2839.0,0,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger
-154,12,Sun,1.0,7.0,0.0,Buffalo Bills,2010,Steelers,235.0,165.0,2073.0,1180.0,14.0,24.0,2391.0,630.0,3253.0,3021.0,0,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger
-155,13,Sun,1.0,8.0,0.0,Baltimore Ravens,2010,Steelers,254.0,181.0,2293.0,1386.0,15.0,26.0,2646.0,704.0,3679.0,3350.0,0,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger
-156,14,Sun,1.0,9.0,1.0,Cincinnati Bengals,2010,Steelers,267.0,191.0,2527.0,1440.0,16.0,27.0,2872.0,747.0,3967.0,3619.0,0,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger
-157,15,Sun,0.0,10.0,1.0,New York Jets,2010,Steelers,290.0,198.0,2758.0,1563.0,16.0,30.0,3028.0,781.0,4321.0,3809.0,0,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger
-158,16,Thu,1.0,10.0,1.0,Carolina Panthers,2010,Steelers,307.0,220.0,2990.0,1709.0,16.0,30.0,3198.0,887.0,4699.0,4085.0,0,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger
-159,17,Sun,1.0,11.0,0.0,Cleveland Browns,2010,Steelers,334.0,223.0,3283.0,1824.0,18.0,32.0,3243.0,961.0,5107.0,4204.0,0,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger
+0,1,Mon,1.0,0.0,0.0,New York Giants,2020,Steelers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Ben Roethlisberger
+1,2,Sun,1.0,1.0,1.0,Denver Broncos,2020,Steelers,26.0,16.0,208.0,141.0,1.0,2.0,262.0,29.0,349.0,291.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Ben Roethlisberger
+2,3,Sun,1.0,2.0,1.0,Houston Texans,2020,Steelers,52.0,37.0,509.0,250.0,3.0,4.0,477.0,133.0,759.0,610.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Ben Roethlisberger
+3,5,Sun,,,1.0,Philadelphia Eagles,2020,Steelers,80.0,58.0,727.0,419.0,3.0,5.0,708.0,162.0,1146.0,870.0,1,Mike Tomlin,Randy Fichtner,Keith Butler,Ben Roethlisberger
+4,6,Sun,,,1.0,Cleveland Browns,2020,Steelers,80.0,58.0,727.0,419.0,3.0,5.0,708.0,162.0,1146.0,870.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Ben Roethlisberger
+5,7,Sun,,,0.0,Tennessee Titans,2020,Steelers,80.0,58.0,727.0,419.0,3.0,5.0,708.0,162.0,1146.0,870.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Ben Roethlisberger
+6,8,Sun,,,0.0,Baltimore Ravens,2020,Steelers,80.0,58.0,727.0,419.0,3.0,5.0,708.0,162.0,1146.0,870.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Ben Roethlisberger
+7,9,Sun,,,0.0,Dallas Cowboys,2020,Steelers,80.0,58.0,727.0,419.0,3.0,5.0,708.0,162.0,1146.0,870.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Ben Roethlisberger
+8,10,Sun,,,1.0,Cincinnati Bengals,2020,Steelers,80.0,58.0,727.0,419.0,3.0,5.0,708.0,162.0,1146.0,870.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Ben Roethlisberger
+9,11,Sun,,,0.0,Jacksonville Jaguars,2020,Steelers,80.0,58.0,727.0,419.0,3.0,5.0,708.0,162.0,1146.0,870.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Ben Roethlisberger
+10,12,Thu,,,1.0,Baltimore Ravens,2020,Steelers,80.0,58.0,727.0,419.0,3.0,5.0,708.0,162.0,1146.0,870.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Ben Roethlisberger
+11,13,Sun,,,1.0,Washington Football Team,2020,Steelers,80.0,58.0,727.0,419.0,3.0,5.0,708.0,162.0,1146.0,870.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Ben Roethlisberger
+12,14,Sun,,,0.0,Buffalo Bills,2020,Steelers,80.0,58.0,727.0,419.0,3.0,5.0,708.0,162.0,1146.0,870.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Ben Roethlisberger
+13,15,Mon,,,0.0,Cincinnati Bengals,2020,Steelers,80.0,58.0,727.0,419.0,3.0,5.0,708.0,162.0,1146.0,870.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Ben Roethlisberger
+14,16,Sun,,,1.0,Indianapolis Colts,2020,Steelers,80.0,58.0,727.0,419.0,3.0,5.0,708.0,162.0,1146.0,870.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Ben Roethlisberger
+15,17,Sun,,,0.0,Cleveland Browns,2020,Steelers,80.0,58.0,727.0,419.0,3.0,5.0,708.0,162.0,1146.0,870.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Ben Roethlisberger
+16,1,Sun,0.0,0.0,0.0,New England Patriots,2019,Steelers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Mason Rudolph
+17,2,Sun,0.0,0.0,1.0,Seattle Seahawks,2019,Steelers,3.0,33.0,276.0,32.0,1.0,0.0,366.0,99.0,308.0,465.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Mason Rudolph
+18,3,Sun,0.0,0.0,0.0,San Francisco 49ers,2019,Steelers,29.0,61.0,456.0,113.0,2.0,2.0,640.0,250.0,569.0,890.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Mason Rudolph
+19,4,Mon,1.0,0.0,1.0,Cincinnati Bengals,2019,Steelers,49.0,85.0,616.0,192.0,4.0,7.0,908.0,418.0,808.0,1326.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Mason Rudolph
+20,5,Sun,0.0,1.0,1.0,Baltimore Ravens,2019,Steelers,76.0,88.0,876.0,258.0,5.0,9.0,1010.0,491.0,1134.0,1501.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Mason Rudolph
+21,6,Sun,1.0,1.0,0.0,Los Angeles Chargers,2019,Steelers,99.0,114.0,1068.0,335.0,7.0,12.0,1149.0,629.0,1403.0,1778.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Devlin Hodges
+22,8,Mon,1.0,2.0,1.0,Miami Dolphins,2019,Steelers,123.0,131.0,1200.0,459.0,8.0,15.0,1465.0,661.0,1659.0,2126.0,1,Mike Tomlin,Randy Fichtner,Keith Butler,Mason Rudolph
+23,9,Sun,1.0,3.0,1.0,Indianapolis Colts,2019,Steelers,150.0,145.0,1436.0,617.0,9.0,19.0,1635.0,721.0,2053.0,2356.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Mason Rudolph
+24,10,Sun,1.0,4.0,1.0,Los Angeles Rams,2019,Steelers,176.0,169.0,1619.0,707.0,11.0,22.0,1824.0,860.0,2326.0,2684.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Mason Rudolph
+25,11,Thu,0.0,5.0,0.0,Cleveland Browns,2019,Steelers,193.0,181.0,1850.0,749.0,13.0,26.0,2042.0,948.0,2599.0,2990.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Mason Rudolph
+26,12,Sun,1.0,5.0,0.0,Cincinnati Bengals,2019,Steelers,200.0,202.0,2028.0,807.0,17.0,26.0,2231.0,1052.0,2835.0,3283.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Mason Rudolph
+27,13,Sun,1.0,6.0,1.0,Cleveland Browns,2019,Steelers,216.0,212.0,2207.0,966.0,18.0,28.0,2389.0,1138.0,3173.0,3527.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Mason Rudolph
+28,14,Sun,1.0,7.0,0.0,Arizona Cardinals,2019,Steelers,236.0,225.0,2406.0,1090.0,19.0,30.0,2562.0,1244.0,3496.0,3806.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Mason Rudolph
+29,15,Sun,0.0,8.0,1.0,Buffalo Bills,2019,Steelers,259.0,242.0,2541.0,1230.0,21.0,33.0,2727.0,1315.0,3771.0,4042.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Mason Rudolph
+30,16,Sun,0.0,8.0,0.0,New York Jets,2019,Steelers,269.0,259.0,2719.0,1281.0,26.0,35.0,2858.0,1445.0,4000.0,4303.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Mason Rudolph
+31,17,Sun,0.0,8.0,0.0,Baltimore Ravens,2019,Steelers,279.0,275.0,2904.0,1356.0,28.0,36.0,3032.0,1530.0,4260.0,4562.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Mason Rudolph
+32,1,Sun,0.0,0.0,0.0,Cleveland Browns,2018,Steelers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Ben Roethlisberger
+33,2,Sun,0.0,0.0,1.0,Kansas City Chiefs,2018,Steelers,21.0,21.0,313.0,159.0,6.0,1.0,150.0,177.0,472.0,327.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Ben Roethlisberger
+34,3,Mon,1.0,0.0,0.0,Tampa Bay Buccaneers,2018,Steelers,58.0,63.0,755.0,192.0,6.0,2.0,472.0,304.0,947.0,776.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Ben Roethlisberger
+35,4,Sun,0.0,1.0,1.0,Baltimore Ravens,2018,Steelers,88.0,90.0,1090.0,270.0,7.0,6.0,864.0,367.0,1360.0,1231.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Ben Roethlisberger
+36,5,Sun,1.0,1.0,1.0,Atlanta Falcons,2018,Steelers,102.0,116.0,1355.0,289.0,9.0,7.0,1219.0,463.0,1644.0,1682.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Ben Roethlisberger
+37,6,Sun,1.0,2.0,0.0,Cincinnati Bengals,2018,Steelers,143.0,133.0,1605.0,420.0,10.0,8.0,1481.0,525.0,2025.0,2006.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Ben Roethlisberger
+38,8,Sun,1.0,3.0,1.0,Cleveland Browns,2018,Steelers,171.0,154.0,1974.0,532.0,10.0,8.0,1694.0,587.0,2506.0,2281.0,1,Mike Tomlin,Randy Fichtner,Keith Butler,Ben Roethlisberger
+39,9,Sun,1.0,4.0,0.0,Baltimore Ravens,2018,Steelers,204.0,172.0,2227.0,700.0,12.0,9.0,1857.0,661.0,2927.0,2518.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Ben Roethlisberger
+40,10,Thu,1.0,5.0,1.0,Carolina Panthers,2018,Steelers,227.0,188.0,2509.0,813.0,12.0,9.0,2061.0,722.0,3322.0,2783.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Ben Roethlisberger
+41,11,Sun,1.0,6.0,0.0,Jacksonville Jaguars,2018,Steelers,279.0,209.0,2828.0,951.0,12.0,11.0,2208.0,817.0,3779.0,3025.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Ben Roethlisberger
+42,12,Sun,0.0,7.0,0.0,Denver Broncos,2018,Steelers,299.0,225.0,3125.0,977.0,15.0,12.0,2272.0,996.0,4102.0,3268.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Ben Roethlisberger
+43,13,Sun,0.0,7.0,1.0,Los Angeles Chargers,2018,Steelers,316.0,249.0,3577.0,1052.0,19.0,12.0,2456.0,1120.0,4629.0,3576.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Ben Roethlisberger
+44,14,Sun,0.0,7.0,0.0,Oakland Raiders,2018,Steelers,346.0,282.0,3848.0,1117.0,20.0,12.0,2742.0,1205.0,4965.0,3947.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Ben Roethlisberger
+45,15,Sun,1.0,7.0,1.0,New England Patriots,2018,Steelers,367.0,306.0,4148.0,1157.0,21.0,13.0,3041.0,1260.0,5305.0,4301.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Ben Roethlisberger
+46,16,Sun,0.0,8.0,0.0,New Orleans Saints,2018,Steelers,384.0,316.0,4366.0,1315.0,23.0,14.0,3313.0,1356.0,5681.0,4669.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Ben Roethlisberger
+47,17,Sun,1.0,8.0,1.0,Cincinnati Bengals,2018,Steelers,412.0,347.0,4730.0,1380.0,25.0,15.0,3626.0,1413.0,6110.0,5039.0,0,Mike Tomlin,Randy Fichtner,Keith Butler,Ben Roethlisberger
+48,1,Sun,1.0,0.0,0.0,Cleveland Browns,2017,Steelers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
+49,2,Sun,1.0,1.0,1.0,Minnesota Vikings,2017,Steelers,21.0,18.0,255.0,35.0,1.0,1.0,180.0,57.0,290.0,237.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
+50,3,Sun,0.0,2.0,0.0,Chicago Bears,2017,Steelers,47.0,27.0,488.0,137.0,1.0,2.0,326.0,148.0,625.0,474.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
+51,4,Sun,1.0,2.0,0.0,Baltimore Ravens,2017,Steelers,64.0,50.0,700.0,207.0,3.0,4.0,410.0,370.0,907.0,780.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
+52,5,Sun,0.0,3.0,1.0,Jacksonville Jaguars,2017,Steelers,90.0,59.0,908.0,380.0,4.0,7.0,616.0,452.0,1288.0,1068.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
+53,6,Sun,1.0,3.0,0.0,Kansas City Chiefs,2017,Steelers,99.0,89.0,1209.0,450.0,9.0,8.0,698.0,683.0,1659.0,1381.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
+54,7,Sun,1.0,4.0,1.0,Cincinnati Bengals,2017,Steelers,118.0,102.0,1454.0,644.0,10.0,8.0,921.0,711.0,2098.0,1632.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
+55,8,Sun,1.0,5.0,0.0,Detroit Lions,2017,Steelers,147.0,116.0,1722.0,796.0,10.0,10.0,1029.0,782.0,2518.0,1811.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
+56,10,Sun,1.0,6.0,0.0,Indianapolis Colts,2017,Steelers,167.0,131.0,2039.0,871.0,12.0,11.0,1440.0,853.0,2910.0,2293.0,1,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
+57,11,Thu,1.0,7.0,1.0,Tennessee Titans,2017,Steelers,187.0,148.0,2267.0,959.0,13.0,12.0,1636.0,924.0,3226.0,2560.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
+58,12,Sun,1.0,8.0,1.0,Green Bay Packers,2017,Steelers,227.0,165.0,2551.0,1024.0,13.0,16.0,1900.0,976.0,3575.0,2876.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
+59,13,Mon,1.0,9.0,0.0,Cincinnati Bengals,2017,Steelers,258.0,193.0,2892.0,1145.0,16.0,16.0,2127.0,1056.0,4037.0,3183.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
+60,14,Sun,1.0,10.0,1.0,Baltimore Ravens,2017,Steelers,281.0,213.0,3174.0,1237.0,17.0,16.0,2350.0,1186.0,4411.0,3536.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
+61,15,Sun,0.0,11.0,1.0,New England Patriots,2017,Steelers,320.0,251.0,3660.0,1296.0,17.0,17.0,2611.0,1338.0,4956.0,3949.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
+62,16,Mon,1.0,11.0,0.0,Houston Texans,2017,Steelers,344.0,278.0,3930.0,1439.0,18.0,18.0,2894.0,1415.0,5369.0,4309.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
+63,17,Sun,1.0,12.0,1.0,Cleveland Browns,2017,Steelers,378.0,284.0,4156.0,1543.0,18.0,20.0,2945.0,1591.0,5699.0,4536.0,0,Mike Tomlin,Todd Haley,Keith Butler,Landry Jones
+64,1,Mon,1.0,0.0,0.0,Washington Redskins,2016,Steelers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
+65,2,Sun,1.0,1.0,1.0,Cincinnati Bengals,2016,Steelers,38.0,16.0,290.0,147.0,1.0,2.0,329.0,55.0,437.0,384.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
+66,3,Sun,0.0,2.0,0.0,Philadelphia Eagles,2016,Steelers,62.0,32.0,540.0,271.0,3.0,4.0,695.0,101.0,811.0,796.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
+67,4,Sun,1.0,2.0,1.0,Kansas City Chiefs,2016,Steelers,65.0,66.0,762.0,300.0,5.0,4.0,996.0,226.0,1062.0,1222.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
+68,5,Sun,1.0,3.0,1.0,New York Jets,2016,Steelers,108.0,80.0,1049.0,449.0,5.0,6.0,1266.0,313.0,1498.0,1579.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
+69,6,Sun,0.0,4.0,0.0,Miami Dolphins,2016,Steelers,139.0,93.0,1424.0,510.0,6.0,6.0,1510.0,385.0,1934.0,1895.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
+70,7,Sun,0.0,4.0,1.0,New England Patriots,2016,Steelers,154.0,123.0,1593.0,638.0,8.0,6.0,1762.0,607.0,2231.0,2369.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
+71,9,Sun,0.0,4.0,0.0,Baltimore Ravens,2016,Steelers,170.0,150.0,1874.0,732.0,9.0,8.0,1984.0,747.0,2606.0,2731.0,1,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
+72,10,Sun,0.0,4.0,1.0,Dallas Cowboys,2016,Steelers,184.0,171.0,2115.0,768.0,10.0,9.0,2208.0,797.0,2883.0,3005.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
+73,11,Sun,1.0,4.0,0.0,Cleveland Browns,2016,Steelers,214.0,206.0,2515.0,816.0,10.0,10.0,2503.0,924.0,3331.0,3427.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
+74,12,Thu,1.0,5.0,0.0,Indianapolis Colts,2016,Steelers,238.0,215.0,2682.0,962.0,10.0,12.0,2679.0,957.0,3644.0,3636.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
+75,13,Sun,1.0,6.0,1.0,New York Giants,2016,Steelers,266.0,222.0,2903.0,1110.0,10.0,14.0,2898.0,1048.0,4013.0,3946.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
+76,14,Sun,1.0,7.0,0.0,Buffalo Bills,2016,Steelers,290.0,236.0,3175.0,1227.0,12.0,16.0,3076.0,1104.0,4402.0,4180.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
+77,15,Sun,1.0,8.0,0.0,Cincinnati Bengals,2016,Steelers,317.0,256.0,3395.0,1467.0,15.0,17.0,3284.0,1171.0,4862.0,4455.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
+78,16,Sun,1.0,9.0,1.0,Baltimore Ravens,2016,Steelers,341.0,276.0,3680.0,1564.0,15.0,18.0,3430.0,1247.0,5244.0,4677.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
+79,17,Sun,1.0,10.0,1.0,Cleveland Browns,2016,Steelers,372.0,303.0,3959.0,1691.0,17.0,19.0,3676.0,1369.0,5650.0,5045.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
+80,1,Thu,0.0,0.0,0.0,New England Patriots,2015,Steelers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
+81,2,Sun,1.0,0.0,1.0,San Francisco 49ers,2015,Steelers,21.0,28.0,330.0,134.0,1.0,0.0,281.0,80.0,464.0,361.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
+82,3,Sun,1.0,1.0,0.0,St. Louis Rams,2015,Steelers,64.0,46.0,699.0,218.0,1.0,1.0,579.0,191.0,917.0,770.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
+83,4,Thu,0.0,2.0,1.0,Baltimore Ravens,2015,Steelers,76.0,52.0,896.0,280.0,2.0,2.0,766.0,262.0,1176.0,1028.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
+84,5,Mon,1.0,2.0,0.0,San Diego Chargers,2015,Steelers,96.0,75.0,992.0,447.0,2.0,4.0,931.0,453.0,1439.0,1384.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
+85,6,Sun,1.0,3.0,1.0,Arizona Cardinals,2015,Steelers,120.0,95.0,1186.0,602.0,3.0,6.0,1285.0,505.0,1788.0,1790.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
+86,7,Sun,0.0,4.0,0.0,Kansas City Chiefs,2015,Steelers,145.0,108.0,1355.0,743.0,3.0,9.0,1699.0,560.0,2098.0,2259.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
+87,8,Sun,0.0,4.0,1.0,Cincinnati Bengals,2015,Steelers,158.0,131.0,1547.0,890.0,6.0,9.0,1938.0,698.0,2437.0,2636.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
+88,9,Sun,1.0,4.0,1.0,Oakland Raiders,2015,Steelers,168.0,147.0,1787.0,1006.0,9.0,11.0,2156.0,776.0,2793.0,2932.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
+89,10,Sun,1.0,5.0,1.0,Cleveland Browns,2015,Steelers,206.0,182.0,2189.0,1201.0,11.0,15.0,2457.0,915.0,3390.0,3372.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
+90,12,Sun,0.0,6.0,0.0,Seattle Seahawks,2015,Steelers,236.0,191.0,2588.0,1261.0,13.0,18.0,2784.0,930.0,3849.0,3714.0,1,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
+91,13,Sun,1.0,6.0,1.0,Indianapolis Colts,2015,Steelers,266.0,230.0,3068.0,1319.0,17.0,18.0,3120.0,1030.0,4387.0,4150.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
+92,14,Sun,1.0,7.0,0.0,Cincinnati Bengals,2015,Steelers,311.0,240.0,3432.0,1477.0,19.0,21.0,3306.0,1084.0,4909.0,4390.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
+93,15,Sun,1.0,8.0,1.0,Denver Broncos,2015,Steelers,344.0,260.0,3702.0,1561.0,20.0,24.0,3627.0,1148.0,5263.0,4775.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
+94,16,Sun,0.0,9.0,0.0,Baltimore Ravens,2015,Steelers,378.0,287.0,4056.0,1584.0,22.0,26.0,3908.0,1252.0,5640.0,5160.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
+95,17,Sun,1.0,9.0,0.0,Cleveland Browns,2015,Steelers,395.0,307.0,4254.0,1694.0,25.0,26.0,4173.0,1373.0,5948.0,5546.0,0,Mike Tomlin,Todd Haley,Keith Butler,Ben Roethlisberger
+96,1,Sun,1.0,0.0,1.0,Cleveland Browns,2014,Steelers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
+97,2,Thu,0.0,1.0,0.0,Baltimore Ravens,2014,Steelers,30.0,27.0,376.0,127.0,1.0,0.0,198.0,191.0,503.0,389.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
+98,3,Sun,1.0,1.0,0.0,Carolina Panthers,2014,Steelers,36.0,53.0,578.0,226.0,4.0,0.0,364.0,348.0,804.0,712.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
+99,4,Sun,0.0,2.0,1.0,Tampa Bay Buccaneers,2014,Steelers,73.0,72.0,768.0,490.0,4.0,2.0,671.0,390.0,1258.0,1061.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
+100,5,Sun,1.0,2.0,0.0,Jacksonville Jaguars,2014,Steelers,97.0,99.0,1073.0,575.0,5.0,3.0,958.0,453.0,1648.0,1411.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
+101,6,Sun,0.0,3.0,0.0,Cleveland Browns,2014,Steelers,114.0,108.0,1334.0,686.0,6.0,5.0,1145.0,509.0,2020.0,1654.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
+102,7,Mon,1.0,3.0,1.0,Houston Texans,2014,Steelers,124.0,139.0,1555.0,824.0,7.0,6.0,1355.0,667.0,2379.0,2022.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
+103,8,Sun,1.0,4.0,1.0,Indianapolis Colts,2014,Steelers,154.0,162.0,1807.0,900.0,8.0,9.0,1616.0,799.0,2707.0,2415.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
+104,9,Sun,1.0,5.0,1.0,Baltimore Ravens,2014,Steelers,205.0,196.0,2329.0,1017.0,10.0,11.0,2001.0,862.0,3346.0,2863.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
+105,10,Sun,0.0,6.0,0.0,New York Jets,2014,Steelers,248.0,219.0,2650.0,1072.0,11.0,13.0,2270.0,925.0,3722.0,3195.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
+106,11,Mon,1.0,6.0,0.0,Tennessee Titans,2014,Steelers,261.0,239.0,2976.0,1108.0,15.0,13.0,2395.0,1075.0,4084.0,3470.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
+107,13,Sun,0.0,7.0,1.0,New Orleans Saints,2014,Steelers,288.0,263.0,3156.0,1314.0,16.0,14.0,2658.0,1124.0,4470.0,3782.0,1,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
+108,14,Sun,1.0,7.0,0.0,Cincinnati Bengals,2014,Steelers,320.0,298.0,3591.0,1417.0,18.0,14.0,2908.0,1267.0,5008.0,4175.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
+109,15,Sun,1.0,8.0,0.0,Atlanta Falcons,2014,Steelers,362.0,319.0,3941.0,1610.0,18.0,16.0,3230.0,1353.0,5551.0,4583.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
+110,16,Sun,1.0,9.0,1.0,Kansas City Chiefs,2014,Steelers,389.0,339.0,4294.0,1655.0,18.0,17.0,3540.0,1450.0,5949.0,4990.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
+111,17,Sun,1.0,10.0,1.0,Cincinnati Bengals,2014,Steelers,409.0,351.0,4508.0,1723.0,18.0,18.0,3828.0,1489.0,6231.0,5317.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
+112,1,Sun,0.0,0.0,1.0,Tennessee Titans,2013,Steelers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
+113,2,Mon,0.0,0.0,0.0,Cincinnati Bengals,2013,Steelers,9.0,16.0,163.0,31.0,2.0,0.0,117.0,112.0,194.0,229.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
+114,3,Sun,0.0,0.0,1.0,Chicago Bears,2013,Steelers,19.0,36.0,397.0,75.0,4.0,0.0,397.0,239.0,472.0,636.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
+115,4,Sun,0.0,0.0,0.0,Minnesota Vikings,2013,Steelers,42.0,76.0,776.0,155.0,9.0,0.0,548.0,346.0,931.0,894.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
+116,6,Sun,1.0,0.0,0.0,New York Jets,2013,Steelers,69.0,110.0,1133.0,232.0,11.0,0.0,796.0,491.0,1365.0,1287.0,1,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
+117,7,Sun,1.0,1.0,1.0,Baltimore Ravens,2013,Steelers,88.0,116.0,1388.0,305.0,11.0,2.0,980.0,574.0,1693.0,1554.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
+118,8,Sun,0.0,2.0,0.0,Oakland Raiders,2013,Steelers,107.0,132.0,1533.0,446.0,12.0,2.0,1185.0,656.0,1979.0,1841.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
+119,9,Sun,0.0,2.0,0.0,New England Patriots,2013,Steelers,125.0,153.0,1774.0,481.0,14.0,5.0,1267.0,853.0,2255.0,2120.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
+120,10,Sun,1.0,2.0,1.0,Buffalo Bills,2013,Steelers,156.0,208.0,2145.0,589.0,17.0,6.0,1680.0,1050.0,2734.0,2730.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
+121,11,Sun,1.0,3.0,1.0,Detroit Lions,2013,Steelers,179.0,218.0,2309.0,725.0,18.0,7.0,1812.0,1145.0,3034.0,2957.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
+122,12,Sun,1.0,4.0,0.0,Cleveland Browns,2013,Steelers,216.0,245.0,2667.0,765.0,18.0,10.0,2156.0,1252.0,3432.0,3408.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
+123,13,Thu,0.0,5.0,0.0,Baltimore Ravens,2013,Steelers,243.0,256.0,2884.0,850.0,18.0,14.0,2468.0,1307.0,3734.0,3775.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
+124,14,Sun,0.0,5.0,1.0,Miami Dolphins,2013,Steelers,263.0,278.0,3141.0,922.0,18.0,14.0,2705.0,1381.0,4063.0,4086.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
+125,15,Sun,1.0,5.0,1.0,Cincinnati Bengals,2013,Steelers,291.0,312.0,3469.0,1006.0,19.0,15.0,2891.0,1562.0,4475.0,4453.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
+126,16,Sun,1.0,6.0,0.0,Green Bay Packers,2013,Steelers,321.0,332.0,3653.0,1112.0,20.0,16.0,3113.0,1619.0,4765.0,4732.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
+127,17,Sun,1.0,7.0,1.0,Cleveland Browns,2013,Steelers,359.0,363.0,3845.0,1263.0,22.0,18.0,3332.0,1770.0,5108.0,5102.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
+128,1,Sun,0.0,0.0,0.0,Denver Broncos,2012,Steelers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
+129,2,Sun,1.0,0.0,1.0,New York Jets,2012,Steelers,19.0,31.0,209.0,75.0,1.0,1.0,240.0,94.0,284.0,334.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
+130,3,Sun,0.0,1.0,0.0,Oakland Raiders,2012,Steelers,46.0,41.0,474.0,141.0,1.0,2.0,369.0,184.0,615.0,553.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
+131,5,Sun,1.0,1.0,1.0,Philadelphia Eagles,2012,Steelers,77.0,75.0,853.0,195.0,3.0,3.0,571.0,303.0,1048.0,874.0,1,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
+132,6,Thu,0.0,2.0,0.0,Tennessee Titans,2012,Steelers,93.0,89.0,1073.0,318.0,3.0,5.0,739.0,381.0,1391.0,1120.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
+133,7,Sun,1.0,2.0,0.0,Cincinnati Bengals,2012,Steelers,116.0,115.0,1429.0,374.0,4.0,6.0,1004.0,475.0,1803.0,1479.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
+134,8,Sun,1.0,3.0,1.0,Washington Redskins,2012,Steelers,140.0,132.0,1693.0,541.0,6.0,7.0,1109.0,555.0,2234.0,1664.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
+135,9,Sun,1.0,4.0,0.0,New York Giants,2012,Steelers,167.0,144.0,1908.0,681.0,6.0,7.0,1278.0,641.0,2589.0,1919.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
+136,10,Mon,1.0,5.0,1.0,Kansas City Chiefs,2012,Steelers,191.0,164.0,2099.0,839.0,8.0,8.0,1392.0,709.0,2938.0,2101.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
+137,11,Sun,0.0,6.0,1.0,Baltimore Ravens,2012,Steelers,207.0,177.0,2253.0,934.0,9.0,9.0,1540.0,851.0,3187.0,2391.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Byron Leftwich
+138,12,Sun,0.0,6.0,0.0,Cleveland Browns,2012,Steelers,217.0,190.0,2428.0,1068.0,12.0,9.0,1693.0,898.0,3496.0,2591.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
+139,13,Sun,1.0,6.0,0.0,Baltimore Ravens,2012,Steelers,231.0,210.0,2621.0,1117.0,20.0,10.0,1823.0,1006.0,3738.0,2829.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
+140,14,Sun,0.0,7.0,1.0,San Diego Chargers,2012,Steelers,254.0,230.0,2891.0,1213.0,23.0,12.0,2000.0,1117.0,4104.0,3117.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
+141,15,Sun,0.0,7.0,0.0,Dallas Cowboys,2012,Steelers,278.0,264.0,3162.0,1282.0,25.0,12.0,2200.0,1211.0,4444.0,3411.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
+142,16,Sun,0.0,7.0,1.0,Cincinnati Bengals,2012,Steelers,302.0,291.0,3481.0,1351.0,27.0,13.0,2528.0,1298.0,4832.0,3826.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
+143,17,Sun,1.0,7.0,1.0,Cleveland Browns,2012,Steelers,312.0,304.0,3666.0,1446.0,30.0,16.0,2781.0,1312.0,5112.0,4093.0,0,Mike Tomlin,Todd Haley,Dick LeBeau,Ben Roethlisberger
+144,1,Sun,0.0,0.0,0.0,Baltimore Ravens,2011,Steelers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger
+145,2,Sun,1.0,0.0,1.0,Seattle Seahawks,2011,Steelers,7.0,35.0,246.0,66.0,7.0,0.0,215.0,170.0,312.0,385.0,0,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger
+146,3,Sun,1.0,1.0,0.0,Indianapolis Colts,2011,Steelers,31.0,35.0,543.0,190.0,7.0,0.0,348.0,201.0,733.0,549.0,0,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger
+147,4,Sun,0.0,2.0,0.0,Houston Texans,2011,Steelers,54.0,55.0,884.0,257.0,10.0,1.0,492.0,298.0,1141.0,790.0,0,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger
+148,5,Sun,1.0,2.0,1.0,Tennessee Titans,2011,Steelers,64.0,72.0,1062.0,375.0,11.0,1.0,630.0,478.0,1437.0,1108.0,0,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger
+149,6,Sun,1.0,3.0,1.0,Jacksonville Jaguars,2011,Steelers,102.0,89.0,1319.0,549.0,12.0,2.0,870.0,544.0,1868.0,1414.0,0,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger
+150,7,Sun,1.0,4.0,0.0,Arizona Cardinals,2011,Steelers,119.0,102.0,1504.0,734.0,12.0,2.0,946.0,677.0,2238.0,1623.0,0,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger
+151,8,Sun,1.0,5.0,1.0,New England Patriots,2011,Steelers,151.0,122.0,1858.0,825.0,12.0,3.0,1203.0,750.0,2683.0,1953.0,0,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger
+152,9,Sun,0.0,6.0,1.0,Baltimore Ravens,2011,Steelers,176.0,139.0,2187.0,923.0,13.0,3.0,1373.0,793.0,3110.0,2166.0,0,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger
+153,10,Sun,1.0,6.0,0.0,Cincinnati Bengals,2011,Steelers,196.0,162.0,2509.0,993.0,15.0,4.0,1662.0,860.0,3502.0,2522.0,0,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger
+154,12,Sun,1.0,7.0,0.0,Kansas City Chiefs,2011,Steelers,220.0,179.0,2732.0,1098.0,16.0,6.0,1832.0,969.0,3830.0,2801.0,1,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger
+155,13,Sun,1.0,8.0,1.0,Cincinnati Bengals,2011,Steelers,233.0,188.0,2914.0,1206.0,18.0,10.0,1994.0,1059.0,4120.0,3053.0,0,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger
+156,14,Thu,1.0,9.0,1.0,Cleveland Browns,2011,Steelers,268.0,195.0,3073.0,1342.0,18.0,12.0,2122.0,1163.0,4415.0,3285.0,0,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger
+157,15,Mon,0.0,10.0,0.0,San Francisco 49ers,2011,Steelers,282.0,198.0,3342.0,1489.0,21.0,14.0,2328.0,1261.0,4831.0,3589.0,0,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger
+158,16,Sat,1.0,10.0,1.0,St. Louis Rams,2011,Steelers,285.0,218.0,3647.0,1573.0,25.0,14.0,2515.0,1361.0,5220.0,3876.0,0,Mike Tomlin,Bruce Arians,Dick LeBeau,Charlie Batch
+159,17,Sun,1.0,11.0,0.0,Cleveland Browns,2011,Steelers,312.0,218.0,3855.0,1742.0,26.0,14.0,2583.0,1525.0,5597.0,4108.0,0,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger
+160,1,Sun,1.0,0.0,1.0,Atlanta Falcons,2010,Steelers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger
+161,2,Sun,1.0,1.0,0.0,Tennessee Titans,2010,Steelers,15.0,9.0,211.0,143.0,1.0,1.0,237.0,58.0,354.0,295.0,0,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger
+162,3,Sun,1.0,2.0,0.0,Tampa Bay Buccaneers,2010,Steelers,34.0,20.0,232.0,249.0,2.0,8.0,429.0,104.0,481.0,533.0,0,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger
+163,4,Sun,0.0,3.0,1.0,Baltimore Ravens,2010,Steelers,72.0,33.0,418.0,450.0,4.0,10.0,657.0,179.0,868.0,836.0,0,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger
+164,6,Sun,1.0,3.0,1.0,Cleveland Browns,2010,Steelers,86.0,50.0,544.0,534.0,5.0,12.0,907.0,249.0,1078.0,1156.0,1,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger
+165,7,Sun,1.0,4.0,0.0,Miami Dolphins,2010,Steelers,114.0,60.0,801.0,655.0,6.0,15.0,1165.0,318.0,1456.0,1483.0,0,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger
+166,8,Sun,0.0,5.0,0.0,New Orleans Saints,2010,Steelers,137.0,82.0,1091.0,713.0,8.0,17.0,1414.0,382.0,1804.0,1796.0,0,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger
+167,9,Mon,1.0,5.0,0.0,Cincinnati Bengals,2010,Steelers,147.0,102.0,1262.0,821.0,10.0,19.0,1702.0,412.0,2083.0,2114.0,0,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger
+168,10,Sun,0.0,6.0,1.0,New England Patriots,2010,Steelers,174.0,123.0,1455.0,942.0,12.0,21.0,1920.0,466.0,2397.0,2386.0,0,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger
+169,11,Sun,1.0,6.0,1.0,Oakland Raiders,2010,Steelers,200.0,162.0,1804.0,1018.0,13.0,21.0,2270.0,569.0,2822.0,2839.0,0,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger
+170,12,Sun,1.0,7.0,0.0,Buffalo Bills,2010,Steelers,235.0,165.0,2073.0,1180.0,14.0,24.0,2391.0,630.0,3253.0,3021.0,0,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger
+171,13,Sun,1.0,8.0,0.0,Baltimore Ravens,2010,Steelers,254.0,181.0,2293.0,1386.0,15.0,26.0,2646.0,704.0,3679.0,3350.0,0,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger
+172,14,Sun,1.0,9.0,1.0,Cincinnati Bengals,2010,Steelers,267.0,191.0,2527.0,1440.0,16.0,27.0,2872.0,747.0,3967.0,3619.0,0,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger
+173,15,Sun,0.0,10.0,1.0,New York Jets,2010,Steelers,290.0,198.0,2758.0,1563.0,16.0,30.0,3028.0,781.0,4321.0,3809.0,0,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger
+174,16,Thu,1.0,10.0,1.0,Carolina Panthers,2010,Steelers,307.0,220.0,2990.0,1709.0,16.0,30.0,3198.0,887.0,4699.0,4085.0,0,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger
+175,17,Sun,1.0,11.0,0.0,Cleveland Browns,2010,Steelers,334.0,223.0,3283.0,1824.0,18.0,32.0,3243.0,961.0,5107.0,4204.0,0,Mike Tomlin,Bruce Arians,Dick LeBeau,Ben Roethlisberger

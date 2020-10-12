@@ -1,161 +1,177 @@
 ,Week,Day,Results,Wins Tally,Home,Opp,year,Base_Team,PF Tally,PA Tally,OPassY Tally,ORushY Tally,TO_lost Tally,TO_won Tally,DPassY Tally,DRushY Tally,OTotYd Tally,DTotYd Tally,after_bye,Head_Coach,OC,DC,QB
-0,1,Sun,1.0,0.0,1.0,Pittsburgh Steelers,2019,Patriots,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
-1,2,Sun,1.0,1.0,0.0,Miami Dolphins,2019,Patriots,33.0,3.0,366.0,99.0,0.0,1.0,276.0,32.0,465.0,308.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
-2,3,Sun,1.0,2.0,1.0,New York Jets,2019,Patriots,76.0,3.0,621.0,223.0,1.0,5.0,418.0,74.0,844.0,492.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
-3,4,Sun,1.0,3.0,0.0,Buffalo Bills,2019,Patriots,106.0,17.0,934.0,291.0,3.0,6.0,487.0,110.0,1225.0,597.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
-4,5,Sun,1.0,4.0,0.0,Washington Redskins,2019,Patriots,122.0,27.0,1084.0,365.0,4.0,10.0,727.0,245.0,1449.0,972.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
-5,6,Thu,1.0,5.0,1.0,New York Giants,2019,Patriots,155.0,34.0,1396.0,495.0,5.0,12.0,805.0,390.0,1891.0,1195.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
-6,7,Mon,1.0,6.0,0.0,New York Jets,2019,Patriots,190.0,48.0,1709.0,609.0,7.0,16.0,966.0,442.0,2318.0,1408.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
-7,8,Sun,1.0,7.0,1.0,Cleveland Browns,2019,Patriots,223.0,48.0,1958.0,683.0,8.0,22.0,1039.0,523.0,2641.0,1562.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
-8,9,Sun,0.0,8.0,0.0,Baltimore Ravens,2019,Patriots,250.0,61.0,2197.0,762.0,8.0,25.0,1190.0,682.0,2959.0,1872.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
-9,11,Sun,1.0,8.0,0.0,Philadelphia Eagles,2019,Patriots,270.0,98.0,2465.0,836.0,10.0,27.0,1352.0,892.0,3301.0,2244.0,1,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
-10,12,Sun,1.0,9.0,1.0,Dallas Cowboys,2019,Patriots,287.0,108.0,2689.0,910.0,10.0,28.0,1526.0,973.0,3599.0,2499.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
-11,13,Sun,0.0,10.0,0.0,Houston Texans,2019,Patriots,300.0,117.0,2870.0,1011.0,10.0,29.0,1738.0,1082.0,3881.0,2820.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
-12,14,Sun,0.0,10.0,1.0,Kansas City Chiefs,2019,Patriots,322.0,145.0,3173.0,1156.0,11.0,29.0,1962.0,1134.0,4329.0,3096.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
-13,15,Sun,1.0,10.0,0.0,Cincinnati Bengals,2019,Patriots,338.0,168.0,3357.0,1250.0,12.0,31.0,2233.0,1209.0,4607.0,3442.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
-14,16,Sat,1.0,11.0,1.0,Buffalo Bills,2019,Patriots,372.0,181.0,3473.0,1425.0,12.0,36.0,2384.0,1373.0,4898.0,3757.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
-15,17,Sun,0.0,12.0,1.0,Miami Dolphins,2019,Patriots,396.0,198.0,3744.0,1568.0,13.0,36.0,2560.0,1465.0,5312.0,4025.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
-16,1,Sun,1.0,0.0,1.0,Houston Texans,2018,Patriots,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
-17,2,Sun,0.0,1.0,0.0,Jacksonville Jaguars,2018,Patriots,27.0,20.0,267.0,122.0,3.0,2.0,158.0,167.0,389.0,325.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
-18,3,Sun,0.0,1.0,0.0,Detroit Lions,2018,Patriots,47.0,51.0,487.0,204.0,4.0,4.0,534.0,271.0,691.0,805.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
-19,4,Sun,1.0,1.0,1.0,Miami Dolphins,2018,Patriots,57.0,77.0,607.0,293.0,5.0,5.0,789.0,430.0,900.0,1219.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
-20,5,Thu,1.0,2.0,1.0,Indianapolis Colts,2018,Patriots,95.0,84.0,881.0,468.0,7.0,7.0,905.0,486.0,1349.0,1391.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
-21,6,Sun,1.0,3.0,1.0,Kansas City Chiefs,2018,Patriots,133.0,108.0,1222.0,565.0,9.0,10.0,1260.0,570.0,1787.0,1830.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
-22,7,Sun,1.0,4.0,0.0,Chicago Bears,2018,Patriots,176.0,148.0,1549.0,738.0,10.0,12.0,1612.0,664.0,2287.0,2276.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
-23,8,Mon,1.0,5.0,0.0,Buffalo Bills,2018,Patriots,214.0,179.0,1822.0,846.0,13.0,14.0,1931.0,798.0,2668.0,2729.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
-24,9,Sun,1.0,6.0,1.0,Green Bay Packers,2018,Patriots,239.0,185.0,2133.0,922.0,13.0,16.0,2218.0,844.0,3055.0,3062.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
-25,10,Sun,0.0,7.0,0.0,Tennessee Titans,2018,Patriots,270.0,202.0,2443.0,1045.0,13.0,17.0,2468.0,961.0,3488.0,3429.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
-26,12,Sun,1.0,7.0,0.0,New York Jets,2018,Patriots,280.0,236.0,2687.0,1085.0,13.0,17.0,2703.0,1111.0,3772.0,3814.0,1,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
-27,13,Sun,1.0,8.0,1.0,Minnesota Vikings,2018,Patriots,307.0,249.0,2970.0,1300.0,13.0,18.0,2967.0,1185.0,4270.0,4152.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
-28,14,Sun,0.0,9.0,0.0,Miami Dolphins,2018,Patriots,331.0,259.0,3281.0,1460.0,14.0,20.0,3150.0,1280.0,4741.0,4430.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
-29,15,Sun,0.0,9.0,0.0,Pittsburgh Steelers,2018,Patriots,364.0,293.0,3625.0,1537.0,14.0,20.0,3373.0,1469.0,5162.0,4842.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
-30,16,Sun,1.0,9.0,1.0,Buffalo Bills,2018,Patriots,374.0,310.0,3897.0,1633.0,15.0,22.0,3591.0,1627.0,5530.0,5218.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
-31,17,Sun,1.0,10.0,1.0,New York Jets,2018,Patriots,398.0,322.0,4014.0,1906.0,18.0,25.0,3808.0,1699.0,5920.0,5507.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
-32,1,Thu,0.0,0.0,1.0,Kansas City Chiefs,2017,Patriots,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-33,2,Sun,1.0,0.0,0.0,New Orleans Saints,2017,Patriots,27.0,42.0,247.0,124.0,0.0,1.0,352.0,185.0,371.0,537.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-34,3,Sun,1.0,1.0,1.0,Houston Texans,2017,Patriots,63.0,62.0,683.0,243.0,0.0,1.0,700.0,266.0,926.0,966.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-35,4,Sun,0.0,2.0,1.0,Carolina Panthers,2017,Patriots,99.0,95.0,1020.0,302.0,1.0,3.0,992.0,391.0,1322.0,1383.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-36,5,Thu,1.0,2.0,0.0,Tampa Bay Buccaneers,2017,Patriots,129.0,128.0,1313.0,382.0,1.0,5.0,1296.0,531.0,1695.0,1827.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-37,6,Sun,1.0,3.0,0.0,New York Jets,2017,Patriots,148.0,142.0,1602.0,495.0,3.0,5.0,1615.0,621.0,2097.0,2236.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-38,7,Sun,1.0,4.0,1.0,Atlanta Falcons,2017,Patriots,172.0,159.0,1859.0,613.0,5.0,8.0,1949.0,695.0,2472.0,2644.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-39,8,Sun,1.0,5.0,1.0,Los Angeles Chargers,2017,Patriots,195.0,166.0,2100.0,775.0,5.0,8.0,2172.0,815.0,2875.0,2987.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-40,10,Sun,1.0,6.0,0.0,Denver Broncos,2017,Patriots,216.0,179.0,2417.0,872.0,5.0,9.0,2364.0,972.0,3289.0,3336.0,1,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-41,11,Sun,1.0,7.0,0.0,Oakland Raiders,2017,Patriots,257.0,195.0,2714.0,971.0,5.0,11.0,2585.0,1090.0,3685.0,3675.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-42,12,Sun,1.0,8.0,1.0,Miami Dolphins,2017,Patriots,290.0,203.0,3046.0,1060.0,5.0,13.0,2820.0,1199.0,4106.0,4019.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-43,13,Sun,1.0,9.0,0.0,Buffalo Bills,2017,Patriots,325.0,220.0,3267.0,1256.0,7.0,16.0,2974.0,1266.0,4523.0,4240.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-44,14,Mon,0.0,10.0,0.0,Miami Dolphins,2017,Patriots,348.0,223.0,3511.0,1447.0,8.0,17.0,3059.0,1449.0,4958.0,4508.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-45,15,Sun,1.0,10.0,0.0,Pittsburgh Steelers,2017,Patriots,368.0,250.0,3734.0,1472.0,10.0,17.0,3301.0,1569.0,5206.0,4870.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-46,16,Sun,1.0,11.0,1.0,Buffalo Bills,2017,Patriots,395.0,274.0,4017.0,1549.0,11.0,18.0,3571.0,1712.0,5566.0,5283.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-47,17,Sun,1.0,12.0,1.0,New York Jets,2017,Patriots,432.0,290.0,4235.0,1742.0,12.0,18.0,3813.0,1796.0,5977.0,5609.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-48,1,Sun,1.0,0.0,0.0,Arizona Cardinals,2016,Patriots,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-49,2,Sun,1.0,1.0,1.0,Miami Dolphins,2016,Patriots,23.0,21.0,257.0,106.0,2.0,0.0,252.0,92.0,363.0,344.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-50,3,Thu,1.0,2.0,1.0,Houston Texans,2016,Patriots,54.0,45.0,559.0,267.0,3.0,4.0,639.0,162.0,826.0,801.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-51,4,Sun,0.0,3.0,1.0,Buffalo Bills,2016,Patriots,81.0,45.0,656.0,452.0,3.0,7.0,814.0,271.0,1108.0,1085.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-52,5,Sun,1.0,3.0,0.0,Cleveland Browns,2016,Patriots,81.0,61.0,843.0,542.0,4.0,7.0,1058.0,405.0,1385.0,1463.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-53,6,Sun,1.0,4.0,1.0,Cincinnati Bengals,2016,Patriots,114.0,74.0,1246.0,640.0,4.0,8.0,1293.0,432.0,1886.0,1725.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-54,7,Sun,1.0,5.0,0.0,Pittsburgh Steelers,2016,Patriots,149.0,91.0,1604.0,719.0,4.0,8.0,1530.0,552.0,2323.0,2082.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-55,8,Sun,1.0,6.0,0.0,Buffalo Bills,2016,Patriots,176.0,107.0,1826.0,859.0,6.0,9.0,1811.0,646.0,2685.0,2457.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-56,10,Sun,0.0,7.0,1.0,Seattle Seahawks,2016,Patriots,217.0,132.0,2111.0,931.0,6.0,9.0,2020.0,813.0,3042.0,2833.0,1,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-57,11,Sun,1.0,7.0,0.0,San Francisco 49ers,2016,Patriots,241.0,163.0,2415.0,1012.0,8.0,9.0,2344.0,909.0,3427.0,3253.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-58,12,Sun,1.0,8.0,0.0,New York Jets,2016,Patriots,271.0,180.0,2688.0,1183.0,8.0,9.0,2521.0,1031.0,3871.0,3552.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-59,13,Sun,1.0,9.0,1.0,Los Angeles Rams,2016,Patriots,293.0,197.0,2974.0,1274.0,8.0,11.0,2790.0,1095.0,4248.0,3885.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-60,14,Mon,1.0,10.0,1.0,Baltimore Ravens,2016,Patriots,319.0,207.0,3243.0,1407.0,8.0,13.0,2916.0,1131.0,4650.0,4047.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-61,15,Sun,1.0,11.0,0.0,Denver Broncos,2016,Patriots,349.0,230.0,3644.0,1502.0,11.0,14.0,3222.0,1173.0,5146.0,4395.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-62,16,Sat,1.0,12.0,1.0,New York Jets,2016,Patriots,365.0,233.0,3821.0,1638.0,11.0,17.0,3473.0,1231.0,5459.0,4704.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-63,17,Sun,1.0,13.0,0.0,Miami Dolphins,2016,Patriots,406.0,236.0,4032.0,1752.0,11.0,21.0,3601.0,1342.0,5784.0,4943.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-64,1,Thu,1.0,0.0,1.0,Pittsburgh Steelers,2015,Patriots,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-65,2,Sun,1.0,1.0,0.0,Buffalo Bills,2015,Patriots,28.0,21.0,281.0,80.0,0.0,1.0,330.0,134.0,361.0,464.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-66,3,Sun,1.0,2.0,1.0,Jacksonville Jaguars,2015,Patriots,68.0,53.0,732.0,136.0,2.0,4.0,519.0,294.0,868.0,813.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-67,5,Sun,1.0,3.0,0.0,Dallas Cowboys,2015,Patriots,119.0,70.0,1078.0,261.0,2.0,5.0,755.0,351.0,1339.0,1106.0,1,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-68,6,Sun,1.0,4.0,0.0,Indianapolis Colts,2015,Patriots,149.0,76.0,1325.0,370.0,2.0,7.0,942.0,453.0,1695.0,1395.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-69,7,Sun,1.0,5.0,1.0,New York Jets,2015,Patriots,183.0,103.0,1626.0,486.0,3.0,7.0,1231.0,573.0,2112.0,1804.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-70,8,Thu,1.0,6.0,1.0,Miami Dolphins,2015,Patriots,213.0,126.0,1963.0,502.0,3.0,8.0,1514.0,662.0,2465.0,2176.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-71,9,Sun,1.0,7.0,1.0,Washington Redskins,2015,Patriots,249.0,133.0,2305.0,597.0,3.0,10.0,1769.0,677.0,2902.0,2446.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-72,10,Sun,1.0,8.0,0.0,New York Giants,2015,Patriots,276.0,143.0,2604.0,758.0,5.0,12.0,1982.0,714.0,3362.0,2696.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-73,11,Mon,1.0,9.0,1.0,Buffalo Bills,2015,Patriots,303.0,169.0,2933.0,835.0,7.0,13.0,2324.0,794.0,3768.0,3118.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-74,12,Sun,0.0,10.0,0.0,Denver Broncos,2015,Patriots,323.0,182.0,3204.0,920.0,8.0,14.0,2549.0,888.0,4124.0,3437.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-75,13,Sun,0.0,10.0,1.0,Philadelphia Eagles,2015,Patriots,347.0,212.0,3466.0,959.0,9.0,15.0,2803.0,1067.0,4425.0,3870.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-76,14,Sun,1.0,10.0,0.0,Houston Texans,2015,Patriots,375.0,247.0,3790.0,1062.0,11.0,16.0,2923.0,1195.0,4852.0,4118.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-77,15,Sun,1.0,11.0,1.0,Tennessee Titans,2015,Patriots,402.0,253.0,3987.0,1178.0,12.0,17.0,3025.0,1282.0,5165.0,4307.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-78,16,Sun,0.0,12.0,0.0,New York Jets,2015,Patriots,435.0,269.0,4240.0,1271.0,13.0,20.0,3248.0,1341.0,5511.0,4589.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-79,17,Sun,0.0,12.0,0.0,Miami Dolphins,2015,Patriots,455.0,295.0,4461.0,1334.0,14.0,21.0,3533.0,1484.0,5795.0,5017.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-80,1,Sun,0.0,0.0,0.0,Miami Dolphins,2014,Patriots,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-81,2,Sun,1.0,0.0,0.0,Minnesota Vikings,2014,Patriots,20.0,33.0,226.0,89.0,2.0,3.0,169.0,191.0,315.0,360.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-82,3,Sun,1.0,1.0,1.0,Oakland Raiders,2014,Patriots,50.0,40.0,368.0,239.0,2.0,7.0,332.0,245.0,607.0,577.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-83,4,Mon,0.0,2.0,0.0,Kansas City Chiefs,2014,Patriots,66.0,49.0,589.0,315.0,2.0,8.0,506.0,312.0,904.0,818.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-84,5,Sun,1.0,2.0,1.0,Cincinnati Bengals,2014,Patriots,80.0,90.0,804.0,390.0,5.0,8.0,742.0,519.0,1194.0,1261.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-85,6,Sun,1.0,3.0,0.0,Buffalo Bills,2014,Patriots,123.0,107.0,1089.0,610.0,5.0,11.0,983.0,598.0,1699.0,1581.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-86,7,Thu,1.0,4.0,1.0,New York Jets,2014,Patriots,160.0,129.0,1435.0,660.0,5.0,14.0,1251.0,666.0,2095.0,1917.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-87,8,Sun,1.0,5.0,1.0,Chicago Bears,2014,Patriots,187.0,154.0,1695.0,723.0,5.0,14.0,1456.0,884.0,2418.0,2340.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-88,9,Sun,1.0,6.0,1.0,Denver Broncos,2014,Patriots,238.0,177.0,2060.0,845.0,5.0,16.0,1687.0,1037.0,2905.0,2724.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-89,11,Sun,1.0,7.0,0.0,Indianapolis Colts,2014,Patriots,281.0,198.0,2392.0,911.0,6.0,18.0,2116.0,1080.0,3303.0,3196.0,1,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-90,12,Sun,1.0,8.0,1.0,Detroit Lions,2014,Patriots,323.0,218.0,2649.0,1157.0,8.0,19.0,2419.0,1099.0,3806.0,3518.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-91,13,Sun,0.0,9.0,0.0,Green Bay Packers,2014,Patriots,357.0,227.0,2998.0,1247.0,9.0,20.0,2663.0,1190.0,4245.0,3853.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-92,14,Sun,1.0,9.0,0.0,San Diego Chargers,2014,Patriots,378.0,253.0,3234.0,1331.0,9.0,20.0,3011.0,1320.0,4565.0,4331.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-93,15,Sun,1.0,10.0,1.0,Miami Dolphins,2014,Patriots,401.0,267.0,3544.0,1418.0,11.0,21.0,3174.0,1373.0,4962.0,4547.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-94,16,Sun,1.0,11.0,0.0,New York Jets,2014,Patriots,442.0,280.0,3831.0,1526.0,12.0,23.0,3482.0,1449.0,5357.0,4931.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-95,17,Sun,0.0,12.0,1.0,Buffalo Bills,2014,Patriots,459.0,296.0,3977.0,1611.0,13.0,24.0,3673.0,1565.0,5588.0,5238.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-96,1,Sun,1.0,0.0,0.0,Buffalo Bills,2013,Patriots,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-97,2,Thu,1.0,1.0,1.0,New York Jets,2013,Patriots,23.0,21.0,273.0,158.0,3.0,2.0,150.0,136.0,431.0,286.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-98,3,Sun,1.0,2.0,1.0,Tampa Bay Buccaneers,2013,Patriots,36.0,31.0,451.0,212.0,3.0,6.0,339.0,265.0,663.0,604.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-99,4,Sun,1.0,3.0,0.0,Atlanta Falcons,2013,Patriots,59.0,34.0,653.0,368.0,4.0,7.0,565.0,362.0,1021.0,927.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-100,5,Sun,0.0,4.0,0.0,Cincinnati Bengals,2013,Patriots,89.0,57.0,969.0,500.0,4.0,8.0,964.0,420.0,1469.0,1384.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-101,6,Sun,1.0,4.0,1.0,New Orleans Saints,2013,Patriots,95.0,70.0,1135.0,582.0,6.0,10.0,1143.0,582.0,1717.0,1725.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-102,7,Sun,0.0,5.0,0.0,New York Jets,2013,Patriots,125.0,97.0,1370.0,723.0,7.0,12.0,1373.0,713.0,2093.0,2086.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-103,8,Sun,1.0,5.0,1.0,Miami Dolphins,2013,Patriots,152.0,127.0,1575.0,813.0,8.0,13.0,1579.0,890.0,2388.0,2469.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-104,9,Sun,1.0,6.0,1.0,Pittsburgh Steelers,2013,Patriots,179.0,144.0,1675.0,965.0,9.0,16.0,1724.0,1046.0,2640.0,2770.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-105,11,Mon,0.0,7.0,0.0,Carolina Panthers,2013,Patriots,234.0,175.0,2088.0,1162.0,10.0,19.0,2095.0,1154.0,3250.0,3249.0,1,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-106,12,Sun,1.0,7.0,1.0,Denver Broncos,2013,Patriots,254.0,199.0,2371.0,1269.0,12.0,19.0,2292.0,1257.0,3640.0,3549.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-107,13,Sun,1.0,8.0,0.0,Houston Texans,2013,Patriots,288.0,230.0,2695.0,1385.0,15.0,23.0,2424.0,1537.0,4080.0,3961.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-108,14,Sun,1.0,9.0,1.0,Cleveland Browns,2013,Patriots,322.0,261.0,3060.0,1473.0,16.0,24.0,2688.0,1658.0,4533.0,4346.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-109,15,Sun,0.0,10.0,0.0,Miami Dolphins,2013,Patriots,349.0,287.0,3457.0,1560.0,18.0,24.0,3074.0,1766.0,5017.0,4840.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-110,16,Sun,1.0,10.0,0.0,Baltimore Ravens,2013,Patriots,369.0,311.0,3814.0,1656.0,19.0,25.0,3363.0,1855.0,5470.0,5218.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-111,17,Sun,1.0,11.0,1.0,Buffalo Bills,2013,Patriots,410.0,318.0,3972.0,1798.0,19.0,29.0,3600.0,1976.0,5770.0,5576.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-112,1,Sun,1.0,0.0,0.0,Tennessee Titans,2012,Patriots,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-113,2,Sun,0.0,1.0,1.0,Arizona Cardinals,2012,Patriots,34.0,13.0,228.0,162.0,0.0,2.0,264.0,20.0,390.0,284.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-114,3,Sun,0.0,1.0,0.0,Baltimore Ravens,2012,Patriots,52.0,33.0,525.0,252.0,1.0,4.0,404.0,122.0,777.0,526.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-115,4,Sun,1.0,1.0,0.0,Buffalo Bills,2012,Patriots,82.0,64.0,844.0,329.0,1.0,5.0,786.0,243.0,1173.0,1029.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-116,5,Sun,1.0,2.0,1.0,Denver Broncos,2012,Patriots,134.0,92.0,1177.0,576.0,3.0,11.0,1126.0,341.0,1753.0,1467.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-117,6,Sun,0.0,3.0,0.0,Seattle Seahawks,2012,Patriots,165.0,113.0,1370.0,827.0,4.0,14.0,1450.0,411.0,2197.0,1861.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-118,7,Sun,1.0,3.0,1.0,New York Jets,2012,Patriots,188.0,137.0,1758.0,914.0,6.0,16.0,1733.0,496.0,2672.0,2229.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-119,8,Sun,1.0,4.0,0.0,St. Louis Rams,2012,Patriots,217.0,163.0,2008.0,1045.0,7.0,18.0,2030.0,602.0,3053.0,2632.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-120,10,Sun,1.0,5.0,1.0,Buffalo Bills,2012,Patriots,262.0,170.0,2329.0,1197.0,7.0,20.0,2249.0,709.0,3526.0,2958.0,1,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-121,11,Sun,1.0,6.0,1.0,Indianapolis Colts,2012,Patriots,299.0,201.0,2559.0,1314.0,7.0,23.0,2568.0,871.0,3873.0,3439.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-122,12,Thu,1.0,7.0,0.0,New York Jets,2012,Patriots,358.0,225.0,2890.0,1429.0,7.0,27.0,2897.0,990.0,4319.0,3887.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-123,13,Sun,1.0,8.0,0.0,Miami Dolphins,2012,Patriots,407.0,244.0,3213.0,1581.0,8.0,32.0,3183.0,1109.0,4794.0,4292.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-124,14,Mon,1.0,9.0,1.0,Houston Texans,2012,Patriots,430.0,260.0,3426.0,1689.0,9.0,33.0,3359.0,1210.0,5115.0,4569.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-125,15,Sun,0.0,10.0,1.0,San Francisco 49ers,2012,Patriots,472.0,274.0,3715.0,1819.0,10.0,34.0,3582.0,1310.0,5534.0,4892.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-126,16,Sun,1.0,10.0,0.0,Jacksonville Jaguars,2012,Patriots,506.0,315.0,4140.0,1914.0,14.0,36.0,3790.0,1490.0,6054.0,5280.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-127,17,Sun,1.0,11.0,1.0,Miami Dolphins,2012,Patriots,529.0,331.0,4386.0,2017.0,16.0,39.0,4133.0,1583.0,6403.0,5716.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
-128,1,Mon,1.0,0.0,0.0,Miami Dolphins,2011,Patriots,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Bill Belichick,Bill O'Brien,Bill Belichick,Tom Brady
-129,2,Sun,1.0,1.0,1.0,San Diego Chargers,2011,Patriots,38.0,24.0,516.0,106.0,1.0,1.0,390.0,98.0,622.0,488.0,0,Bill Belichick,Bill O'Brien,Bill Belichick,Tom Brady
-130,3,Sun,0.0,2.0,0.0,Buffalo Bills,2011,Patriots,73.0,45.0,926.0,200.0,1.0,5.0,762.0,196.0,1126.0,958.0,0,Bill Belichick,Bill O'Brien,Bill Belichick,Tom Brady
-131,4,Sun,1.0,2.0,0.0,Oakland Raiders,2011,Patriots,104.0,79.0,1313.0,308.0,5.0,7.0,1131.0,275.0,1621.0,1406.0,0,Bill Belichick,Bill O'Brien,Bill Belichick,Tom Brady
-132,5,Sun,1.0,3.0,1.0,New York Jets,2011,Patriots,135.0,98.0,1539.0,491.0,5.0,9.0,1475.0,435.0,2030.0,1910.0,0,Bill Belichick,Bill O'Brien,Bill Belichick,Tom Brady
-133,6,Sun,1.0,4.0,1.0,Dallas Cowboys,2011,Patriots,165.0,119.0,1833.0,643.0,6.0,9.0,1633.0,532.0,2476.0,2165.0,0,Bill Belichick,Bill O'Brien,Bill Belichick,Tom Brady
-134,8,Sun,0.0,5.0,0.0,Pittsburgh Steelers,2011,Patriots,185.0,135.0,2103.0,744.0,10.0,11.0,1933.0,609.0,2847.0,2542.0,1,Bill Belichick,Bill O'Brien,Bill Belichick,Tom Brady
-135,9,Sun,0.0,5.0,1.0,New York Giants,2011,Patriots,202.0,160.0,2273.0,787.0,10.0,12.0,2262.0,707.0,3060.0,2969.0,0,Bill Belichick,Bill O'Brien,Bill Belichick,Tom Brady
-136,10,Sun,1.0,5.0,0.0,New York Jets,2011,Patriots,222.0,184.0,2605.0,893.0,14.0,14.0,2512.0,818.0,3498.0,3330.0,0,Bill Belichick,Bill O'Brien,Bill Belichick,Tom Brady
-137,11,Mon,1.0,6.0,1.0,Kansas City Chiefs,2011,Patriots,259.0,200.0,2934.0,953.0,14.0,17.0,2780.0,928.0,3887.0,3708.0,0,Bill Belichick,Bill O'Brien,Bill Belichick,Tom Brady
-138,12,Sun,1.0,7.0,0.0,Philadelphia Eagles,2011,Patriots,293.0,203.0,3157.0,1110.0,15.0,20.0,2989.0,1053.0,4267.0,4042.0,0,Bill Belichick,Bill O'Brien,Bill Belichick,Tom Brady
-139,13,Sun,1.0,8.0,1.0,Indianapolis Colts,2011,Patriots,331.0,223.0,3510.0,1214.0,15.0,21.0,3382.0,1126.0,4724.0,4508.0,0,Bill Belichick,Bill O'Brien,Bill Belichick,Tom Brady
-140,14,Sun,1.0,9.0,0.0,Washington Redskins,2011,Patriots,362.0,247.0,3799.0,1287.0,15.0,23.0,3720.0,1225.0,5086.0,4945.0,0,Bill Belichick,Bill O'Brien,Bill Belichick,Tom Brady
-141,15,Sun,1.0,10.0,0.0,Denver Broncos,2011,Patriots,396.0,274.0,4151.0,1366.0,16.0,25.0,4013.0,1395.0,5517.0,5408.0,0,Bill Belichick,Bill O'Brien,Bill Belichick,Tom Brady
-142,16,Sat,1.0,11.0,1.0,Miami Dolphins,2011,Patriots,437.0,297.0,4461.0,1507.0,16.0,28.0,4154.0,1647.0,5968.0,5801.0,0,Bill Belichick,Bill O'Brien,Bill Belichick,Tom Brady
-143,17,Sun,1.0,12.0,1.0,Buffalo Bills,2011,Patriots,464.0,321.0,4742.0,1626.0,16.0,30.0,4407.0,1768.0,6368.0,6175.0,0,Bill Belichick,Bill O'Brien,Bill Belichick,Tom Brady
-144,1,Sun,1.0,0.0,1.0,Cincinnati Bengals,2010,Patriots,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Bill Belichick,Bill Belichick,Bill Belichick,Tom Brady
-145,2,Sun,0.0,1.0,0.0,New York Jets,2010,Patriots,38.0,24.0,258.0,118.0,0.0,2.0,341.0,87.0,376.0,428.0,0,Bill Belichick,Bill Belichick,Bill Belichick,Tom Brady
-146,3,Sun,1.0,1.0,1.0,Buffalo Bills,2010,Patriots,52.0,52.0,497.0,170.0,3.0,2.0,541.0,223.0,667.0,764.0,0,Bill Belichick,Bill Belichick,Bill Belichick,Tom Brady
-147,4,Mon,1.0,2.0,0.0,Miami Dolphins,2010,Patriots,90.0,82.0,742.0,370.0,4.0,4.0,781.0,357.0,1112.0,1138.0,0,Bill Belichick,Bill Belichick,Bill Belichick,Tom Brady
-148,6,Sun,1.0,3.0,1.0,Baltimore Ravens,2010,Patriots,131.0,96.0,888.0,489.0,4.0,8.0,1089.0,449.0,1377.0,1538.0,1,Bill Belichick,Bill Belichick,Bill Belichick,Tom Brady
-149,7,Sun,1.0,4.0,0.0,San Diego Chargers,2010,Patriots,154.0,116.0,1155.0,616.0,6.0,8.0,1367.0,548.0,1771.0,1915.0,0,Bill Belichick,Bill Belichick,Bill Belichick,Tom Brady
-150,8,Sun,1.0,5.0,1.0,Minnesota Vikings,2010,Patriots,177.0,136.0,1283.0,667.0,6.0,12.0,1692.0,586.0,1950.0,2278.0,0,Bill Belichick,Bill Belichick,Bill Belichick,Tom Brady
-151,9,Sun,0.0,6.0,0.0,Cleveland Browns,2010,Patriots,205.0,154.0,1523.0,789.0,6.0,13.0,1977.0,711.0,2312.0,2688.0,0,Bill Belichick,Bill Belichick,Bill Belichick,Tom Brady
-152,10,Sun,1.0,6.0,0.0,Pittsburgh Steelers,2010,Patriots,219.0,188.0,1738.0,857.0,9.0,14.0,2151.0,941.0,2595.0,3092.0,0,Bill Belichick,Bill Belichick,Bill Belichick,Tom Brady
-153,11,Sun,1.0,7.0,1.0,Indianapolis Colts,2010,Patriots,258.0,214.0,2088.0,960.0,9.0,15.0,2500.0,1017.0,3048.0,3517.0,0,Bill Belichick,Bill Belichick,Bill Belichick,Tom Brady
-154,12,Thu,1.0,8.0,0.0,Detroit Lions,2010,Patriots,289.0,242.0,2266.0,1128.0,9.0,18.0,2896.0,1088.0,3394.0,3984.0,0,Bill Belichick,Bill Belichick,Bill Belichick,Tom Brady
-155,13,Mon,1.0,9.0,1.0,New York Jets,2010,Patriots,334.0,266.0,2604.0,1237.0,9.0,20.0,3173.0,1217.0,3841.0,4390.0,0,Bill Belichick,Bill Belichick,Bill Belichick,Tom Brady
-156,14,Sun,1.0,10.0,0.0,Chicago Bears,2010,Patriots,379.0,269.0,2908.0,1338.0,9.0,23.0,3322.0,1369.0,4246.0,4691.0,0,Bill Belichick,Bill Belichick,Bill Belichick,Tom Brady
-157,15,Sun,1.0,11.0,1.0,Green Bay Packers,2010,Patriots,415.0,276.0,3259.0,1462.0,9.0,27.0,3460.0,1416.0,4721.0,4876.0,0,Bill Belichick,Bill Belichick,Bill Belichick,Tom Brady
-158,16,Sun,1.0,12.0,0.0,Buffalo Bills,2010,Patriots,446.0,303.0,3395.0,1575.0,9.0,29.0,3686.0,1559.0,4970.0,5245.0,0,Bill Belichick,Bill Belichick,Bill Belichick,Tom Brady
-159,17,Sun,1.0,13.0,1.0,Miami Dolphins,2010,Patriots,480.0,306.0,3526.0,1792.0,9.0,36.0,3930.0,1684.0,5318.0,5614.0,0,Bill Belichick,Bill Belichick,Bill Belichick,Tom Brady
+0,1,Sun,1.0,0.0,1.0,Miami Dolphins,2020,Patriots,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Cam Newton
+1,2,Sun,0.0,1.0,0.0,Seattle Seahawks,2020,Patriots,21.0,11.0,140.0,217.0,1.0,3.0,182.0,87.0,357.0,269.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Cam Newton
+2,3,Sun,1.0,1.0,1.0,Las Vegas Raiders,2020,Patriots,51.0,46.0,537.0,284.0,2.0,4.0,457.0,241.0,821.0,698.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Cam Newton
+3,4,Mon,0.0,2.0,0.0,Kansas City Chiefs,2020,Patriots,87.0,66.0,693.0,534.0,3.0,7.0,706.0,367.0,1227.0,1073.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Cam Newton
+4,5,Sun,,,1.0,Denver Broncos,2020,Patriots,97.0,92.0,865.0,719.0,7.0,8.0,935.0,461.0,1584.0,1396.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Cam Newton
+5,7,Sun,,,1.0,San Francisco 49ers,2020,Patriots,97.0,92.0,865.0,719.0,7.0,8.0,935.0,461.0,1584.0,1396.0,1,Bill Belichick,Josh McDaniels,Bill Belichick,Cam Newton
+6,8,Sun,,,0.0,Buffalo Bills,2020,Patriots,97.0,92.0,865.0,719.0,7.0,8.0,935.0,461.0,1584.0,1396.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Cam Newton
+7,9,Mon,,,0.0,New York Jets,2020,Patriots,97.0,92.0,865.0,719.0,7.0,8.0,935.0,461.0,1584.0,1396.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Cam Newton
+8,10,Sun,,,1.0,Baltimore Ravens,2020,Patriots,97.0,92.0,865.0,719.0,7.0,8.0,935.0,461.0,1584.0,1396.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Cam Newton
+9,11,Sun,,,0.0,Houston Texans,2020,Patriots,97.0,92.0,865.0,719.0,7.0,8.0,935.0,461.0,1584.0,1396.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Cam Newton
+10,12,Sun,,,1.0,Arizona Cardinals,2020,Patriots,97.0,92.0,865.0,719.0,7.0,8.0,935.0,461.0,1584.0,1396.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Cam Newton
+11,13,Sun,,,0.0,Los Angeles Chargers,2020,Patriots,97.0,92.0,865.0,719.0,7.0,8.0,935.0,461.0,1584.0,1396.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Cam Newton
+12,14,Thu,,,0.0,Los Angeles Rams,2020,Patriots,97.0,92.0,865.0,719.0,7.0,8.0,935.0,461.0,1584.0,1396.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Cam Newton
+13,15,Sun,,,0.0,Miami Dolphins,2020,Patriots,97.0,92.0,865.0,719.0,7.0,8.0,935.0,461.0,1584.0,1396.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Cam Newton
+14,16,Mon,,,1.0,Buffalo Bills,2020,Patriots,97.0,92.0,865.0,719.0,7.0,8.0,935.0,461.0,1584.0,1396.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Cam Newton
+15,17,Sun,,,1.0,New York Jets,2020,Patriots,97.0,92.0,865.0,719.0,7.0,8.0,935.0,461.0,1584.0,1396.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Cam Newton
+16,1,Sun,1.0,0.0,1.0,Pittsburgh Steelers,2019,Patriots,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
+17,2,Sun,1.0,1.0,0.0,Miami Dolphins,2019,Patriots,33.0,3.0,366.0,99.0,0.0,1.0,276.0,32.0,465.0,308.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
+18,3,Sun,1.0,2.0,1.0,New York Jets,2019,Patriots,76.0,3.0,621.0,223.0,1.0,5.0,418.0,74.0,844.0,492.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
+19,4,Sun,1.0,3.0,0.0,Buffalo Bills,2019,Patriots,106.0,17.0,934.0,291.0,3.0,6.0,487.0,110.0,1225.0,597.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
+20,5,Sun,1.0,4.0,0.0,Washington Redskins,2019,Patriots,122.0,27.0,1084.0,365.0,4.0,10.0,727.0,245.0,1449.0,972.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
+21,6,Thu,1.0,5.0,1.0,New York Giants,2019,Patriots,155.0,34.0,1396.0,495.0,5.0,12.0,805.0,390.0,1891.0,1195.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
+22,7,Mon,1.0,6.0,0.0,New York Jets,2019,Patriots,190.0,48.0,1709.0,609.0,7.0,16.0,966.0,442.0,2318.0,1408.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
+23,8,Sun,1.0,7.0,1.0,Cleveland Browns,2019,Patriots,223.0,48.0,1958.0,683.0,8.0,22.0,1039.0,523.0,2641.0,1562.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
+24,9,Sun,0.0,8.0,0.0,Baltimore Ravens,2019,Patriots,250.0,61.0,2197.0,762.0,8.0,25.0,1190.0,682.0,2959.0,1872.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
+25,11,Sun,1.0,8.0,0.0,Philadelphia Eagles,2019,Patriots,270.0,98.0,2465.0,836.0,10.0,27.0,1352.0,892.0,3301.0,2244.0,1,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
+26,12,Sun,1.0,9.0,1.0,Dallas Cowboys,2019,Patriots,287.0,108.0,2689.0,910.0,10.0,28.0,1526.0,973.0,3599.0,2499.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
+27,13,Sun,0.0,10.0,0.0,Houston Texans,2019,Patriots,300.0,117.0,2870.0,1011.0,10.0,29.0,1738.0,1082.0,3881.0,2820.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
+28,14,Sun,0.0,10.0,1.0,Kansas City Chiefs,2019,Patriots,322.0,145.0,3173.0,1156.0,11.0,29.0,1962.0,1134.0,4329.0,3096.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
+29,15,Sun,1.0,10.0,0.0,Cincinnati Bengals,2019,Patriots,338.0,168.0,3357.0,1250.0,12.0,31.0,2233.0,1209.0,4607.0,3442.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
+30,16,Sat,1.0,11.0,1.0,Buffalo Bills,2019,Patriots,372.0,181.0,3473.0,1425.0,12.0,36.0,2384.0,1373.0,4898.0,3757.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
+31,17,Sun,0.0,12.0,1.0,Miami Dolphins,2019,Patriots,396.0,198.0,3744.0,1568.0,13.0,36.0,2560.0,1465.0,5312.0,4025.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
+32,1,Sun,1.0,0.0,1.0,Houston Texans,2018,Patriots,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
+33,2,Sun,0.0,1.0,0.0,Jacksonville Jaguars,2018,Patriots,27.0,20.0,267.0,122.0,3.0,2.0,158.0,167.0,389.0,325.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
+34,3,Sun,0.0,1.0,0.0,Detroit Lions,2018,Patriots,47.0,51.0,487.0,204.0,4.0,4.0,534.0,271.0,691.0,805.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
+35,4,Sun,1.0,1.0,1.0,Miami Dolphins,2018,Patriots,57.0,77.0,607.0,293.0,5.0,5.0,789.0,430.0,900.0,1219.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
+36,5,Thu,1.0,2.0,1.0,Indianapolis Colts,2018,Patriots,95.0,84.0,881.0,468.0,7.0,7.0,905.0,486.0,1349.0,1391.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
+37,6,Sun,1.0,3.0,1.0,Kansas City Chiefs,2018,Patriots,133.0,108.0,1222.0,565.0,9.0,10.0,1260.0,570.0,1787.0,1830.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
+38,7,Sun,1.0,4.0,0.0,Chicago Bears,2018,Patriots,176.0,148.0,1549.0,738.0,10.0,12.0,1612.0,664.0,2287.0,2276.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
+39,8,Mon,1.0,5.0,0.0,Buffalo Bills,2018,Patriots,214.0,179.0,1822.0,846.0,13.0,14.0,1931.0,798.0,2668.0,2729.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
+40,9,Sun,1.0,6.0,1.0,Green Bay Packers,2018,Patriots,239.0,185.0,2133.0,922.0,13.0,16.0,2218.0,844.0,3055.0,3062.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
+41,10,Sun,0.0,7.0,0.0,Tennessee Titans,2018,Patriots,270.0,202.0,2443.0,1045.0,13.0,17.0,2468.0,961.0,3488.0,3429.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
+42,12,Sun,1.0,7.0,0.0,New York Jets,2018,Patriots,280.0,236.0,2687.0,1085.0,13.0,17.0,2703.0,1111.0,3772.0,3814.0,1,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
+43,13,Sun,1.0,8.0,1.0,Minnesota Vikings,2018,Patriots,307.0,249.0,2970.0,1300.0,13.0,18.0,2967.0,1185.0,4270.0,4152.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
+44,14,Sun,0.0,9.0,0.0,Miami Dolphins,2018,Patriots,331.0,259.0,3281.0,1460.0,14.0,20.0,3150.0,1280.0,4741.0,4430.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
+45,15,Sun,0.0,9.0,0.0,Pittsburgh Steelers,2018,Patriots,364.0,293.0,3625.0,1537.0,14.0,20.0,3373.0,1469.0,5162.0,4842.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
+46,16,Sun,1.0,9.0,1.0,Buffalo Bills,2018,Patriots,374.0,310.0,3897.0,1633.0,15.0,22.0,3591.0,1627.0,5530.0,5218.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
+47,17,Sun,1.0,10.0,1.0,New York Jets,2018,Patriots,398.0,322.0,4014.0,1906.0,18.0,25.0,3808.0,1699.0,5920.0,5507.0,0,Bill Belichick,Josh McDaniels,Bill Belichick,Tom Brady
+48,1,Thu,0.0,0.0,1.0,Kansas City Chiefs,2017,Patriots,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+49,2,Sun,1.0,0.0,0.0,New Orleans Saints,2017,Patriots,27.0,42.0,247.0,124.0,0.0,1.0,352.0,185.0,371.0,537.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+50,3,Sun,1.0,1.0,1.0,Houston Texans,2017,Patriots,63.0,62.0,683.0,243.0,0.0,1.0,700.0,266.0,926.0,966.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+51,4,Sun,0.0,2.0,1.0,Carolina Panthers,2017,Patriots,99.0,95.0,1020.0,302.0,1.0,3.0,992.0,391.0,1322.0,1383.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+52,5,Thu,1.0,2.0,0.0,Tampa Bay Buccaneers,2017,Patriots,129.0,128.0,1313.0,382.0,1.0,5.0,1296.0,531.0,1695.0,1827.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+53,6,Sun,1.0,3.0,0.0,New York Jets,2017,Patriots,148.0,142.0,1602.0,495.0,3.0,5.0,1615.0,621.0,2097.0,2236.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+54,7,Sun,1.0,4.0,1.0,Atlanta Falcons,2017,Patriots,172.0,159.0,1859.0,613.0,5.0,8.0,1949.0,695.0,2472.0,2644.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+55,8,Sun,1.0,5.0,1.0,Los Angeles Chargers,2017,Patriots,195.0,166.0,2100.0,775.0,5.0,8.0,2172.0,815.0,2875.0,2987.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+56,10,Sun,1.0,6.0,0.0,Denver Broncos,2017,Patriots,216.0,179.0,2417.0,872.0,5.0,9.0,2364.0,972.0,3289.0,3336.0,1,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+57,11,Sun,1.0,7.0,0.0,Oakland Raiders,2017,Patriots,257.0,195.0,2714.0,971.0,5.0,11.0,2585.0,1090.0,3685.0,3675.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+58,12,Sun,1.0,8.0,1.0,Miami Dolphins,2017,Patriots,290.0,203.0,3046.0,1060.0,5.0,13.0,2820.0,1199.0,4106.0,4019.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+59,13,Sun,1.0,9.0,0.0,Buffalo Bills,2017,Patriots,325.0,220.0,3267.0,1256.0,7.0,16.0,2974.0,1266.0,4523.0,4240.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+60,14,Mon,0.0,10.0,0.0,Miami Dolphins,2017,Patriots,348.0,223.0,3511.0,1447.0,8.0,17.0,3059.0,1449.0,4958.0,4508.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+61,15,Sun,1.0,10.0,0.0,Pittsburgh Steelers,2017,Patriots,368.0,250.0,3734.0,1472.0,10.0,17.0,3301.0,1569.0,5206.0,4870.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+62,16,Sun,1.0,11.0,1.0,Buffalo Bills,2017,Patriots,395.0,274.0,4017.0,1549.0,11.0,18.0,3571.0,1712.0,5566.0,5283.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+63,17,Sun,1.0,12.0,1.0,New York Jets,2017,Patriots,432.0,290.0,4235.0,1742.0,12.0,18.0,3813.0,1796.0,5977.0,5609.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+64,1,Sun,1.0,0.0,0.0,Arizona Cardinals,2016,Patriots,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+65,2,Sun,1.0,1.0,1.0,Miami Dolphins,2016,Patriots,23.0,21.0,257.0,106.0,2.0,0.0,252.0,92.0,363.0,344.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+66,3,Thu,1.0,2.0,1.0,Houston Texans,2016,Patriots,54.0,45.0,559.0,267.0,3.0,4.0,639.0,162.0,826.0,801.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+67,4,Sun,0.0,3.0,1.0,Buffalo Bills,2016,Patriots,81.0,45.0,656.0,452.0,3.0,7.0,814.0,271.0,1108.0,1085.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+68,5,Sun,1.0,3.0,0.0,Cleveland Browns,2016,Patriots,81.0,61.0,843.0,542.0,4.0,7.0,1058.0,405.0,1385.0,1463.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+69,6,Sun,1.0,4.0,1.0,Cincinnati Bengals,2016,Patriots,114.0,74.0,1246.0,640.0,4.0,8.0,1293.0,432.0,1886.0,1725.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+70,7,Sun,1.0,5.0,0.0,Pittsburgh Steelers,2016,Patriots,149.0,91.0,1604.0,719.0,4.0,8.0,1530.0,552.0,2323.0,2082.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+71,8,Sun,1.0,6.0,0.0,Buffalo Bills,2016,Patriots,176.0,107.0,1826.0,859.0,6.0,9.0,1811.0,646.0,2685.0,2457.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+72,10,Sun,0.0,7.0,1.0,Seattle Seahawks,2016,Patriots,217.0,132.0,2111.0,931.0,6.0,9.0,2020.0,813.0,3042.0,2833.0,1,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+73,11,Sun,1.0,7.0,0.0,San Francisco 49ers,2016,Patriots,241.0,163.0,2415.0,1012.0,8.0,9.0,2344.0,909.0,3427.0,3253.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+74,12,Sun,1.0,8.0,0.0,New York Jets,2016,Patriots,271.0,180.0,2688.0,1183.0,8.0,9.0,2521.0,1031.0,3871.0,3552.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+75,13,Sun,1.0,9.0,1.0,Los Angeles Rams,2016,Patriots,293.0,197.0,2974.0,1274.0,8.0,11.0,2790.0,1095.0,4248.0,3885.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+76,14,Mon,1.0,10.0,1.0,Baltimore Ravens,2016,Patriots,319.0,207.0,3243.0,1407.0,8.0,13.0,2916.0,1131.0,4650.0,4047.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+77,15,Sun,1.0,11.0,0.0,Denver Broncos,2016,Patriots,349.0,230.0,3644.0,1502.0,11.0,14.0,3222.0,1173.0,5146.0,4395.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+78,16,Sat,1.0,12.0,1.0,New York Jets,2016,Patriots,365.0,233.0,3821.0,1638.0,11.0,17.0,3473.0,1231.0,5459.0,4704.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+79,17,Sun,1.0,13.0,0.0,Miami Dolphins,2016,Patriots,406.0,236.0,4032.0,1752.0,11.0,21.0,3601.0,1342.0,5784.0,4943.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+80,1,Thu,1.0,0.0,1.0,Pittsburgh Steelers,2015,Patriots,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+81,2,Sun,1.0,1.0,0.0,Buffalo Bills,2015,Patriots,28.0,21.0,281.0,80.0,0.0,1.0,330.0,134.0,361.0,464.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+82,3,Sun,1.0,2.0,1.0,Jacksonville Jaguars,2015,Patriots,68.0,53.0,732.0,136.0,2.0,4.0,519.0,294.0,868.0,813.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+83,5,Sun,1.0,3.0,0.0,Dallas Cowboys,2015,Patriots,119.0,70.0,1078.0,261.0,2.0,5.0,755.0,351.0,1339.0,1106.0,1,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+84,6,Sun,1.0,4.0,0.0,Indianapolis Colts,2015,Patriots,149.0,76.0,1325.0,370.0,2.0,7.0,942.0,453.0,1695.0,1395.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+85,7,Sun,1.0,5.0,1.0,New York Jets,2015,Patriots,183.0,103.0,1626.0,486.0,3.0,7.0,1231.0,573.0,2112.0,1804.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+86,8,Thu,1.0,6.0,1.0,Miami Dolphins,2015,Patriots,213.0,126.0,1963.0,502.0,3.0,8.0,1514.0,662.0,2465.0,2176.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+87,9,Sun,1.0,7.0,1.0,Washington Redskins,2015,Patriots,249.0,133.0,2305.0,597.0,3.0,10.0,1769.0,677.0,2902.0,2446.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+88,10,Sun,1.0,8.0,0.0,New York Giants,2015,Patriots,276.0,143.0,2604.0,758.0,5.0,12.0,1982.0,714.0,3362.0,2696.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+89,11,Mon,1.0,9.0,1.0,Buffalo Bills,2015,Patriots,303.0,169.0,2933.0,835.0,7.0,13.0,2324.0,794.0,3768.0,3118.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+90,12,Sun,0.0,10.0,0.0,Denver Broncos,2015,Patriots,323.0,182.0,3204.0,920.0,8.0,14.0,2549.0,888.0,4124.0,3437.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+91,13,Sun,0.0,10.0,1.0,Philadelphia Eagles,2015,Patriots,347.0,212.0,3466.0,959.0,9.0,15.0,2803.0,1067.0,4425.0,3870.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+92,14,Sun,1.0,10.0,0.0,Houston Texans,2015,Patriots,375.0,247.0,3790.0,1062.0,11.0,16.0,2923.0,1195.0,4852.0,4118.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+93,15,Sun,1.0,11.0,1.0,Tennessee Titans,2015,Patriots,402.0,253.0,3987.0,1178.0,12.0,17.0,3025.0,1282.0,5165.0,4307.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+94,16,Sun,0.0,12.0,0.0,New York Jets,2015,Patriots,435.0,269.0,4240.0,1271.0,13.0,20.0,3248.0,1341.0,5511.0,4589.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+95,17,Sun,0.0,12.0,0.0,Miami Dolphins,2015,Patriots,455.0,295.0,4461.0,1334.0,14.0,21.0,3533.0,1484.0,5795.0,5017.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+96,1,Sun,0.0,0.0,0.0,Miami Dolphins,2014,Patriots,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+97,2,Sun,1.0,0.0,0.0,Minnesota Vikings,2014,Patriots,20.0,33.0,226.0,89.0,2.0,3.0,169.0,191.0,315.0,360.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+98,3,Sun,1.0,1.0,1.0,Oakland Raiders,2014,Patriots,50.0,40.0,368.0,239.0,2.0,7.0,332.0,245.0,607.0,577.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+99,4,Mon,0.0,2.0,0.0,Kansas City Chiefs,2014,Patriots,66.0,49.0,589.0,315.0,2.0,8.0,506.0,312.0,904.0,818.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+100,5,Sun,1.0,2.0,1.0,Cincinnati Bengals,2014,Patriots,80.0,90.0,804.0,390.0,5.0,8.0,742.0,519.0,1194.0,1261.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+101,6,Sun,1.0,3.0,0.0,Buffalo Bills,2014,Patriots,123.0,107.0,1089.0,610.0,5.0,11.0,983.0,598.0,1699.0,1581.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+102,7,Thu,1.0,4.0,1.0,New York Jets,2014,Patriots,160.0,129.0,1435.0,660.0,5.0,14.0,1251.0,666.0,2095.0,1917.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+103,8,Sun,1.0,5.0,1.0,Chicago Bears,2014,Patriots,187.0,154.0,1695.0,723.0,5.0,14.0,1456.0,884.0,2418.0,2340.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+104,9,Sun,1.0,6.0,1.0,Denver Broncos,2014,Patriots,238.0,177.0,2060.0,845.0,5.0,16.0,1687.0,1037.0,2905.0,2724.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+105,11,Sun,1.0,7.0,0.0,Indianapolis Colts,2014,Patriots,281.0,198.0,2392.0,911.0,6.0,18.0,2116.0,1080.0,3303.0,3196.0,1,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+106,12,Sun,1.0,8.0,1.0,Detroit Lions,2014,Patriots,323.0,218.0,2649.0,1157.0,8.0,19.0,2419.0,1099.0,3806.0,3518.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+107,13,Sun,0.0,9.0,0.0,Green Bay Packers,2014,Patriots,357.0,227.0,2998.0,1247.0,9.0,20.0,2663.0,1190.0,4245.0,3853.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+108,14,Sun,1.0,9.0,0.0,San Diego Chargers,2014,Patriots,378.0,253.0,3234.0,1331.0,9.0,20.0,3011.0,1320.0,4565.0,4331.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+109,15,Sun,1.0,10.0,1.0,Miami Dolphins,2014,Patriots,401.0,267.0,3544.0,1418.0,11.0,21.0,3174.0,1373.0,4962.0,4547.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+110,16,Sun,1.0,11.0,0.0,New York Jets,2014,Patriots,442.0,280.0,3831.0,1526.0,12.0,23.0,3482.0,1449.0,5357.0,4931.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+111,17,Sun,0.0,12.0,1.0,Buffalo Bills,2014,Patriots,459.0,296.0,3977.0,1611.0,13.0,24.0,3673.0,1565.0,5588.0,5238.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+112,1,Sun,1.0,0.0,0.0,Buffalo Bills,2013,Patriots,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+113,2,Thu,1.0,1.0,1.0,New York Jets,2013,Patriots,23.0,21.0,273.0,158.0,3.0,2.0,150.0,136.0,431.0,286.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+114,3,Sun,1.0,2.0,1.0,Tampa Bay Buccaneers,2013,Patriots,36.0,31.0,451.0,212.0,3.0,6.0,339.0,265.0,663.0,604.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+115,4,Sun,1.0,3.0,0.0,Atlanta Falcons,2013,Patriots,59.0,34.0,653.0,368.0,4.0,7.0,565.0,362.0,1021.0,927.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+116,5,Sun,0.0,4.0,0.0,Cincinnati Bengals,2013,Patriots,89.0,57.0,969.0,500.0,4.0,8.0,964.0,420.0,1469.0,1384.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+117,6,Sun,1.0,4.0,1.0,New Orleans Saints,2013,Patriots,95.0,70.0,1135.0,582.0,6.0,10.0,1143.0,582.0,1717.0,1725.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+118,7,Sun,0.0,5.0,0.0,New York Jets,2013,Patriots,125.0,97.0,1370.0,723.0,7.0,12.0,1373.0,713.0,2093.0,2086.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+119,8,Sun,1.0,5.0,1.0,Miami Dolphins,2013,Patriots,152.0,127.0,1575.0,813.0,8.0,13.0,1579.0,890.0,2388.0,2469.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+120,9,Sun,1.0,6.0,1.0,Pittsburgh Steelers,2013,Patriots,179.0,144.0,1675.0,965.0,9.0,16.0,1724.0,1046.0,2640.0,2770.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+121,11,Mon,0.0,7.0,0.0,Carolina Panthers,2013,Patriots,234.0,175.0,2088.0,1162.0,10.0,19.0,2095.0,1154.0,3250.0,3249.0,1,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+122,12,Sun,1.0,7.0,1.0,Denver Broncos,2013,Patriots,254.0,199.0,2371.0,1269.0,12.0,19.0,2292.0,1257.0,3640.0,3549.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+123,13,Sun,1.0,8.0,0.0,Houston Texans,2013,Patriots,288.0,230.0,2695.0,1385.0,15.0,23.0,2424.0,1537.0,4080.0,3961.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+124,14,Sun,1.0,9.0,1.0,Cleveland Browns,2013,Patriots,322.0,261.0,3060.0,1473.0,16.0,24.0,2688.0,1658.0,4533.0,4346.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+125,15,Sun,0.0,10.0,0.0,Miami Dolphins,2013,Patriots,349.0,287.0,3457.0,1560.0,18.0,24.0,3074.0,1766.0,5017.0,4840.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+126,16,Sun,1.0,10.0,0.0,Baltimore Ravens,2013,Patriots,369.0,311.0,3814.0,1656.0,19.0,25.0,3363.0,1855.0,5470.0,5218.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+127,17,Sun,1.0,11.0,1.0,Buffalo Bills,2013,Patriots,410.0,318.0,3972.0,1798.0,19.0,29.0,3600.0,1976.0,5770.0,5576.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+128,1,Sun,1.0,0.0,0.0,Tennessee Titans,2012,Patriots,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+129,2,Sun,0.0,1.0,1.0,Arizona Cardinals,2012,Patriots,34.0,13.0,228.0,162.0,0.0,2.0,264.0,20.0,390.0,284.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+130,3,Sun,0.0,1.0,0.0,Baltimore Ravens,2012,Patriots,52.0,33.0,525.0,252.0,1.0,4.0,404.0,122.0,777.0,526.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+131,4,Sun,1.0,1.0,0.0,Buffalo Bills,2012,Patriots,82.0,64.0,844.0,329.0,1.0,5.0,786.0,243.0,1173.0,1029.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+132,5,Sun,1.0,2.0,1.0,Denver Broncos,2012,Patriots,134.0,92.0,1177.0,576.0,3.0,11.0,1126.0,341.0,1753.0,1467.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+133,6,Sun,0.0,3.0,0.0,Seattle Seahawks,2012,Patriots,165.0,113.0,1370.0,827.0,4.0,14.0,1450.0,411.0,2197.0,1861.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+134,7,Sun,1.0,3.0,1.0,New York Jets,2012,Patriots,188.0,137.0,1758.0,914.0,6.0,16.0,1733.0,496.0,2672.0,2229.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+135,8,Sun,1.0,4.0,0.0,St. Louis Rams,2012,Patriots,217.0,163.0,2008.0,1045.0,7.0,18.0,2030.0,602.0,3053.0,2632.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+136,10,Sun,1.0,5.0,1.0,Buffalo Bills,2012,Patriots,262.0,170.0,2329.0,1197.0,7.0,20.0,2249.0,709.0,3526.0,2958.0,1,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+137,11,Sun,1.0,6.0,1.0,Indianapolis Colts,2012,Patriots,299.0,201.0,2559.0,1314.0,7.0,23.0,2568.0,871.0,3873.0,3439.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+138,12,Thu,1.0,7.0,0.0,New York Jets,2012,Patriots,358.0,225.0,2890.0,1429.0,7.0,27.0,2897.0,990.0,4319.0,3887.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+139,13,Sun,1.0,8.0,0.0,Miami Dolphins,2012,Patriots,407.0,244.0,3213.0,1581.0,8.0,32.0,3183.0,1109.0,4794.0,4292.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+140,14,Mon,1.0,9.0,1.0,Houston Texans,2012,Patriots,430.0,260.0,3426.0,1689.0,9.0,33.0,3359.0,1210.0,5115.0,4569.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+141,15,Sun,0.0,10.0,1.0,San Francisco 49ers,2012,Patriots,472.0,274.0,3715.0,1819.0,10.0,34.0,3582.0,1310.0,5534.0,4892.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+142,16,Sun,1.0,10.0,0.0,Jacksonville Jaguars,2012,Patriots,506.0,315.0,4140.0,1914.0,14.0,36.0,3790.0,1490.0,6054.0,5280.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+143,17,Sun,1.0,11.0,1.0,Miami Dolphins,2012,Patriots,529.0,331.0,4386.0,2017.0,16.0,39.0,4133.0,1583.0,6403.0,5716.0,0,Bill Belichick,Josh McDaniels,Matt Patricia,Tom Brady
+144,1,Mon,1.0,0.0,0.0,Miami Dolphins,2011,Patriots,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Bill Belichick,Bill O'Brien,Bill Belichick,Tom Brady
+145,2,Sun,1.0,1.0,1.0,San Diego Chargers,2011,Patriots,38.0,24.0,516.0,106.0,1.0,1.0,390.0,98.0,622.0,488.0,0,Bill Belichick,Bill O'Brien,Bill Belichick,Tom Brady
+146,3,Sun,0.0,2.0,0.0,Buffalo Bills,2011,Patriots,73.0,45.0,926.0,200.0,1.0,5.0,762.0,196.0,1126.0,958.0,0,Bill Belichick,Bill O'Brien,Bill Belichick,Tom Brady
+147,4,Sun,1.0,2.0,0.0,Oakland Raiders,2011,Patriots,104.0,79.0,1313.0,308.0,5.0,7.0,1131.0,275.0,1621.0,1406.0,0,Bill Belichick,Bill O'Brien,Bill Belichick,Tom Brady
+148,5,Sun,1.0,3.0,1.0,New York Jets,2011,Patriots,135.0,98.0,1539.0,491.0,5.0,9.0,1475.0,435.0,2030.0,1910.0,0,Bill Belichick,Bill O'Brien,Bill Belichick,Tom Brady
+149,6,Sun,1.0,4.0,1.0,Dallas Cowboys,2011,Patriots,165.0,119.0,1833.0,643.0,6.0,9.0,1633.0,532.0,2476.0,2165.0,0,Bill Belichick,Bill O'Brien,Bill Belichick,Tom Brady
+150,8,Sun,0.0,5.0,0.0,Pittsburgh Steelers,2011,Patriots,185.0,135.0,2103.0,744.0,10.0,11.0,1933.0,609.0,2847.0,2542.0,1,Bill Belichick,Bill O'Brien,Bill Belichick,Tom Brady
+151,9,Sun,0.0,5.0,1.0,New York Giants,2011,Patriots,202.0,160.0,2273.0,787.0,10.0,12.0,2262.0,707.0,3060.0,2969.0,0,Bill Belichick,Bill O'Brien,Bill Belichick,Tom Brady
+152,10,Sun,1.0,5.0,0.0,New York Jets,2011,Patriots,222.0,184.0,2605.0,893.0,14.0,14.0,2512.0,818.0,3498.0,3330.0,0,Bill Belichick,Bill O'Brien,Bill Belichick,Tom Brady
+153,11,Mon,1.0,6.0,1.0,Kansas City Chiefs,2011,Patriots,259.0,200.0,2934.0,953.0,14.0,17.0,2780.0,928.0,3887.0,3708.0,0,Bill Belichick,Bill O'Brien,Bill Belichick,Tom Brady
+154,12,Sun,1.0,7.0,0.0,Philadelphia Eagles,2011,Patriots,293.0,203.0,3157.0,1110.0,15.0,20.0,2989.0,1053.0,4267.0,4042.0,0,Bill Belichick,Bill O'Brien,Bill Belichick,Tom Brady
+155,13,Sun,1.0,8.0,1.0,Indianapolis Colts,2011,Patriots,331.0,223.0,3510.0,1214.0,15.0,21.0,3382.0,1126.0,4724.0,4508.0,0,Bill Belichick,Bill O'Brien,Bill Belichick,Tom Brady
+156,14,Sun,1.0,9.0,0.0,Washington Redskins,2011,Patriots,362.0,247.0,3799.0,1287.0,15.0,23.0,3720.0,1225.0,5086.0,4945.0,0,Bill Belichick,Bill O'Brien,Bill Belichick,Tom Brady
+157,15,Sun,1.0,10.0,0.0,Denver Broncos,2011,Patriots,396.0,274.0,4151.0,1366.0,16.0,25.0,4013.0,1395.0,5517.0,5408.0,0,Bill Belichick,Bill O'Brien,Bill Belichick,Tom Brady
+158,16,Sat,1.0,11.0,1.0,Miami Dolphins,2011,Patriots,437.0,297.0,4461.0,1507.0,16.0,28.0,4154.0,1647.0,5968.0,5801.0,0,Bill Belichick,Bill O'Brien,Bill Belichick,Tom Brady
+159,17,Sun,1.0,12.0,1.0,Buffalo Bills,2011,Patriots,464.0,321.0,4742.0,1626.0,16.0,30.0,4407.0,1768.0,6368.0,6175.0,0,Bill Belichick,Bill O'Brien,Bill Belichick,Tom Brady
+160,1,Sun,1.0,0.0,1.0,Cincinnati Bengals,2010,Patriots,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Bill Belichick,Bill Belichick,Bill Belichick,Tom Brady
+161,2,Sun,0.0,1.0,0.0,New York Jets,2010,Patriots,38.0,24.0,258.0,118.0,0.0,2.0,341.0,87.0,376.0,428.0,0,Bill Belichick,Bill Belichick,Bill Belichick,Tom Brady
+162,3,Sun,1.0,1.0,1.0,Buffalo Bills,2010,Patriots,52.0,52.0,497.0,170.0,3.0,2.0,541.0,223.0,667.0,764.0,0,Bill Belichick,Bill Belichick,Bill Belichick,Tom Brady
+163,4,Mon,1.0,2.0,0.0,Miami Dolphins,2010,Patriots,90.0,82.0,742.0,370.0,4.0,4.0,781.0,357.0,1112.0,1138.0,0,Bill Belichick,Bill Belichick,Bill Belichick,Tom Brady
+164,6,Sun,1.0,3.0,1.0,Baltimore Ravens,2010,Patriots,131.0,96.0,888.0,489.0,4.0,8.0,1089.0,449.0,1377.0,1538.0,1,Bill Belichick,Bill Belichick,Bill Belichick,Tom Brady
+165,7,Sun,1.0,4.0,0.0,San Diego Chargers,2010,Patriots,154.0,116.0,1155.0,616.0,6.0,8.0,1367.0,548.0,1771.0,1915.0,0,Bill Belichick,Bill Belichick,Bill Belichick,Tom Brady
+166,8,Sun,1.0,5.0,1.0,Minnesota Vikings,2010,Patriots,177.0,136.0,1283.0,667.0,6.0,12.0,1692.0,586.0,1950.0,2278.0,0,Bill Belichick,Bill Belichick,Bill Belichick,Tom Brady
+167,9,Sun,0.0,6.0,0.0,Cleveland Browns,2010,Patriots,205.0,154.0,1523.0,789.0,6.0,13.0,1977.0,711.0,2312.0,2688.0,0,Bill Belichick,Bill Belichick,Bill Belichick,Tom Brady
+168,10,Sun,1.0,6.0,0.0,Pittsburgh Steelers,2010,Patriots,219.0,188.0,1738.0,857.0,9.0,14.0,2151.0,941.0,2595.0,3092.0,0,Bill Belichick,Bill Belichick,Bill Belichick,Tom Brady
+169,11,Sun,1.0,7.0,1.0,Indianapolis Colts,2010,Patriots,258.0,214.0,2088.0,960.0,9.0,15.0,2500.0,1017.0,3048.0,3517.0,0,Bill Belichick,Bill Belichick,Bill Belichick,Tom Brady
+170,12,Thu,1.0,8.0,0.0,Detroit Lions,2010,Patriots,289.0,242.0,2266.0,1128.0,9.0,18.0,2896.0,1088.0,3394.0,3984.0,0,Bill Belichick,Bill Belichick,Bill Belichick,Tom Brady
+171,13,Mon,1.0,9.0,1.0,New York Jets,2010,Patriots,334.0,266.0,2604.0,1237.0,9.0,20.0,3173.0,1217.0,3841.0,4390.0,0,Bill Belichick,Bill Belichick,Bill Belichick,Tom Brady
+172,14,Sun,1.0,10.0,0.0,Chicago Bears,2010,Patriots,379.0,269.0,2908.0,1338.0,9.0,23.0,3322.0,1369.0,4246.0,4691.0,0,Bill Belichick,Bill Belichick,Bill Belichick,Tom Brady
+173,15,Sun,1.0,11.0,1.0,Green Bay Packers,2010,Patriots,415.0,276.0,3259.0,1462.0,9.0,27.0,3460.0,1416.0,4721.0,4876.0,0,Bill Belichick,Bill Belichick,Bill Belichick,Tom Brady
+174,16,Sun,1.0,12.0,0.0,Buffalo Bills,2010,Patriots,446.0,303.0,3395.0,1575.0,9.0,29.0,3686.0,1559.0,4970.0,5245.0,0,Bill Belichick,Bill Belichick,Bill Belichick,Tom Brady
+175,17,Sun,1.0,13.0,1.0,Miami Dolphins,2010,Patriots,480.0,306.0,3526.0,1792.0,9.0,36.0,3930.0,1684.0,5318.0,5614.0,0,Bill Belichick,Bill Belichick,Bill Belichick,Tom Brady

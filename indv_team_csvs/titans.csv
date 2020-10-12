@@ -1,161 +1,177 @@
 ,Week,Day,Results,Wins Tally,Home,Opp,year,Base_Team,PF Tally,PA Tally,OPassY Tally,ORushY Tally,TO_lost Tally,TO_won Tally,DPassY Tally,DRushY Tally,OTotYd Tally,DTotYd Tally,after_bye,Head_Coach,OC,DC,QB
-0,1,Sun,1.0,0.0,0.0,Cleveland Browns,2019,Titans,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Mike Vrabel,Arthur Smith,Dean Pees,Ryan Tannehill
-1,2,Sun,0.0,1.0,1.0,Indianapolis Colts,2019,Titans,43.0,13.0,216.0,123.0,0.0,3.0,244.0,102.0,339.0,346.0,0,Mike Vrabel,Arthur Smith,Dean Pees,Ryan Tannehill
-2,3,Thu,0.0,1.0,0.0,Jacksonville Jaguars,2019,Titans,60.0,32.0,335.0,247.0,0.0,5.0,365.0,269.0,582.0,634.0,0,Mike Vrabel,Arthur Smith,Dean Pees,Ryan Tannehill
-3,4,Sun,1.0,1.0,0.0,Atlanta Falcons,2019,Titans,67.0,52.0,584.0,338.0,1.0,5.0,569.0,357.0,922.0,926.0,0,Mike Vrabel,Arthur Smith,Dean Pees,Ryan Tannehill
-4,5,Sun,0.0,2.0,1.0,Buffalo Bills,2019,Titans,91.0,62.0,811.0,476.0,1.0,6.0,933.0,415.0,1287.0,1348.0,0,Mike Vrabel,Arthur Smith,Dean Pees,Ryan Tannehill
-5,6,Sun,0.0,2.0,0.0,Denver Broncos,2019,Titans,98.0,76.0,961.0,578.0,1.0,7.0,1137.0,524.0,1539.0,1661.0,0,Mike Vrabel,Arthur Smith,Dean Pees,Ryan Tannehill
-6,7,Sun,1.0,2.0,1.0,Los Angeles Chargers,2019,Titans,98.0,92.0,1126.0,617.0,4.0,8.0,1304.0,627.0,1743.0,1931.0,0,Mike Vrabel,Arthur Smith,Dean Pees,Ryan Tannehill
-7,8,Sun,1.0,3.0,1.0,Tampa Bay Buccaneers,2019,Titans,121.0,112.0,1432.0,714.0,5.0,9.0,1630.0,666.0,2146.0,2296.0,0,Mike Vrabel,Arthur Smith,Dean Pees,Ryan Tannehill
-8,9,Sun,0.0,4.0,0.0,Carolina Panthers,2019,Titans,148.0,135.0,1606.0,786.0,6.0,13.0,1913.0,772.0,2392.0,2685.0,0,Mike Vrabel,Arthur Smith,Dean Pees,Ryan Tannehill
-9,10,Sun,1.0,4.0,1.0,Kansas City Chiefs,2019,Titans,168.0,165.0,1916.0,907.0,9.0,14.0,2127.0,928.0,2823.0,3055.0,0,Mike Vrabel,Arthur Smith,Dean Pees,Ryan Tannehill
-10,12,Sun,1.0,5.0,1.0,Jacksonville Jaguars,2019,Titans,203.0,197.0,2062.0,1132.0,10.0,15.0,2560.0,1025.0,3194.0,3585.0,1,Mike Vrabel,Arthur Smith,Dean Pees,Ryan Tannehill
-11,13,Sun,1.0,6.0,0.0,Indianapolis Colts,2019,Titans,245.0,217.0,2314.0,1351.0,12.0,16.0,2812.0,1142.0,3665.0,3954.0,0,Mike Vrabel,Arthur Smith,Dean Pees,Ryan Tannehill
-12,14,Sun,1.0,7.0,0.0,Oakland Raiders,2019,Titans,276.0,234.0,2452.0,1505.0,14.0,19.0,3121.0,1224.0,3957.0,4345.0,0,Mike Vrabel,Arthur Smith,Dean Pees,Ryan Tannehill
-13,15,Sun,0.0,8.0,1.0,Houston Texans,2019,Titans,318.0,255.0,2843.0,1666.0,15.0,20.0,3379.0,1321.0,4509.0,4700.0,0,Mike Vrabel,Arthur Smith,Dean Pees,Ryan Tannehill
-14,16,Sun,0.0,8.0,1.0,New Orleans Saints,2019,Titans,339.0,279.0,3112.0,1829.0,16.0,22.0,3613.0,1461.0,4941.0,5074.0,0,Mike Vrabel,Arthur Smith,Dean Pees,Ryan Tannehill
-15,17,Sun,1.0,8.0,0.0,Houston Texans,2019,Titans,367.0,317.0,3360.0,1978.0,17.0,22.0,3888.0,1563.0,5338.0,5451.0,0,Mike Vrabel,Arthur Smith,Dean Pees,Ryan Tannehill
-16,1,Sun,0.0,0.0,0.0,Miami Dolphins,2018,Titans,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Mike Vrabel,Matt LaFleur,Dean Pees,Marcus Mariota
-17,2,Sun,1.0,0.0,1.0,Houston Texans,2018,Titans,20.0,27.0,220.0,116.0,3.0,2.0,222.0,120.0,336.0,342.0,0,Mike Vrabel,Matt LaFleur,Dean Pees,Marcus Mariota
-18,3,Sun,1.0,1.0,0.0,Jacksonville Jaguars,2018,Titans,40.0,44.0,403.0,216.0,3.0,3.0,511.0,268.0,619.0,779.0,0,Mike Vrabel,Matt LaFleur,Dean Pees,Marcus Mariota
-19,4,Sun,1.0,2.0,1.0,Philadelphia Eagles,2018,Titans,49.0,50.0,486.0,366.0,3.0,4.0,656.0,355.0,852.0,1011.0,0,Mike Vrabel,Matt LaFleur,Dean Pees,Marcus Mariota
-20,5,Sun,0.0,3.0,0.0,Buffalo Bills,2018,Titans,75.0,73.0,813.0,436.0,4.0,5.0,971.0,472.0,1249.0,1443.0,0,Mike Vrabel,Matt LaFleur,Dean Pees,Marcus Mariota
-21,6,Sun,0.0,3.0,1.0,Baltimore Ravens,2018,Titans,87.0,86.0,934.0,536.0,7.0,6.0,1050.0,616.0,1470.0,1666.0,0,Mike Vrabel,Matt LaFleur,Dean Pees,Marcus Mariota
-22,7,Sun,0.0,3.0,0.0,Los Angeles Chargers,2018,Titans,87.0,107.0,985.0,591.0,7.0,7.0,1288.0,739.0,1576.0,2027.0,0,Mike Vrabel,Matt LaFleur,Dean Pees,Marcus Mariota
-23,9,Mon,1.0,3.0,0.0,Dallas Cowboys,2018,Titans,106.0,127.0,1211.0,755.0,8.0,7.0,1585.0,786.0,1966.0,2371.0,1,Mike Vrabel,Matt LaFleur,Dean Pees,Marcus Mariota
-24,10,Sun,1.0,4.0,1.0,New England Patriots,2018,Titans,134.0,141.0,1426.0,880.0,10.0,9.0,1810.0,858.0,2306.0,2668.0,0,Mike Vrabel,Matt LaFleur,Dean Pees,Marcus Mariota
-25,11,Sun,0.0,5.0,0.0,Indianapolis Colts,2018,Titans,168.0,151.0,1661.0,1030.0,10.0,9.0,2054.0,898.0,2691.0,2952.0,0,Mike Vrabel,Matt LaFleur,Dean Pees,Marcus Mariota
-26,12,Mon,0.0,5.0,0.0,Houston Texans,2018,Titans,178.0,189.0,1837.0,1121.0,12.0,9.0,2349.0,1000.0,2958.0,3349.0,0,Mike Vrabel,Matt LaFleur,Dean Pees,Marcus Mariota
-27,13,Sun,1.0,5.0,1.0,New York Jets,2018,Titans,195.0,223.0,2097.0,1226.0,13.0,9.0,2530.0,1281.0,3323.0,3811.0,0,Mike Vrabel,Matt LaFleur,Dean Pees,Marcus Mariota
-28,14,Thu,1.0,6.0,1.0,Jacksonville Jaguars,2018,Titans,221.0,245.0,2370.0,1356.0,14.0,10.0,2654.0,1437.0,3726.0,4091.0,0,Mike Vrabel,Matt LaFleur,Dean Pees,Marcus Mariota
-29,15,Sun,1.0,7.0,0.0,New York Giants,2018,Titans,251.0,254.0,2532.0,1620.0,15.0,11.0,2849.0,1497.0,4152.0,4346.0,0,Mike Vrabel,Matt LaFleur,Dean Pees,Marcus Mariota
-30,16,Sat,1.0,8.0,1.0,Washington Redskins,2018,Titans,268.0,254.0,2618.0,1835.0,15.0,13.0,3062.0,1544.0,4453.0,4606.0,0,Mike Vrabel,Matt LaFleur,Dean Pees,Marcus Mariota
-31,17,Sun,0.0,9.0,1.0,Indianapolis Colts,2018,Titans,293.0,270.0,2810.0,1934.0,15.0,15.0,3193.0,1705.0,4744.0,4898.0,0,Mike Vrabel,Matt LaFleur,Dean Pees,Blaine Gabbert
-32,1,Sun,0.0,0.0,1.0,Oakland Raiders,2017,Titans,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Mike Mularkey,Terry Robiskie,Dick LeBeau,Marcus Mariota
-33,2,Sun,1.0,0.0,0.0,Jacksonville Jaguars,2017,Titans,16.0,26.0,255.0,95.0,0.0,0.0,250.0,109.0,350.0,359.0,0,Mike Mularkey,Terry Robiskie,Dick LeBeau,Marcus Mariota
-34,3,Sun,1.0,1.0,1.0,Seattle Seahawks,2017,Titans,53.0,42.0,466.0,274.0,1.0,3.0,461.0,208.0,740.0,669.0,0,Mike Mularkey,Terry Robiskie,Dick LeBeau,Marcus Mariota
-35,4,Sun,0.0,2.0,0.0,Houston Texans,2017,Titans,86.0,69.0,691.0,469.0,1.0,3.0,825.0,277.0,1160.0,1102.0,0,Mike Mularkey,Terry Robiskie,Dick LeBeau,Marcus Mariota
-36,5,Sun,0.0,2.0,0.0,Miami Dolphins,2017,Titans,100.0,126.0,800.0,555.0,6.0,4.0,1097.0,450.0,1355.0,1547.0,0,Matt Cassel,Terry Robiskie,Dick LeBeau,Marcus Mariota
-37,6,Mon,1.0,2.0,1.0,Indianapolis Colts,2017,Titans,110.0,142.0,919.0,624.0,8.0,6.0,1175.0,550.0,1543.0,1725.0,0,Mike Mularkey,Terry Robiskie,Dick LeBeau,Marcus Mariota
-38,7,Sun,1.0,3.0,0.0,Cleveland Browns,2017,Titans,146.0,164.0,1224.0,792.0,9.0,7.0,1387.0,635.0,2016.0,2022.0,0,Mike Mularkey,Terry Robiskie,Dick LeBeau,Marcus Mariota
-39,9,Sun,1.0,4.0,1.0,Baltimore Ravens,2017,Titans,158.0,173.0,1413.0,872.0,10.0,10.0,1605.0,701.0,2285.0,2306.0,1,Mike Mularkey,Terry Robiskie,Dick LeBeau,Marcus Mariota
-40,10,Sun,1.0,5.0,1.0,Cincinnati Bengals,2017,Titans,181.0,193.0,1599.0,943.0,11.0,12.0,1873.0,774.0,2542.0,2647.0,0,Mike Mularkey,Terry Robiskie,Dick LeBeau,Marcus Mariota
-41,11,Thu,0.0,6.0,0.0,Pittsburgh Steelers,2017,Titans,205.0,213.0,1835.0,1123.0,13.0,14.0,2128.0,827.0,2958.0,2955.0,0,Mike Mularkey,Terry Robiskie,Dick LeBeau,Marcus Mariota
-42,12,Sun,1.0,6.0,0.0,Indianapolis Colts,2017,Titans,222.0,253.0,2099.0,1175.0,17.0,14.0,2412.0,892.0,3274.0,3304.0,0,Mike Mularkey,Terry Robiskie,Dick LeBeau,Marcus Mariota
-43,13,Sun,1.0,7.0,1.0,Houston Texans,2017,Titans,242.0,269.0,2283.0,1267.0,19.0,15.0,2577.0,981.0,3550.0,3558.0,0,Mike Mularkey,Terry Robiskie,Dick LeBeau,Marcus Mariota
-44,14,Sun,0.0,8.0,0.0,Arizona Cardinals,2017,Titans,266.0,282.0,2429.0,1465.0,20.0,16.0,2908.0,1034.0,3894.0,3942.0,0,Mike Mularkey,Terry Robiskie,Dick LeBeau,Marcus Mariota
-45,15,Sun,0.0,8.0,0.0,San Francisco 49ers,2017,Titans,273.0,294.0,2568.0,1530.0,22.0,16.0,3033.0,1170.0,4098.0,4203.0,0,Mike Mularkey,Terry Robiskie,Dick LeBeau,Marcus Mariota
-46,16,Sun,0.0,8.0,1.0,Los Angeles Rams,2017,Titans,296.0,319.0,2806.0,1620.0,23.0,16.0,3396.0,1221.0,4426.0,4617.0,0,Mike Mularkey,Terry Robiskie,Dick LeBeau,Marcus Mariota
-47,17,Sun,1.0,8.0,1.0,Jacksonville Jaguars,2017,Titans,319.0,346.0,3075.0,1717.0,24.0,17.0,3682.0,1337.0,4792.0,5019.0,0,Mike Mularkey,Terry Robiskie,Dick LeBeau,Marcus Mariota
-48,1,Sun,0.0,0.0,1.0,Minnesota Vikings,2016,Titans,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Mike Mularkey,Terry Robiskie,Dick LeBeau,Marcus Mariota
-49,2,Sun,1.0,0.0,0.0,Detroit Lions,2016,Titans,16.0,25.0,252.0,64.0,3.0,0.0,236.0,65.0,316.0,301.0,0,Mike Mularkey,Terry Robiskie,Dick LeBeau,Marcus Mariota
-50,3,Sun,0.0,1.0,1.0,Oakland Raiders,2016,Titans,32.0,40.0,476.0,203.0,4.0,1.0,474.0,202.0,679.0,676.0,0,Mike Mularkey,Terry Robiskie,Dick LeBeau,Marcus Mariota
-51,4,Sun,0.0,1.0,0.0,Houston Texans,2016,Titans,42.0,57.0,688.0,384.0,7.0,2.0,719.0,325.0,1072.0,1044.0,0,Mike Mularkey,Terry Robiskie,Dick LeBeau,Marcus Mariota
-52,5,Sun,1.0,1.0,0.0,Miami Dolphins,2016,Titans,62.0,84.0,884.0,508.0,8.0,4.0,963.0,440.0,1392.0,1403.0,0,Mike Mularkey,Terry Robiskie,Dick LeBeau,Marcus Mariota
-53,6,Sun,1.0,2.0,1.0,Cleveland Browns,2016,Titans,92.0,101.0,1047.0,743.0,8.0,6.0,1112.0,491.0,1790.0,1603.0,0,Mike Mularkey,Terry Robiskie,Dick LeBeau,Marcus Mariota
-54,7,Sun,0.0,3.0,1.0,Indianapolis Colts,2016,Titans,120.0,127.0,1317.0,880.0,9.0,6.0,1413.0,531.0,2197.0,1944.0,0,Mike Mularkey,Terry Robiskie,Dick LeBeau,Marcus Mariota
-55,8,Thu,1.0,3.0,1.0,Jacksonville Jaguars,2016,Titans,146.0,161.0,1524.0,1004.0,10.0,6.0,1754.0,612.0,2528.0,2366.0,0,Mike Mularkey,Terry Robiskie,Dick LeBeau,Marcus Mariota
-56,9,Sun,0.0,4.0,0.0,San Diego Chargers,2016,Titans,182.0,183.0,1804.0,1218.0,10.0,7.0,2076.0,660.0,3022.0,2736.0,0,Mike Mularkey,Terry Robiskie,Dick LeBeau,Marcus Mariota
-57,10,Sun,1.0,4.0,1.0,Green Bay Packers,2016,Titans,217.0,226.0,2117.0,1298.0,13.0,7.0,2344.0,868.0,3415.0,3212.0,0,Mike Mularkey,Terry Robiskie,Dick LeBeau,Marcus Mariota
-58,11,Sun,0.0,5.0,0.0,Indianapolis Colts,2016,Titans,264.0,251.0,2409.0,1452.0,13.0,10.0,2677.0,937.0,3861.0,3614.0,0,Mike Mularkey,Terry Robiskie,Dick LeBeau,Marcus Mariota
-59,12,Sun,1.0,5.0,0.0,Chicago Bears,2016,Titans,281.0,275.0,2663.0,1549.0,13.0,11.0,2928.0,1013.0,4212.0,3941.0,0,Mike Mularkey,Terry Robiskie,Dick LeBeau,Marcus Mariota
-60,14,Sun,1.0,6.0,1.0,Denver Broncos,2016,Titans,308.0,296.0,2889.0,1698.0,13.0,13.0,3244.0,1108.0,4587.0,4352.0,1,Mike Mularkey,Terry Robiskie,Dick LeBeau,Marcus Mariota
-61,15,Sun,1.0,7.0,0.0,Kansas City Chiefs,2016,Titans,321.0,306.0,2962.0,1878.0,13.0,15.0,3574.0,1126.0,4840.0,4700.0,0,Mike Mularkey,Terry Robiskie,Dick LeBeau,Marcus Mariota
-62,16,Sat,0.0,8.0,0.0,Jacksonville Jaguars,2016,Titans,340.0,323.0,3203.0,2026.0,16.0,16.0,3733.0,1283.0,5229.0,5016.0,0,Mike Mularkey,Terry Robiskie,Dick LeBeau,Marcus Mariota
-63,17,Sun,1.0,8.0,1.0,Houston Texans,2016,Titans,357.0,361.0,3408.0,2084.0,17.0,17.0,4064.0,1367.0,5492.0,5431.0,0,Matt Cassel,Terry Robiskie,Dick LeBeau,Marcus Mariota
-64,1,Sun,1.0,0.0,0.0,Tampa Bay Buccaneers,2015,Titans,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Ken Whisenhunt,Jason Michael,Ray Horton,Marcus Mariota
-65,2,Sun,0.0,1.0,0.0,Cleveland Browns,2015,Titans,42.0,14.0,185.0,124.0,1.0,2.0,181.0,92.0,309.0,273.0,0,Ken Whisenhunt,Jason Michael,Ray Horton,Marcus Mariota
-66,3,Sun,0.0,1.0,1.0,Indianapolis Colts,2015,Titans,56.0,42.0,404.0,290.0,4.0,2.0,339.0,208.0,694.0,547.0,0,Ken Whisenhunt,Jason Michael,Ray Horton,Marcus Mariota
-67,5,Sun,0.0,1.0,1.0,Buffalo Bills,2015,Titans,89.0,77.0,749.0,378.0,6.0,4.0,584.0,341.0,1127.0,925.0,1,Ken Whisenhunt,Jason Michael,Ray Horton,Marcus Mariota
-68,6,Sun,0.0,1.0,1.0,Miami Dolphins,2015,Titans,102.0,91.0,928.0,475.0,7.0,5.0,666.0,468.0,1403.0,1134.0,0,Ken Whisenhunt,Jason Michael,Ray Horton,Marcus Mariota
-69,7,Sun,0.0,1.0,1.0,Atlanta Falcons,2015,Titans,112.0,129.0,1164.0,538.0,11.0,7.0,920.0,648.0,1702.0,1568.0,0,Ken Whisenhunt,Jason Michael,Ray Horton,Marcus Mariota
-70,8,Sun,0.0,1.0,0.0,Houston Texans,2015,Titans,119.0,139.0,1343.0,615.0,13.0,9.0,1171.0,775.0,1958.0,1946.0,0,Ken Whisenhunt,Jason Michael,Ray Horton,Marcus Mariota
-71,9,Sun,1.0,1.0,0.0,New Orleans Saints,2015,Titans,125.0,159.0,1468.0,701.0,16.0,9.0,1385.0,831.0,2169.0,2216.0,0,Ken Whisenhunt,Jason Michael,Ray Horton,Marcus Mariota
-72,10,Sun,0.0,2.0,1.0,Carolina Panthers,2015,Titans,159.0,187.0,1839.0,813.0,17.0,11.0,1740.0,892.0,2652.0,2632.0,0,Ken Whisenhunt,Jason Michael,Ray Horton,Marcus Mariota
-73,11,Thu,0.0,2.0,0.0,Jacksonville Jaguars,2015,Titans,169.0,214.0,2017.0,877.0,19.0,11.0,1957.0,1011.0,2894.0,2968.0,0,Ken Whisenhunt,Jason Michael,Ray Horton,Marcus Mariota
-74,12,Sun,0.0,2.0,1.0,Oakland Raiders,2015,Titans,182.0,233.0,2229.0,981.0,20.0,13.0,2175.0,1101.0,3210.0,3276.0,0,Ken Whisenhunt,Jason Michael,Ray Horton,Marcus Mariota
-75,13,Sun,1.0,2.0,1.0,Jacksonville Jaguars,2015,Titans,203.0,257.0,2434.0,1025.0,22.0,15.0,2498.0,1185.0,3459.0,3683.0,0,Ken Whisenhunt,Jason Michael,Ray Horton,Marcus Mariota
-76,14,Sun,0.0,3.0,0.0,New York Jets,2015,Titans,245.0,296.0,2691.0,1235.0,24.0,16.0,2800.0,1266.0,3926.0,4066.0,0,Ken Whisenhunt,Jason Michael,Ray Horton,Marcus Mariota
-77,15,Sun,0.0,3.0,0.0,New England Patriots,2015,Titans,253.0,326.0,2959.0,1259.0,25.0,16.0,3056.0,1449.0,4218.0,4505.0,0,Ken Whisenhunt,Jason Michael,Ray Horton,Marcus Mariota
-78,16,Sun,0.0,3.0,1.0,Houston Texans,2015,Titans,269.0,359.0,3182.0,1318.0,28.0,17.0,3309.0,1542.0,4500.0,4851.0,0,Ken Whisenhunt,Jason Michael,Ray Horton,Marcus Mariota
-79,17,Sun,0.0,3.0,0.0,Indianapolis Colts,2015,Titans,275.0,393.0,3409.0,1348.0,32.0,18.0,3511.0,1670.0,4757.0,5181.0,0,Ken Whisenhunt,Jason Michael,Ray Horton,Marcus Mariota
-80,1,Sun,1.0,0.0,0.0,Kansas City Chiefs,2014,Titans,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Ken Whisenhunt,Jason Michael,Ray Horton,Zach Mettenberger
-81,2,Sun,0.0,1.0,1.0,Dallas Cowboys,2014,Titans,26.0,10.0,243.0,162.0,0.0,3.0,178.0,67.0,405.0,245.0,0,Ken Whisenhunt,Jason Michael,Ray Horton,Zach Mettenberger
-82,3,Sun,0.0,1.0,0.0,Cincinnati Bengals,2014,Titans,36.0,36.0,475.0,244.0,2.0,4.0,326.0,287.0,719.0,613.0,0,Ken Whisenhunt,Jason Michael,Ray Horton,Zach Mettenberger
-83,4,Sun,0.0,1.0,0.0,Indianapolis Colts,2014,Titans,43.0,69.0,652.0,393.0,4.0,5.0,510.0,403.0,1045.0,913.0,0,Ken Whisenhunt,Jason Michael,Ray Horton,Charlie Whitehurst
-84,5,Sun,0.0,1.0,1.0,Cleveland Browns,2014,Titans,60.0,110.0,828.0,478.0,7.0,6.0,903.0,508.0,1306.0,1411.0,0,Ken Whisenhunt,Jason Michael,Ray Horton,Zach Mettenberger
-85,6,Sun,1.0,1.0,1.0,Jacksonville Jaguars,2014,Titans,88.0,139.0,1089.0,627.0,7.0,7.0,1187.0,684.0,1716.0,1871.0,0,Ken Whisenhunt,Jason Michael,Ray Horton,Zach Mettenberger
-86,7,Sun,0.0,2.0,0.0,Washington Redskins,2014,Titans,104.0,153.0,1309.0,697.0,7.0,9.0,1484.0,766.0,2006.0,2250.0,0,Ken Whisenhunt,Jason Michael,Ray Horton,Zach Mettenberger
-87,8,Sun,0.0,2.0,1.0,Houston Texans,2014,Titans,121.0,172.0,1469.0,773.0,9.0,11.0,1735.0,866.0,2242.0,2601.0,0,Ken Whisenhunt,Jason Michael,Ray Horton,Zach Mettenberger
-88,10,Sun,0.0,2.0,0.0,Baltimore Ravens,2014,Titans,137.0,202.0,1759.0,809.0,11.0,11.0,1928.0,1078.0,2568.0,3006.0,1,Ken Whisenhunt,Jason Michael,Ray Horton,Zach Mettenberger
-89,11,Mon,0.0,2.0,1.0,Pittsburgh Steelers,2014,Titans,144.0,223.0,1902.0,876.0,13.0,11.0,2089.0,1229.0,2778.0,3318.0,0,Ken Whisenhunt,Jason Michael,Ray Horton,Zach Mettenberger
-90,12,Sun,0.0,2.0,0.0,Philadelphia Eagles,2014,Titans,168.0,250.0,2165.0,925.0,14.0,12.0,2269.0,1435.0,3090.0,3704.0,0,Ken Whisenhunt,Jason Michael,Ray Horton,Zach Mettenberger
-91,13,Sun,0.0,2.0,0.0,Houston Texans,2014,Titans,192.0,293.0,2464.0,977.0,17.0,14.0,2567.0,1599.0,3441.0,4166.0,0,Ken Whisenhunt,Jason Michael,Ray Horton,Zach Mettenberger
-92,14,Sun,0.0,2.0,1.0,New York Giants,2014,Titans,213.0,338.0,2701.0,1060.0,21.0,15.0,2925.0,1698.0,3761.0,4623.0,0,Ken Whisenhunt,Jason Michael,Ray Horton,Zach Mettenberger
-93,15,Sun,0.0,2.0,1.0,New York Jets,2014,Titans,220.0,374.0,2847.0,1121.0,24.0,16.0,3185.0,1840.0,3968.0,5025.0,0,Ken Whisenhunt,Jason Michael,Ray Horton,Zach Mettenberger
-94,16,Thu,0.0,2.0,0.0,Jacksonville Jaguars,2014,Titans,231.0,390.0,3100.0,1210.0,25.0,16.0,3348.0,1954.0,4310.0,5302.0,0,Ken Whisenhunt,Jason Michael,Ray Horton,Zach Mettenberger
-95,17,Sun,0.0,2.0,1.0,Indianapolis Colts,2014,Titans,244.0,411.0,3362.0,1305.0,25.0,16.0,3459.0,2131.0,4667.0,5590.0,0,Ken Whisenhunt,Jason Michael,Ray Horton,Zach Mettenberger
-96,1,Sun,1.0,0.0,0.0,Pittsburgh Steelers,2013,Titans,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Mike Munchak,Dowell Loggains,Jerry Gray,Ryan Fitzpatrick
-97,2,Sun,0.0,1.0,0.0,Houston Texans,2013,Titans,16.0,9.0,117.0,112.0,0.0,2.0,163.0,31.0,229.0,194.0,0,Mike Munchak,Dowell Loggains,Jerry Gray,Ryan Fitzpatrick
-98,3,Sun,1.0,1.0,1.0,San Diego Chargers,2013,Titans,40.0,39.0,246.0,231.0,0.0,4.0,443.0,203.0,477.0,646.0,0,Mike Munchak,Dowell Loggains,Jerry Gray,Ryan Fitzpatrick
-99,4,Sun,1.0,2.0,1.0,New York Jets,2013,Titans,60.0,56.0,528.0,401.0,0.0,5.0,618.0,305.0,929.0,923.0,0,Mike Munchak,Dowell Loggains,Jerry Gray,Ryan Fitzpatrick
-100,5,Sun,0.0,3.0,1.0,Kansas City Chiefs,2013,Titans,98.0,69.0,772.0,479.0,0.0,9.0,857.0,396.0,1251.0,1253.0,0,Mike Munchak,Dowell Loggains,Jerry Gray,Ryan Fitzpatrick
-101,6,Sun,0.0,3.0,0.0,Seattle Seahawks,2013,Titans,115.0,95.0,1006.0,584.0,3.0,11.0,1090.0,516.0,1590.0,1606.0,0,Mike Munchak,Dowell Loggains,Jerry Gray,Ryan Fitzpatrick
-102,7,Sun,0.0,3.0,1.0,San Francisco 49ers,2013,Titans,128.0,115.0,1163.0,650.0,5.0,13.0,1343.0,667.0,1813.0,2010.0,0,Mike Munchak,Dowell Loggains,Jerry Gray,Ryan Fitzpatrick
-103,9,Sun,1.0,3.0,0.0,St. Louis Rams,2013,Titans,145.0,146.0,1461.0,720.0,7.0,13.0,1539.0,820.0,2181.0,2359.0,1,Mike Munchak,Dowell Loggains,Jerry Gray,Ryan Fitzpatrick
-104,10,Sun,0.0,4.0,1.0,Jacksonville Jaguars,2013,Titans,173.0,167.0,1626.0,918.0,9.0,15.0,1742.0,980.0,2544.0,2722.0,0,Mike Munchak,Dowell Loggains,Jerry Gray,Ryan Fitzpatrick
-105,11,Thu,0.0,4.0,1.0,Indianapolis Colts,2013,Titans,200.0,196.0,1905.0,1001.0,13.0,17.0,1902.0,1034.0,2906.0,2936.0,0,Mike Munchak,Dowell Loggains,Jerry Gray,Ryan Fitzpatrick
-106,12,Sun,1.0,4.0,0.0,Oakland Raiders,2013,Titans,227.0,226.0,2123.0,1123.0,14.0,17.0,2131.0,1171.0,3246.0,3302.0,0,Mike Munchak,Dowell Loggains,Jerry Gray,Ryan Fitzpatrick
-107,13,Sun,0.0,5.0,0.0,Indianapolis Colts,2013,Titans,250.0,245.0,2435.0,1237.0,14.0,19.0,2391.0,1264.0,3672.0,3655.0,0,Mike Munchak,Dowell Loggains,Jerry Gray,Ryan Fitzpatrick
-108,14,Sun,0.0,5.0,0.0,Denver Broncos,2013,Titans,264.0,267.0,2620.0,1399.0,18.0,20.0,2551.0,1368.0,4019.0,3919.0,0,Mike Munchak,Dowell Loggains,Jerry Gray,Ryan Fitzpatrick
-109,15,Sun,0.0,5.0,1.0,Arizona Cardinals,2013,Titans,292.0,318.0,2778.0,1495.0,20.0,20.0,2948.0,1522.0,4273.0,4470.0,0,Mike Munchak,Dowell Loggains,Jerry Gray,Ryan Fitzpatrick
-110,16,Sun,1.0,5.0,0.0,Jacksonville Jaguars,2013,Titans,326.0,355.0,3172.0,1561.0,23.0,20.0,3163.0,1667.0,4733.0,4830.0,0,Mike Munchak,Dowell Loggains,Jerry Gray,Ryan Fitzpatrick
-111,17,Sun,1.0,6.0,1.0,Houston Texans,2013,Titans,346.0,371.0,3336.0,1743.0,24.0,21.0,3389.0,1730.0,5079.0,5119.0,0,Mike Munchak,Dowell Loggains,Jerry Gray,Ryan Fitzpatrick
-112,1,Sun,0.0,0.0,1.0,New England Patriots,2012,Titans,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Mike Munchak,Chris Palmer,Jerry Gray,Jake Locker
-113,2,Sun,0.0,0.0,0.0,San Diego Chargers,2012,Titans,13.0,34.0,264.0,20.0,2.0,0.0,228.0,162.0,284.0,390.0,0,Mike Munchak,Chris Palmer,Jerry Gray,Jake Locker
-114,3,Sun,1.0,0.0,1.0,Detroit Lions,2012,Titans,23.0,72.0,438.0,58.0,3.0,1.0,496.0,310.0,496.0,806.0,0,Mike Munchak,Chris Palmer,Jerry Gray,Jake Locker
-115,4,Sun,0.0,1.0,0.0,Houston Texans,2012,Titans,67.0,113.0,816.0,117.0,5.0,2.0,938.0,451.0,933.0,1389.0,0,Mike Munchak,Chris Palmer,Jerry Gray,Jake Locker
-116,5,Sun,0.0,1.0,0.0,Minnesota Vikings,2012,Titans,81.0,151.0,983.0,275.0,8.0,2.0,1140.0,546.0,1258.0,1686.0,0,Mike Munchak,Chris Palmer,Jerry Gray,Jake Locker
-117,6,Thu,1.0,1.0,1.0,Pittsburgh Steelers,2012,Titans,88.0,181.0,1198.0,327.0,10.0,4.0,1398.0,721.0,1525.0,2119.0,0,Mike Munchak,Chris Palmer,Jerry Gray,Jake Locker
-118,7,Sun,1.0,2.0,0.0,Buffalo Bills,2012,Titans,114.0,204.0,1463.0,421.0,11.0,5.0,1754.0,777.0,1884.0,2531.0,0,Mike Munchak,Chris Palmer,Jerry Gray,Jake Locker
-119,8,Sun,0.0,3.0,1.0,Indianapolis Colts,2012,Titans,149.0,238.0,1656.0,618.0,11.0,7.0,1970.0,943.0,2274.0,2913.0,0,Mike Munchak,Chris Palmer,Jerry Gray,Jake Locker
-120,9,Sun,0.0,3.0,1.0,Chicago Bears,2012,Titans,162.0,257.0,1883.0,730.0,11.0,8.0,2256.0,1114.0,2613.0,3370.0,0,Mike Munchak,Chris Palmer,Jerry Gray,Jake Locker
-121,10,Sun,1.0,3.0,0.0,Miami Dolphins,2012,Titans,182.0,308.0,2063.0,889.0,16.0,9.0,2461.0,1274.0,2952.0,3735.0,0,Mike Munchak,Chris Palmer,Jerry Gray,Jake Locker
-122,12,Sun,0.0,4.0,0.0,Jacksonville Jaguars,2012,Titans,219.0,311.0,2179.0,1066.0,16.0,13.0,2662.0,1328.0,3245.0,3990.0,1,Mike Munchak,Chris Palmer,Jerry Gray,Jake Locker
-123,13,Sun,0.0,4.0,1.0,Houston Texans,2012,Titans,238.0,335.0,2429.0,1176.0,18.0,14.0,2883.0,1428.0,3605.0,4311.0,0,Mike Munchak,Chris Palmer,Jerry Gray,Jake Locker
-124,14,Sun,0.0,4.0,0.0,Indianapolis Colts,2012,Titans,248.0,359.0,2694.0,1265.0,24.0,14.0,3090.0,1552.0,3959.0,4642.0,0,Mike Munchak,Chris Palmer,Jerry Gray,Jake Locker
-125,15,Mon,1.0,4.0,1.0,New York Jets,2012,Titans,271.0,386.0,2953.0,1362.0,26.0,16.0,3261.0,1650.0,4315.0,4911.0,0,Mike Munchak,Chris Palmer,Jerry Gray,Jake Locker
-126,16,Sun,0.0,5.0,0.0,Green Bay Packers,2012,Titans,285.0,396.0,3080.0,1529.0,26.0,21.0,3368.0,1796.0,4609.0,5164.0,0,Mike Munchak,Chris Palmer,Jerry Gray,Jake Locker
-127,17,Sun,1.0,5.0,1.0,Jacksonville Jaguars,2012,Titans,292.0,451.0,3181.0,1608.0,28.0,21.0,3711.0,1913.0,4789.0,5624.0,0,Mike Munchak,Chris Palmer,Jerry Gray,Jake Locker
-128,1,Sun,0.0,0.0,0.0,Jacksonville Jaguars,2011,Titans,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Mike Munchak,Chris Palmer,Jerry Gray,Matt Hasselbeck
-129,2,Sun,1.0,0.0,1.0,Baltimore Ravens,2011,Titans,14.0,16.0,249.0,43.0,1.0,1.0,160.0,163.0,292.0,323.0,0,Mike Munchak,Chris Palmer,Jerry Gray,Matt Hasselbeck
-130,3,Sun,1.0,1.0,1.0,Denver Broncos,2011,Titans,40.0,29.0,607.0,117.0,2.0,4.0,344.0,208.0,724.0,552.0,0,Mike Munchak,Chris Palmer,Jerry Gray,Matt Hasselbeck
-131,4,Sun,1.0,2.0,0.0,Cleveland Browns,2011,Titans,57.0,43.0,902.0,155.0,4.0,6.0,516.0,267.0,1057.0,783.0,0,Mike Munchak,Chris Palmer,Jerry Gray,Matt Hasselbeck
-132,5,Sun,0.0,3.0,0.0,Pittsburgh Steelers,2011,Titans,88.0,56.0,1122.0,267.0,5.0,7.0,848.0,351.0,1389.0,1199.0,0,Mike Munchak,Chris Palmer,Jerry Gray,Matt Hasselbeck
-133,7,Sun,0.0,3.0,1.0,Houston Texans,2011,Titans,105.0,94.0,1362.0,333.0,6.0,8.0,1105.0,525.0,1695.0,1630.0,1,Mike Munchak,Chris Palmer,Jerry Gray,Matt Hasselbeck
-134,8,Sun,1.0,3.0,1.0,Indianapolis Colts,2011,Titans,112.0,135.0,1457.0,386.0,8.0,8.0,1401.0,747.0,1843.0,2148.0,0,Mike Munchak,Chris Palmer,Jerry Gray,Matt Hasselbeck
-135,9,Sun,0.0,4.0,1.0,Cincinnati Bengals,2011,Titans,139.0,145.0,1672.0,482.0,8.0,10.0,1642.0,905.0,2154.0,2547.0,0,Mike Munchak,Chris Palmer,Jerry Gray,Matt Hasselbeck
-136,10,Sun,1.0,4.0,0.0,Carolina Panthers,2011,Titans,156.0,169.0,1922.0,560.0,9.0,10.0,1852.0,1014.0,2482.0,2866.0,0,Mike Munchak,Chris Palmer,Jerry Gray,Matt Hasselbeck
-137,11,Sun,0.0,5.0,0.0,Atlanta Falcons,2011,Titans,186.0,172.0,2133.0,732.0,10.0,12.0,2018.0,1127.0,2865.0,3145.0,0,Mike Munchak,Chris Palmer,Jerry Gray,Matt Hasselbeck
-138,12,Sun,1.0,5.0,1.0,Tampa Bay Buccaneers,2011,Titans,203.0,195.0,2390.0,773.0,11.0,13.0,2334.0,1243.0,3163.0,3577.0,0,Mike Munchak,Chris Palmer,Jerry Gray,Matt Hasselbeck
-139,13,Sun,1.0,6.0,0.0,Buffalo Bills,2011,Titans,226.0,212.0,2540.0,975.0,15.0,18.0,2520.0,1365.0,3515.0,3885.0,0,Mike Munchak,Chris Palmer,Jerry Gray,Matt Hasselbeck
-140,14,Sun,0.0,7.0,1.0,New Orleans Saints,2011,Titans,249.0,229.0,2670.0,1162.0,15.0,20.0,2802.0,1469.0,3832.0,4271.0,0,Mike Munchak,Chris Palmer,Jerry Gray,Matt Hasselbeck
-141,15,Sun,0.0,7.0,0.0,Indianapolis Colts,2011,Titans,266.0,251.0,2984.0,1221.0,15.0,20.0,3125.0,1583.0,4205.0,4708.0,0,Mike Munchak,Chris Palmer,Jerry Gray,Matt Hasselbeck
-142,16,Sat,1.0,7.0,1.0,Jacksonville Jaguars,2011,Titans,279.0,278.0,3306.0,1287.0,18.0,21.0,3207.0,1788.0,4593.0,4995.0,0,Mike Munchak,Chris Palmer,Jerry Gray,Matt Hasselbeck
-143,17,Sun,1.0,8.0,0.0,Houston Texans,2011,Titans,302.0,295.0,3648.0,1352.0,21.0,22.0,3394.0,1901.0,5000.0,5295.0,0,Mike Munchak,Chris Palmer,Jerry Gray,Matt Hasselbeck
-144,1,Sun,1.0,0.0,1.0,Oakland Raiders,2010,Titans,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Jeff Fisher,Mike Heimerdinger,Chuck Cecil,Vince Young
-145,2,Sun,0.0,1.0,1.0,Pittsburgh Steelers,2010,Titans,38.0,13.0,140.0,205.0,1.0,2.0,150.0,136.0,345.0,286.0,0,Jeff Fisher,Mike Heimerdinger,Chuck Cecil,Vince Young
-146,3,Sun,1.0,1.0,0.0,New York Giants,2010,Titans,49.0,32.0,332.0,251.0,8.0,3.0,171.0,242.0,583.0,413.0,0,Jeff Fisher,Mike Heimerdinger,Chuck Cecil,Vince Young
-147,4,Sun,0.0,2.0,1.0,Denver Broncos,2010,Titans,78.0,42.0,442.0,412.0,8.0,6.0,535.0,349.0,854.0,884.0,0,Jeff Fisher,Mike Heimerdinger,Chuck Cecil,Vince Young
-148,5,Sun,1.0,2.0,0.0,Dallas Cowboys,2010,Titans,98.0,68.0,609.0,533.0,10.0,7.0,843.0,368.0,1142.0,1211.0,0,Jeff Fisher,Mike Heimerdinger,Chuck Cecil,Vince Young
-149,6,Mon,1.0,3.0,0.0,Jacksonville Jaguars,2010,Titans,132.0,95.0,772.0,691.0,10.0,10.0,1213.0,509.0,1463.0,1722.0,0,Jeff Fisher,Mike Heimerdinger,Chuck Cecil,Vince Young
-150,7,Sun,1.0,4.0,1.0,Philadelphia Eagles,2010,Titans,162.0,98.0,943.0,844.0,10.0,14.0,1386.0,585.0,1787.0,1971.0,0,Jeff Fisher,Mike Heimerdinger,Chuck Cecil,Rusty Smith
-151,8,Sun,0.0,5.0,0.0,San Diego Chargers,2010,Titans,199.0,117.0,1196.0,919.0,13.0,18.0,1613.0,684.0,2115.0,2297.0,0,Jeff Fisher,Mike Heimerdinger,Chuck Cecil,Vince Young
-152,10,Sun,0.0,5.0,0.0,Miami Dolphins,2010,Titans,224.0,150.0,1501.0,984.0,13.0,19.0,1913.0,840.0,2485.0,2753.0,1,Jeff Fisher,Mike Heimerdinger,Chuck Cecil,Vince Young
-153,11,Sun,0.0,5.0,1.0,Washington Redskins,2010,Titans,241.0,179.0,1625.0,1119.0,16.0,20.0,2229.0,928.0,2744.0,3157.0,0,Jeff Fisher,Mike Heimerdinger,Chuck Cecil,Vince Young
-154,12,Sun,0.0,5.0,0.0,Houston Texans,2010,Titans,257.0,198.0,1847.0,1270.0,18.0,21.0,2587.0,1035.0,3117.0,3622.0,0,Jeff Fisher,Mike Heimerdinger,Chuck Cecil,Rusty Smith
-155,13,Sun,0.0,5.0,1.0,Jacksonville Jaguars,2010,Titans,257.0,218.0,1985.0,1294.0,21.0,21.0,2745.0,1223.0,3279.0,3968.0,0,Jeff Fisher,Mike Heimerdinger,Chuck Cecil,Vince Young
-156,14,Thu,0.0,5.0,1.0,Indianapolis Colts,2010,Titans,263.0,235.0,2148.0,1351.0,23.0,21.0,2864.0,1481.0,3499.0,4345.0,0,Jeff Fisher,Mike Heimerdinger,Chuck Cecil,Vince Young
-157,15,Sun,1.0,5.0,1.0,Houston Texans,2010,Titans,291.0,265.0,2392.0,1472.0,25.0,21.0,3176.0,1568.0,3864.0,4744.0,0,Jeff Fisher,Mike Heimerdinger,Chuck Cecil,Vince Young
-158,16,Sun,0.0,6.0,0.0,Kansas City Chiefs,2010,Titans,322.0,282.0,2604.0,1619.0,26.0,22.0,3469.0,1598.0,4223.0,5067.0,0,Jeff Fisher,Mike Heimerdinger,Chuck Cecil,Vince Young
-159,17,Sun,0.0,6.0,0.0,Indianapolis Colts,2010,Titans,336.0,316.0,2817.0,1676.0,28.0,24.0,3775.0,1750.0,4493.0,5525.0,0,Jeff Fisher,Mike Heimerdinger,Chuck Cecil,Vince Young
+0,1,Mon,1.0,0.0,0.0,Denver Broncos,2020,Titans,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Mike Vrabel,Arthur Smith,Mike Vrabel,Ryan Tannehill
+1,2,Sun,1.0,1.0,1.0,Jacksonville Jaguars,2020,Titans,16.0,14.0,247.0,130.0,0.0,1.0,216.0,107.0,377.0,323.0,0,Mike Vrabel,Arthur Smith,Mike Vrabel,Ryan Tannehill
+2,3,Sun,1.0,2.0,0.0,Minnesota Vikings,2020,Titans,49.0,44.0,478.0,253.0,0.0,3.0,531.0,272.0,731.0,803.0,0,Mike Vrabel,Arthur Smith,Mike Vrabel,Ryan Tannehill
+3,5,Sun,,,1.0,Buffalo Bills,2020,Titans,80.0,74.0,788.0,387.0,1.0,6.0,769.0,498.0,1175.0,1267.0,1,Mike Vrabel,Arthur Smith,Mike Vrabel,Ryan Tannehill
+4,6,Sun,,,1.0,Houston Texans,2020,Titans,80.0,74.0,788.0,387.0,1.0,6.0,769.0,498.0,1175.0,1267.0,0,Mike Vrabel,Arthur Smith,Mike Vrabel,Ryan Tannehill
+5,7,Sun,,,1.0,Pittsburgh Steelers,2020,Titans,80.0,74.0,788.0,387.0,1.0,6.0,769.0,498.0,1175.0,1267.0,0,Mike Vrabel,Arthur Smith,Mike Vrabel,Ryan Tannehill
+6,8,Sun,,,0.0,Cincinnati Bengals,2020,Titans,80.0,74.0,788.0,387.0,1.0,6.0,769.0,498.0,1175.0,1267.0,0,Mike Vrabel,Arthur Smith,Mike Vrabel,Ryan Tannehill
+7,9,Sun,,,1.0,Chicago Bears,2020,Titans,80.0,74.0,788.0,387.0,1.0,6.0,769.0,498.0,1175.0,1267.0,0,Mike Vrabel,Arthur Smith,Mike Vrabel,Ryan Tannehill
+8,10,Thu,,,1.0,Indianapolis Colts,2020,Titans,80.0,74.0,788.0,387.0,1.0,6.0,769.0,498.0,1175.0,1267.0,0,Mike Vrabel,Arthur Smith,Mike Vrabel,Ryan Tannehill
+9,11,Sun,,,0.0,Baltimore Ravens,2020,Titans,80.0,74.0,788.0,387.0,1.0,6.0,769.0,498.0,1175.0,1267.0,0,Mike Vrabel,Arthur Smith,Mike Vrabel,Ryan Tannehill
+10,12,Sun,,,0.0,Indianapolis Colts,2020,Titans,80.0,74.0,788.0,387.0,1.0,6.0,769.0,498.0,1175.0,1267.0,0,Mike Vrabel,Arthur Smith,Mike Vrabel,Ryan Tannehill
+11,13,Sun,,,1.0,Cleveland Browns,2020,Titans,80.0,74.0,788.0,387.0,1.0,6.0,769.0,498.0,1175.0,1267.0,0,Mike Vrabel,Arthur Smith,Mike Vrabel,Ryan Tannehill
+12,14,Sun,,,0.0,Jacksonville Jaguars,2020,Titans,80.0,74.0,788.0,387.0,1.0,6.0,769.0,498.0,1175.0,1267.0,0,Mike Vrabel,Arthur Smith,Mike Vrabel,Ryan Tannehill
+13,15,Sun,,,1.0,Detroit Lions,2020,Titans,80.0,74.0,788.0,387.0,1.0,6.0,769.0,498.0,1175.0,1267.0,0,Mike Vrabel,Arthur Smith,Mike Vrabel,Ryan Tannehill
+14,16,Sun,,,0.0,Green Bay Packers,2020,Titans,80.0,74.0,788.0,387.0,1.0,6.0,769.0,498.0,1175.0,1267.0,0,Mike Vrabel,Arthur Smith,Mike Vrabel,Ryan Tannehill
+15,17,Sun,,,0.0,Houston Texans,2020,Titans,80.0,74.0,788.0,387.0,1.0,6.0,769.0,498.0,1175.0,1267.0,0,Mike Vrabel,Arthur Smith,Mike Vrabel,Ryan Tannehill
+16,1,Sun,1.0,0.0,0.0,Cleveland Browns,2019,Titans,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Mike Vrabel,Arthur Smith,Dean Pees,Ryan Tannehill
+17,2,Sun,0.0,1.0,1.0,Indianapolis Colts,2019,Titans,43.0,13.0,216.0,123.0,0.0,3.0,244.0,102.0,339.0,346.0,0,Mike Vrabel,Arthur Smith,Dean Pees,Ryan Tannehill
+18,3,Thu,0.0,1.0,0.0,Jacksonville Jaguars,2019,Titans,60.0,32.0,335.0,247.0,0.0,5.0,365.0,269.0,582.0,634.0,0,Mike Vrabel,Arthur Smith,Dean Pees,Ryan Tannehill
+19,4,Sun,1.0,1.0,0.0,Atlanta Falcons,2019,Titans,67.0,52.0,584.0,338.0,1.0,5.0,569.0,357.0,922.0,926.0,0,Mike Vrabel,Arthur Smith,Dean Pees,Ryan Tannehill
+20,5,Sun,0.0,2.0,1.0,Buffalo Bills,2019,Titans,91.0,62.0,811.0,476.0,1.0,6.0,933.0,415.0,1287.0,1348.0,0,Mike Vrabel,Arthur Smith,Dean Pees,Ryan Tannehill
+21,6,Sun,0.0,2.0,0.0,Denver Broncos,2019,Titans,98.0,76.0,961.0,578.0,1.0,7.0,1137.0,524.0,1539.0,1661.0,0,Mike Vrabel,Arthur Smith,Dean Pees,Ryan Tannehill
+22,7,Sun,1.0,2.0,1.0,Los Angeles Chargers,2019,Titans,98.0,92.0,1126.0,617.0,4.0,8.0,1304.0,627.0,1743.0,1931.0,0,Mike Vrabel,Arthur Smith,Dean Pees,Ryan Tannehill
+23,8,Sun,1.0,3.0,1.0,Tampa Bay Buccaneers,2019,Titans,121.0,112.0,1432.0,714.0,5.0,9.0,1630.0,666.0,2146.0,2296.0,0,Mike Vrabel,Arthur Smith,Dean Pees,Ryan Tannehill
+24,9,Sun,0.0,4.0,0.0,Carolina Panthers,2019,Titans,148.0,135.0,1606.0,786.0,6.0,13.0,1913.0,772.0,2392.0,2685.0,0,Mike Vrabel,Arthur Smith,Dean Pees,Ryan Tannehill
+25,10,Sun,1.0,4.0,1.0,Kansas City Chiefs,2019,Titans,168.0,165.0,1916.0,907.0,9.0,14.0,2127.0,928.0,2823.0,3055.0,0,Mike Vrabel,Arthur Smith,Dean Pees,Ryan Tannehill
+26,12,Sun,1.0,5.0,1.0,Jacksonville Jaguars,2019,Titans,203.0,197.0,2062.0,1132.0,10.0,15.0,2560.0,1025.0,3194.0,3585.0,1,Mike Vrabel,Arthur Smith,Dean Pees,Ryan Tannehill
+27,13,Sun,1.0,6.0,0.0,Indianapolis Colts,2019,Titans,245.0,217.0,2314.0,1351.0,12.0,16.0,2812.0,1142.0,3665.0,3954.0,0,Mike Vrabel,Arthur Smith,Dean Pees,Ryan Tannehill
+28,14,Sun,1.0,7.0,0.0,Oakland Raiders,2019,Titans,276.0,234.0,2452.0,1505.0,14.0,19.0,3121.0,1224.0,3957.0,4345.0,0,Mike Vrabel,Arthur Smith,Dean Pees,Ryan Tannehill
+29,15,Sun,0.0,8.0,1.0,Houston Texans,2019,Titans,318.0,255.0,2843.0,1666.0,15.0,20.0,3379.0,1321.0,4509.0,4700.0,0,Mike Vrabel,Arthur Smith,Dean Pees,Ryan Tannehill
+30,16,Sun,0.0,8.0,1.0,New Orleans Saints,2019,Titans,339.0,279.0,3112.0,1829.0,16.0,22.0,3613.0,1461.0,4941.0,5074.0,0,Mike Vrabel,Arthur Smith,Dean Pees,Ryan Tannehill
+31,17,Sun,1.0,8.0,0.0,Houston Texans,2019,Titans,367.0,317.0,3360.0,1978.0,17.0,22.0,3888.0,1563.0,5338.0,5451.0,0,Mike Vrabel,Arthur Smith,Dean Pees,Ryan Tannehill
+32,1,Sun,0.0,0.0,0.0,Miami Dolphins,2018,Titans,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Mike Vrabel,Matt LaFleur,Dean Pees,Marcus Mariota
+33,2,Sun,1.0,0.0,1.0,Houston Texans,2018,Titans,20.0,27.0,220.0,116.0,3.0,2.0,222.0,120.0,336.0,342.0,0,Mike Vrabel,Matt LaFleur,Dean Pees,Marcus Mariota
+34,3,Sun,1.0,1.0,0.0,Jacksonville Jaguars,2018,Titans,40.0,44.0,403.0,216.0,3.0,3.0,511.0,268.0,619.0,779.0,0,Mike Vrabel,Matt LaFleur,Dean Pees,Marcus Mariota
+35,4,Sun,1.0,2.0,1.0,Philadelphia Eagles,2018,Titans,49.0,50.0,486.0,366.0,3.0,4.0,656.0,355.0,852.0,1011.0,0,Mike Vrabel,Matt LaFleur,Dean Pees,Marcus Mariota
+36,5,Sun,0.0,3.0,0.0,Buffalo Bills,2018,Titans,75.0,73.0,813.0,436.0,4.0,5.0,971.0,472.0,1249.0,1443.0,0,Mike Vrabel,Matt LaFleur,Dean Pees,Marcus Mariota
+37,6,Sun,0.0,3.0,1.0,Baltimore Ravens,2018,Titans,87.0,86.0,934.0,536.0,7.0,6.0,1050.0,616.0,1470.0,1666.0,0,Mike Vrabel,Matt LaFleur,Dean Pees,Marcus Mariota
+38,7,Sun,0.0,3.0,0.0,Los Angeles Chargers,2018,Titans,87.0,107.0,985.0,591.0,7.0,7.0,1288.0,739.0,1576.0,2027.0,0,Mike Vrabel,Matt LaFleur,Dean Pees,Marcus Mariota
+39,9,Mon,1.0,3.0,0.0,Dallas Cowboys,2018,Titans,106.0,127.0,1211.0,755.0,8.0,7.0,1585.0,786.0,1966.0,2371.0,1,Mike Vrabel,Matt LaFleur,Dean Pees,Marcus Mariota
+40,10,Sun,1.0,4.0,1.0,New England Patriots,2018,Titans,134.0,141.0,1426.0,880.0,10.0,9.0,1810.0,858.0,2306.0,2668.0,0,Mike Vrabel,Matt LaFleur,Dean Pees,Marcus Mariota
+41,11,Sun,0.0,5.0,0.0,Indianapolis Colts,2018,Titans,168.0,151.0,1661.0,1030.0,10.0,9.0,2054.0,898.0,2691.0,2952.0,0,Mike Vrabel,Matt LaFleur,Dean Pees,Marcus Mariota
+42,12,Mon,0.0,5.0,0.0,Houston Texans,2018,Titans,178.0,189.0,1837.0,1121.0,12.0,9.0,2349.0,1000.0,2958.0,3349.0,0,Mike Vrabel,Matt LaFleur,Dean Pees,Marcus Mariota
+43,13,Sun,1.0,5.0,1.0,New York Jets,2018,Titans,195.0,223.0,2097.0,1226.0,13.0,9.0,2530.0,1281.0,3323.0,3811.0,0,Mike Vrabel,Matt LaFleur,Dean Pees,Marcus Mariota
+44,14,Thu,1.0,6.0,1.0,Jacksonville Jaguars,2018,Titans,221.0,245.0,2370.0,1356.0,14.0,10.0,2654.0,1437.0,3726.0,4091.0,0,Mike Vrabel,Matt LaFleur,Dean Pees,Marcus Mariota
+45,15,Sun,1.0,7.0,0.0,New York Giants,2018,Titans,251.0,254.0,2532.0,1620.0,15.0,11.0,2849.0,1497.0,4152.0,4346.0,0,Mike Vrabel,Matt LaFleur,Dean Pees,Marcus Mariota
+46,16,Sat,1.0,8.0,1.0,Washington Redskins,2018,Titans,268.0,254.0,2618.0,1835.0,15.0,13.0,3062.0,1544.0,4453.0,4606.0,0,Mike Vrabel,Matt LaFleur,Dean Pees,Marcus Mariota
+47,17,Sun,0.0,9.0,1.0,Indianapolis Colts,2018,Titans,293.0,270.0,2810.0,1934.0,15.0,15.0,3193.0,1705.0,4744.0,4898.0,0,Mike Vrabel,Matt LaFleur,Dean Pees,Blaine Gabbert
+48,1,Sun,0.0,0.0,1.0,Oakland Raiders,2017,Titans,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Mike Mularkey,Terry Robiskie,Dick LeBeau,Marcus Mariota
+49,2,Sun,1.0,0.0,0.0,Jacksonville Jaguars,2017,Titans,16.0,26.0,255.0,95.0,0.0,0.0,250.0,109.0,350.0,359.0,0,Mike Mularkey,Terry Robiskie,Dick LeBeau,Marcus Mariota
+50,3,Sun,1.0,1.0,1.0,Seattle Seahawks,2017,Titans,53.0,42.0,466.0,274.0,1.0,3.0,461.0,208.0,740.0,669.0,0,Mike Mularkey,Terry Robiskie,Dick LeBeau,Marcus Mariota
+51,4,Sun,0.0,2.0,0.0,Houston Texans,2017,Titans,86.0,69.0,691.0,469.0,1.0,3.0,825.0,277.0,1160.0,1102.0,0,Mike Mularkey,Terry Robiskie,Dick LeBeau,Marcus Mariota
+52,5,Sun,0.0,2.0,0.0,Miami Dolphins,2017,Titans,100.0,126.0,800.0,555.0,6.0,4.0,1097.0,450.0,1355.0,1547.0,0,Mike Mularkey,Terry Robiskie,Dick LeBeau,Matt Cassel
+53,6,Mon,1.0,2.0,1.0,Indianapolis Colts,2017,Titans,110.0,142.0,919.0,624.0,8.0,6.0,1175.0,550.0,1543.0,1725.0,0,Mike Mularkey,Terry Robiskie,Dick LeBeau,Marcus Mariota
+54,7,Sun,1.0,3.0,0.0,Cleveland Browns,2017,Titans,146.0,164.0,1224.0,792.0,9.0,7.0,1387.0,635.0,2016.0,2022.0,0,Mike Mularkey,Terry Robiskie,Dick LeBeau,Marcus Mariota
+55,9,Sun,1.0,4.0,1.0,Baltimore Ravens,2017,Titans,158.0,173.0,1413.0,872.0,10.0,10.0,1605.0,701.0,2285.0,2306.0,1,Mike Mularkey,Terry Robiskie,Dick LeBeau,Marcus Mariota
+56,10,Sun,1.0,5.0,1.0,Cincinnati Bengals,2017,Titans,181.0,193.0,1599.0,943.0,11.0,12.0,1873.0,774.0,2542.0,2647.0,0,Mike Mularkey,Terry Robiskie,Dick LeBeau,Marcus Mariota
+57,11,Thu,0.0,6.0,0.0,Pittsburgh Steelers,2017,Titans,205.0,213.0,1835.0,1123.0,13.0,14.0,2128.0,827.0,2958.0,2955.0,0,Mike Mularkey,Terry Robiskie,Dick LeBeau,Marcus Mariota
+58,12,Sun,1.0,6.0,0.0,Indianapolis Colts,2017,Titans,222.0,253.0,2099.0,1175.0,17.0,14.0,2412.0,892.0,3274.0,3304.0,0,Mike Mularkey,Terry Robiskie,Dick LeBeau,Marcus Mariota
+59,13,Sun,1.0,7.0,1.0,Houston Texans,2017,Titans,242.0,269.0,2283.0,1267.0,19.0,15.0,2577.0,981.0,3550.0,3558.0,0,Mike Mularkey,Terry Robiskie,Dick LeBeau,Marcus Mariota
+60,14,Sun,0.0,8.0,0.0,Arizona Cardinals,2017,Titans,266.0,282.0,2429.0,1465.0,20.0,16.0,2908.0,1034.0,3894.0,3942.0,0,Mike Mularkey,Terry Robiskie,Dick LeBeau,Marcus Mariota
+61,15,Sun,0.0,8.0,0.0,San Francisco 49ers,2017,Titans,273.0,294.0,2568.0,1530.0,22.0,16.0,3033.0,1170.0,4098.0,4203.0,0,Mike Mularkey,Terry Robiskie,Dick LeBeau,Marcus Mariota
+62,16,Sun,0.0,8.0,1.0,Los Angeles Rams,2017,Titans,296.0,319.0,2806.0,1620.0,23.0,16.0,3396.0,1221.0,4426.0,4617.0,0,Mike Mularkey,Terry Robiskie,Dick LeBeau,Marcus Mariota
+63,17,Sun,1.0,8.0,1.0,Jacksonville Jaguars,2017,Titans,319.0,346.0,3075.0,1717.0,24.0,17.0,3682.0,1337.0,4792.0,5019.0,0,Mike Mularkey,Terry Robiskie,Dick LeBeau,Marcus Mariota
+64,1,Sun,0.0,0.0,1.0,Minnesota Vikings,2016,Titans,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Mike Mularkey,Terry Robiskie,Dick LeBeau,Marcus Mariota
+65,2,Sun,1.0,0.0,0.0,Detroit Lions,2016,Titans,16.0,25.0,252.0,64.0,3.0,0.0,236.0,65.0,316.0,301.0,0,Mike Mularkey,Terry Robiskie,Dick LeBeau,Marcus Mariota
+66,3,Sun,0.0,1.0,1.0,Oakland Raiders,2016,Titans,32.0,40.0,476.0,203.0,4.0,1.0,474.0,202.0,679.0,676.0,0,Mike Mularkey,Terry Robiskie,Dick LeBeau,Marcus Mariota
+67,4,Sun,0.0,1.0,0.0,Houston Texans,2016,Titans,42.0,57.0,688.0,384.0,7.0,2.0,719.0,325.0,1072.0,1044.0,0,Mike Mularkey,Terry Robiskie,Dick LeBeau,Marcus Mariota
+68,5,Sun,1.0,1.0,0.0,Miami Dolphins,2016,Titans,62.0,84.0,884.0,508.0,8.0,4.0,963.0,440.0,1392.0,1403.0,0,Mike Mularkey,Terry Robiskie,Dick LeBeau,Marcus Mariota
+69,6,Sun,1.0,2.0,1.0,Cleveland Browns,2016,Titans,92.0,101.0,1047.0,743.0,8.0,6.0,1112.0,491.0,1790.0,1603.0,0,Mike Mularkey,Terry Robiskie,Dick LeBeau,Marcus Mariota
+70,7,Sun,0.0,3.0,1.0,Indianapolis Colts,2016,Titans,120.0,127.0,1317.0,880.0,9.0,6.0,1413.0,531.0,2197.0,1944.0,0,Mike Mularkey,Terry Robiskie,Dick LeBeau,Marcus Mariota
+71,8,Thu,1.0,3.0,1.0,Jacksonville Jaguars,2016,Titans,146.0,161.0,1524.0,1004.0,10.0,6.0,1754.0,612.0,2528.0,2366.0,0,Mike Mularkey,Terry Robiskie,Dick LeBeau,Marcus Mariota
+72,9,Sun,0.0,4.0,0.0,San Diego Chargers,2016,Titans,182.0,183.0,1804.0,1218.0,10.0,7.0,2076.0,660.0,3022.0,2736.0,0,Mike Mularkey,Terry Robiskie,Dick LeBeau,Marcus Mariota
+73,10,Sun,1.0,4.0,1.0,Green Bay Packers,2016,Titans,217.0,226.0,2117.0,1298.0,13.0,7.0,2344.0,868.0,3415.0,3212.0,0,Mike Mularkey,Terry Robiskie,Dick LeBeau,Marcus Mariota
+74,11,Sun,0.0,5.0,0.0,Indianapolis Colts,2016,Titans,264.0,251.0,2409.0,1452.0,13.0,10.0,2677.0,937.0,3861.0,3614.0,0,Mike Mularkey,Terry Robiskie,Dick LeBeau,Marcus Mariota
+75,12,Sun,1.0,5.0,0.0,Chicago Bears,2016,Titans,281.0,275.0,2663.0,1549.0,13.0,11.0,2928.0,1013.0,4212.0,3941.0,0,Mike Mularkey,Terry Robiskie,Dick LeBeau,Marcus Mariota
+76,14,Sun,1.0,6.0,1.0,Denver Broncos,2016,Titans,308.0,296.0,2889.0,1698.0,13.0,13.0,3244.0,1108.0,4587.0,4352.0,1,Mike Mularkey,Terry Robiskie,Dick LeBeau,Marcus Mariota
+77,15,Sun,1.0,7.0,0.0,Kansas City Chiefs,2016,Titans,321.0,306.0,2962.0,1878.0,13.0,15.0,3574.0,1126.0,4840.0,4700.0,0,Mike Mularkey,Terry Robiskie,Dick LeBeau,Marcus Mariota
+78,16,Sat,0.0,8.0,0.0,Jacksonville Jaguars,2016,Titans,340.0,323.0,3203.0,2026.0,16.0,16.0,3733.0,1283.0,5229.0,5016.0,0,Mike Mularkey,Terry Robiskie,Dick LeBeau,Marcus Mariota
+79,17,Sun,1.0,8.0,1.0,Houston Texans,2016,Titans,357.0,361.0,3408.0,2084.0,17.0,17.0,4064.0,1367.0,5492.0,5431.0,0,Mike Mularkey,Terry Robiskie,Dick LeBeau,Matt Cassel
+80,1,Sun,1.0,0.0,0.0,Tampa Bay Buccaneers,2015,Titans,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Ken Whisenhunt,Jason Michael,Ray Horton,Marcus Mariota
+81,2,Sun,0.0,1.0,0.0,Cleveland Browns,2015,Titans,42.0,14.0,185.0,124.0,1.0,2.0,181.0,92.0,309.0,273.0,0,Ken Whisenhunt,Jason Michael,Ray Horton,Marcus Mariota
+82,3,Sun,0.0,1.0,1.0,Indianapolis Colts,2015,Titans,56.0,42.0,404.0,290.0,4.0,2.0,339.0,208.0,694.0,547.0,0,Ken Whisenhunt,Jason Michael,Ray Horton,Marcus Mariota
+83,5,Sun,0.0,1.0,1.0,Buffalo Bills,2015,Titans,89.0,77.0,749.0,378.0,6.0,4.0,584.0,341.0,1127.0,925.0,1,Ken Whisenhunt,Jason Michael,Ray Horton,Marcus Mariota
+84,6,Sun,0.0,1.0,1.0,Miami Dolphins,2015,Titans,102.0,91.0,928.0,475.0,7.0,5.0,666.0,468.0,1403.0,1134.0,0,Ken Whisenhunt,Jason Michael,Ray Horton,Marcus Mariota
+85,7,Sun,0.0,1.0,1.0,Atlanta Falcons,2015,Titans,112.0,129.0,1164.0,538.0,11.0,7.0,920.0,648.0,1702.0,1568.0,0,Ken Whisenhunt,Jason Michael,Ray Horton,Marcus Mariota
+86,8,Sun,0.0,1.0,0.0,Houston Texans,2015,Titans,119.0,139.0,1343.0,615.0,13.0,9.0,1171.0,775.0,1958.0,1946.0,0,Ken Whisenhunt,Jason Michael,Ray Horton,Marcus Mariota
+87,9,Sun,1.0,1.0,0.0,New Orleans Saints,2015,Titans,125.0,159.0,1468.0,701.0,16.0,9.0,1385.0,831.0,2169.0,2216.0,0,Ken Whisenhunt,Jason Michael,Ray Horton,Marcus Mariota
+88,10,Sun,0.0,2.0,1.0,Carolina Panthers,2015,Titans,159.0,187.0,1839.0,813.0,17.0,11.0,1740.0,892.0,2652.0,2632.0,0,Ken Whisenhunt,Jason Michael,Ray Horton,Marcus Mariota
+89,11,Thu,0.0,2.0,0.0,Jacksonville Jaguars,2015,Titans,169.0,214.0,2017.0,877.0,19.0,11.0,1957.0,1011.0,2894.0,2968.0,0,Ken Whisenhunt,Jason Michael,Ray Horton,Marcus Mariota
+90,12,Sun,0.0,2.0,1.0,Oakland Raiders,2015,Titans,182.0,233.0,2229.0,981.0,20.0,13.0,2175.0,1101.0,3210.0,3276.0,0,Ken Whisenhunt,Jason Michael,Ray Horton,Marcus Mariota
+91,13,Sun,1.0,2.0,1.0,Jacksonville Jaguars,2015,Titans,203.0,257.0,2434.0,1025.0,22.0,15.0,2498.0,1185.0,3459.0,3683.0,0,Ken Whisenhunt,Jason Michael,Ray Horton,Marcus Mariota
+92,14,Sun,0.0,3.0,0.0,New York Jets,2015,Titans,245.0,296.0,2691.0,1235.0,24.0,16.0,2800.0,1266.0,3926.0,4066.0,0,Ken Whisenhunt,Jason Michael,Ray Horton,Marcus Mariota
+93,15,Sun,0.0,3.0,0.0,New England Patriots,2015,Titans,253.0,326.0,2959.0,1259.0,25.0,16.0,3056.0,1449.0,4218.0,4505.0,0,Ken Whisenhunt,Jason Michael,Ray Horton,Marcus Mariota
+94,16,Sun,0.0,3.0,1.0,Houston Texans,2015,Titans,269.0,359.0,3182.0,1318.0,28.0,17.0,3309.0,1542.0,4500.0,4851.0,0,Ken Whisenhunt,Jason Michael,Ray Horton,Marcus Mariota
+95,17,Sun,0.0,3.0,0.0,Indianapolis Colts,2015,Titans,275.0,393.0,3409.0,1348.0,32.0,18.0,3511.0,1670.0,4757.0,5181.0,0,Ken Whisenhunt,Jason Michael,Ray Horton,Marcus Mariota
+96,1,Sun,1.0,0.0,0.0,Kansas City Chiefs,2014,Titans,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Ken Whisenhunt,Jason Michael,Ray Horton,Zach Mettenberger
+97,2,Sun,0.0,1.0,1.0,Dallas Cowboys,2014,Titans,26.0,10.0,243.0,162.0,0.0,3.0,178.0,67.0,405.0,245.0,0,Ken Whisenhunt,Jason Michael,Ray Horton,Zach Mettenberger
+98,3,Sun,0.0,1.0,0.0,Cincinnati Bengals,2014,Titans,36.0,36.0,475.0,244.0,2.0,4.0,326.0,287.0,719.0,613.0,0,Ken Whisenhunt,Jason Michael,Ray Horton,Zach Mettenberger
+99,4,Sun,0.0,1.0,0.0,Indianapolis Colts,2014,Titans,43.0,69.0,652.0,393.0,4.0,5.0,510.0,403.0,1045.0,913.0,0,Ken Whisenhunt,Jason Michael,Ray Horton,Charlie Whitehurst
+100,5,Sun,0.0,1.0,1.0,Cleveland Browns,2014,Titans,60.0,110.0,828.0,478.0,7.0,6.0,903.0,508.0,1306.0,1411.0,0,Ken Whisenhunt,Jason Michael,Ray Horton,Zach Mettenberger
+101,6,Sun,1.0,1.0,1.0,Jacksonville Jaguars,2014,Titans,88.0,139.0,1089.0,627.0,7.0,7.0,1187.0,684.0,1716.0,1871.0,0,Ken Whisenhunt,Jason Michael,Ray Horton,Zach Mettenberger
+102,7,Sun,0.0,2.0,0.0,Washington Redskins,2014,Titans,104.0,153.0,1309.0,697.0,7.0,9.0,1484.0,766.0,2006.0,2250.0,0,Ken Whisenhunt,Jason Michael,Ray Horton,Zach Mettenberger
+103,8,Sun,0.0,2.0,1.0,Houston Texans,2014,Titans,121.0,172.0,1469.0,773.0,9.0,11.0,1735.0,866.0,2242.0,2601.0,0,Ken Whisenhunt,Jason Michael,Ray Horton,Zach Mettenberger
+104,10,Sun,0.0,2.0,0.0,Baltimore Ravens,2014,Titans,137.0,202.0,1759.0,809.0,11.0,11.0,1928.0,1078.0,2568.0,3006.0,1,Ken Whisenhunt,Jason Michael,Ray Horton,Zach Mettenberger
+105,11,Mon,0.0,2.0,1.0,Pittsburgh Steelers,2014,Titans,144.0,223.0,1902.0,876.0,13.0,11.0,2089.0,1229.0,2778.0,3318.0,0,Ken Whisenhunt,Jason Michael,Ray Horton,Zach Mettenberger
+106,12,Sun,0.0,2.0,0.0,Philadelphia Eagles,2014,Titans,168.0,250.0,2165.0,925.0,14.0,12.0,2269.0,1435.0,3090.0,3704.0,0,Ken Whisenhunt,Jason Michael,Ray Horton,Zach Mettenberger
+107,13,Sun,0.0,2.0,0.0,Houston Texans,2014,Titans,192.0,293.0,2464.0,977.0,17.0,14.0,2567.0,1599.0,3441.0,4166.0,0,Ken Whisenhunt,Jason Michael,Ray Horton,Zach Mettenberger
+108,14,Sun,0.0,2.0,1.0,New York Giants,2014,Titans,213.0,338.0,2701.0,1060.0,21.0,15.0,2925.0,1698.0,3761.0,4623.0,0,Ken Whisenhunt,Jason Michael,Ray Horton,Zach Mettenberger
+109,15,Sun,0.0,2.0,1.0,New York Jets,2014,Titans,220.0,374.0,2847.0,1121.0,24.0,16.0,3185.0,1840.0,3968.0,5025.0,0,Ken Whisenhunt,Jason Michael,Ray Horton,Zach Mettenberger
+110,16,Thu,0.0,2.0,0.0,Jacksonville Jaguars,2014,Titans,231.0,390.0,3100.0,1210.0,25.0,16.0,3348.0,1954.0,4310.0,5302.0,0,Ken Whisenhunt,Jason Michael,Ray Horton,Zach Mettenberger
+111,17,Sun,0.0,2.0,1.0,Indianapolis Colts,2014,Titans,244.0,411.0,3362.0,1305.0,25.0,16.0,3459.0,2131.0,4667.0,5590.0,0,Ken Whisenhunt,Jason Michael,Ray Horton,Zach Mettenberger
+112,1,Sun,1.0,0.0,0.0,Pittsburgh Steelers,2013,Titans,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Mike Munchak,Dowell Loggains,Jerry Gray,Ryan Fitzpatrick
+113,2,Sun,0.0,1.0,0.0,Houston Texans,2013,Titans,16.0,9.0,117.0,112.0,0.0,2.0,163.0,31.0,229.0,194.0,0,Mike Munchak,Dowell Loggains,Jerry Gray,Ryan Fitzpatrick
+114,3,Sun,1.0,1.0,1.0,San Diego Chargers,2013,Titans,40.0,39.0,246.0,231.0,0.0,4.0,443.0,203.0,477.0,646.0,0,Mike Munchak,Dowell Loggains,Jerry Gray,Ryan Fitzpatrick
+115,4,Sun,1.0,2.0,1.0,New York Jets,2013,Titans,60.0,56.0,528.0,401.0,0.0,5.0,618.0,305.0,929.0,923.0,0,Mike Munchak,Dowell Loggains,Jerry Gray,Ryan Fitzpatrick
+116,5,Sun,0.0,3.0,1.0,Kansas City Chiefs,2013,Titans,98.0,69.0,772.0,479.0,0.0,9.0,857.0,396.0,1251.0,1253.0,0,Mike Munchak,Dowell Loggains,Jerry Gray,Ryan Fitzpatrick
+117,6,Sun,0.0,3.0,0.0,Seattle Seahawks,2013,Titans,115.0,95.0,1006.0,584.0,3.0,11.0,1090.0,516.0,1590.0,1606.0,0,Mike Munchak,Dowell Loggains,Jerry Gray,Ryan Fitzpatrick
+118,7,Sun,0.0,3.0,1.0,San Francisco 49ers,2013,Titans,128.0,115.0,1163.0,650.0,5.0,13.0,1343.0,667.0,1813.0,2010.0,0,Mike Munchak,Dowell Loggains,Jerry Gray,Ryan Fitzpatrick
+119,9,Sun,1.0,3.0,0.0,St. Louis Rams,2013,Titans,145.0,146.0,1461.0,720.0,7.0,13.0,1539.0,820.0,2181.0,2359.0,1,Mike Munchak,Dowell Loggains,Jerry Gray,Ryan Fitzpatrick
+120,10,Sun,0.0,4.0,1.0,Jacksonville Jaguars,2013,Titans,173.0,167.0,1626.0,918.0,9.0,15.0,1742.0,980.0,2544.0,2722.0,0,Mike Munchak,Dowell Loggains,Jerry Gray,Ryan Fitzpatrick
+121,11,Thu,0.0,4.0,1.0,Indianapolis Colts,2013,Titans,200.0,196.0,1905.0,1001.0,13.0,17.0,1902.0,1034.0,2906.0,2936.0,0,Mike Munchak,Dowell Loggains,Jerry Gray,Ryan Fitzpatrick
+122,12,Sun,1.0,4.0,0.0,Oakland Raiders,2013,Titans,227.0,226.0,2123.0,1123.0,14.0,17.0,2131.0,1171.0,3246.0,3302.0,0,Mike Munchak,Dowell Loggains,Jerry Gray,Ryan Fitzpatrick
+123,13,Sun,0.0,5.0,0.0,Indianapolis Colts,2013,Titans,250.0,245.0,2435.0,1237.0,14.0,19.0,2391.0,1264.0,3672.0,3655.0,0,Mike Munchak,Dowell Loggains,Jerry Gray,Ryan Fitzpatrick
+124,14,Sun,0.0,5.0,0.0,Denver Broncos,2013,Titans,264.0,267.0,2620.0,1399.0,18.0,20.0,2551.0,1368.0,4019.0,3919.0,0,Mike Munchak,Dowell Loggains,Jerry Gray,Ryan Fitzpatrick
+125,15,Sun,0.0,5.0,1.0,Arizona Cardinals,2013,Titans,292.0,318.0,2778.0,1495.0,20.0,20.0,2948.0,1522.0,4273.0,4470.0,0,Mike Munchak,Dowell Loggains,Jerry Gray,Ryan Fitzpatrick
+126,16,Sun,1.0,5.0,0.0,Jacksonville Jaguars,2013,Titans,326.0,355.0,3172.0,1561.0,23.0,20.0,3163.0,1667.0,4733.0,4830.0,0,Mike Munchak,Dowell Loggains,Jerry Gray,Ryan Fitzpatrick
+127,17,Sun,1.0,6.0,1.0,Houston Texans,2013,Titans,346.0,371.0,3336.0,1743.0,24.0,21.0,3389.0,1730.0,5079.0,5119.0,0,Mike Munchak,Dowell Loggains,Jerry Gray,Ryan Fitzpatrick
+128,1,Sun,0.0,0.0,1.0,New England Patriots,2012,Titans,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Mike Munchak,Chris Palmer,Jerry Gray,Jake Locker
+129,2,Sun,0.0,0.0,0.0,San Diego Chargers,2012,Titans,13.0,34.0,264.0,20.0,2.0,0.0,228.0,162.0,284.0,390.0,0,Mike Munchak,Chris Palmer,Jerry Gray,Jake Locker
+130,3,Sun,1.0,0.0,1.0,Detroit Lions,2012,Titans,23.0,72.0,438.0,58.0,3.0,1.0,496.0,310.0,496.0,806.0,0,Mike Munchak,Chris Palmer,Jerry Gray,Jake Locker
+131,4,Sun,0.0,1.0,0.0,Houston Texans,2012,Titans,67.0,113.0,816.0,117.0,5.0,2.0,938.0,451.0,933.0,1389.0,0,Mike Munchak,Chris Palmer,Jerry Gray,Jake Locker
+132,5,Sun,0.0,1.0,0.0,Minnesota Vikings,2012,Titans,81.0,151.0,983.0,275.0,8.0,2.0,1140.0,546.0,1258.0,1686.0,0,Mike Munchak,Chris Palmer,Jerry Gray,Jake Locker
+133,6,Thu,1.0,1.0,1.0,Pittsburgh Steelers,2012,Titans,88.0,181.0,1198.0,327.0,10.0,4.0,1398.0,721.0,1525.0,2119.0,0,Mike Munchak,Chris Palmer,Jerry Gray,Jake Locker
+134,7,Sun,1.0,2.0,0.0,Buffalo Bills,2012,Titans,114.0,204.0,1463.0,421.0,11.0,5.0,1754.0,777.0,1884.0,2531.0,0,Mike Munchak,Chris Palmer,Jerry Gray,Jake Locker
+135,8,Sun,0.0,3.0,1.0,Indianapolis Colts,2012,Titans,149.0,238.0,1656.0,618.0,11.0,7.0,1970.0,943.0,2274.0,2913.0,0,Mike Munchak,Chris Palmer,Jerry Gray,Jake Locker
+136,9,Sun,0.0,3.0,1.0,Chicago Bears,2012,Titans,162.0,257.0,1883.0,730.0,11.0,8.0,2256.0,1114.0,2613.0,3370.0,0,Mike Munchak,Chris Palmer,Jerry Gray,Jake Locker
+137,10,Sun,1.0,3.0,0.0,Miami Dolphins,2012,Titans,182.0,308.0,2063.0,889.0,16.0,9.0,2461.0,1274.0,2952.0,3735.0,0,Mike Munchak,Chris Palmer,Jerry Gray,Jake Locker
+138,12,Sun,0.0,4.0,0.0,Jacksonville Jaguars,2012,Titans,219.0,311.0,2179.0,1066.0,16.0,13.0,2662.0,1328.0,3245.0,3990.0,1,Mike Munchak,Chris Palmer,Jerry Gray,Jake Locker
+139,13,Sun,0.0,4.0,1.0,Houston Texans,2012,Titans,238.0,335.0,2429.0,1176.0,18.0,14.0,2883.0,1428.0,3605.0,4311.0,0,Mike Munchak,Chris Palmer,Jerry Gray,Jake Locker
+140,14,Sun,0.0,4.0,0.0,Indianapolis Colts,2012,Titans,248.0,359.0,2694.0,1265.0,24.0,14.0,3090.0,1552.0,3959.0,4642.0,0,Mike Munchak,Chris Palmer,Jerry Gray,Jake Locker
+141,15,Mon,1.0,4.0,1.0,New York Jets,2012,Titans,271.0,386.0,2953.0,1362.0,26.0,16.0,3261.0,1650.0,4315.0,4911.0,0,Mike Munchak,Chris Palmer,Jerry Gray,Jake Locker
+142,16,Sun,0.0,5.0,0.0,Green Bay Packers,2012,Titans,285.0,396.0,3080.0,1529.0,26.0,21.0,3368.0,1796.0,4609.0,5164.0,0,Mike Munchak,Chris Palmer,Jerry Gray,Jake Locker
+143,17,Sun,1.0,5.0,1.0,Jacksonville Jaguars,2012,Titans,292.0,451.0,3181.0,1608.0,28.0,21.0,3711.0,1913.0,4789.0,5624.0,0,Mike Munchak,Chris Palmer,Jerry Gray,Jake Locker
+144,1,Sun,0.0,0.0,0.0,Jacksonville Jaguars,2011,Titans,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Mike Munchak,Chris Palmer,Jerry Gray,Matt Hasselbeck
+145,2,Sun,1.0,0.0,1.0,Baltimore Ravens,2011,Titans,14.0,16.0,249.0,43.0,1.0,1.0,160.0,163.0,292.0,323.0,0,Mike Munchak,Chris Palmer,Jerry Gray,Matt Hasselbeck
+146,3,Sun,1.0,1.0,1.0,Denver Broncos,2011,Titans,40.0,29.0,607.0,117.0,2.0,4.0,344.0,208.0,724.0,552.0,0,Mike Munchak,Chris Palmer,Jerry Gray,Matt Hasselbeck
+147,4,Sun,1.0,2.0,0.0,Cleveland Browns,2011,Titans,57.0,43.0,902.0,155.0,4.0,6.0,516.0,267.0,1057.0,783.0,0,Mike Munchak,Chris Palmer,Jerry Gray,Matt Hasselbeck
+148,5,Sun,0.0,3.0,0.0,Pittsburgh Steelers,2011,Titans,88.0,56.0,1122.0,267.0,5.0,7.0,848.0,351.0,1389.0,1199.0,0,Mike Munchak,Chris Palmer,Jerry Gray,Matt Hasselbeck
+149,7,Sun,0.0,3.0,1.0,Houston Texans,2011,Titans,105.0,94.0,1362.0,333.0,6.0,8.0,1105.0,525.0,1695.0,1630.0,1,Mike Munchak,Chris Palmer,Jerry Gray,Matt Hasselbeck
+150,8,Sun,1.0,3.0,1.0,Indianapolis Colts,2011,Titans,112.0,135.0,1457.0,386.0,8.0,8.0,1401.0,747.0,1843.0,2148.0,0,Mike Munchak,Chris Palmer,Jerry Gray,Matt Hasselbeck
+151,9,Sun,0.0,4.0,1.0,Cincinnati Bengals,2011,Titans,139.0,145.0,1672.0,482.0,8.0,10.0,1642.0,905.0,2154.0,2547.0,0,Mike Munchak,Chris Palmer,Jerry Gray,Matt Hasselbeck
+152,10,Sun,1.0,4.0,0.0,Carolina Panthers,2011,Titans,156.0,169.0,1922.0,560.0,9.0,10.0,1852.0,1014.0,2482.0,2866.0,0,Mike Munchak,Chris Palmer,Jerry Gray,Matt Hasselbeck
+153,11,Sun,0.0,5.0,0.0,Atlanta Falcons,2011,Titans,186.0,172.0,2133.0,732.0,10.0,12.0,2018.0,1127.0,2865.0,3145.0,0,Mike Munchak,Chris Palmer,Jerry Gray,Matt Hasselbeck
+154,12,Sun,1.0,5.0,1.0,Tampa Bay Buccaneers,2011,Titans,203.0,195.0,2390.0,773.0,11.0,13.0,2334.0,1243.0,3163.0,3577.0,0,Mike Munchak,Chris Palmer,Jerry Gray,Matt Hasselbeck
+155,13,Sun,1.0,6.0,0.0,Buffalo Bills,2011,Titans,226.0,212.0,2540.0,975.0,15.0,18.0,2520.0,1365.0,3515.0,3885.0,0,Mike Munchak,Chris Palmer,Jerry Gray,Matt Hasselbeck
+156,14,Sun,0.0,7.0,1.0,New Orleans Saints,2011,Titans,249.0,229.0,2670.0,1162.0,15.0,20.0,2802.0,1469.0,3832.0,4271.0,0,Mike Munchak,Chris Palmer,Jerry Gray,Matt Hasselbeck
+157,15,Sun,0.0,7.0,0.0,Indianapolis Colts,2011,Titans,266.0,251.0,2984.0,1221.0,15.0,20.0,3125.0,1583.0,4205.0,4708.0,0,Mike Munchak,Chris Palmer,Jerry Gray,Matt Hasselbeck
+158,16,Sat,1.0,7.0,1.0,Jacksonville Jaguars,2011,Titans,279.0,278.0,3306.0,1287.0,18.0,21.0,3207.0,1788.0,4593.0,4995.0,0,Mike Munchak,Chris Palmer,Jerry Gray,Matt Hasselbeck
+159,17,Sun,1.0,8.0,0.0,Houston Texans,2011,Titans,302.0,295.0,3648.0,1352.0,21.0,22.0,3394.0,1901.0,5000.0,5295.0,0,Mike Munchak,Chris Palmer,Jerry Gray,Matt Hasselbeck
+160,1,Sun,1.0,0.0,1.0,Oakland Raiders,2010,Titans,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Jeff Fisher,Mike Heimerdinger,Chuck Cecil,Vince Young
+161,2,Sun,0.0,1.0,1.0,Pittsburgh Steelers,2010,Titans,38.0,13.0,140.0,205.0,1.0,2.0,150.0,136.0,345.0,286.0,0,Jeff Fisher,Mike Heimerdinger,Chuck Cecil,Vince Young
+162,3,Sun,1.0,1.0,0.0,New York Giants,2010,Titans,49.0,32.0,332.0,251.0,8.0,3.0,171.0,242.0,583.0,413.0,0,Jeff Fisher,Mike Heimerdinger,Chuck Cecil,Vince Young
+163,4,Sun,0.0,2.0,1.0,Denver Broncos,2010,Titans,78.0,42.0,442.0,412.0,8.0,6.0,535.0,349.0,854.0,884.0,0,Jeff Fisher,Mike Heimerdinger,Chuck Cecil,Vince Young
+164,5,Sun,1.0,2.0,0.0,Dallas Cowboys,2010,Titans,98.0,68.0,609.0,533.0,10.0,7.0,843.0,368.0,1142.0,1211.0,0,Jeff Fisher,Mike Heimerdinger,Chuck Cecil,Vince Young
+165,6,Mon,1.0,3.0,0.0,Jacksonville Jaguars,2010,Titans,132.0,95.0,772.0,691.0,10.0,10.0,1213.0,509.0,1463.0,1722.0,0,Jeff Fisher,Mike Heimerdinger,Chuck Cecil,Vince Young
+166,7,Sun,1.0,4.0,1.0,Philadelphia Eagles,2010,Titans,162.0,98.0,943.0,844.0,10.0,14.0,1386.0,585.0,1787.0,1971.0,0,Jeff Fisher,Mike Heimerdinger,Chuck Cecil,Rusty Smith
+167,8,Sun,0.0,5.0,0.0,San Diego Chargers,2010,Titans,199.0,117.0,1196.0,919.0,13.0,18.0,1613.0,684.0,2115.0,2297.0,0,Jeff Fisher,Mike Heimerdinger,Chuck Cecil,Vince Young
+168,10,Sun,0.0,5.0,0.0,Miami Dolphins,2010,Titans,224.0,150.0,1501.0,984.0,13.0,19.0,1913.0,840.0,2485.0,2753.0,1,Jeff Fisher,Mike Heimerdinger,Chuck Cecil,Vince Young
+169,11,Sun,0.0,5.0,1.0,Washington Redskins,2010,Titans,241.0,179.0,1625.0,1119.0,16.0,20.0,2229.0,928.0,2744.0,3157.0,0,Jeff Fisher,Mike Heimerdinger,Chuck Cecil,Vince Young
+170,12,Sun,0.0,5.0,0.0,Houston Texans,2010,Titans,257.0,198.0,1847.0,1270.0,18.0,21.0,2587.0,1035.0,3117.0,3622.0,0,Jeff Fisher,Mike Heimerdinger,Chuck Cecil,Rusty Smith
+171,13,Sun,0.0,5.0,1.0,Jacksonville Jaguars,2010,Titans,257.0,218.0,1985.0,1294.0,21.0,21.0,2745.0,1223.0,3279.0,3968.0,0,Jeff Fisher,Mike Heimerdinger,Chuck Cecil,Vince Young
+172,14,Thu,0.0,5.0,1.0,Indianapolis Colts,2010,Titans,263.0,235.0,2148.0,1351.0,23.0,21.0,2864.0,1481.0,3499.0,4345.0,0,Jeff Fisher,Mike Heimerdinger,Chuck Cecil,Vince Young
+173,15,Sun,1.0,5.0,1.0,Houston Texans,2010,Titans,291.0,265.0,2392.0,1472.0,25.0,21.0,3176.0,1568.0,3864.0,4744.0,0,Jeff Fisher,Mike Heimerdinger,Chuck Cecil,Vince Young
+174,16,Sun,0.0,6.0,0.0,Kansas City Chiefs,2010,Titans,322.0,282.0,2604.0,1619.0,26.0,22.0,3469.0,1598.0,4223.0,5067.0,0,Jeff Fisher,Mike Heimerdinger,Chuck Cecil,Vince Young
+175,17,Sun,0.0,6.0,0.0,Indianapolis Colts,2010,Titans,336.0,316.0,2817.0,1676.0,28.0,24.0,3775.0,1750.0,4493.0,5525.0,0,Jeff Fisher,Mike Heimerdinger,Chuck Cecil,Vince Young

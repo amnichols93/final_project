@@ -1,161 +1,177 @@
 ,Week,Day,Results,Wins Tally,Home,Opp,year,Base_Team,PF Tally,PA Tally,OPassY Tally,ORushY Tally,TO_lost Tally,TO_won Tally,DPassY Tally,DRushY Tally,OTotYd Tally,DTotYd Tally,after_bye,Head_Coach,OC,DC,QB
-0,1,Thu,0.0,0.0,1.0,Green Bay Packers,2019,Bears,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Matt Nagy,Mark Helfrich,Chuck Pagano,Mitchell Trubisky
-1,2,Sun,1.0,0.0,0.0,Denver Broncos,2019,Bears,3.0,10.0,208.0,46.0,1.0,0.0,166.0,47.0,254.0,213.0,0,Matt Nagy,Mark Helfrich,Chuck Pagano,Mitchell Trubisky
-2,3,Mon,1.0,1.0,0.0,Washington Redskins,2019,Bears,19.0,24.0,328.0,199.0,1.0,1.0,448.0,137.0,527.0,585.0,0,Matt Nagy,Mark Helfrich,Chuck Pagano,Mitchell Trubisky
-3,4,Sun,1.0,2.0,1.0,Minnesota Vikings,2019,Bears,50.0,39.0,536.0,289.0,2.0,6.0,735.0,206.0,825.0,941.0,0,Matt Nagy,Mark Helfrich,Chuck Pagano,Mitchell Trubisky
-4,5,Sun,0.0,3.0,0.0,Oakland Raiders,2019,Bears,66.0,45.0,733.0,361.0,2.0,8.0,917.0,246.0,1094.0,1163.0,0,Chase Daniel,Mark Helfrich,Chuck Pagano,Mitchell Trubisky
-5,7,Sun,0.0,3.0,1.0,New Orleans Saints,2019,Bears,87.0,69.0,927.0,403.0,4.0,10.0,1146.0,415.0,1330.0,1561.0,1,Matt Nagy,Mark Helfrich,Chuck Pagano,Mitchell Trubisky
-6,8,Sun,0.0,3.0,1.0,Los Angeles Chargers,2019,Bears,112.0,105.0,1162.0,420.0,6.0,10.0,1419.0,566.0,1582.0,1985.0,0,Matt Nagy,Mark Helfrich,Chuck Pagano,Mitchell Trubisky
-7,9,Sun,0.0,3.0,0.0,Philadelphia Eagles,2019,Bears,128.0,122.0,1388.0,582.0,8.0,11.0,1614.0,602.0,1970.0,2216.0,0,Matt Nagy,Mark Helfrich,Chuck Pagano,Mitchell Trubisky
-8,10,Sun,1.0,3.0,1.0,Detroit Lions,2019,Bears,142.0,144.0,1490.0,644.0,9.0,11.0,1841.0,748.0,2134.0,2589.0,0,Matt Nagy,Mark Helfrich,Chuck Pagano,Mitchell Trubisky
-9,11,Sun,0.0,4.0,0.0,Los Angeles Rams,2019,Bears,162.0,157.0,1635.0,725.0,9.0,12.0,2100.0,846.0,2360.0,2946.0,0,Matt Nagy,Mark Helfrich,Chuck Pagano,Mitchell Trubisky
-10,12,Sun,1.0,4.0,1.0,New York Giants,2019,Bears,169.0,174.0,1828.0,799.0,10.0,14.0,2273.0,956.0,2627.0,3229.0,0,Matt Nagy,Mark Helfrich,Chuck Pagano,Mitchell Trubisky
-11,13,Thu,1.0,5.0,0.0,Detroit Lions,2019,Bears,188.0,188.0,2098.0,864.0,12.0,15.0,2407.0,1065.0,2962.0,3472.0,0,Matt Nagy,Mark Helfrich,Chuck Pagano,Mitchell Trubisky
-12,14,Thu,1.0,6.0,1.0,Dallas Cowboys,2019,Bears,212.0,208.0,2429.0,952.0,13.0,16.0,2666.0,1170.0,3381.0,3836.0,0,Matt Nagy,Mark Helfrich,Chuck Pagano,Mitchell Trubisky
-13,15,Sun,0.0,7.0,0.0,Green Bay Packers,2019,Bears,243.0,232.0,2660.0,1103.0,15.0,16.0,2992.0,1252.0,3763.0,4244.0,0,Matt Nagy,Mark Helfrich,Chuck Pagano,Mitchell Trubisky
-14,16,Sun,0.0,7.0,1.0,Kansas City Chiefs,2019,Bears,256.0,253.0,2979.0,1199.0,18.0,16.0,3184.0,1352.0,4178.0,4536.0,0,Matt Nagy,Mark Helfrich,Chuck Pagano,Mitchell Trubisky
-15,17,Sun,1.0,7.0,0.0,Minnesota Vikings,2019,Bears,259.0,279.0,3112.0,1300.0,18.0,16.0,3428.0,1458.0,4412.0,4886.0,0,Matt Nagy,Mark Helfrich,Chuck Pagano,Mitchell Trubisky
-16,1,Sun,0.0,0.0,0.0,Green Bay Packers,2018,Bears,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Matt Nagy,Mark Helfrich,Vic Fangio,Mitchell Trubisky
-17,2,Mon,1.0,0.0,1.0,Seattle Seahawks,2018,Bears,23.0,24.0,155.0,139.0,1.0,2.0,301.0,69.0,294.0,370.0,0,Matt Nagy,Mark Helfrich,Vic Fangio,Mitchell Trubisky
-18,3,Sun,1.0,1.0,0.0,Arizona Cardinals,2018,Bears,47.0,41.0,340.0,225.0,3.0,4.0,503.0,143.0,565.0,646.0,0,Matt Nagy,Mark Helfrich,Vic Fangio,Mitchell Trubisky
-19,4,Sun,1.0,2.0,1.0,Tampa Bay Buccaneers,2018,Bears,63.0,55.0,534.0,347.0,5.0,8.0,671.0,196.0,881.0,867.0,0,Matt Nagy,Mark Helfrich,Vic Fangio,Mitchell Trubisky
-20,6,Sun,0.0,3.0,0.0,Miami Dolphins,2018,Bears,111.0,65.0,878.0,486.0,5.0,11.0,922.0,256.0,1364.0,1178.0,1,Matt Nagy,Mark Helfrich,Vic Fangio,Mitchell Trubisky
-21,7,Sun,0.0,3.0,1.0,New England Patriots,2018,Bears,139.0,96.0,1181.0,650.0,8.0,14.0,1302.0,417.0,1831.0,1719.0,0,Matt Nagy,Mark Helfrich,Vic Fangio,Mitchell Trubisky
-22,8,Sun,1.0,3.0,1.0,New York Jets,2018,Bears,170.0,134.0,1500.0,784.0,10.0,17.0,1575.0,525.0,2284.0,2100.0,0,Matt Nagy,Mark Helfrich,Vic Fangio,Mitchell Trubisky
-23,9,Sun,1.0,4.0,0.0,Buffalo Bills,2018,Bears,194.0,144.0,1716.0,963.0,10.0,17.0,1725.0,582.0,2679.0,2307.0,0,Matt Nagy,Mark Helfrich,Vic Fangio,Mitchell Trubisky
-24,10,Sun,1.0,5.0,1.0,Detroit Lions,2018,Bears,235.0,153.0,1842.0,1027.0,11.0,21.0,1891.0,680.0,2869.0,2571.0,0,Matt Nagy,Mark Helfrich,Vic Fangio,Mitchell Trubisky
-25,11,Sun,1.0,6.0,1.0,Minnesota Vikings,2018,Bears,269.0,175.0,2190.0,1081.0,11.0,24.0,2120.0,756.0,3271.0,2876.0,0,Matt Nagy,Mark Helfrich,Vic Fangio,Mitchell Trubisky
-26,12,Thu,1.0,7.0,0.0,Detroit Lions,2018,Bears,294.0,195.0,2350.0,1229.0,14.0,27.0,2366.0,778.0,3579.0,3144.0,0,Matt Nagy,Mark Helfrich,Vic Fangio,Mitchell Trubisky
-27,13,Sun,0.0,8.0,0.0,New York Giants,2018,Bears,317.0,211.0,2576.0,1267.0,15.0,29.0,2588.0,889.0,3843.0,3477.0,0,Matt Nagy,Mark Helfrich,Vic Fangio,Mitchell Trubisky
-28,14,Sun,1.0,8.0,1.0,Los Angeles Rams,2018,Bears,344.0,241.0,2834.0,1385.0,18.0,30.0,2785.0,1030.0,4219.0,3815.0,0,Matt Nagy,Mark Helfrich,Vic Fangio,Mitchell Trubisky
-29,15,Sun,1.0,9.0,1.0,Green Bay Packers,2018,Bears,359.0,247.0,2934.0,1579.0,21.0,34.0,2947.0,1082.0,4513.0,4029.0,0,Matt Nagy,Mark Helfrich,Vic Fangio,Mitchell Trubisky
-30,16,Sun,1.0,10.0,0.0,San Francisco 49ers,2018,Bears,383.0,264.0,3166.0,1679.0,22.0,35.0,3182.0,1170.0,4845.0,4352.0,0,Matt Nagy,Mark Helfrich,Vic Fangio,Mitchell Trubisky
-31,17,Sun,1.0,11.0,0.0,Minnesota Vikings,2018,Bears,397.0,273.0,3401.0,1769.0,24.0,36.0,3414.0,1217.0,5170.0,4631.0,0,Matt Nagy,Mark Helfrich,Vic Fangio,Mitchell Trubisky
-32,1,Sun,0.0,0.0,1.0,Atlanta Falcons,2017,Bears,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,John Fox,Dowell Loggains,Vic Fangio,Mitchell Trubisky
-33,2,Sun,0.0,0.0,0.0,Tampa Bay Buccaneers,2017,Bears,17.0,23.0,176.0,125.0,0.0,0.0,308.0,64.0,301.0,372.0,0,John Fox,Dowell Loggains,Vic Fangio,Mitchell Trubisky
-34,3,Sun,1.0,0.0,1.0,Pittsburgh Steelers,2017,Bears,24.0,52.0,466.0,145.0,4.0,1.0,502.0,181.0,611.0,683.0,0,John Fox,Dowell Loggains,Vic Fangio,Mitchell Trubisky
-35,4,Thu,0.0,1.0,0.0,Green Bay Packers,2017,Bears,47.0,69.0,550.0,367.0,6.0,3.0,714.0,251.0,917.0,965.0,0,John Fox,Dowell Loggains,Vic Fangio,Mitchell Trubisky
-36,5,Mon,0.0,1.0,1.0,Minnesota Vikings,2017,Bears,61.0,104.0,755.0,470.0,10.0,3.0,883.0,342.0,1225.0,1225.0,0,John Fox,Dowell Loggains,Vic Fangio,Mitchell Trubisky
-37,6,Sun,1.0,1.0,0.0,Baltimore Ravens,2017,Bears,78.0,124.0,914.0,585.0,12.0,3.0,1024.0,501.0,1499.0,1525.0,0,John Fox,Dowell Loggains,Vic Fangio,Mitchell Trubisky
-38,7,Sun,1.0,2.0,1.0,Carolina Panthers,2017,Bears,105.0,148.0,1025.0,816.0,14.0,6.0,1190.0,626.0,1841.0,1816.0,0,John Fox,Dowell Loggains,Vic Fangio,Mitchell Trubisky
-39,8,Sun,0.0,3.0,0.0,New Orleans Saints,2017,Bears,122.0,151.0,1110.0,884.0,14.0,9.0,1375.0,734.0,1994.0,2109.0,0,John Fox,Dowell Loggains,Vic Fangio,Mitchell Trubisky
-40,10,Sun,0.0,3.0,1.0,Green Bay Packers,2017,Bears,134.0,171.0,1260.0,1041.0,15.0,11.0,1661.0,835.0,2301.0,2496.0,1,John Fox,Dowell Loggains,Vic Fangio,Mitchell Trubisky
-41,11,Sun,0.0,3.0,1.0,Detroit Lions,2017,Bears,150.0,194.0,1528.0,1096.0,16.0,11.0,1843.0,995.0,2624.0,2838.0,0,John Fox,Dowell Loggains,Vic Fangio,Mitchell Trubisky
-42,12,Sun,0.0,3.0,0.0,Philadelphia Eagles,2017,Bears,174.0,221.0,1704.0,1318.0,17.0,12.0,2130.0,1060.0,3022.0,3190.0,0,John Fox,Dowell Loggains,Vic Fangio,Mitchell Trubisky
-43,13,Sun,0.0,3.0,1.0,San Francisco 49ers,2017,Bears,177.0,252.0,1838.0,1324.0,19.0,15.0,2374.0,1236.0,3162.0,3610.0,0,John Fox,Dowell Loggains,Vic Fangio,Mitchell Trubisky
-44,14,Sun,1.0,3.0,0.0,Cincinnati Bengals,2017,Bears,191.0,267.0,1923.0,1386.0,19.0,16.0,2652.0,1346.0,3309.0,3998.0,0,John Fox,Dowell Loggains,Vic Fangio,Mitchell Trubisky
-45,15,Sat,0.0,4.0,0.0,Detroit Lions,2017,Bears,224.0,274.0,2173.0,1618.0,19.0,18.0,2816.0,1416.0,3791.0,4232.0,0,John Fox,Dowell Loggains,Vic Fangio,Mitchell Trubisky
-46,16,Sun,1.0,4.0,1.0,Cleveland Browns,2017,Bears,234.0,294.0,2479.0,1661.0,22.0,19.0,3018.0,1507.0,4140.0,4525.0,0,John Fox,Dowell Loggains,Vic Fangio,Mitchell Trubisky
-47,17,Sun,0.0,5.0,0.0,Minnesota Vikings,2017,Bears,254.0,297.0,2640.0,1758.0,22.0,22.0,3196.0,1583.0,4398.0,4779.0,0,John Fox,Dowell Loggains,Vic Fangio,Mitchell Trubisky
-48,1,Sun,0.0,0.0,0.0,Houston Texans,2016,Bears,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,John Fox,Dowell Loggains,Vic Fangio,Jay Cutler
-49,2,Mon,0.0,0.0,1.0,Philadelphia Eagles,2016,Bears,14.0,23.0,185.0,73.0,1.0,1.0,215.0,129.0,258.0,344.0,0,John Fox,Dowell Loggains,Vic Fangio,Jay Cutler
-50,3,Sun,0.0,0.0,0.0,Dallas Cowboys,2016,Bears,28.0,52.0,405.0,137.0,4.0,1.0,395.0,229.0,542.0,624.0,0,John Fox,Dowell Loggains,Vic Fangio,Jay Cutler
-51,4,Sun,1.0,0.0,1.0,Detroit Lions,2016,Bears,45.0,83.0,717.0,215.0,6.0,2.0,643.0,428.0,932.0,1071.0,0,John Fox,Dowell Loggains,Vic Fangio,Jay Cutler
-52,5,Sun,0.0,1.0,0.0,Indianapolis Colts,2016,Bears,62.0,97.0,1011.0,329.0,6.0,4.0,840.0,494.0,1340.0,1334.0,0,John Fox,Dowell Loggains,Vic Fangio,Jay Cutler
-53,6,Sun,0.0,1.0,1.0,Jacksonville Jaguars,2016,Bears,85.0,126.0,1408.0,454.0,7.0,4.0,1138.0,592.0,1862.0,1730.0,0,John Fox,Dowell Loggains,Vic Fangio,Jay Cutler
-54,7,Thu,0.0,1.0,0.0,Green Bay Packers,2016,Bears,101.0,143.0,1705.0,546.0,7.0,6.0,1401.0,646.0,2251.0,2047.0,0,John Fox,Dowell Loggains,Vic Fangio,Jay Cutler
-55,8,Mon,1.0,1.0,1.0,Minnesota Vikings,2016,Bears,111.0,169.0,1825.0,615.0,9.0,7.0,1704.0,749.0,2440.0,2453.0,0,John Fox,Dowell Loggains,Vic Fangio,Jay Cutler
-56,10,Sun,0.0,2.0,0.0,Tampa Bay Buccaneers,2016,Bears,131.0,179.0,2070.0,773.0,9.0,7.0,1905.0,806.0,2843.0,2711.0,1,John Fox,Dowell Loggains,Vic Fangio,Jay Cutler
-57,11,Sun,0.0,2.0,0.0,New York Giants,2016,Bears,141.0,215.0,2231.0,895.0,13.0,8.0,2185.0,886.0,3126.0,3071.0,0,John Fox,Dowell Loggains,Vic Fangio,Jay Cutler
-58,12,Sun,0.0,2.0,1.0,Tennessee Titans,2016,Bears,157.0,237.0,2453.0,988.0,14.0,8.0,2412.0,988.0,3441.0,3400.0,0,John Fox,Dowell Loggains,Vic Fangio,Jay Cutler
-59,13,Sun,1.0,2.0,1.0,San Francisco 49ers,2016,Bears,178.0,264.0,2769.0,1083.0,16.0,8.0,2638.0,1137.0,3852.0,3775.0,0,John Fox,Dowell Loggains,Vic Fangio,Jay Cutler
-60,14,Sun,0.0,3.0,0.0,Detroit Lions,2016,Bears,204.0,270.0,2953.0,1225.0,17.0,8.0,2644.0,1278.0,4178.0,3922.0,0,John Fox,Dowell Loggains,Vic Fangio,Jay Cutler
-61,15,Sun,0.0,3.0,1.0,Green Bay Packers,2016,Bears,221.0,290.0,3157.0,1317.0,17.0,10.0,2853.0,1392.0,4474.0,4245.0,0,John Fox,Dowell Loggains,Vic Fangio,Jay Cutler
-62,16,Sat,0.0,3.0,1.0,Washington Redskins,2016,Bears,248.0,320.0,3511.0,1412.0,21.0,10.0,3078.0,1618.0,4923.0,4696.0,0,John Fox,Dowell Loggains,Vic Fangio,Jay Cutler
-63,17,Sun,0.0,3.0,0.0,Minnesota Vikings,2016,Bears,269.0,361.0,3829.0,1552.0,26.0,10.0,3348.0,1826.0,5381.0,5174.0,0,John Fox,Dowell Loggains,Vic Fangio,Jay Cutler
-64,1,Sun,0.0,0.0,1.0,Green Bay Packers,2015,Bears,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,John Fox,Adam Gase,Vic Fangio,Jay Cutler
-65,2,Sun,0.0,0.0,1.0,Arizona Cardinals,2015,Bears,23.0,31.0,213.0,189.0,1.0,0.0,189.0,133.0,402.0,322.0,0,John Fox,Adam Gase,Vic Fangio,Jay Cutler
-66,3,Sun,0.0,0.0,0.0,Seattle Seahawks,2015,Bears,46.0,79.0,439.0,298.0,3.0,2.0,374.0,248.0,737.0,622.0,0,Jimmy Clausen,Adam Gase,Vic Fangio,Jay Cutler
-67,4,Sun,1.0,0.0,1.0,Oakland Raiders,2015,Bears,46.0,105.0,487.0,396.0,3.0,2.0,586.0,407.0,883.0,993.0,0,John Fox,Adam Gase,Vic Fangio,Jay Cutler
-68,5,Sun,1.0,1.0,0.0,Kansas City Chiefs,2015,Bears,68.0,125.0,760.0,494.0,6.0,4.0,782.0,477.0,1254.0,1259.0,0,John Fox,Adam Gase,Vic Fangio,Jay Cutler
-69,6,Sun,0.0,2.0,0.0,Detroit Lions,2015,Bears,86.0,142.0,1001.0,581.0,7.0,4.0,952.0,594.0,1582.0,1546.0,0,John Fox,Adam Gase,Vic Fangio,Jay Cutler
-70,8,Sun,0.0,2.0,1.0,Minnesota Vikings,2015,Bears,120.0,179.0,1354.0,672.0,8.0,7.0,1343.0,749.0,2026.0,2092.0,1,John Fox,Adam Gase,Vic Fangio,Jay Cutler
-71,9,Mon,1.0,2.0,0.0,San Diego Chargers,2015,Bears,140.0,202.0,1562.0,769.0,8.0,8.0,1523.0,896.0,2331.0,2419.0,0,John Fox,Adam Gase,Vic Fangio,Jay Cutler
-72,10,Sun,1.0,3.0,0.0,St. Louis Rams,2015,Bears,162.0,221.0,1899.0,878.0,10.0,9.0,1785.0,973.0,2777.0,2758.0,0,John Fox,Adam Gase,Vic Fangio,Jay Cutler
-73,11,Sun,0.0,4.0,1.0,Denver Broncos,2015,Bears,199.0,234.0,2143.0,1031.0,12.0,11.0,1976.0,1067.0,3174.0,3043.0,0,John Fox,Adam Gase,Vic Fangio,Jay Cutler
-74,12,Thu,1.0,4.0,0.0,Green Bay Packers,2015,Bears,214.0,251.0,2404.0,1117.0,14.0,11.0,2195.0,1237.0,3521.0,3432.0,0,John Fox,Adam Gase,Vic Fangio,Jay Cutler
-75,13,Sun,0.0,5.0,1.0,San Francisco 49ers,2015,Bears,231.0,264.0,2593.0,1218.0,14.0,13.0,2383.0,1414.0,3811.0,3797.0,0,John Fox,Adam Gase,Vic Fangio,Jay Cutler
-76,14,Sun,0.0,5.0,1.0,Washington Redskins,2015,Bears,251.0,290.0,2787.0,1388.0,15.0,13.0,2553.0,1535.0,4175.0,4088.0,0,John Fox,Adam Gase,Vic Fangio,Jay Cutler
-77,15,Sun,0.0,5.0,0.0,Minnesota Vikings,2015,Bears,272.0,314.0,3077.0,1475.0,16.0,14.0,2828.0,1634.0,4552.0,4462.0,0,John Fox,Adam Gase,Vic Fangio,Jay Cutler
-78,16,Sun,1.0,5.0,0.0,Tampa Bay Buccaneers,2015,Bears,289.0,352.0,3276.0,1569.0,18.0,14.0,3049.0,1763.0,4845.0,4812.0,0,John Fox,Adam Gase,Vic Fangio,Jay Cutler
-79,17,Sun,0.0,6.0,1.0,Detroit Lions,2015,Bears,315.0,373.0,3429.0,1743.0,18.0,17.0,3334.0,1867.0,5172.0,5201.0,0,John Fox,Adam Gase,Vic Fangio,Jay Cutler
-80,1,Sun,0.0,0.0,1.0,Buffalo Bills,2014,Bears,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Marc Trestman,Aaron Kromer,Mel Tucker,Jay Cutler
-81,2,Sun,1.0,0.0,0.0,San Francisco 49ers,2014,Bears,20.0,23.0,341.0,86.0,3.0,1.0,167.0,193.0,427.0,360.0,0,Marc Trestman,Aaron Kromer,Mel Tucker,Jay Cutler
-82,3,Mon,1.0,1.0,0.0,New York Jets,2014,Bears,48.0,43.0,511.0,132.0,3.0,5.0,399.0,320.0,643.0,719.0,0,Marc Trestman,Aaron Kromer,Mel Tucker,Jay Cutler
-83,4,Sun,0.0,2.0,1.0,Green Bay Packers,2014,Bears,75.0,62.0,708.0,192.0,4.0,8.0,699.0,434.0,900.0,1133.0,0,Marc Trestman,Aaron Kromer,Mel Tucker,Jay Cutler
-84,5,Sun,0.0,2.0,0.0,Carolina Panthers,2014,Bears,92.0,100.0,969.0,427.0,6.0,8.0,1001.0,490.0,1396.0,1491.0,0,Marc Trestman,Aaron Kromer,Mel Tucker,Jay Cutler
-85,6,Sun,1.0,2.0,0.0,Atlanta Falcons,2014,Bears,116.0,131.0,1231.0,512.0,10.0,11.0,1232.0,581.0,1743.0,1813.0,0,Marc Trestman,Aaron Kromer,Mel Tucker,Jay Cutler
-86,7,Sun,0.0,3.0,1.0,Miami Dolphins,2014,Bears,143.0,144.0,1606.0,615.0,10.0,12.0,1477.0,623.0,2221.0,2100.0,0,Marc Trestman,Aaron Kromer,Mel Tucker,Jay Cutler
-87,8,Sun,0.0,3.0,0.0,New England Patriots,2014,Bears,157.0,171.0,1778.0,667.0,13.0,12.0,1733.0,760.0,2445.0,2493.0,0,Marc Trestman,Aaron Kromer,Mel Tucker,Jay Cutler
-88,10,Sun,0.0,3.0,0.0,Green Bay Packers,2014,Bears,180.0,222.0,2009.0,820.0,15.0,12.0,2098.0,882.0,2829.0,2980.0,1,Marc Trestman,Aaron Kromer,Mel Tucker,Jay Cutler
-89,11,Sun,1.0,3.0,1.0,Minnesota Vikings,2014,Bears,194.0,277.0,2265.0,875.0,18.0,13.0,2417.0,1014.0,3140.0,3431.0,0,Marc Trestman,Aaron Kromer,Mel Tucker,Jay Cutler
-90,12,Sun,1.0,4.0,1.0,Tampa Bay Buccaneers,2014,Bears,215.0,290.0,2595.0,1013.0,20.0,14.0,2564.0,1110.0,3608.0,3674.0,0,Marc Trestman,Aaron Kromer,Mel Tucker,Jay Cutler
-91,13,Thu,0.0,5.0,0.0,Detroit Lions,2014,Bears,236.0,303.0,2707.0,1105.0,21.0,18.0,2865.0,1176.0,3812.0,4041.0,0,Marc Trestman,Aaron Kromer,Mel Tucker,Jay Cutler
-92,14,Thu,0.0,5.0,1.0,Dallas Cowboys,2014,Bears,253.0,337.0,2963.0,1118.0,23.0,19.0,3248.0,1267.0,4081.0,4515.0,0,Marc Trestman,Aaron Kromer,Mel Tucker,Jay Cutler
-93,15,Mon,0.0,5.0,1.0,New Orleans Saints,2014,Bears,281.0,378.0,3304.0,1153.0,25.0,19.0,3451.0,1461.0,4457.0,4912.0,0,Marc Trestman,Aaron Kromer,Mel Tucker,Jay Cutler
-94,16,Sun,0.0,5.0,1.0,Detroit Lions,2014,Bears,296.0,409.0,3457.0,1278.0,28.0,20.0,3811.0,1544.0,4735.0,5355.0,0,Jimmy Clausen,Aaron Kromer,Mel Tucker,Jay Cutler
-95,17,Sun,0.0,5.0,0.0,Minnesota Vikings,2014,Bears,310.0,429.0,3627.0,1342.0,29.0,23.0,4040.0,1682.0,4969.0,5722.0,0,Marc Trestman,Aaron Kromer,Mel Tucker,Jay Cutler
-96,1,Sun,1.0,0.0,1.0,Cincinnati Bengals,2013,Bears,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Marc Trestman,Aaron Kromer,Mel Tucker,Jay Cutler
-97,2,Sun,1.0,1.0,1.0,Minnesota Vikings,2013,Bears,24.0,21.0,242.0,81.0,1.0,3.0,277.0,63.0,323.0,340.0,0,Marc Trestman,Aaron Kromer,Mel Tucker,Jay Cutler
-98,3,Sun,1.0,2.0,0.0,Pittsburgh Steelers,2013,Bears,55.0,51.0,526.0,208.0,5.0,6.0,504.0,186.0,734.0,690.0,0,Marc Trestman,Aaron Kromer,Mel Tucker,Jay Cutler
-99,4,Sun,0.0,3.0,0.0,Detroit Lions,2013,Bears,95.0,74.0,677.0,315.0,5.0,11.0,883.0,266.0,992.0,1149.0,0,Marc Trestman,Aaron Kromer,Mel Tucker,Jay Cutler
-100,5,Sun,0.0,3.0,1.0,New Orleans Saints,2013,Bears,127.0,114.0,963.0,446.0,9.0,14.0,1111.0,425.0,1409.0,1536.0,0,Marc Trestman,Aaron Kromer,Mel Tucker,Jay Cutler
-101,6,Thu,1.0,3.0,1.0,New York Giants,2013,Bears,145.0,140.0,1303.0,540.0,10.0,14.0,1394.0,489.0,1843.0,1883.0,0,Marc Trestman,Aaron Kromer,Mel Tucker,Jay Cutler
-102,7,Sun,0.0,4.0,0.0,Washington Redskins,2013,Bears,172.0,161.0,1565.0,650.0,10.0,17.0,1626.0,612.0,2215.0,2238.0,0,Marc Trestman,Aaron Kromer,Mel Tucker,Jay Cutler
-103,9,Mon,1.0,4.0,0.0,Green Bay Packers,2013,Bears,213.0,206.0,1784.0,790.0,11.0,18.0,1916.0,821.0,2574.0,2737.0,1,Josh McCown,Aaron Kromer,Mel Tucker,Jay Cutler
-104,10,Sun,0.0,5.0,1.0,Detroit Lions,2013,Bears,240.0,226.0,2055.0,961.0,11.0,19.0,2029.0,1020.0,3016.0,3049.0,0,Marc Trestman,Aaron Kromer,Mel Tucker,Jay Cutler
-105,11,Sun,1.0,5.0,1.0,Baltimore Ravens,2013,Bears,259.0,247.0,2355.0,999.0,12.0,20.0,2248.0,1165.0,3354.0,3413.0,0,Marc Trestman,Aaron Kromer,Mel Tucker,Jay Cutler
-106,12,Sun,0.0,6.0,0.0,St. Louis Rams,2013,Bears,282.0,267.0,2570.0,1103.0,12.0,22.0,2391.0,1339.0,3673.0,3730.0,0,Marc Trestman,Aaron Kromer,Mel Tucker,Jay Cutler
-107,13,Sun,0.0,6.0,0.0,Minnesota Vikings,2013,Bears,303.0,309.0,2914.0,1183.0,15.0,22.0,2539.0,1597.0,4097.0,4136.0,0,Marc Trestman,Aaron Kromer,Mel Tucker,Jay Cutler
-108,14,Mon,1.0,6.0,1.0,Dallas Cowboys,2013,Bears,323.0,332.0,3259.0,1318.0,16.0,23.0,2789.0,1843.0,4577.0,4632.0,0,Marc Trestman,Aaron Kromer,Mel Tucker,Jay Cutler
-109,15,Sun,1.0,7.0,0.0,Cleveland Browns,2013,Bears,368.0,360.0,3600.0,1467.0,16.0,23.0,2919.0,2041.0,5067.0,4960.0,0,Marc Trestman,Aaron Kromer,Mel Tucker,Jay Cutler
-110,16,Sun,0.0,8.0,0.0,Philadelphia Eagles,2013,Bears,406.0,391.0,3861.0,1646.0,19.0,25.0,3192.0,2134.0,5507.0,5326.0,0,Marc Trestman,Aaron Kromer,Mel Tucker,Jay Cutler
-111,17,Sun,0.0,8.0,1.0,Green Bay Packers,2013,Bears,417.0,445.0,4057.0,1707.0,21.0,26.0,3417.0,2423.0,5764.0,5840.0,0,Marc Trestman,Aaron Kromer,Mel Tucker,Jay Cutler
-112,1,Sun,1.0,0.0,1.0,Indianapolis Colts,2012,Bears,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Lovie Smith,Mike Tice,Rod Marinelli,Jay Cutler
-113,2,Thu,0.0,1.0,0.0,Green Bay Packers,2012,Bears,41.0,21.0,314.0,114.0,1.0,5.0,293.0,63.0,428.0,356.0,0,Lovie Smith,Mike Tice,Rod Marinelli,Jay Cutler
-114,3,Sun,1.0,1.0,1.0,St. Louis Rams,2012,Bears,51.0,44.0,388.0,208.0,5.0,7.0,508.0,169.0,596.0,677.0,0,Lovie Smith,Mike Tice,Rod Marinelli,Jay Cutler
-115,4,Mon,1.0,2.0,0.0,Dallas Cowboys,2012,Bears,74.0,50.0,559.0,311.0,6.0,9.0,609.0,228.0,870.0,837.0,0,Lovie Smith,Mike Tice,Rod Marinelli,Jay Cutler
-116,5,Sun,1.0,3.0,0.0,Jacksonville Jaguars,2012,Bears,108.0,68.0,826.0,404.0,7.0,14.0,998.0,269.0,1230.0,1267.0,0,Lovie Smith,Mike Tice,Rod Marinelli,Jay Cutler
-117,7,Mon,1.0,4.0,1.0,Detroit Lions,2012,Bears,149.0,71.0,1113.0,618.0,8.0,17.0,1127.0,329.0,1731.0,1456.0,1,Lovie Smith,Mike Tice,Rod Marinelli,Jay Cutler
-118,8,Sun,1.0,5.0,1.0,Carolina Panthers,2012,Bears,162.0,78.0,1238.0,789.0,8.0,21.0,1370.0,426.0,2027.0,1796.0,0,Lovie Smith,Mike Tice,Rod Marinelli,Jay Cutler
-119,9,Sun,1.0,6.0,0.0,Tennessee Titans,2012,Bears,185.0,100.0,1369.0,868.0,11.0,23.0,1667.0,545.0,2237.0,2212.0,0,Lovie Smith,Mike Tice,Rod Marinelli,Jay Cutler
-120,10,Sun,0.0,7.0,1.0,Houston Texans,2012,Bears,236.0,120.0,1574.0,1028.0,12.0,28.0,1847.0,704.0,2602.0,2551.0,0,Lovie Smith,Mike Tice,Rod Marinelli,Jay Cutler
-121,11,Mon,0.0,7.0,0.0,San Francisco 49ers,2012,Bears,242.0,133.0,1708.0,1143.0,16.0,30.0,1935.0,831.0,2851.0,2766.0,0,Jason Campbell,Mike Tice,Rod Marinelli,Jay Cutler
-122,12,Sun,1.0,7.0,1.0,Minnesota Vikings,2012,Bears,249.0,165.0,1766.0,1228.0,18.0,30.0,2167.0,952.0,2994.0,3119.0,0,Lovie Smith,Mike Tice,Rod Marinelli,Jay Cutler
-123,13,Sun,0.0,8.0,1.0,Seattle Seahawks,2012,Bears,277.0,175.0,1949.0,1341.0,20.0,33.0,2311.0,1066.0,3290.0,3377.0,0,Lovie Smith,Mike Tice,Rod Marinelli,Jay Cutler
-124,14,Sun,0.0,8.0,0.0,Minnesota Vikings,2012,Bears,294.0,198.0,2182.0,1473.0,20.0,34.0,2594.0,1242.0,3655.0,3836.0,0,Lovie Smith,Mike Tice,Rod Marinelli,Jay Cutler
-125,15,Sun,0.0,8.0,1.0,Green Bay Packers,2012,Bears,308.0,219.0,2502.0,1591.0,22.0,35.0,2671.0,1413.0,4093.0,4084.0,0,Lovie Smith,Mike Tice,Rod Marinelli,Jay Cutler
-126,16,Sun,1.0,8.0,0.0,Arizona Cardinals,2012,Bears,321.0,240.0,2609.0,1674.0,23.0,37.0,2949.0,1526.0,4283.0,4475.0,0,Lovie Smith,Mike Tice,Rod Marinelli,Jay Cutler
-127,17,Sun,1.0,9.0,0.0,Detroit Lions,2012,Bears,349.0,253.0,2754.0,1826.0,24.0,40.0,3168.0,1555.0,4580.0,4723.0,0,Lovie Smith,Mike Tice,Rod Marinelli,Jay Cutler
-128,1,Sun,1.0,0.0,1.0,Atlanta Falcons,2011,Bears,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler
-129,2,Sun,0.0,1.0,0.0,New Orleans Saints,2011,Bears,30.0,12.0,289.0,88.0,1.0,3.0,276.0,110.0,377.0,386.0,0,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler
-130,3,Sun,0.0,1.0,1.0,Green Bay Packers,2011,Bears,43.0,42.0,475.0,148.0,2.0,4.0,540.0,228.0,623.0,768.0,0,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler
-131,4,Sun,1.0,1.0,1.0,Carolina Panthers,2011,Bears,60.0,69.0,753.0,161.0,4.0,6.0,832.0,328.0,914.0,1160.0,0,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler
-132,5,Mon,0.0,2.0,0.0,Detroit Lions,2011,Bears,94.0,98.0,846.0,385.0,5.0,7.0,1206.0,497.0,1231.0,1703.0,0,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler
-133,6,Sun,1.0,2.0,1.0,Minnesota Vikings,2011,Bears,107.0,122.0,1083.0,507.0,5.0,8.0,1420.0,678.0,1590.0,2098.0,0,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler
-134,7,Sun,1.0,3.0,0.0,Tampa Bay Buccaneers,2011,Bears,146.0,132.0,1341.0,626.0,6.0,8.0,1653.0,731.0,1967.0,2384.0,0,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler
-135,9,Mon,1.0,4.0,0.0,Philadelphia Eagles,2011,Bears,170.0,150.0,1559.0,803.0,8.0,12.0,1903.0,761.0,2362.0,2664.0,1,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler
-136,10,Sun,1.0,5.0,1.0,Detroit Lions,2011,Bears,200.0,174.0,1767.0,967.0,10.0,14.0,2114.0,880.0,2734.0,2994.0,0,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler
-137,11,Sun,1.0,6.0,1.0,San Diego Chargers,2011,Bears,237.0,187.0,1874.0,1076.0,11.0,20.0,2427.0,960.0,2950.0,3387.0,0,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler
-138,12,Sun,0.0,7.0,0.0,Oakland Raiders,2011,Bears,268.0,207.0,2160.0,1168.0,12.0,23.0,2707.0,1012.0,3328.0,3719.0,0,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler
-139,13,Sun,0.0,7.0,1.0,Kansas City Chiefs,2011,Bears,288.0,232.0,2389.0,1340.0,15.0,24.0,2975.0,1085.0,3729.0,4060.0,0,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler
-140,14,Sun,0.0,7.0,0.0,Denver Broncos,2011,Bears,291.0,242.0,2477.0,1433.0,18.0,25.0,3114.0,1198.0,3910.0,4312.0,0,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler
-141,15,Sun,0.0,7.0,1.0,Seattle Seahawks,2011,Bears,301.0,255.0,2563.0,1592.0,19.0,27.0,3335.0,1322.0,4155.0,4657.0,0,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler
-142,16,Sun,0.0,7.0,0.0,Green Bay Packers,2011,Bears,315.0,293.0,2652.0,1724.0,24.0,28.0,3561.0,1382.0,4376.0,4943.0,0,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler
-143,17,Sun,1.0,7.0,0.0,Minnesota Vikings,2011,Bears,336.0,328.0,2894.0,1923.0,26.0,28.0,3843.0,1463.0,4817.0,5306.0,0,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler
-144,1,Sun,1.0,0.0,1.0,Detroit Lions,2010,Bears,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler
-145,2,Sun,1.0,1.0,0.0,Dallas Cowboys,2010,Bears,19.0,14.0,362.0,101.0,4.0,3.0,148.0,20.0,463.0,168.0,0,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler
-146,3,Mon,1.0,2.0,1.0,Green Bay Packers,2010,Bears,46.0,34.0,632.0,139.0,4.0,6.0,522.0,56.0,771.0,578.0,0,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler
-147,4,Sun,0.0,3.0,0.0,New York Giants,2010,Bears,66.0,51.0,831.0,216.0,5.0,8.0,838.0,119.0,1047.0,957.0,0,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler
-148,5,Sun,1.0,3.0,0.0,Carolina Panthers,2010,Bears,69.0,68.0,882.0,275.0,8.0,11.0,1021.0,308.0,1157.0,1329.0,0,Todd Collins,Mike Martz,Rod Marinelli,Jay Cutler
-149,6,Sun,0.0,4.0,1.0,Seattle Seahawks,2010,Bears,92.0,74.0,911.0,493.0,12.0,14.0,1083.0,393.0,1404.0,1476.0,0,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler
-150,7,Sun,0.0,4.0,1.0,Washington Redskins,2010,Bears,112.0,97.0,1157.0,554.0,12.0,14.0,1325.0,504.0,1711.0,1829.0,0,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler
-151,9,Sun,1.0,4.0,0.0,Buffalo Bills,2010,Bears,126.0,114.0,1413.0,620.0,18.0,17.0,1512.0,625.0,2033.0,2137.0,1,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler
-152,10,Sun,1.0,5.0,1.0,Minnesota Vikings,2010,Bears,148.0,133.0,1591.0,725.0,19.0,20.0,1806.0,671.0,2316.0,2477.0,0,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler
-153,11,Thu,1.0,6.0,0.0,Miami Dolphins,2010,Bears,175.0,146.0,1821.0,855.0,21.0,24.0,1976.0,741.0,2676.0,2717.0,0,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler
-154,12,Sun,1.0,7.0,1.0,Philadelphia Eagles,2010,Bears,191.0,146.0,1954.0,990.0,22.0,25.0,2124.0,780.0,2944.0,2904.0,0,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler
-155,13,Sun,1.0,8.0,0.0,Detroit Lions,2010,Bears,222.0,172.0,2172.0,1121.0,22.0,26.0,2417.0,885.0,3293.0,3302.0,0,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler
-156,14,Sun,0.0,9.0,1.0,New England Patriots,2010,Bears,246.0,192.0,2369.0,1235.0,23.0,26.0,2585.0,1019.0,3604.0,3604.0,0,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler
-157,15,Mon,1.0,9.0,0.0,Minnesota Vikings,2010,Bears,253.0,228.0,2507.0,1282.0,27.0,26.0,2936.0,1143.0,3789.0,4079.0,0,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler
-158,16,Sun,1.0,10.0,1.0,New York Jets,2010,Bears,293.0,242.0,2696.0,1386.0,28.0,31.0,3095.0,1257.0,4082.0,4352.0,0,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler
-159,17,Sun,0.0,11.0,0.0,Green Bay Packers,2010,Bears,331.0,276.0,2898.0,1506.0,29.0,33.0,3364.0,1381.0,4404.0,4745.0,0,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler
+0,1,Sun,1.0,0.0,0.0,Detroit Lions,2020,Bears,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Matt Nagy,Bill Lazor,Chuck Pagano,Mitchell Trubisky
+1,2,Sun,1.0,1.0,1.0,New York Giants,2020,Bears,27.0,23.0,214.0,149.0,0.0,1.0,288.0,138.0,363.0,426.0,0,Matt Nagy,Bill Lazor,Chuck Pagano,Mitchell Trubisky
+2,3,Sun,1.0,2.0,0.0,Atlanta Falcons,2020,Bears,44.0,36.0,383.0,284.0,2.0,3.0,508.0,213.0,667.0,721.0,0,Matt Nagy,Bill Lazor,Chuck Pagano,Mitchell Trubisky
+3,4,Sun,0.0,3.0,1.0,Indianapolis Colts,2020,Bears,74.0,62.0,690.0,414.0,4.0,4.0,735.0,357.0,1104.0,1092.0,0,Matt Nagy,Bill Lazor,Chuck Pagano,Mitchell Trubisky
+4,5,Thu,,,1.0,Tampa Bay Buccaneers,2020,Bears,85.0,81.0,931.0,442.0,5.0,4.0,921.0,460.0,1373.0,1381.0,0,Matt Nagy,Bill Lazor,Chuck Pagano,Mitchell Trubisky
+5,6,Sun,,,0.0,Carolina Panthers,2020,Bears,85.0,81.0,931.0,442.0,5.0,4.0,921.0,460.0,1373.0,1381.0,0,Matt Nagy,Bill Lazor,Chuck Pagano,Mitchell Trubisky
+6,7,Mon,,,0.0,Los Angeles Rams,2020,Bears,85.0,81.0,931.0,442.0,5.0,4.0,921.0,460.0,1373.0,1381.0,0,Matt Nagy,Bill Lazor,Chuck Pagano,Mitchell Trubisky
+7,8,Sun,,,1.0,New Orleans Saints,2020,Bears,85.0,81.0,931.0,442.0,5.0,4.0,921.0,460.0,1373.0,1381.0,0,Matt Nagy,Bill Lazor,Chuck Pagano,Mitchell Trubisky
+8,9,Sun,,,0.0,Tennessee Titans,2020,Bears,85.0,81.0,931.0,442.0,5.0,4.0,921.0,460.0,1373.0,1381.0,0,Matt Nagy,Bill Lazor,Chuck Pagano,Mitchell Trubisky
+9,10,Mon,,,1.0,Minnesota Vikings,2020,Bears,85.0,81.0,931.0,442.0,5.0,4.0,921.0,460.0,1373.0,1381.0,0,Matt Nagy,Bill Lazor,Chuck Pagano,Mitchell Trubisky
+10,12,Sun,,,0.0,Green Bay Packers,2020,Bears,85.0,81.0,931.0,442.0,5.0,4.0,921.0,460.0,1373.0,1381.0,1,Matt Nagy,Bill Lazor,Chuck Pagano,Mitchell Trubisky
+11,13,Sun,,,1.0,Detroit Lions,2020,Bears,85.0,81.0,931.0,442.0,5.0,4.0,921.0,460.0,1373.0,1381.0,0,Matt Nagy,Bill Lazor,Chuck Pagano,Mitchell Trubisky
+12,14,Sun,,,1.0,Houston Texans,2020,Bears,85.0,81.0,931.0,442.0,5.0,4.0,921.0,460.0,1373.0,1381.0,0,Matt Nagy,Bill Lazor,Chuck Pagano,Mitchell Trubisky
+13,15,Sun,,,0.0,Minnesota Vikings,2020,Bears,85.0,81.0,931.0,442.0,5.0,4.0,921.0,460.0,1373.0,1381.0,0,Matt Nagy,Bill Lazor,Chuck Pagano,Mitchell Trubisky
+14,16,Sun,,,0.0,Jacksonville Jaguars,2020,Bears,85.0,81.0,931.0,442.0,5.0,4.0,921.0,460.0,1373.0,1381.0,0,Matt Nagy,Bill Lazor,Chuck Pagano,Mitchell Trubisky
+15,17,Sun,,,1.0,Green Bay Packers,2020,Bears,85.0,81.0,931.0,442.0,5.0,4.0,921.0,460.0,1373.0,1381.0,0,Matt Nagy,Bill Lazor,Chuck Pagano,Mitchell Trubisky
+16,1,Thu,0.0,0.0,1.0,Green Bay Packers,2019,Bears,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Matt Nagy,Mark Helfrich,Chuck Pagano,Mitchell Trubisky
+17,2,Sun,1.0,0.0,0.0,Denver Broncos,2019,Bears,3.0,10.0,208.0,46.0,1.0,0.0,166.0,47.0,254.0,213.0,0,Matt Nagy,Mark Helfrich,Chuck Pagano,Mitchell Trubisky
+18,3,Mon,1.0,1.0,0.0,Washington Redskins,2019,Bears,19.0,24.0,328.0,199.0,1.0,1.0,448.0,137.0,527.0,585.0,0,Matt Nagy,Mark Helfrich,Chuck Pagano,Mitchell Trubisky
+19,4,Sun,1.0,2.0,1.0,Minnesota Vikings,2019,Bears,50.0,39.0,536.0,289.0,2.0,6.0,735.0,206.0,825.0,941.0,0,Matt Nagy,Mark Helfrich,Chuck Pagano,Mitchell Trubisky
+20,5,Sun,0.0,3.0,0.0,Oakland Raiders,2019,Bears,66.0,45.0,733.0,361.0,2.0,8.0,917.0,246.0,1094.0,1163.0,0,Matt Nagy,Mark Helfrich,Chuck Pagano,Chase Daniel
+21,7,Sun,0.0,3.0,1.0,New Orleans Saints,2019,Bears,87.0,69.0,927.0,403.0,4.0,10.0,1146.0,415.0,1330.0,1561.0,1,Matt Nagy,Mark Helfrich,Chuck Pagano,Mitchell Trubisky
+22,8,Sun,0.0,3.0,1.0,Los Angeles Chargers,2019,Bears,112.0,105.0,1162.0,420.0,6.0,10.0,1419.0,566.0,1582.0,1985.0,0,Matt Nagy,Mark Helfrich,Chuck Pagano,Mitchell Trubisky
+23,9,Sun,0.0,3.0,0.0,Philadelphia Eagles,2019,Bears,128.0,122.0,1388.0,582.0,8.0,11.0,1614.0,602.0,1970.0,2216.0,0,Matt Nagy,Mark Helfrich,Chuck Pagano,Mitchell Trubisky
+24,10,Sun,1.0,3.0,1.0,Detroit Lions,2019,Bears,142.0,144.0,1490.0,644.0,9.0,11.0,1841.0,748.0,2134.0,2589.0,0,Matt Nagy,Mark Helfrich,Chuck Pagano,Mitchell Trubisky
+25,11,Sun,0.0,4.0,0.0,Los Angeles Rams,2019,Bears,162.0,157.0,1635.0,725.0,9.0,12.0,2100.0,846.0,2360.0,2946.0,0,Matt Nagy,Mark Helfrich,Chuck Pagano,Mitchell Trubisky
+26,12,Sun,1.0,4.0,1.0,New York Giants,2019,Bears,169.0,174.0,1828.0,799.0,10.0,14.0,2273.0,956.0,2627.0,3229.0,0,Matt Nagy,Mark Helfrich,Chuck Pagano,Mitchell Trubisky
+27,13,Thu,1.0,5.0,0.0,Detroit Lions,2019,Bears,188.0,188.0,2098.0,864.0,12.0,15.0,2407.0,1065.0,2962.0,3472.0,0,Matt Nagy,Mark Helfrich,Chuck Pagano,Mitchell Trubisky
+28,14,Thu,1.0,6.0,1.0,Dallas Cowboys,2019,Bears,212.0,208.0,2429.0,952.0,13.0,16.0,2666.0,1170.0,3381.0,3836.0,0,Matt Nagy,Mark Helfrich,Chuck Pagano,Mitchell Trubisky
+29,15,Sun,0.0,7.0,0.0,Green Bay Packers,2019,Bears,243.0,232.0,2660.0,1103.0,15.0,16.0,2992.0,1252.0,3763.0,4244.0,0,Matt Nagy,Mark Helfrich,Chuck Pagano,Mitchell Trubisky
+30,16,Sun,0.0,7.0,1.0,Kansas City Chiefs,2019,Bears,256.0,253.0,2979.0,1199.0,18.0,16.0,3184.0,1352.0,4178.0,4536.0,0,Matt Nagy,Mark Helfrich,Chuck Pagano,Mitchell Trubisky
+31,17,Sun,1.0,7.0,0.0,Minnesota Vikings,2019,Bears,259.0,279.0,3112.0,1300.0,18.0,16.0,3428.0,1458.0,4412.0,4886.0,0,Matt Nagy,Mark Helfrich,Chuck Pagano,Mitchell Trubisky
+32,1,Sun,0.0,0.0,0.0,Green Bay Packers,2018,Bears,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Matt Nagy,Mark Helfrich,Vic Fangio,Mitchell Trubisky
+33,2,Mon,1.0,0.0,1.0,Seattle Seahawks,2018,Bears,23.0,24.0,155.0,139.0,1.0,2.0,301.0,69.0,294.0,370.0,0,Matt Nagy,Mark Helfrich,Vic Fangio,Mitchell Trubisky
+34,3,Sun,1.0,1.0,0.0,Arizona Cardinals,2018,Bears,47.0,41.0,340.0,225.0,3.0,4.0,503.0,143.0,565.0,646.0,0,Matt Nagy,Mark Helfrich,Vic Fangio,Mitchell Trubisky
+35,4,Sun,1.0,2.0,1.0,Tampa Bay Buccaneers,2018,Bears,63.0,55.0,534.0,347.0,5.0,8.0,671.0,196.0,881.0,867.0,0,Matt Nagy,Mark Helfrich,Vic Fangio,Mitchell Trubisky
+36,6,Sun,0.0,3.0,0.0,Miami Dolphins,2018,Bears,111.0,65.0,878.0,486.0,5.0,11.0,922.0,256.0,1364.0,1178.0,1,Matt Nagy,Mark Helfrich,Vic Fangio,Mitchell Trubisky
+37,7,Sun,0.0,3.0,1.0,New England Patriots,2018,Bears,139.0,96.0,1181.0,650.0,8.0,14.0,1302.0,417.0,1831.0,1719.0,0,Matt Nagy,Mark Helfrich,Vic Fangio,Mitchell Trubisky
+38,8,Sun,1.0,3.0,1.0,New York Jets,2018,Bears,170.0,134.0,1500.0,784.0,10.0,17.0,1575.0,525.0,2284.0,2100.0,0,Matt Nagy,Mark Helfrich,Vic Fangio,Mitchell Trubisky
+39,9,Sun,1.0,4.0,0.0,Buffalo Bills,2018,Bears,194.0,144.0,1716.0,963.0,10.0,17.0,1725.0,582.0,2679.0,2307.0,0,Matt Nagy,Mark Helfrich,Vic Fangio,Mitchell Trubisky
+40,10,Sun,1.0,5.0,1.0,Detroit Lions,2018,Bears,235.0,153.0,1842.0,1027.0,11.0,21.0,1891.0,680.0,2869.0,2571.0,0,Matt Nagy,Mark Helfrich,Vic Fangio,Mitchell Trubisky
+41,11,Sun,1.0,6.0,1.0,Minnesota Vikings,2018,Bears,269.0,175.0,2190.0,1081.0,11.0,24.0,2120.0,756.0,3271.0,2876.0,0,Matt Nagy,Mark Helfrich,Vic Fangio,Mitchell Trubisky
+42,12,Thu,1.0,7.0,0.0,Detroit Lions,2018,Bears,294.0,195.0,2350.0,1229.0,14.0,27.0,2366.0,778.0,3579.0,3144.0,0,Matt Nagy,Mark Helfrich,Vic Fangio,Mitchell Trubisky
+43,13,Sun,0.0,8.0,0.0,New York Giants,2018,Bears,317.0,211.0,2576.0,1267.0,15.0,29.0,2588.0,889.0,3843.0,3477.0,0,Matt Nagy,Mark Helfrich,Vic Fangio,Mitchell Trubisky
+44,14,Sun,1.0,8.0,1.0,Los Angeles Rams,2018,Bears,344.0,241.0,2834.0,1385.0,18.0,30.0,2785.0,1030.0,4219.0,3815.0,0,Matt Nagy,Mark Helfrich,Vic Fangio,Mitchell Trubisky
+45,15,Sun,1.0,9.0,1.0,Green Bay Packers,2018,Bears,359.0,247.0,2934.0,1579.0,21.0,34.0,2947.0,1082.0,4513.0,4029.0,0,Matt Nagy,Mark Helfrich,Vic Fangio,Mitchell Trubisky
+46,16,Sun,1.0,10.0,0.0,San Francisco 49ers,2018,Bears,383.0,264.0,3166.0,1679.0,22.0,35.0,3182.0,1170.0,4845.0,4352.0,0,Matt Nagy,Mark Helfrich,Vic Fangio,Mitchell Trubisky
+47,17,Sun,1.0,11.0,0.0,Minnesota Vikings,2018,Bears,397.0,273.0,3401.0,1769.0,24.0,36.0,3414.0,1217.0,5170.0,4631.0,0,Matt Nagy,Mark Helfrich,Vic Fangio,Mitchell Trubisky
+48,1,Sun,0.0,0.0,1.0,Atlanta Falcons,2017,Bears,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,John Fox,Dowell Loggains,Vic Fangio,Mitchell Trubisky
+49,2,Sun,0.0,0.0,0.0,Tampa Bay Buccaneers,2017,Bears,17.0,23.0,176.0,125.0,0.0,0.0,308.0,64.0,301.0,372.0,0,John Fox,Dowell Loggains,Vic Fangio,Mitchell Trubisky
+50,3,Sun,1.0,0.0,1.0,Pittsburgh Steelers,2017,Bears,24.0,52.0,466.0,145.0,4.0,1.0,502.0,181.0,611.0,683.0,0,John Fox,Dowell Loggains,Vic Fangio,Mitchell Trubisky
+51,4,Thu,0.0,1.0,0.0,Green Bay Packers,2017,Bears,47.0,69.0,550.0,367.0,6.0,3.0,714.0,251.0,917.0,965.0,0,John Fox,Dowell Loggains,Vic Fangio,Mitchell Trubisky
+52,5,Mon,0.0,1.0,1.0,Minnesota Vikings,2017,Bears,61.0,104.0,755.0,470.0,10.0,3.0,883.0,342.0,1225.0,1225.0,0,John Fox,Dowell Loggains,Vic Fangio,Mitchell Trubisky
+53,6,Sun,1.0,1.0,0.0,Baltimore Ravens,2017,Bears,78.0,124.0,914.0,585.0,12.0,3.0,1024.0,501.0,1499.0,1525.0,0,John Fox,Dowell Loggains,Vic Fangio,Mitchell Trubisky
+54,7,Sun,1.0,2.0,1.0,Carolina Panthers,2017,Bears,105.0,148.0,1025.0,816.0,14.0,6.0,1190.0,626.0,1841.0,1816.0,0,John Fox,Dowell Loggains,Vic Fangio,Mitchell Trubisky
+55,8,Sun,0.0,3.0,0.0,New Orleans Saints,2017,Bears,122.0,151.0,1110.0,884.0,14.0,9.0,1375.0,734.0,1994.0,2109.0,0,John Fox,Dowell Loggains,Vic Fangio,Mitchell Trubisky
+56,10,Sun,0.0,3.0,1.0,Green Bay Packers,2017,Bears,134.0,171.0,1260.0,1041.0,15.0,11.0,1661.0,835.0,2301.0,2496.0,1,John Fox,Dowell Loggains,Vic Fangio,Mitchell Trubisky
+57,11,Sun,0.0,3.0,1.0,Detroit Lions,2017,Bears,150.0,194.0,1528.0,1096.0,16.0,11.0,1843.0,995.0,2624.0,2838.0,0,John Fox,Dowell Loggains,Vic Fangio,Mitchell Trubisky
+58,12,Sun,0.0,3.0,0.0,Philadelphia Eagles,2017,Bears,174.0,221.0,1704.0,1318.0,17.0,12.0,2130.0,1060.0,3022.0,3190.0,0,John Fox,Dowell Loggains,Vic Fangio,Mitchell Trubisky
+59,13,Sun,0.0,3.0,1.0,San Francisco 49ers,2017,Bears,177.0,252.0,1838.0,1324.0,19.0,15.0,2374.0,1236.0,3162.0,3610.0,0,John Fox,Dowell Loggains,Vic Fangio,Mitchell Trubisky
+60,14,Sun,1.0,3.0,0.0,Cincinnati Bengals,2017,Bears,191.0,267.0,1923.0,1386.0,19.0,16.0,2652.0,1346.0,3309.0,3998.0,0,John Fox,Dowell Loggains,Vic Fangio,Mitchell Trubisky
+61,15,Sat,0.0,4.0,0.0,Detroit Lions,2017,Bears,224.0,274.0,2173.0,1618.0,19.0,18.0,2816.0,1416.0,3791.0,4232.0,0,John Fox,Dowell Loggains,Vic Fangio,Mitchell Trubisky
+62,16,Sun,1.0,4.0,1.0,Cleveland Browns,2017,Bears,234.0,294.0,2479.0,1661.0,22.0,19.0,3018.0,1507.0,4140.0,4525.0,0,John Fox,Dowell Loggains,Vic Fangio,Mitchell Trubisky
+63,17,Sun,0.0,5.0,0.0,Minnesota Vikings,2017,Bears,254.0,297.0,2640.0,1758.0,22.0,22.0,3196.0,1583.0,4398.0,4779.0,0,John Fox,Dowell Loggains,Vic Fangio,Mitchell Trubisky
+64,1,Sun,0.0,0.0,0.0,Houston Texans,2016,Bears,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,John Fox,Dowell Loggains,Vic Fangio,Jay Cutler
+65,2,Mon,0.0,0.0,1.0,Philadelphia Eagles,2016,Bears,14.0,23.0,185.0,73.0,1.0,1.0,215.0,129.0,258.0,344.0,0,John Fox,Dowell Loggains,Vic Fangio,Jay Cutler
+66,3,Sun,0.0,0.0,0.0,Dallas Cowboys,2016,Bears,28.0,52.0,405.0,137.0,4.0,1.0,395.0,229.0,542.0,624.0,0,John Fox,Dowell Loggains,Vic Fangio,Jay Cutler
+67,4,Sun,1.0,0.0,1.0,Detroit Lions,2016,Bears,45.0,83.0,717.0,215.0,6.0,2.0,643.0,428.0,932.0,1071.0,0,John Fox,Dowell Loggains,Vic Fangio,Jay Cutler
+68,5,Sun,0.0,1.0,0.0,Indianapolis Colts,2016,Bears,62.0,97.0,1011.0,329.0,6.0,4.0,840.0,494.0,1340.0,1334.0,0,John Fox,Dowell Loggains,Vic Fangio,Jay Cutler
+69,6,Sun,0.0,1.0,1.0,Jacksonville Jaguars,2016,Bears,85.0,126.0,1408.0,454.0,7.0,4.0,1138.0,592.0,1862.0,1730.0,0,John Fox,Dowell Loggains,Vic Fangio,Jay Cutler
+70,7,Thu,0.0,1.0,0.0,Green Bay Packers,2016,Bears,101.0,143.0,1705.0,546.0,7.0,6.0,1401.0,646.0,2251.0,2047.0,0,John Fox,Dowell Loggains,Vic Fangio,Jay Cutler
+71,8,Mon,1.0,1.0,1.0,Minnesota Vikings,2016,Bears,111.0,169.0,1825.0,615.0,9.0,7.0,1704.0,749.0,2440.0,2453.0,0,John Fox,Dowell Loggains,Vic Fangio,Jay Cutler
+72,10,Sun,0.0,2.0,0.0,Tampa Bay Buccaneers,2016,Bears,131.0,179.0,2070.0,773.0,9.0,7.0,1905.0,806.0,2843.0,2711.0,1,John Fox,Dowell Loggains,Vic Fangio,Jay Cutler
+73,11,Sun,0.0,2.0,0.0,New York Giants,2016,Bears,141.0,215.0,2231.0,895.0,13.0,8.0,2185.0,886.0,3126.0,3071.0,0,John Fox,Dowell Loggains,Vic Fangio,Jay Cutler
+74,12,Sun,0.0,2.0,1.0,Tennessee Titans,2016,Bears,157.0,237.0,2453.0,988.0,14.0,8.0,2412.0,988.0,3441.0,3400.0,0,John Fox,Dowell Loggains,Vic Fangio,Jay Cutler
+75,13,Sun,1.0,2.0,1.0,San Francisco 49ers,2016,Bears,178.0,264.0,2769.0,1083.0,16.0,8.0,2638.0,1137.0,3852.0,3775.0,0,John Fox,Dowell Loggains,Vic Fangio,Jay Cutler
+76,14,Sun,0.0,3.0,0.0,Detroit Lions,2016,Bears,204.0,270.0,2953.0,1225.0,17.0,8.0,2644.0,1278.0,4178.0,3922.0,0,John Fox,Dowell Loggains,Vic Fangio,Jay Cutler
+77,15,Sun,0.0,3.0,1.0,Green Bay Packers,2016,Bears,221.0,290.0,3157.0,1317.0,17.0,10.0,2853.0,1392.0,4474.0,4245.0,0,John Fox,Dowell Loggains,Vic Fangio,Jay Cutler
+78,16,Sat,0.0,3.0,1.0,Washington Redskins,2016,Bears,248.0,320.0,3511.0,1412.0,21.0,10.0,3078.0,1618.0,4923.0,4696.0,0,John Fox,Dowell Loggains,Vic Fangio,Jay Cutler
+79,17,Sun,0.0,3.0,0.0,Minnesota Vikings,2016,Bears,269.0,361.0,3829.0,1552.0,26.0,10.0,3348.0,1826.0,5381.0,5174.0,0,John Fox,Dowell Loggains,Vic Fangio,Jay Cutler
+80,1,Sun,0.0,0.0,1.0,Green Bay Packers,2015,Bears,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,John Fox,Adam Gase,Vic Fangio,Jay Cutler
+81,2,Sun,0.0,0.0,1.0,Arizona Cardinals,2015,Bears,23.0,31.0,213.0,189.0,1.0,0.0,189.0,133.0,402.0,322.0,0,John Fox,Adam Gase,Vic Fangio,Jay Cutler
+82,3,Sun,0.0,0.0,0.0,Seattle Seahawks,2015,Bears,46.0,79.0,439.0,298.0,3.0,2.0,374.0,248.0,737.0,622.0,0,John Fox,Adam Gase,Vic Fangio,Jimmy Clausen
+83,4,Sun,1.0,0.0,1.0,Oakland Raiders,2015,Bears,46.0,105.0,487.0,396.0,3.0,2.0,586.0,407.0,883.0,993.0,0,John Fox,Adam Gase,Vic Fangio,Jay Cutler
+84,5,Sun,1.0,1.0,0.0,Kansas City Chiefs,2015,Bears,68.0,125.0,760.0,494.0,6.0,4.0,782.0,477.0,1254.0,1259.0,0,John Fox,Adam Gase,Vic Fangio,Jay Cutler
+85,6,Sun,0.0,2.0,0.0,Detroit Lions,2015,Bears,86.0,142.0,1001.0,581.0,7.0,4.0,952.0,594.0,1582.0,1546.0,0,John Fox,Adam Gase,Vic Fangio,Jay Cutler
+86,8,Sun,0.0,2.0,1.0,Minnesota Vikings,2015,Bears,120.0,179.0,1354.0,672.0,8.0,7.0,1343.0,749.0,2026.0,2092.0,1,John Fox,Adam Gase,Vic Fangio,Jay Cutler
+87,9,Mon,1.0,2.0,0.0,San Diego Chargers,2015,Bears,140.0,202.0,1562.0,769.0,8.0,8.0,1523.0,896.0,2331.0,2419.0,0,John Fox,Adam Gase,Vic Fangio,Jay Cutler
+88,10,Sun,1.0,3.0,0.0,St. Louis Rams,2015,Bears,162.0,221.0,1899.0,878.0,10.0,9.0,1785.0,973.0,2777.0,2758.0,0,John Fox,Adam Gase,Vic Fangio,Jay Cutler
+89,11,Sun,0.0,4.0,1.0,Denver Broncos,2015,Bears,199.0,234.0,2143.0,1031.0,12.0,11.0,1976.0,1067.0,3174.0,3043.0,0,John Fox,Adam Gase,Vic Fangio,Jay Cutler
+90,12,Thu,1.0,4.0,0.0,Green Bay Packers,2015,Bears,214.0,251.0,2404.0,1117.0,14.0,11.0,2195.0,1237.0,3521.0,3432.0,0,John Fox,Adam Gase,Vic Fangio,Jay Cutler
+91,13,Sun,0.0,5.0,1.0,San Francisco 49ers,2015,Bears,231.0,264.0,2593.0,1218.0,14.0,13.0,2383.0,1414.0,3811.0,3797.0,0,John Fox,Adam Gase,Vic Fangio,Jay Cutler
+92,14,Sun,0.0,5.0,1.0,Washington Redskins,2015,Bears,251.0,290.0,2787.0,1388.0,15.0,13.0,2553.0,1535.0,4175.0,4088.0,0,John Fox,Adam Gase,Vic Fangio,Jay Cutler
+93,15,Sun,0.0,5.0,0.0,Minnesota Vikings,2015,Bears,272.0,314.0,3077.0,1475.0,16.0,14.0,2828.0,1634.0,4552.0,4462.0,0,John Fox,Adam Gase,Vic Fangio,Jay Cutler
+94,16,Sun,1.0,5.0,0.0,Tampa Bay Buccaneers,2015,Bears,289.0,352.0,3276.0,1569.0,18.0,14.0,3049.0,1763.0,4845.0,4812.0,0,John Fox,Adam Gase,Vic Fangio,Jay Cutler
+95,17,Sun,0.0,6.0,1.0,Detroit Lions,2015,Bears,315.0,373.0,3429.0,1743.0,18.0,17.0,3334.0,1867.0,5172.0,5201.0,0,John Fox,Adam Gase,Vic Fangio,Jay Cutler
+96,1,Sun,0.0,0.0,1.0,Buffalo Bills,2014,Bears,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Marc Trestman,Aaron Kromer,Mel Tucker,Jay Cutler
+97,2,Sun,1.0,0.0,0.0,San Francisco 49ers,2014,Bears,20.0,23.0,341.0,86.0,3.0,1.0,167.0,193.0,427.0,360.0,0,Marc Trestman,Aaron Kromer,Mel Tucker,Jay Cutler
+98,3,Mon,1.0,1.0,0.0,New York Jets,2014,Bears,48.0,43.0,511.0,132.0,3.0,5.0,399.0,320.0,643.0,719.0,0,Marc Trestman,Aaron Kromer,Mel Tucker,Jay Cutler
+99,4,Sun,0.0,2.0,1.0,Green Bay Packers,2014,Bears,75.0,62.0,708.0,192.0,4.0,8.0,699.0,434.0,900.0,1133.0,0,Marc Trestman,Aaron Kromer,Mel Tucker,Jay Cutler
+100,5,Sun,0.0,2.0,0.0,Carolina Panthers,2014,Bears,92.0,100.0,969.0,427.0,6.0,8.0,1001.0,490.0,1396.0,1491.0,0,Marc Trestman,Aaron Kromer,Mel Tucker,Jay Cutler
+101,6,Sun,1.0,2.0,0.0,Atlanta Falcons,2014,Bears,116.0,131.0,1231.0,512.0,10.0,11.0,1232.0,581.0,1743.0,1813.0,0,Marc Trestman,Aaron Kromer,Mel Tucker,Jay Cutler
+102,7,Sun,0.0,3.0,1.0,Miami Dolphins,2014,Bears,143.0,144.0,1606.0,615.0,10.0,12.0,1477.0,623.0,2221.0,2100.0,0,Marc Trestman,Aaron Kromer,Mel Tucker,Jay Cutler
+103,8,Sun,0.0,3.0,0.0,New England Patriots,2014,Bears,157.0,171.0,1778.0,667.0,13.0,12.0,1733.0,760.0,2445.0,2493.0,0,Marc Trestman,Aaron Kromer,Mel Tucker,Jay Cutler
+104,10,Sun,0.0,3.0,0.0,Green Bay Packers,2014,Bears,180.0,222.0,2009.0,820.0,15.0,12.0,2098.0,882.0,2829.0,2980.0,1,Marc Trestman,Aaron Kromer,Mel Tucker,Jay Cutler
+105,11,Sun,1.0,3.0,1.0,Minnesota Vikings,2014,Bears,194.0,277.0,2265.0,875.0,18.0,13.0,2417.0,1014.0,3140.0,3431.0,0,Marc Trestman,Aaron Kromer,Mel Tucker,Jay Cutler
+106,12,Sun,1.0,4.0,1.0,Tampa Bay Buccaneers,2014,Bears,215.0,290.0,2595.0,1013.0,20.0,14.0,2564.0,1110.0,3608.0,3674.0,0,Marc Trestman,Aaron Kromer,Mel Tucker,Jay Cutler
+107,13,Thu,0.0,5.0,0.0,Detroit Lions,2014,Bears,236.0,303.0,2707.0,1105.0,21.0,18.0,2865.0,1176.0,3812.0,4041.0,0,Marc Trestman,Aaron Kromer,Mel Tucker,Jay Cutler
+108,14,Thu,0.0,5.0,1.0,Dallas Cowboys,2014,Bears,253.0,337.0,2963.0,1118.0,23.0,19.0,3248.0,1267.0,4081.0,4515.0,0,Marc Trestman,Aaron Kromer,Mel Tucker,Jay Cutler
+109,15,Mon,0.0,5.0,1.0,New Orleans Saints,2014,Bears,281.0,378.0,3304.0,1153.0,25.0,19.0,3451.0,1461.0,4457.0,4912.0,0,Marc Trestman,Aaron Kromer,Mel Tucker,Jay Cutler
+110,16,Sun,0.0,5.0,1.0,Detroit Lions,2014,Bears,296.0,409.0,3457.0,1278.0,28.0,20.0,3811.0,1544.0,4735.0,5355.0,0,Marc Trestman,Aaron Kromer,Mel Tucker,Jimmy Clausen
+111,17,Sun,0.0,5.0,0.0,Minnesota Vikings,2014,Bears,310.0,429.0,3627.0,1342.0,29.0,23.0,4040.0,1682.0,4969.0,5722.0,0,Marc Trestman,Aaron Kromer,Mel Tucker,Jay Cutler
+112,1,Sun,1.0,0.0,1.0,Cincinnati Bengals,2013,Bears,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Marc Trestman,Aaron Kromer,Mel Tucker,Jay Cutler
+113,2,Sun,1.0,1.0,1.0,Minnesota Vikings,2013,Bears,24.0,21.0,242.0,81.0,1.0,3.0,277.0,63.0,323.0,340.0,0,Marc Trestman,Aaron Kromer,Mel Tucker,Jay Cutler
+114,3,Sun,1.0,2.0,0.0,Pittsburgh Steelers,2013,Bears,55.0,51.0,526.0,208.0,5.0,6.0,504.0,186.0,734.0,690.0,0,Marc Trestman,Aaron Kromer,Mel Tucker,Jay Cutler
+115,4,Sun,0.0,3.0,0.0,Detroit Lions,2013,Bears,95.0,74.0,677.0,315.0,5.0,11.0,883.0,266.0,992.0,1149.0,0,Marc Trestman,Aaron Kromer,Mel Tucker,Jay Cutler
+116,5,Sun,0.0,3.0,1.0,New Orleans Saints,2013,Bears,127.0,114.0,963.0,446.0,9.0,14.0,1111.0,425.0,1409.0,1536.0,0,Marc Trestman,Aaron Kromer,Mel Tucker,Jay Cutler
+117,6,Thu,1.0,3.0,1.0,New York Giants,2013,Bears,145.0,140.0,1303.0,540.0,10.0,14.0,1394.0,489.0,1843.0,1883.0,0,Marc Trestman,Aaron Kromer,Mel Tucker,Jay Cutler
+118,7,Sun,0.0,4.0,0.0,Washington Redskins,2013,Bears,172.0,161.0,1565.0,650.0,10.0,17.0,1626.0,612.0,2215.0,2238.0,0,Marc Trestman,Aaron Kromer,Mel Tucker,Jay Cutler
+119,9,Mon,1.0,4.0,0.0,Green Bay Packers,2013,Bears,213.0,206.0,1784.0,790.0,11.0,18.0,1916.0,821.0,2574.0,2737.0,1,Marc Trestman,Aaron Kromer,Mel Tucker,Josh McCown
+120,10,Sun,0.0,5.0,1.0,Detroit Lions,2013,Bears,240.0,226.0,2055.0,961.0,11.0,19.0,2029.0,1020.0,3016.0,3049.0,0,Marc Trestman,Aaron Kromer,Mel Tucker,Jay Cutler
+121,11,Sun,1.0,5.0,1.0,Baltimore Ravens,2013,Bears,259.0,247.0,2355.0,999.0,12.0,20.0,2248.0,1165.0,3354.0,3413.0,0,Marc Trestman,Aaron Kromer,Mel Tucker,Jay Cutler
+122,12,Sun,0.0,6.0,0.0,St. Louis Rams,2013,Bears,282.0,267.0,2570.0,1103.0,12.0,22.0,2391.0,1339.0,3673.0,3730.0,0,Marc Trestman,Aaron Kromer,Mel Tucker,Jay Cutler
+123,13,Sun,0.0,6.0,0.0,Minnesota Vikings,2013,Bears,303.0,309.0,2914.0,1183.0,15.0,22.0,2539.0,1597.0,4097.0,4136.0,0,Marc Trestman,Aaron Kromer,Mel Tucker,Jay Cutler
+124,14,Mon,1.0,6.0,1.0,Dallas Cowboys,2013,Bears,323.0,332.0,3259.0,1318.0,16.0,23.0,2789.0,1843.0,4577.0,4632.0,0,Marc Trestman,Aaron Kromer,Mel Tucker,Jay Cutler
+125,15,Sun,1.0,7.0,0.0,Cleveland Browns,2013,Bears,368.0,360.0,3600.0,1467.0,16.0,23.0,2919.0,2041.0,5067.0,4960.0,0,Marc Trestman,Aaron Kromer,Mel Tucker,Jay Cutler
+126,16,Sun,0.0,8.0,0.0,Philadelphia Eagles,2013,Bears,406.0,391.0,3861.0,1646.0,19.0,25.0,3192.0,2134.0,5507.0,5326.0,0,Marc Trestman,Aaron Kromer,Mel Tucker,Jay Cutler
+127,17,Sun,0.0,8.0,1.0,Green Bay Packers,2013,Bears,417.0,445.0,4057.0,1707.0,21.0,26.0,3417.0,2423.0,5764.0,5840.0,0,Marc Trestman,Aaron Kromer,Mel Tucker,Jay Cutler
+128,1,Sun,1.0,0.0,1.0,Indianapolis Colts,2012,Bears,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Lovie Smith,Mike Tice,Rod Marinelli,Jay Cutler
+129,2,Thu,0.0,1.0,0.0,Green Bay Packers,2012,Bears,41.0,21.0,314.0,114.0,1.0,5.0,293.0,63.0,428.0,356.0,0,Lovie Smith,Mike Tice,Rod Marinelli,Jay Cutler
+130,3,Sun,1.0,1.0,1.0,St. Louis Rams,2012,Bears,51.0,44.0,388.0,208.0,5.0,7.0,508.0,169.0,596.0,677.0,0,Lovie Smith,Mike Tice,Rod Marinelli,Jay Cutler
+131,4,Mon,1.0,2.0,0.0,Dallas Cowboys,2012,Bears,74.0,50.0,559.0,311.0,6.0,9.0,609.0,228.0,870.0,837.0,0,Lovie Smith,Mike Tice,Rod Marinelli,Jay Cutler
+132,5,Sun,1.0,3.0,0.0,Jacksonville Jaguars,2012,Bears,108.0,68.0,826.0,404.0,7.0,14.0,998.0,269.0,1230.0,1267.0,0,Lovie Smith,Mike Tice,Rod Marinelli,Jay Cutler
+133,7,Mon,1.0,4.0,1.0,Detroit Lions,2012,Bears,149.0,71.0,1113.0,618.0,8.0,17.0,1127.0,329.0,1731.0,1456.0,1,Lovie Smith,Mike Tice,Rod Marinelli,Jay Cutler
+134,8,Sun,1.0,5.0,1.0,Carolina Panthers,2012,Bears,162.0,78.0,1238.0,789.0,8.0,21.0,1370.0,426.0,2027.0,1796.0,0,Lovie Smith,Mike Tice,Rod Marinelli,Jay Cutler
+135,9,Sun,1.0,6.0,0.0,Tennessee Titans,2012,Bears,185.0,100.0,1369.0,868.0,11.0,23.0,1667.0,545.0,2237.0,2212.0,0,Lovie Smith,Mike Tice,Rod Marinelli,Jay Cutler
+136,10,Sun,0.0,7.0,1.0,Houston Texans,2012,Bears,236.0,120.0,1574.0,1028.0,12.0,28.0,1847.0,704.0,2602.0,2551.0,0,Lovie Smith,Mike Tice,Rod Marinelli,Jay Cutler
+137,11,Mon,0.0,7.0,0.0,San Francisco 49ers,2012,Bears,242.0,133.0,1708.0,1143.0,16.0,30.0,1935.0,831.0,2851.0,2766.0,0,Lovie Smith,Mike Tice,Rod Marinelli,Jason Campbell
+138,12,Sun,1.0,7.0,1.0,Minnesota Vikings,2012,Bears,249.0,165.0,1766.0,1228.0,18.0,30.0,2167.0,952.0,2994.0,3119.0,0,Lovie Smith,Mike Tice,Rod Marinelli,Jay Cutler
+139,13,Sun,0.0,8.0,1.0,Seattle Seahawks,2012,Bears,277.0,175.0,1949.0,1341.0,20.0,33.0,2311.0,1066.0,3290.0,3377.0,0,Lovie Smith,Mike Tice,Rod Marinelli,Jay Cutler
+140,14,Sun,0.0,8.0,0.0,Minnesota Vikings,2012,Bears,294.0,198.0,2182.0,1473.0,20.0,34.0,2594.0,1242.0,3655.0,3836.0,0,Lovie Smith,Mike Tice,Rod Marinelli,Jay Cutler
+141,15,Sun,0.0,8.0,1.0,Green Bay Packers,2012,Bears,308.0,219.0,2502.0,1591.0,22.0,35.0,2671.0,1413.0,4093.0,4084.0,0,Lovie Smith,Mike Tice,Rod Marinelli,Jay Cutler
+142,16,Sun,1.0,8.0,0.0,Arizona Cardinals,2012,Bears,321.0,240.0,2609.0,1674.0,23.0,37.0,2949.0,1526.0,4283.0,4475.0,0,Lovie Smith,Mike Tice,Rod Marinelli,Jay Cutler
+143,17,Sun,1.0,9.0,0.0,Detroit Lions,2012,Bears,349.0,253.0,2754.0,1826.0,24.0,40.0,3168.0,1555.0,4580.0,4723.0,0,Lovie Smith,Mike Tice,Rod Marinelli,Jay Cutler
+144,1,Sun,1.0,0.0,1.0,Atlanta Falcons,2011,Bears,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler
+145,2,Sun,0.0,1.0,0.0,New Orleans Saints,2011,Bears,30.0,12.0,289.0,88.0,1.0,3.0,276.0,110.0,377.0,386.0,0,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler
+146,3,Sun,0.0,1.0,1.0,Green Bay Packers,2011,Bears,43.0,42.0,475.0,148.0,2.0,4.0,540.0,228.0,623.0,768.0,0,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler
+147,4,Sun,1.0,1.0,1.0,Carolina Panthers,2011,Bears,60.0,69.0,753.0,161.0,4.0,6.0,832.0,328.0,914.0,1160.0,0,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler
+148,5,Mon,0.0,2.0,0.0,Detroit Lions,2011,Bears,94.0,98.0,846.0,385.0,5.0,7.0,1206.0,497.0,1231.0,1703.0,0,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler
+149,6,Sun,1.0,2.0,1.0,Minnesota Vikings,2011,Bears,107.0,122.0,1083.0,507.0,5.0,8.0,1420.0,678.0,1590.0,2098.0,0,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler
+150,7,Sun,1.0,3.0,0.0,Tampa Bay Buccaneers,2011,Bears,146.0,132.0,1341.0,626.0,6.0,8.0,1653.0,731.0,1967.0,2384.0,0,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler
+151,9,Mon,1.0,4.0,0.0,Philadelphia Eagles,2011,Bears,170.0,150.0,1559.0,803.0,8.0,12.0,1903.0,761.0,2362.0,2664.0,1,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler
+152,10,Sun,1.0,5.0,1.0,Detroit Lions,2011,Bears,200.0,174.0,1767.0,967.0,10.0,14.0,2114.0,880.0,2734.0,2994.0,0,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler
+153,11,Sun,1.0,6.0,1.0,San Diego Chargers,2011,Bears,237.0,187.0,1874.0,1076.0,11.0,20.0,2427.0,960.0,2950.0,3387.0,0,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler
+154,12,Sun,0.0,7.0,0.0,Oakland Raiders,2011,Bears,268.0,207.0,2160.0,1168.0,12.0,23.0,2707.0,1012.0,3328.0,3719.0,0,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler
+155,13,Sun,0.0,7.0,1.0,Kansas City Chiefs,2011,Bears,288.0,232.0,2389.0,1340.0,15.0,24.0,2975.0,1085.0,3729.0,4060.0,0,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler
+156,14,Sun,0.0,7.0,0.0,Denver Broncos,2011,Bears,291.0,242.0,2477.0,1433.0,18.0,25.0,3114.0,1198.0,3910.0,4312.0,0,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler
+157,15,Sun,0.0,7.0,1.0,Seattle Seahawks,2011,Bears,301.0,255.0,2563.0,1592.0,19.0,27.0,3335.0,1322.0,4155.0,4657.0,0,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler
+158,16,Sun,0.0,7.0,0.0,Green Bay Packers,2011,Bears,315.0,293.0,2652.0,1724.0,24.0,28.0,3561.0,1382.0,4376.0,4943.0,0,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler
+159,17,Sun,1.0,7.0,0.0,Minnesota Vikings,2011,Bears,336.0,328.0,2894.0,1923.0,26.0,28.0,3843.0,1463.0,4817.0,5306.0,0,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler
+160,1,Sun,1.0,0.0,1.0,Detroit Lions,2010,Bears,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler
+161,2,Sun,1.0,1.0,0.0,Dallas Cowboys,2010,Bears,19.0,14.0,362.0,101.0,4.0,3.0,148.0,20.0,463.0,168.0,0,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler
+162,3,Mon,1.0,2.0,1.0,Green Bay Packers,2010,Bears,46.0,34.0,632.0,139.0,4.0,6.0,522.0,56.0,771.0,578.0,0,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler
+163,4,Sun,0.0,3.0,0.0,New York Giants,2010,Bears,66.0,51.0,831.0,216.0,5.0,8.0,838.0,119.0,1047.0,957.0,0,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler
+164,5,Sun,1.0,3.0,0.0,Carolina Panthers,2010,Bears,69.0,68.0,882.0,275.0,8.0,11.0,1021.0,308.0,1157.0,1329.0,0,Lovie Smith,Mike Martz,Rod Marinelli,Todd Collins
+165,6,Sun,0.0,4.0,1.0,Seattle Seahawks,2010,Bears,92.0,74.0,911.0,493.0,12.0,14.0,1083.0,393.0,1404.0,1476.0,0,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler
+166,7,Sun,0.0,4.0,1.0,Washington Redskins,2010,Bears,112.0,97.0,1157.0,554.0,12.0,14.0,1325.0,504.0,1711.0,1829.0,0,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler
+167,9,Sun,1.0,4.0,0.0,Buffalo Bills,2010,Bears,126.0,114.0,1413.0,620.0,18.0,17.0,1512.0,625.0,2033.0,2137.0,1,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler
+168,10,Sun,1.0,5.0,1.0,Minnesota Vikings,2010,Bears,148.0,133.0,1591.0,725.0,19.0,20.0,1806.0,671.0,2316.0,2477.0,0,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler
+169,11,Thu,1.0,6.0,0.0,Miami Dolphins,2010,Bears,175.0,146.0,1821.0,855.0,21.0,24.0,1976.0,741.0,2676.0,2717.0,0,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler
+170,12,Sun,1.0,7.0,1.0,Philadelphia Eagles,2010,Bears,191.0,146.0,1954.0,990.0,22.0,25.0,2124.0,780.0,2944.0,2904.0,0,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler
+171,13,Sun,1.0,8.0,0.0,Detroit Lions,2010,Bears,222.0,172.0,2172.0,1121.0,22.0,26.0,2417.0,885.0,3293.0,3302.0,0,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler
+172,14,Sun,0.0,9.0,1.0,New England Patriots,2010,Bears,246.0,192.0,2369.0,1235.0,23.0,26.0,2585.0,1019.0,3604.0,3604.0,0,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler
+173,15,Mon,1.0,9.0,0.0,Minnesota Vikings,2010,Bears,253.0,228.0,2507.0,1282.0,27.0,26.0,2936.0,1143.0,3789.0,4079.0,0,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler
+174,16,Sun,1.0,10.0,1.0,New York Jets,2010,Bears,293.0,242.0,2696.0,1386.0,28.0,31.0,3095.0,1257.0,4082.0,4352.0,0,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler
+175,17,Sun,0.0,11.0,0.0,Green Bay Packers,2010,Bears,331.0,276.0,2898.0,1506.0,29.0,33.0,3364.0,1381.0,4404.0,4745.0,0,Lovie Smith,Mike Martz,Rod Marinelli,Jay Cutler

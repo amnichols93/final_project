@@ -1,161 +1,177 @@
 ,Week,Day,Results,Wins Tally,Home,Opp,year,Base_Team,PF Tally,PA Tally,OPassY Tally,ORushY Tally,TO_lost Tally,TO_won Tally,DPassY Tally,DRushY Tally,OTotYd Tally,DTotYd Tally,after_bye,Head_Coach,OC,DC,QB
-0,1,Sun,0.0,0.0,0.0,Seattle Seahawks,2019,Bengals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Zac Taylor,Brian Callahan,Lou Anarumo,Andy Dalton
-1,2,Sun,0.0,0.0,1.0,San Francisco 49ers,2019,Bengals,20.0,21.0,395.0,34.0,3.0,1.0,160.0,72.0,429.0,232.0,0,Zac Taylor,Brian Callahan,Lou Anarumo,Andy Dalton
-2,3,Sun,0.0,0.0,0.0,Buffalo Bills,2019,Bengals,37.0,62.0,686.0,59.0,4.0,2.0,472.0,331.0,745.0,803.0,0,Zac Taylor,Brian Callahan,Lou Anarumo,Andy Dalton
-3,4,Mon,0.0,0.0,0.0,Pittsburgh Steelers,2019,Bengals,54.0,83.0,926.0,125.0,8.0,4.0,713.0,506.0,1051.0,1219.0,0,Zac Taylor,Brian Callahan,Lou Anarumo,Andy Dalton
-4,5,Sun,0.0,0.0,1.0,Arizona Cardinals,2019,Bengals,57.0,110.0,1028.0,198.0,10.0,5.0,973.0,572.0,1226.0,1545.0,0,Zac Taylor,Brian Callahan,Lou Anarumo,Andy Dalton
-5,6,Sun,0.0,0.0,0.0,Baltimore Ravens,2019,Bengals,80.0,136.0,1290.0,306.0,10.0,5.0,1221.0,838.0,1596.0,2059.0,0,Zac Taylor,Brian Callahan,Lou Anarumo,Andy Dalton
-6,7,Sun,0.0,0.0,1.0,Jacksonville Jaguars,2019,Bengals,97.0,159.0,1507.0,339.0,11.0,6.0,1449.0,1107.0,1846.0,2556.0,0,Zac Taylor,Brian Callahan,Lou Anarumo,Andy Dalton
-7,8,Sun,0.0,0.0,0.0,Los Angeles Rams,2019,Bengals,114.0,186.0,1765.0,372.0,15.0,6.0,1693.0,1323.0,2137.0,3016.0,0,Zac Taylor,Brian Callahan,Lou Anarumo,Andy Dalton
-8,10,Sun,0.0,0.0,1.0,Baltimore Ravens,2019,Bengals,124.0,210.0,2062.0,476.0,15.0,6.0,2065.0,1421.0,2538.0,3486.0,1,Zac Taylor,Brian Callahan,Lou Anarumo,Andy Dalton
-9,11,Sun,0.0,0.0,0.0,Oakland Raiders,2019,Bengals,137.0,259.0,2212.0,633.0,18.0,7.0,2308.0,1557.0,2845.0,3865.0,0,Zac Taylor,Brian Callahan,Lou Anarumo,Andy Dalton
-10,12,Sun,0.0,0.0,1.0,Pittsburgh Steelers,2019,Bengals,147.0,276.0,2285.0,806.0,20.0,9.0,2581.0,1670.0,3091.0,4251.0,0,Zac Taylor,Brian Callahan,Lou Anarumo,Andy Dalton
-11,13,Sun,1.0,0.0,1.0,New York Jets,2019,Bengals,157.0,292.0,2443.0,892.0,22.0,10.0,2760.0,1829.0,3335.0,4589.0,0,Zac Taylor,Brian Callahan,Lou Anarumo,Andy Dalton
-12,14,Sun,0.0,1.0,0.0,Cleveland Browns,2019,Bengals,179.0,298.0,2676.0,936.0,22.0,10.0,2969.0,1891.0,3612.0,4860.0,0,Zac Taylor,Brian Callahan,Lou Anarumo,Andy Dalton
-13,15,Sun,0.0,1.0,1.0,New England Patriots,2019,Bengals,198.0,325.0,2948.0,1115.0,23.0,12.0,3156.0,2037.0,4063.0,5193.0,0,Zac Taylor,Brian Callahan,Lou Anarumo,Andy Dalton
-14,16,Sun,0.0,1.0,0.0,Miami Dolphins,2019,Bengals,211.0,359.0,3099.0,1279.0,28.0,12.0,3272.0,2212.0,4378.0,5484.0,0,Zac Taylor,Brian Callahan,Lou Anarumo,Andy Dalton
-15,17,Sun,1.0,1.0,1.0,Cleveland Browns,2019,Bengals,246.0,397.0,3470.0,1338.0,29.0,13.0,3678.0,2308.0,4808.0,5986.0,0,Zac Taylor,Brian Callahan,Lou Anarumo,Andy Dalton
-16,1,Sun,1.0,0.0,0.0,Indianapolis Colts,2018,Bengals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Marvin Lewis,Bill Lazor,Teryl Austin,Andy Dalton
-17,2,Thu,1.0,1.0,1.0,Baltimore Ravens,2018,Bengals,34.0,23.0,229.0,101.0,2.0,2.0,305.0,75.0,330.0,380.0,0,Marvin Lewis,Bill Lazor,Teryl Austin,Andy Dalton
-18,3,Sun,0.0,2.0,0.0,Carolina Panthers,2018,Bengals,68.0,46.0,494.0,209.0,2.0,5.0,664.0,141.0,703.0,805.0,0,Marvin Lewis,Bill Lazor,Teryl Austin,Andy Dalton
-19,4,Sun,1.0,2.0,0.0,Atlanta Falcons,2018,Bengals,89.0,77.0,824.0,275.0,6.0,5.0,811.0,371.0,1099.0,1182.0,0,Marvin Lewis,Bill Lazor,Teryl Austin,Andy Dalton
-20,5,Sun,1.0,3.0,1.0,Miami Dolphins,2018,Bengals,126.0,113.0,1132.0,374.0,7.0,5.0,1214.0,463.0,1506.0,1677.0,0,Marvin Lewis,Bill Lazor,Teryl Austin,Andy Dalton
-21,6,Sun,0.0,4.0,1.0,Pittsburgh Steelers,2018,Bengals,153.0,130.0,1361.0,477.0,8.0,8.0,1383.0,591.0,1838.0,1974.0,0,Marvin Lewis,Bill Lazor,Teryl Austin,Andy Dalton
-22,7,Sun,0.0,4.0,0.0,Kansas City Chiefs,2018,Bengals,174.0,158.0,1574.0,539.0,8.0,8.0,1752.0,703.0,2113.0,2455.0,0,Marvin Lewis,Bill Lazor,Teryl Austin,Andy Dalton
-23,8,Sun,1.0,4.0,1.0,Tampa Bay Buccaneers,2018,Bengals,184.0,203.0,1748.0,604.0,9.0,9.0,2105.0,901.0,2352.0,3006.0,0,Marvin Lewis,Bill Lazor,Teryl Austin,Andy Dalton
-24,10,Sun,0.0,5.0,1.0,New Orleans Saints,2018,Bengals,221.0,237.0,2012.0,742.0,9.0,13.0,2555.0,1027.0,2754.0,3582.0,1,Marvin Lewis,Bill Lazor,Teryl Austin,Andy Dalton
-25,11,Sun,0.0,5.0,0.0,Baltimore Ravens,2018,Bengals,235.0,288.0,2186.0,852.0,11.0,13.0,2820.0,1271.0,3038.0,4091.0,0,Marvin Lewis,Bill Lazor,Teryl Austin,Andy Dalton
-26,12,Sun,0.0,5.0,1.0,Cleveland Browns,2018,Bengals,256.0,312.0,2393.0,900.0,11.0,14.0,2956.0,1538.0,3293.0,4494.0,0,Marvin Lewis,Bill Lazor,Teryl Austin,Andy Dalton
-27,13,Sun,0.0,5.0,1.0,Denver Broncos,2018,Bengals,276.0,347.0,2636.0,1029.0,13.0,14.0,3214.0,1622.0,3665.0,4836.0,0,Marvin Lewis,Bill Lazor,Teryl Austin,Andy Dalton
-28,14,Sun,0.0,5.0,0.0,Los Angeles Chargers,2018,Bengals,286.0,371.0,2838.0,1140.0,16.0,15.0,3357.0,1840.0,3978.0,5197.0,0,Marvin Lewis,Bill Lazor,Teryl Austin,Andy Dalton
-29,15,Sun,1.0,5.0,1.0,Oakland Raiders,2018,Bengals,307.0,397.0,2989.0,1284.0,16.0,15.0,3560.0,1925.0,4273.0,5485.0,0,Marvin Lewis,Bill Lazor,Teryl Austin,Andy Dalton
-30,16,Sun,0.0,6.0,0.0,Cleveland Browns,2018,Bengals,337.0,413.0,3112.0,1455.0,17.0,17.0,3789.0,1993.0,4567.0,5782.0,0,Marvin Lewis,Bill Lazor,Teryl Austin,Andy Dalton
-31,17,Sun,0.0,6.0,0.0,Pittsburgh Steelers,2018,Bengals,355.0,439.0,3219.0,1557.0,17.0,17.0,4136.0,2139.0,4776.0,6275.0,0,Marvin Lewis,Bill Lazor,Teryl Austin,Andy Dalton
-32,1,Sun,0.0,0.0,1.0,Baltimore Ravens,2017,Bengals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
-33,2,Thu,0.0,0.0,1.0,Houston Texans,2017,Bengals,0.0,20.0,144.0,77.0,5.0,1.0,111.0,157.0,221.0,268.0,0,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
-34,3,Sun,0.0,0.0,0.0,Green Bay Packers,2017,Bengals,9.0,33.0,357.0,159.0,6.0,1.0,209.0,325.0,516.0,534.0,0,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
-35,4,Sun,1.0,0.0,0.0,Cleveland Browns,2017,Bengals,33.0,60.0,548.0,269.0,7.0,2.0,489.0,389.0,817.0,878.0,0,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
-36,5,Sun,1.0,1.0,1.0,Buffalo Bills,2017,Bengals,64.0,67.0,812.0,355.0,8.0,3.0,659.0,434.0,1167.0,1093.0,0,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
-37,7,Sun,0.0,2.0,0.0,Pittsburgh Steelers,2017,Bengals,84.0,83.0,1135.0,420.0,11.0,4.0,798.0,516.0,1555.0,1314.0,1,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
-38,8,Sun,1.0,2.0,1.0,Indianapolis Colts,2017,Bengals,98.0,112.0,1243.0,491.0,13.0,4.0,1066.0,668.0,1734.0,1734.0,0,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
-39,9,Sun,0.0,3.0,0.0,Jacksonville Jaguars,2017,Bengals,122.0,135.0,1461.0,549.0,15.0,5.0,1282.0,783.0,2010.0,2065.0,0,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
-40,10,Sun,0.0,3.0,0.0,Tennessee Titans,2017,Bengals,129.0,158.0,1580.0,578.0,15.0,6.0,1541.0,932.0,2158.0,2473.0,0,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
-41,11,Sun,1.0,3.0,0.0,Denver Broncos,2017,Bengals,149.0,182.0,1835.0,631.0,17.0,8.0,1777.0,1112.0,2466.0,2889.0,0,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
-42,12,Sun,1.0,4.0,1.0,Cleveland Browns,2017,Bengals,169.0,199.0,1976.0,680.0,17.0,10.0,2006.0,1224.0,2656.0,3230.0,0,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
-43,13,Mon,0.0,5.0,1.0,Pittsburgh Steelers,2017,Bengals,199.0,215.0,2185.0,832.0,17.0,10.0,2242.0,1393.0,3017.0,3635.0,0,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
-44,14,Sun,0.0,5.0,1.0,Chicago Bears,2017,Bengals,219.0,238.0,2408.0,962.0,17.0,11.0,2524.0,1485.0,3370.0,4009.0,0,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
-45,15,Sun,0.0,5.0,0.0,Minnesota Vikings,2017,Bengals,226.0,271.0,2572.0,1032.0,19.0,11.0,2774.0,1717.0,3604.0,4491.0,0,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
-46,16,Sun,1.0,5.0,1.0,Detroit Lions,2017,Bengals,233.0,305.0,2687.0,1078.0,21.0,12.0,2996.0,1841.0,3765.0,4837.0,0,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
-47,17,Sun,1.0,6.0,0.0,Baltimore Ravens,2017,Bengals,259.0,322.0,2909.0,1220.0,22.0,13.0,3185.0,1928.0,4129.0,5113.0,0,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
-48,1,Sun,1.0,0.0,0.0,New York Jets,2016,Bengals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
-49,2,Sun,0.0,1.0,0.0,Pittsburgh Steelers,2016,Bengals,23.0,22.0,324.0,57.0,1.0,1.0,188.0,152.0,381.0,340.0,0,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
-50,3,Sun,0.0,1.0,1.0,Denver Broncos,2016,Bengals,39.0,46.0,690.0,103.0,3.0,3.0,438.0,276.0,793.0,714.0,0,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
-51,4,Thu,1.0,1.0,1.0,Miami Dolphins,2016,Bengals,56.0,75.0,879.0,246.0,5.0,4.0,741.0,328.0,1125.0,1069.0,0,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
-52,5,Sun,0.0,2.0,0.0,Dallas Cowboys,2016,Bengals,78.0,82.0,1164.0,323.0,5.0,6.0,901.0,390.0,1487.0,1291.0,0,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
-53,6,Sun,0.0,2.0,0.0,New England Patriots,2016,Bengals,92.0,110.0,1413.0,419.0,5.0,7.0,1123.0,570.0,1832.0,1693.0,0,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
-54,7,Sun,1.0,2.0,1.0,Cleveland Browns,2016,Bengals,109.0,145.0,1650.0,539.0,5.0,7.0,1481.0,649.0,2189.0,2130.0,0,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
-55,8,Sun,0.0,3.0,1.0,Washington Redskins,2016,Bengals,140.0,162.0,1938.0,810.0,6.0,9.0,1653.0,829.0,2748.0,2482.0,0,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
-56,10,Mon,0.0,3.0,0.0,New York Giants,2016,Bengals,167.0,189.0,2201.0,962.0,8.0,10.0,2099.0,929.0,3163.0,3028.0,1,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
-57,11,Sun,0.0,3.0,1.0,Buffalo Bills,2016,Bengals,187.0,210.0,2387.0,1040.0,9.0,12.0,2328.0,1051.0,3427.0,3379.0,0,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
-58,12,Sun,0.0,3.0,0.0,Baltimore Ravens,2016,Bengals,199.0,226.0,2594.0,1133.0,11.0,13.0,2487.0,1234.0,3727.0,3721.0,0,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
-59,13,Sun,1.0,3.0,1.0,Philadelphia Eagles,2016,Bengals,213.0,245.0,2855.0,1197.0,13.0,14.0,2706.0,1326.0,4052.0,4032.0,0,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
-60,14,Sun,1.0,4.0,0.0,Cleveland Browns,2016,Bengals,245.0,259.0,3187.0,1277.0,15.0,17.0,3012.0,1379.0,4464.0,4391.0,0,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
-61,15,Sun,0.0,5.0,1.0,Pittsburgh Steelers,2016,Bengals,268.0,269.0,3334.0,1490.0,15.0,18.0,3097.0,1548.0,4824.0,4645.0,0,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
-62,16,Sat,0.0,5.0,0.0,Houston Texans,2016,Bengals,288.0,293.0,3480.0,1566.0,16.0,18.0,3382.0,1645.0,5046.0,5027.0,0,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
-63,17,Sun,1.0,5.0,1.0,Baltimore Ravens,2016,Bengals,298.0,305.0,3724.0,1616.0,17.0,18.0,3537.0,1740.0,5340.0,5277.0,0,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
-64,1,Sun,1.0,0.0,0.0,Oakland Raiders,2015,Bengals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
-65,2,Sun,1.0,1.0,1.0,San Diego Chargers,2015,Bengals,33.0,13.0,269.0,127.0,0.0,2.0,183.0,63.0,396.0,246.0,0,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
-66,3,Sun,1.0,2.0,0.0,Baltimore Ravens,2015,Bengals,57.0,32.0,483.0,302.0,2.0,5.0,406.0,194.0,785.0,600.0,0,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
-67,4,Sun,1.0,3.0,1.0,Kansas City Chiefs,2015,Bengals,85.0,56.0,855.0,388.0,4.0,6.0,768.0,230.0,1243.0,998.0,0,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
-68,5,Sun,1.0,4.0,1.0,Seattle Seahawks,2015,Bengals,121.0,77.0,1176.0,512.0,4.0,7.0,1116.0,343.0,1688.0,1459.0,0,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
-69,6,Sun,1.0,5.0,0.0,Buffalo Bills,2015,Bengals,148.0,101.0,1486.0,621.0,6.0,8.0,1313.0,543.0,2107.0,1856.0,0,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
-70,8,Sun,1.0,6.0,0.0,Pittsburgh Steelers,2015,Bengals,182.0,122.0,1729.0,733.0,6.0,9.0,1569.0,655.0,2462.0,2224.0,1,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
-71,9,Thu,1.0,7.0,1.0,Cleveland Browns,2015,Bengals,198.0,132.0,1947.0,811.0,8.0,12.0,1809.0,771.0,2758.0,2580.0,0,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
-72,10,Mon,0.0,8.0,1.0,Houston Texans,2015,Bengals,229.0,142.0,2166.0,963.0,8.0,12.0,1953.0,840.0,3129.0,2793.0,0,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
-73,11,Sun,0.0,8.0,0.0,Arizona Cardinals,2015,Bengals,235.0,152.0,2348.0,1037.0,10.0,13.0,2127.0,922.0,3385.0,3049.0,0,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
-74,12,Sun,1.0,8.0,1.0,St. Louis Rams,2015,Bengals,266.0,186.0,2626.0,1136.0,11.0,15.0,2428.0,1004.0,3762.0,3432.0,0,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
-75,13,Sun,1.0,9.0,0.0,Cleveland Browns,2015,Bengals,297.0,193.0,2862.0,1276.0,12.0,18.0,2679.0,1098.0,4138.0,3777.0,0,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
-76,14,Sun,0.0,10.0,1.0,Pittsburgh Steelers,2015,Bengals,334.0,196.0,3095.0,1420.0,12.0,20.0,2884.0,1166.0,4515.0,4050.0,0,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
-77,15,Sun,1.0,10.0,0.0,San Francisco 49ers,2015,Bengals,354.0,229.0,3416.0,1484.0,15.0,21.0,3154.0,1250.0,4900.0,4404.0,0,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
-78,16,Mon,0.0,11.0,0.0,Denver Broncos,2015,Bengals,378.0,243.0,3590.0,1552.0,16.0,25.0,3417.0,1305.0,5142.0,4722.0,0,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
-79,17,Sun,1.0,11.0,1.0,Baltimore Ravens,2015,Bengals,395.0,263.0,3776.0,1660.0,17.0,26.0,3694.0,1418.0,5436.0,5112.0,0,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
-80,1,Sun,1.0,0.0,0.0,Baltimore Ravens,2014,Bengals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
-81,2,Sun,1.0,1.0,1.0,Atlanta Falcons,2014,Bengals,23.0,16.0,301.0,79.0,0.0,2.0,329.0,94.0,380.0,423.0,0,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
-82,3,Sun,1.0,2.0,1.0,Tennessee Titans,2014,Bengals,47.0,26.0,603.0,249.0,0.0,5.0,541.0,191.0,852.0,732.0,0,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
-83,5,Sun,0.0,3.0,0.0,New England Patriots,2014,Bengals,80.0,33.0,787.0,365.0,1.0,7.0,718.0,340.0,1152.0,1058.0,1,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
-84,6,Sun,0.0,3.0,1.0,Carolina Panthers,2014,Bengals,97.0,76.0,1028.0,444.0,4.0,7.0,1003.0,560.0,1472.0,1563.0,0,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
-85,7,Sun,0.0,3.0,0.0,Indianapolis Colts,2014,Bengals,134.0,113.0,1348.0,637.0,6.0,8.0,1287.0,707.0,1985.0,1994.0,0,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
-86,8,Sun,1.0,3.0,1.0,Baltimore Ravens,2014,Bengals,134.0,140.0,1451.0,669.0,6.0,10.0,1622.0,878.0,2120.0,2500.0,0,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
-87,9,Sun,1.0,4.0,1.0,Jacksonville Jaguars,2014,Bengals,161.0,164.0,1690.0,780.0,8.0,12.0,1809.0,985.0,2470.0,2794.0,0,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
-88,10,Thu,0.0,5.0,1.0,Cleveland Browns,2014,Bengals,194.0,187.0,1922.0,971.0,10.0,13.0,2042.0,1117.0,2893.0,3159.0,0,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
-89,11,Sun,1.0,5.0,0.0,New Orleans Saints,2014,Bengals,197.0,211.0,2001.0,1057.0,14.0,14.0,2240.0,1287.0,3058.0,3527.0,0,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
-90,12,Sun,1.0,6.0,0.0,Houston Texans,2014,Bengals,224.0,221.0,2220.0,1243.0,14.0,15.0,2495.0,1362.0,3463.0,3857.0,0,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
-91,13,Sun,1.0,7.0,0.0,Tampa Bay Buccaneers,2014,Bengals,246.0,234.0,2453.0,1382.0,15.0,16.0,2679.0,1426.0,3835.0,4105.0,0,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
-92,14,Sun,0.0,8.0,1.0,Pittsburgh Steelers,2014,Bengals,260.0,247.0,2629.0,1494.0,18.0,17.0,2867.0,1501.0,4123.0,4368.0,0,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
-93,15,Sun,1.0,8.0,0.0,Cleveland Browns,2014,Bengals,281.0,289.0,2951.0,1580.0,20.0,17.0,3217.0,1694.0,4531.0,4911.0,0,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
-94,16,Mon,1.0,9.0,1.0,Denver Broncos,2014,Bengals,311.0,289.0,3054.0,1824.0,21.0,19.0,3271.0,1747.0,4878.0,5018.0,0,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
-95,17,Sun,0.0,10.0,0.0,Pittsburgh Steelers,2014,Bengals,348.0,317.0,3200.0,2031.0,23.0,23.0,3571.0,1832.0,5231.0,5403.0,0,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
-96,1,Sun,0.0,0.0,0.0,Chicago Bears,2013,Bengals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
-97,2,Mon,1.0,0.0,1.0,Pittsburgh Steelers,2013,Bengals,21.0,24.0,277.0,63.0,3.0,1.0,242.0,81.0,340.0,323.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
-98,3,Sun,1.0,1.0,1.0,Green Bay Packers,2013,Bengals,41.0,34.0,557.0,190.0,3.0,3.0,476.0,125.0,747.0,601.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
-99,4,Sun,0.0,2.0,0.0,Cleveland Browns,2013,Bengals,75.0,64.0,772.0,272.0,7.0,7.0,693.0,307.0,1044.0,1000.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
-100,5,Sun,1.0,2.0,1.0,New England Patriots,2013,Bengals,81.0,81.0,975.0,335.0,9.0,7.0,940.0,396.0,1310.0,1336.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
-101,6,Sun,1.0,3.0,0.0,Buffalo Bills,2013,Bengals,94.0,87.0,1154.0,497.0,11.0,9.0,1106.0,478.0,1651.0,1584.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
-102,7,Sun,1.0,4.0,0.0,Detroit Lions,2013,Bengals,121.0,111.0,1472.0,662.0,12.0,10.0,1298.0,608.0,2134.0,1906.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
-103,8,Sun,1.0,5.0,1.0,New York Jets,2013,Bengals,148.0,135.0,1836.0,719.0,12.0,10.0,1655.0,685.0,2555.0,2340.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
-104,9,Thu,0.0,6.0,0.0,Miami Dolphins,2013,Bengals,197.0,144.0,2159.0,798.0,13.0,12.0,1802.0,778.0,2957.0,2580.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
-105,10,Sun,0.0,6.0,0.0,Baltimore Ravens,2013,Bengals,217.0,166.0,2461.0,961.0,17.0,13.0,1990.0,935.0,3422.0,2925.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
-106,11,Sun,1.0,6.0,1.0,Cleveland Browns,2013,Bengals,234.0,186.0,2705.0,1081.0,20.0,16.0,2094.0,1020.0,3786.0,3114.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
-107,13,Sun,1.0,7.0,0.0,San Diego Chargers,2013,Bengals,275.0,206.0,2823.0,1187.0,22.0,20.0,2322.0,1122.0,4010.0,3444.0,1,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
-108,14,Sun,1.0,8.0,1.0,Indianapolis Colts,2013,Bengals,292.0,216.0,3013.0,1351.0,24.0,23.0,2565.0,1213.0,4364.0,3778.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
-109,15,Sun,0.0,9.0,0.0,Pittsburgh Steelers,2013,Bengals,334.0,244.0,3288.0,1506.0,24.0,23.0,2891.0,1276.0,4794.0,4167.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
-110,16,Sun,1.0,9.0,1.0,Minnesota Vikings,2013,Bengals,354.0,274.0,3510.0,1563.0,25.0,24.0,3075.0,1382.0,5073.0,4457.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
-111,17,Sun,1.0,10.0,1.0,Baltimore Ravens,2013,Bengals,396.0,288.0,3855.0,1644.0,26.0,28.0,3169.0,1497.0,5499.0,4666.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
-112,1,Mon,0.0,0.0,0.0,Baltimore Ravens,2012,Bengals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
-113,2,Sun,1.0,0.0,1.0,Cleveland Browns,2012,Bengals,13.0,44.0,193.0,129.0,2.0,0.0,308.0,122.0,322.0,430.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
-114,3,Sun,1.0,1.0,0.0,Washington Redskins,2012,Bengals,47.0,71.0,488.0,209.0,3.0,1.0,617.0,252.0,697.0,869.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
-115,4,Sun,1.0,2.0,0.0,Jacksonville Jaguars,2012,Bengals,85.0,102.0,873.0,302.0,5.0,2.0,796.0,454.0,1175.0,1250.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
-116,5,Sun,0.0,3.0,1.0,Miami Dolphins,2012,Bengals,112.0,112.0,1117.0,440.0,7.0,4.0,939.0,523.0,1557.0,1462.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
-117,6,Sun,0.0,3.0,0.0,Cleveland Browns,2012,Bengals,125.0,129.0,1335.0,520.0,10.0,6.0,1150.0,591.0,1855.0,1741.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
-118,7,Sun,0.0,3.0,1.0,Pittsburgh Steelers,2012,Bengals,149.0,163.0,1697.0,596.0,14.0,7.0,1368.0,701.0,2293.0,2069.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
-119,9,Sun,0.0,3.0,1.0,Denver Broncos,2012,Bengals,166.0,187.0,1802.0,676.0,15.0,9.0,1632.0,868.0,2478.0,2500.0,1,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
-120,10,Sun,1.0,3.0,1.0,New York Giants,2012,Bengals,189.0,218.0,2077.0,767.0,16.0,11.0,1923.0,936.0,2844.0,2859.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
-121,11,Sun,1.0,4.0,0.0,Kansas City Chiefs,2012,Bengals,220.0,231.0,2276.0,843.0,17.0,15.0,2112.0,1065.0,3119.0,3177.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
-122,12,Sun,1.0,5.0,1.0,Oakland Raiders,2012,Bengals,248.0,237.0,2496.0,1032.0,17.0,16.0,2283.0,1178.0,3528.0,3461.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
-123,13,Sun,1.0,6.0,0.0,San Diego Chargers,2012,Bengals,282.0,247.0,2690.0,1253.0,17.0,18.0,2402.0,1277.0,3943.0,3679.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
-124,14,Sun,0.0,7.0,1.0,Dallas Cowboys,2012,Bengals,302.0,260.0,2901.0,1381.0,20.0,20.0,2653.0,1323.0,4282.0,3976.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
-125,15,Thu,1.0,7.0,0.0,Philadelphia Eagles,2012,Bengals,321.0,280.0,3091.0,1527.0,21.0,21.0,2892.0,1372.0,4618.0,4264.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
-126,16,Sun,1.0,8.0,0.0,Pittsburgh Steelers,2012,Bengals,355.0,293.0,3183.0,1684.0,23.0,26.0,3069.0,1414.0,4867.0,4483.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
-127,17,Sun,1.0,9.0,1.0,Baltimore Ravens,2012,Bengals,368.0,303.0,3436.0,1698.0,26.0,29.0,3254.0,1509.0,5134.0,4763.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
-128,1,Sun,1.0,0.0,0.0,Cleveland Browns,2011,Bengals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
-129,2,Sun,0.0,1.0,0.0,Denver Broncos,2011,Bengals,27.0,17.0,155.0,139.0,0.0,1.0,202.0,83.0,294.0,285.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
-130,3,Sun,0.0,1.0,1.0,San Francisco 49ers,2011,Bengals,49.0,41.0,465.0,211.0,0.0,3.0,389.0,214.0,676.0,603.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
-131,4,Sun,1.0,1.0,1.0,Buffalo Bills,2011,Bengals,57.0,54.0,614.0,290.0,3.0,4.0,565.0,264.0,904.0,829.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
-132,5,Sun,1.0,2.0,0.0,Jacksonville Jaguars,2011,Bengals,80.0,74.0,901.0,461.0,5.0,4.0,755.0,347.0,1362.0,1102.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
-133,6,Sun,1.0,3.0,1.0,Indianapolis Colts,2011,Bengals,110.0,94.0,1063.0,538.0,6.0,6.0,955.0,443.0,1601.0,1398.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
-134,8,Sun,1.0,4.0,0.0,Seattle Seahawks,2011,Bengals,137.0,111.0,1327.0,632.0,6.0,9.0,1134.0,537.0,1959.0,1671.0,1,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
-135,9,Sun,1.0,5.0,0.0,Tennessee Titans,2011,Bengals,171.0,123.0,1487.0,724.0,8.0,11.0,1484.0,598.0,2211.0,2082.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
-136,10,Sun,0.0,6.0,1.0,Pittsburgh Steelers,2011,Bengals,195.0,140.0,1697.0,833.0,8.0,12.0,1734.0,676.0,2530.0,2410.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
-137,11,Sun,0.0,6.0,0.0,Baltimore Ravens,2011,Bengals,212.0,164.0,1867.0,942.0,10.0,13.0,1957.0,781.0,2809.0,2738.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
-138,12,Sun,1.0,6.0,1.0,Cleveland Browns,2011,Bengals,236.0,195.0,2231.0,1061.0,13.0,14.0,2225.0,886.0,3292.0,3111.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
-139,13,Sun,0.0,7.0,0.0,Pittsburgh Steelers,2011,Bengals,259.0,215.0,2488.0,1193.0,14.0,15.0,2365.0,1020.0,3681.0,3385.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
-140,14,Sun,0.0,7.0,1.0,Houston Texans,2011,Bengals,266.0,250.0,2616.0,1297.0,16.0,15.0,2524.0,1156.0,3913.0,3680.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
-141,15,Sun,1.0,7.0,0.0,St. Louis Rams,2011,Bengals,285.0,270.0,2800.0,1398.0,18.0,19.0,2792.0,1300.0,4198.0,4092.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
-142,16,Sat,1.0,8.0,1.0,Arizona Cardinals,2011,Bengals,305.0,283.0,2973.0,1508.0,19.0,19.0,3002.0,1395.0,4481.0,4397.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
-143,17,Sun,0.0,9.0,1.0,Baltimore Ravens,2011,Bengals,328.0,299.0,3109.0,1673.0,21.0,22.0,3259.0,1454.0,4782.0,4713.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
-144,1,Sun,0.0,0.0,0.0,New England Patriots,2010,Bengals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Marvin Lewis,Bob Bratkowski,Mike Zimmer,Carson Palmer
-145,2,Sun,1.0,0.0,1.0,Baltimore Ravens,2010,Bengals,24.0,38.0,341.0,87.0,2.0,0.0,258.0,118.0,428.0,376.0,0,Marvin Lewis,Bob Bratkowski,Mike Zimmer,Carson Palmer
-146,3,Sun,1.0,1.0,0.0,Carolina Panthers,2010,Bengals,39.0,48.0,500.0,181.0,2.0,4.0,408.0,227.0,681.0,635.0,0,Marvin Lewis,Bob Bratkowski,Mike Zimmer,Carson Palmer
-147,4,Sun,0.0,2.0,0.0,Cleveland Browns,2010,Bengals,59.0,55.0,685.0,301.0,4.0,8.0,588.0,314.0,986.0,902.0,0,Marvin Lewis,Bob Bratkowski,Mike Zimmer,Carson Palmer
-148,5,Sun,0.0,2.0,1.0,Tampa Bay Buccaneers,2010,Bengals,79.0,78.0,1031.0,368.0,6.0,9.0,767.0,430.0,1399.0,1197.0,0,Marvin Lewis,Bob Bratkowski,Mike Zimmer,Carson Palmer
-149,7,Sun,0.0,2.0,0.0,Atlanta Falcons,2010,Bengals,100.0,102.0,1240.0,517.0,10.0,12.0,1033.0,555.0,1757.0,1588.0,1,Marvin Lewis,Bob Bratkowski,Mike Zimmer,Carson Palmer
-150,8,Sun,0.0,2.0,1.0,Miami Dolphins,2010,Bengals,132.0,141.0,1625.0,601.0,11.0,14.0,1332.0,708.0,2226.0,2040.0,0,Marvin Lewis,Bob Bratkowski,Mike Zimmer,Carson Palmer
-151,9,Mon,0.0,2.0,1.0,Pittsburgh Steelers,2010,Bengals,146.0,163.0,1781.0,707.0,12.0,16.0,1549.0,845.0,2488.0,2394.0,0,Marvin Lewis,Bob Bratkowski,Mike Zimmer,Carson Palmer
-152,10,Sun,0.0,2.0,0.0,Indianapolis Colts,2010,Bengals,167.0,190.0,1999.0,761.0,14.0,18.0,1742.0,966.0,2760.0,2708.0,0,Marvin Lewis,Bob Bratkowski,Mike Zimmer,Carson Palmer
-153,11,Sun,0.0,2.0,1.0,Buffalo Bills,2010,Bengals,184.0,213.0,2268.0,833.0,19.0,18.0,1922.0,1042.0,3101.0,2964.0,0,Marvin Lewis,Bob Bratkowski,Mike Zimmer,Carson Palmer
-154,12,Thu,0.0,2.0,0.0,New York Jets,2010,Bengals,215.0,262.0,2496.0,966.0,22.0,20.0,2230.0,1183.0,3462.0,3413.0,0,Marvin Lewis,Bob Bratkowski,Mike Zimmer,Carson Palmer
-155,13,Sun,0.0,2.0,1.0,New Orleans Saints,2010,Bengals,225.0,288.0,2613.0,1012.0,25.0,21.0,2379.0,1353.0,3625.0,3732.0,0,Marvin Lewis,Bob Bratkowski,Mike Zimmer,Carson Palmer
-156,14,Sun,0.0,2.0,0.0,Pittsburgh Steelers,2010,Bengals,255.0,322.0,2828.0,1108.0,25.0,22.0,2669.0,1499.0,3936.0,4168.0,0,Marvin Lewis,Bob Bratkowski,Mike Zimmer,Carson Palmer
-157,15,Sun,1.0,2.0,1.0,Cleveland Browns,2010,Bengals,262.0,345.0,2984.0,1142.0,28.0,22.0,2900.0,1622.0,4126.0,4522.0,0,Marvin Lewis,Bob Bratkowski,Mike Zimmer,Carson Palmer
-158,16,Sun,1.0,3.0,1.0,San Diego Chargers,2010,Bengals,281.0,362.0,3193.0,1330.0,28.0,22.0,3119.0,1681.0,4523.0,4800.0,0,Marvin Lewis,Bob Bratkowski,Mike Zimmer,Carson Palmer
-159,17,Sun,0.0,4.0,0.0,Baltimore Ravens,2010,Bengals,315.0,382.0,3462.0,1432.0,29.0,24.0,3368.0,1745.0,4894.0,5113.0,0,Marvin Lewis,Bob Bratkowski,Mike Zimmer,Carson Palmer
+0,1,Sun,0.0,0.0,1.0,Los Angeles Chargers,2020,Bengals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Zac Taylor,Brian Callahan,Lou Anarumo,Joe Burrow
+1,2,Thu,0.0,0.0,0.0,Cleveland Browns,2020,Bengals,13.0,16.0,173.0,122.0,2.0,0.0,207.0,155.0,295.0,362.0,0,Zac Taylor,Brian Callahan,Lou Anarumo,Joe Burrow
+2,3,Sun,0.0,0.0,0.0,Philadelphia Eagles,2020,Bengals,43.0,51.0,458.0,190.0,3.0,1.0,426.0,370.0,648.0,796.0,0,Zac Taylor,Brian Callahan,Lou Anarumo,Joe Burrow
+3,4,Sun,1.0,0.0,1.0,Jacksonville Jaguars,2020,Bengals,66.0,74.0,714.0,238.0,3.0,3.0,632.0,545.0,952.0,1177.0,0,Zac Taylor,Brian Callahan,Lou Anarumo,Joe Burrow
+4,5,Sun,,,0.0,Baltimore Ravens,2020,Bengals,99.0,99.0,1014.0,443.0,4.0,4.0,972.0,634.0,1457.0,1606.0,0,Zac Taylor,Brian Callahan,Lou Anarumo,Joe Burrow
+5,6,Sun,,,0.0,Indianapolis Colts,2020,Bengals,99.0,99.0,1014.0,443.0,4.0,4.0,972.0,634.0,1457.0,1606.0,0,Zac Taylor,Brian Callahan,Lou Anarumo,Joe Burrow
+6,7,Sun,,,1.0,Cleveland Browns,2020,Bengals,99.0,99.0,1014.0,443.0,4.0,4.0,972.0,634.0,1457.0,1606.0,0,Zac Taylor,Brian Callahan,Lou Anarumo,Joe Burrow
+7,8,Sun,,,1.0,Tennessee Titans,2020,Bengals,99.0,99.0,1014.0,443.0,4.0,4.0,972.0,634.0,1457.0,1606.0,0,Zac Taylor,Brian Callahan,Lou Anarumo,Joe Burrow
+8,10,Sun,,,0.0,Pittsburgh Steelers,2020,Bengals,99.0,99.0,1014.0,443.0,4.0,4.0,972.0,634.0,1457.0,1606.0,1,Zac Taylor,Brian Callahan,Lou Anarumo,Joe Burrow
+9,11,Sun,,,0.0,Washington Football Team,2020,Bengals,99.0,99.0,1014.0,443.0,4.0,4.0,972.0,634.0,1457.0,1606.0,0,Zac Taylor,Brian Callahan,Lou Anarumo,Joe Burrow
+10,12,Sun,,,1.0,New York Giants,2020,Bengals,99.0,99.0,1014.0,443.0,4.0,4.0,972.0,634.0,1457.0,1606.0,0,Zac Taylor,Brian Callahan,Lou Anarumo,Joe Burrow
+11,13,Sun,,,0.0,Miami Dolphins,2020,Bengals,99.0,99.0,1014.0,443.0,4.0,4.0,972.0,634.0,1457.0,1606.0,0,Zac Taylor,Brian Callahan,Lou Anarumo,Joe Burrow
+12,14,Sun,,,1.0,Dallas Cowboys,2020,Bengals,99.0,99.0,1014.0,443.0,4.0,4.0,972.0,634.0,1457.0,1606.0,0,Zac Taylor,Brian Callahan,Lou Anarumo,Joe Burrow
+13,15,Mon,,,1.0,Pittsburgh Steelers,2020,Bengals,99.0,99.0,1014.0,443.0,4.0,4.0,972.0,634.0,1457.0,1606.0,0,Zac Taylor,Brian Callahan,Lou Anarumo,Joe Burrow
+14,16,Sun,,,0.0,Houston Texans,2020,Bengals,99.0,99.0,1014.0,443.0,4.0,4.0,972.0,634.0,1457.0,1606.0,0,Zac Taylor,Brian Callahan,Lou Anarumo,Joe Burrow
+15,17,Sun,,,1.0,Baltimore Ravens,2020,Bengals,99.0,99.0,1014.0,443.0,4.0,4.0,972.0,634.0,1457.0,1606.0,0,Zac Taylor,Brian Callahan,Lou Anarumo,Joe Burrow
+16,1,Sun,0.0,0.0,0.0,Seattle Seahawks,2019,Bengals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Zac Taylor,Brian Callahan,Lou Anarumo,Andy Dalton
+17,2,Sun,0.0,0.0,1.0,San Francisco 49ers,2019,Bengals,20.0,21.0,395.0,34.0,3.0,1.0,160.0,72.0,429.0,232.0,0,Zac Taylor,Brian Callahan,Lou Anarumo,Andy Dalton
+18,3,Sun,0.0,0.0,0.0,Buffalo Bills,2019,Bengals,37.0,62.0,686.0,59.0,4.0,2.0,472.0,331.0,745.0,803.0,0,Zac Taylor,Brian Callahan,Lou Anarumo,Andy Dalton
+19,4,Mon,0.0,0.0,0.0,Pittsburgh Steelers,2019,Bengals,54.0,83.0,926.0,125.0,8.0,4.0,713.0,506.0,1051.0,1219.0,0,Zac Taylor,Brian Callahan,Lou Anarumo,Andy Dalton
+20,5,Sun,0.0,0.0,1.0,Arizona Cardinals,2019,Bengals,57.0,110.0,1028.0,198.0,10.0,5.0,973.0,572.0,1226.0,1545.0,0,Zac Taylor,Brian Callahan,Lou Anarumo,Andy Dalton
+21,6,Sun,0.0,0.0,0.0,Baltimore Ravens,2019,Bengals,80.0,136.0,1290.0,306.0,10.0,5.0,1221.0,838.0,1596.0,2059.0,0,Zac Taylor,Brian Callahan,Lou Anarumo,Andy Dalton
+22,7,Sun,0.0,0.0,1.0,Jacksonville Jaguars,2019,Bengals,97.0,159.0,1507.0,339.0,11.0,6.0,1449.0,1107.0,1846.0,2556.0,0,Zac Taylor,Brian Callahan,Lou Anarumo,Andy Dalton
+23,8,Sun,0.0,0.0,0.0,Los Angeles Rams,2019,Bengals,114.0,186.0,1765.0,372.0,15.0,6.0,1693.0,1323.0,2137.0,3016.0,0,Zac Taylor,Brian Callahan,Lou Anarumo,Andy Dalton
+24,10,Sun,0.0,0.0,1.0,Baltimore Ravens,2019,Bengals,124.0,210.0,2062.0,476.0,15.0,6.0,2065.0,1421.0,2538.0,3486.0,1,Zac Taylor,Brian Callahan,Lou Anarumo,Andy Dalton
+25,11,Sun,0.0,0.0,0.0,Oakland Raiders,2019,Bengals,137.0,259.0,2212.0,633.0,18.0,7.0,2308.0,1557.0,2845.0,3865.0,0,Zac Taylor,Brian Callahan,Lou Anarumo,Andy Dalton
+26,12,Sun,0.0,0.0,1.0,Pittsburgh Steelers,2019,Bengals,147.0,276.0,2285.0,806.0,20.0,9.0,2581.0,1670.0,3091.0,4251.0,0,Zac Taylor,Brian Callahan,Lou Anarumo,Andy Dalton
+27,13,Sun,1.0,0.0,1.0,New York Jets,2019,Bengals,157.0,292.0,2443.0,892.0,22.0,10.0,2760.0,1829.0,3335.0,4589.0,0,Zac Taylor,Brian Callahan,Lou Anarumo,Andy Dalton
+28,14,Sun,0.0,1.0,0.0,Cleveland Browns,2019,Bengals,179.0,298.0,2676.0,936.0,22.0,10.0,2969.0,1891.0,3612.0,4860.0,0,Zac Taylor,Brian Callahan,Lou Anarumo,Andy Dalton
+29,15,Sun,0.0,1.0,1.0,New England Patriots,2019,Bengals,198.0,325.0,2948.0,1115.0,23.0,12.0,3156.0,2037.0,4063.0,5193.0,0,Zac Taylor,Brian Callahan,Lou Anarumo,Andy Dalton
+30,16,Sun,0.0,1.0,0.0,Miami Dolphins,2019,Bengals,211.0,359.0,3099.0,1279.0,28.0,12.0,3272.0,2212.0,4378.0,5484.0,0,Zac Taylor,Brian Callahan,Lou Anarumo,Andy Dalton
+31,17,Sun,1.0,1.0,1.0,Cleveland Browns,2019,Bengals,246.0,397.0,3470.0,1338.0,29.0,13.0,3678.0,2308.0,4808.0,5986.0,0,Zac Taylor,Brian Callahan,Lou Anarumo,Andy Dalton
+32,1,Sun,1.0,0.0,0.0,Indianapolis Colts,2018,Bengals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Marvin Lewis,Bill Lazor,Teryl Austin,Andy Dalton
+33,2,Thu,1.0,1.0,1.0,Baltimore Ravens,2018,Bengals,34.0,23.0,229.0,101.0,2.0,2.0,305.0,75.0,330.0,380.0,0,Marvin Lewis,Bill Lazor,Teryl Austin,Andy Dalton
+34,3,Sun,0.0,2.0,0.0,Carolina Panthers,2018,Bengals,68.0,46.0,494.0,209.0,2.0,5.0,664.0,141.0,703.0,805.0,0,Marvin Lewis,Bill Lazor,Teryl Austin,Andy Dalton
+35,4,Sun,1.0,2.0,0.0,Atlanta Falcons,2018,Bengals,89.0,77.0,824.0,275.0,6.0,5.0,811.0,371.0,1099.0,1182.0,0,Marvin Lewis,Bill Lazor,Teryl Austin,Andy Dalton
+36,5,Sun,1.0,3.0,1.0,Miami Dolphins,2018,Bengals,126.0,113.0,1132.0,374.0,7.0,5.0,1214.0,463.0,1506.0,1677.0,0,Marvin Lewis,Bill Lazor,Teryl Austin,Andy Dalton
+37,6,Sun,0.0,4.0,1.0,Pittsburgh Steelers,2018,Bengals,153.0,130.0,1361.0,477.0,8.0,8.0,1383.0,591.0,1838.0,1974.0,0,Marvin Lewis,Bill Lazor,Teryl Austin,Andy Dalton
+38,7,Sun,0.0,4.0,0.0,Kansas City Chiefs,2018,Bengals,174.0,158.0,1574.0,539.0,8.0,8.0,1752.0,703.0,2113.0,2455.0,0,Marvin Lewis,Bill Lazor,Teryl Austin,Andy Dalton
+39,8,Sun,1.0,4.0,1.0,Tampa Bay Buccaneers,2018,Bengals,184.0,203.0,1748.0,604.0,9.0,9.0,2105.0,901.0,2352.0,3006.0,0,Marvin Lewis,Bill Lazor,Teryl Austin,Andy Dalton
+40,10,Sun,0.0,5.0,1.0,New Orleans Saints,2018,Bengals,221.0,237.0,2012.0,742.0,9.0,13.0,2555.0,1027.0,2754.0,3582.0,1,Marvin Lewis,Bill Lazor,Teryl Austin,Andy Dalton
+41,11,Sun,0.0,5.0,0.0,Baltimore Ravens,2018,Bengals,235.0,288.0,2186.0,852.0,11.0,13.0,2820.0,1271.0,3038.0,4091.0,0,Marvin Lewis,Bill Lazor,Teryl Austin,Andy Dalton
+42,12,Sun,0.0,5.0,1.0,Cleveland Browns,2018,Bengals,256.0,312.0,2393.0,900.0,11.0,14.0,2956.0,1538.0,3293.0,4494.0,0,Marvin Lewis,Bill Lazor,Teryl Austin,Andy Dalton
+43,13,Sun,0.0,5.0,1.0,Denver Broncos,2018,Bengals,276.0,347.0,2636.0,1029.0,13.0,14.0,3214.0,1622.0,3665.0,4836.0,0,Marvin Lewis,Bill Lazor,Teryl Austin,Andy Dalton
+44,14,Sun,0.0,5.0,0.0,Los Angeles Chargers,2018,Bengals,286.0,371.0,2838.0,1140.0,16.0,15.0,3357.0,1840.0,3978.0,5197.0,0,Marvin Lewis,Bill Lazor,Teryl Austin,Andy Dalton
+45,15,Sun,1.0,5.0,1.0,Oakland Raiders,2018,Bengals,307.0,397.0,2989.0,1284.0,16.0,15.0,3560.0,1925.0,4273.0,5485.0,0,Marvin Lewis,Bill Lazor,Teryl Austin,Andy Dalton
+46,16,Sun,0.0,6.0,0.0,Cleveland Browns,2018,Bengals,337.0,413.0,3112.0,1455.0,17.0,17.0,3789.0,1993.0,4567.0,5782.0,0,Marvin Lewis,Bill Lazor,Teryl Austin,Andy Dalton
+47,17,Sun,0.0,6.0,0.0,Pittsburgh Steelers,2018,Bengals,355.0,439.0,3219.0,1557.0,17.0,17.0,4136.0,2139.0,4776.0,6275.0,0,Marvin Lewis,Bill Lazor,Teryl Austin,Andy Dalton
+48,1,Sun,0.0,0.0,1.0,Baltimore Ravens,2017,Bengals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
+49,2,Thu,0.0,0.0,1.0,Houston Texans,2017,Bengals,0.0,20.0,144.0,77.0,5.0,1.0,111.0,157.0,221.0,268.0,0,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
+50,3,Sun,0.0,0.0,0.0,Green Bay Packers,2017,Bengals,9.0,33.0,357.0,159.0,6.0,1.0,209.0,325.0,516.0,534.0,0,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
+51,4,Sun,1.0,0.0,0.0,Cleveland Browns,2017,Bengals,33.0,60.0,548.0,269.0,7.0,2.0,489.0,389.0,817.0,878.0,0,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
+52,5,Sun,1.0,1.0,1.0,Buffalo Bills,2017,Bengals,64.0,67.0,812.0,355.0,8.0,3.0,659.0,434.0,1167.0,1093.0,0,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
+53,7,Sun,0.0,2.0,0.0,Pittsburgh Steelers,2017,Bengals,84.0,83.0,1135.0,420.0,11.0,4.0,798.0,516.0,1555.0,1314.0,1,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
+54,8,Sun,1.0,2.0,1.0,Indianapolis Colts,2017,Bengals,98.0,112.0,1243.0,491.0,13.0,4.0,1066.0,668.0,1734.0,1734.0,0,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
+55,9,Sun,0.0,3.0,0.0,Jacksonville Jaguars,2017,Bengals,122.0,135.0,1461.0,549.0,15.0,5.0,1282.0,783.0,2010.0,2065.0,0,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
+56,10,Sun,0.0,3.0,0.0,Tennessee Titans,2017,Bengals,129.0,158.0,1580.0,578.0,15.0,6.0,1541.0,932.0,2158.0,2473.0,0,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
+57,11,Sun,1.0,3.0,0.0,Denver Broncos,2017,Bengals,149.0,182.0,1835.0,631.0,17.0,8.0,1777.0,1112.0,2466.0,2889.0,0,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
+58,12,Sun,1.0,4.0,1.0,Cleveland Browns,2017,Bengals,169.0,199.0,1976.0,680.0,17.0,10.0,2006.0,1224.0,2656.0,3230.0,0,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
+59,13,Mon,0.0,5.0,1.0,Pittsburgh Steelers,2017,Bengals,199.0,215.0,2185.0,832.0,17.0,10.0,2242.0,1393.0,3017.0,3635.0,0,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
+60,14,Sun,0.0,5.0,1.0,Chicago Bears,2017,Bengals,219.0,238.0,2408.0,962.0,17.0,11.0,2524.0,1485.0,3370.0,4009.0,0,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
+61,15,Sun,0.0,5.0,0.0,Minnesota Vikings,2017,Bengals,226.0,271.0,2572.0,1032.0,19.0,11.0,2774.0,1717.0,3604.0,4491.0,0,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
+62,16,Sun,1.0,5.0,1.0,Detroit Lions,2017,Bengals,233.0,305.0,2687.0,1078.0,21.0,12.0,2996.0,1841.0,3765.0,4837.0,0,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
+63,17,Sun,1.0,6.0,0.0,Baltimore Ravens,2017,Bengals,259.0,322.0,2909.0,1220.0,22.0,13.0,3185.0,1928.0,4129.0,5113.0,0,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
+64,1,Sun,1.0,0.0,0.0,New York Jets,2016,Bengals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
+65,2,Sun,0.0,1.0,0.0,Pittsburgh Steelers,2016,Bengals,23.0,22.0,324.0,57.0,1.0,1.0,188.0,152.0,381.0,340.0,0,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
+66,3,Sun,0.0,1.0,1.0,Denver Broncos,2016,Bengals,39.0,46.0,690.0,103.0,3.0,3.0,438.0,276.0,793.0,714.0,0,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
+67,4,Thu,1.0,1.0,1.0,Miami Dolphins,2016,Bengals,56.0,75.0,879.0,246.0,5.0,4.0,741.0,328.0,1125.0,1069.0,0,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
+68,5,Sun,0.0,2.0,0.0,Dallas Cowboys,2016,Bengals,78.0,82.0,1164.0,323.0,5.0,6.0,901.0,390.0,1487.0,1291.0,0,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
+69,6,Sun,0.0,2.0,0.0,New England Patriots,2016,Bengals,92.0,110.0,1413.0,419.0,5.0,7.0,1123.0,570.0,1832.0,1693.0,0,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
+70,7,Sun,1.0,2.0,1.0,Cleveland Browns,2016,Bengals,109.0,145.0,1650.0,539.0,5.0,7.0,1481.0,649.0,2189.0,2130.0,0,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
+71,8,Sun,0.0,3.0,1.0,Washington Redskins,2016,Bengals,140.0,162.0,1938.0,810.0,6.0,9.0,1653.0,829.0,2748.0,2482.0,0,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
+72,10,Mon,0.0,3.0,0.0,New York Giants,2016,Bengals,167.0,189.0,2201.0,962.0,8.0,10.0,2099.0,929.0,3163.0,3028.0,1,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
+73,11,Sun,0.0,3.0,1.0,Buffalo Bills,2016,Bengals,187.0,210.0,2387.0,1040.0,9.0,12.0,2328.0,1051.0,3427.0,3379.0,0,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
+74,12,Sun,0.0,3.0,0.0,Baltimore Ravens,2016,Bengals,199.0,226.0,2594.0,1133.0,11.0,13.0,2487.0,1234.0,3727.0,3721.0,0,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
+75,13,Sun,1.0,3.0,1.0,Philadelphia Eagles,2016,Bengals,213.0,245.0,2855.0,1197.0,13.0,14.0,2706.0,1326.0,4052.0,4032.0,0,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
+76,14,Sun,1.0,4.0,0.0,Cleveland Browns,2016,Bengals,245.0,259.0,3187.0,1277.0,15.0,17.0,3012.0,1379.0,4464.0,4391.0,0,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
+77,15,Sun,0.0,5.0,1.0,Pittsburgh Steelers,2016,Bengals,268.0,269.0,3334.0,1490.0,15.0,18.0,3097.0,1548.0,4824.0,4645.0,0,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
+78,16,Sat,0.0,5.0,0.0,Houston Texans,2016,Bengals,288.0,293.0,3480.0,1566.0,16.0,18.0,3382.0,1645.0,5046.0,5027.0,0,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
+79,17,Sun,1.0,5.0,1.0,Baltimore Ravens,2016,Bengals,298.0,305.0,3724.0,1616.0,17.0,18.0,3537.0,1740.0,5340.0,5277.0,0,Marvin Lewis,Ken Zampese,Paul Guenther,Andy Dalton
+80,1,Sun,1.0,0.0,0.0,Oakland Raiders,2015,Bengals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
+81,2,Sun,1.0,1.0,1.0,San Diego Chargers,2015,Bengals,33.0,13.0,269.0,127.0,0.0,2.0,183.0,63.0,396.0,246.0,0,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
+82,3,Sun,1.0,2.0,0.0,Baltimore Ravens,2015,Bengals,57.0,32.0,483.0,302.0,2.0,5.0,406.0,194.0,785.0,600.0,0,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
+83,4,Sun,1.0,3.0,1.0,Kansas City Chiefs,2015,Bengals,85.0,56.0,855.0,388.0,4.0,6.0,768.0,230.0,1243.0,998.0,0,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
+84,5,Sun,1.0,4.0,1.0,Seattle Seahawks,2015,Bengals,121.0,77.0,1176.0,512.0,4.0,7.0,1116.0,343.0,1688.0,1459.0,0,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
+85,6,Sun,1.0,5.0,0.0,Buffalo Bills,2015,Bengals,148.0,101.0,1486.0,621.0,6.0,8.0,1313.0,543.0,2107.0,1856.0,0,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
+86,8,Sun,1.0,6.0,0.0,Pittsburgh Steelers,2015,Bengals,182.0,122.0,1729.0,733.0,6.0,9.0,1569.0,655.0,2462.0,2224.0,1,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
+87,9,Thu,1.0,7.0,1.0,Cleveland Browns,2015,Bengals,198.0,132.0,1947.0,811.0,8.0,12.0,1809.0,771.0,2758.0,2580.0,0,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
+88,10,Mon,0.0,8.0,1.0,Houston Texans,2015,Bengals,229.0,142.0,2166.0,963.0,8.0,12.0,1953.0,840.0,3129.0,2793.0,0,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
+89,11,Sun,0.0,8.0,0.0,Arizona Cardinals,2015,Bengals,235.0,152.0,2348.0,1037.0,10.0,13.0,2127.0,922.0,3385.0,3049.0,0,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
+90,12,Sun,1.0,8.0,1.0,St. Louis Rams,2015,Bengals,266.0,186.0,2626.0,1136.0,11.0,15.0,2428.0,1004.0,3762.0,3432.0,0,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
+91,13,Sun,1.0,9.0,0.0,Cleveland Browns,2015,Bengals,297.0,193.0,2862.0,1276.0,12.0,18.0,2679.0,1098.0,4138.0,3777.0,0,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
+92,14,Sun,0.0,10.0,1.0,Pittsburgh Steelers,2015,Bengals,334.0,196.0,3095.0,1420.0,12.0,20.0,2884.0,1166.0,4515.0,4050.0,0,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
+93,15,Sun,1.0,10.0,0.0,San Francisco 49ers,2015,Bengals,354.0,229.0,3416.0,1484.0,15.0,21.0,3154.0,1250.0,4900.0,4404.0,0,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
+94,16,Mon,0.0,11.0,0.0,Denver Broncos,2015,Bengals,378.0,243.0,3590.0,1552.0,16.0,25.0,3417.0,1305.0,5142.0,4722.0,0,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
+95,17,Sun,1.0,11.0,1.0,Baltimore Ravens,2015,Bengals,395.0,263.0,3776.0,1660.0,17.0,26.0,3694.0,1418.0,5436.0,5112.0,0,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
+96,1,Sun,1.0,0.0,0.0,Baltimore Ravens,2014,Bengals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
+97,2,Sun,1.0,1.0,1.0,Atlanta Falcons,2014,Bengals,23.0,16.0,301.0,79.0,0.0,2.0,329.0,94.0,380.0,423.0,0,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
+98,3,Sun,1.0,2.0,1.0,Tennessee Titans,2014,Bengals,47.0,26.0,603.0,249.0,0.0,5.0,541.0,191.0,852.0,732.0,0,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
+99,5,Sun,0.0,3.0,0.0,New England Patriots,2014,Bengals,80.0,33.0,787.0,365.0,1.0,7.0,718.0,340.0,1152.0,1058.0,1,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
+100,6,Sun,0.0,3.0,1.0,Carolina Panthers,2014,Bengals,97.0,76.0,1028.0,444.0,4.0,7.0,1003.0,560.0,1472.0,1563.0,0,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
+101,7,Sun,0.0,3.0,0.0,Indianapolis Colts,2014,Bengals,134.0,113.0,1348.0,637.0,6.0,8.0,1287.0,707.0,1985.0,1994.0,0,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
+102,8,Sun,1.0,3.0,1.0,Baltimore Ravens,2014,Bengals,134.0,140.0,1451.0,669.0,6.0,10.0,1622.0,878.0,2120.0,2500.0,0,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
+103,9,Sun,1.0,4.0,1.0,Jacksonville Jaguars,2014,Bengals,161.0,164.0,1690.0,780.0,8.0,12.0,1809.0,985.0,2470.0,2794.0,0,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
+104,10,Thu,0.0,5.0,1.0,Cleveland Browns,2014,Bengals,194.0,187.0,1922.0,971.0,10.0,13.0,2042.0,1117.0,2893.0,3159.0,0,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
+105,11,Sun,1.0,5.0,0.0,New Orleans Saints,2014,Bengals,197.0,211.0,2001.0,1057.0,14.0,14.0,2240.0,1287.0,3058.0,3527.0,0,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
+106,12,Sun,1.0,6.0,0.0,Houston Texans,2014,Bengals,224.0,221.0,2220.0,1243.0,14.0,15.0,2495.0,1362.0,3463.0,3857.0,0,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
+107,13,Sun,1.0,7.0,0.0,Tampa Bay Buccaneers,2014,Bengals,246.0,234.0,2453.0,1382.0,15.0,16.0,2679.0,1426.0,3835.0,4105.0,0,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
+108,14,Sun,0.0,8.0,1.0,Pittsburgh Steelers,2014,Bengals,260.0,247.0,2629.0,1494.0,18.0,17.0,2867.0,1501.0,4123.0,4368.0,0,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
+109,15,Sun,1.0,8.0,0.0,Cleveland Browns,2014,Bengals,281.0,289.0,2951.0,1580.0,20.0,17.0,3217.0,1694.0,4531.0,4911.0,0,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
+110,16,Mon,1.0,9.0,1.0,Denver Broncos,2014,Bengals,311.0,289.0,3054.0,1824.0,21.0,19.0,3271.0,1747.0,4878.0,5018.0,0,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
+111,17,Sun,0.0,10.0,0.0,Pittsburgh Steelers,2014,Bengals,348.0,317.0,3200.0,2031.0,23.0,23.0,3571.0,1832.0,5231.0,5403.0,0,Marvin Lewis,Hue Jackson,Paul Guenther,Andy Dalton
+112,1,Sun,0.0,0.0,0.0,Chicago Bears,2013,Bengals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
+113,2,Mon,1.0,0.0,1.0,Pittsburgh Steelers,2013,Bengals,21.0,24.0,277.0,63.0,3.0,1.0,242.0,81.0,340.0,323.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
+114,3,Sun,1.0,1.0,1.0,Green Bay Packers,2013,Bengals,41.0,34.0,557.0,190.0,3.0,3.0,476.0,125.0,747.0,601.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
+115,4,Sun,0.0,2.0,0.0,Cleveland Browns,2013,Bengals,75.0,64.0,772.0,272.0,7.0,7.0,693.0,307.0,1044.0,1000.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
+116,5,Sun,1.0,2.0,1.0,New England Patriots,2013,Bengals,81.0,81.0,975.0,335.0,9.0,7.0,940.0,396.0,1310.0,1336.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
+117,6,Sun,1.0,3.0,0.0,Buffalo Bills,2013,Bengals,94.0,87.0,1154.0,497.0,11.0,9.0,1106.0,478.0,1651.0,1584.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
+118,7,Sun,1.0,4.0,0.0,Detroit Lions,2013,Bengals,121.0,111.0,1472.0,662.0,12.0,10.0,1298.0,608.0,2134.0,1906.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
+119,8,Sun,1.0,5.0,1.0,New York Jets,2013,Bengals,148.0,135.0,1836.0,719.0,12.0,10.0,1655.0,685.0,2555.0,2340.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
+120,9,Thu,0.0,6.0,0.0,Miami Dolphins,2013,Bengals,197.0,144.0,2159.0,798.0,13.0,12.0,1802.0,778.0,2957.0,2580.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
+121,10,Sun,0.0,6.0,0.0,Baltimore Ravens,2013,Bengals,217.0,166.0,2461.0,961.0,17.0,13.0,1990.0,935.0,3422.0,2925.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
+122,11,Sun,1.0,6.0,1.0,Cleveland Browns,2013,Bengals,234.0,186.0,2705.0,1081.0,20.0,16.0,2094.0,1020.0,3786.0,3114.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
+123,13,Sun,1.0,7.0,0.0,San Diego Chargers,2013,Bengals,275.0,206.0,2823.0,1187.0,22.0,20.0,2322.0,1122.0,4010.0,3444.0,1,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
+124,14,Sun,1.0,8.0,1.0,Indianapolis Colts,2013,Bengals,292.0,216.0,3013.0,1351.0,24.0,23.0,2565.0,1213.0,4364.0,3778.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
+125,15,Sun,0.0,9.0,0.0,Pittsburgh Steelers,2013,Bengals,334.0,244.0,3288.0,1506.0,24.0,23.0,2891.0,1276.0,4794.0,4167.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
+126,16,Sun,1.0,9.0,1.0,Minnesota Vikings,2013,Bengals,354.0,274.0,3510.0,1563.0,25.0,24.0,3075.0,1382.0,5073.0,4457.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
+127,17,Sun,1.0,10.0,1.0,Baltimore Ravens,2013,Bengals,396.0,288.0,3855.0,1644.0,26.0,28.0,3169.0,1497.0,5499.0,4666.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
+128,1,Mon,0.0,0.0,0.0,Baltimore Ravens,2012,Bengals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
+129,2,Sun,1.0,0.0,1.0,Cleveland Browns,2012,Bengals,13.0,44.0,193.0,129.0,2.0,0.0,308.0,122.0,322.0,430.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
+130,3,Sun,1.0,1.0,0.0,Washington Redskins,2012,Bengals,47.0,71.0,488.0,209.0,3.0,1.0,617.0,252.0,697.0,869.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
+131,4,Sun,1.0,2.0,0.0,Jacksonville Jaguars,2012,Bengals,85.0,102.0,873.0,302.0,5.0,2.0,796.0,454.0,1175.0,1250.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
+132,5,Sun,0.0,3.0,1.0,Miami Dolphins,2012,Bengals,112.0,112.0,1117.0,440.0,7.0,4.0,939.0,523.0,1557.0,1462.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
+133,6,Sun,0.0,3.0,0.0,Cleveland Browns,2012,Bengals,125.0,129.0,1335.0,520.0,10.0,6.0,1150.0,591.0,1855.0,1741.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
+134,7,Sun,0.0,3.0,1.0,Pittsburgh Steelers,2012,Bengals,149.0,163.0,1697.0,596.0,14.0,7.0,1368.0,701.0,2293.0,2069.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
+135,9,Sun,0.0,3.0,1.0,Denver Broncos,2012,Bengals,166.0,187.0,1802.0,676.0,15.0,9.0,1632.0,868.0,2478.0,2500.0,1,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
+136,10,Sun,1.0,3.0,1.0,New York Giants,2012,Bengals,189.0,218.0,2077.0,767.0,16.0,11.0,1923.0,936.0,2844.0,2859.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
+137,11,Sun,1.0,4.0,0.0,Kansas City Chiefs,2012,Bengals,220.0,231.0,2276.0,843.0,17.0,15.0,2112.0,1065.0,3119.0,3177.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
+138,12,Sun,1.0,5.0,1.0,Oakland Raiders,2012,Bengals,248.0,237.0,2496.0,1032.0,17.0,16.0,2283.0,1178.0,3528.0,3461.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
+139,13,Sun,1.0,6.0,0.0,San Diego Chargers,2012,Bengals,282.0,247.0,2690.0,1253.0,17.0,18.0,2402.0,1277.0,3943.0,3679.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
+140,14,Sun,0.0,7.0,1.0,Dallas Cowboys,2012,Bengals,302.0,260.0,2901.0,1381.0,20.0,20.0,2653.0,1323.0,4282.0,3976.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
+141,15,Thu,1.0,7.0,0.0,Philadelphia Eagles,2012,Bengals,321.0,280.0,3091.0,1527.0,21.0,21.0,2892.0,1372.0,4618.0,4264.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
+142,16,Sun,1.0,8.0,0.0,Pittsburgh Steelers,2012,Bengals,355.0,293.0,3183.0,1684.0,23.0,26.0,3069.0,1414.0,4867.0,4483.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
+143,17,Sun,1.0,9.0,1.0,Baltimore Ravens,2012,Bengals,368.0,303.0,3436.0,1698.0,26.0,29.0,3254.0,1509.0,5134.0,4763.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
+144,1,Sun,1.0,0.0,0.0,Cleveland Browns,2011,Bengals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
+145,2,Sun,0.0,1.0,0.0,Denver Broncos,2011,Bengals,27.0,17.0,155.0,139.0,0.0,1.0,202.0,83.0,294.0,285.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
+146,3,Sun,0.0,1.0,1.0,San Francisco 49ers,2011,Bengals,49.0,41.0,465.0,211.0,0.0,3.0,389.0,214.0,676.0,603.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
+147,4,Sun,1.0,1.0,1.0,Buffalo Bills,2011,Bengals,57.0,54.0,614.0,290.0,3.0,4.0,565.0,264.0,904.0,829.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
+148,5,Sun,1.0,2.0,0.0,Jacksonville Jaguars,2011,Bengals,80.0,74.0,901.0,461.0,5.0,4.0,755.0,347.0,1362.0,1102.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
+149,6,Sun,1.0,3.0,1.0,Indianapolis Colts,2011,Bengals,110.0,94.0,1063.0,538.0,6.0,6.0,955.0,443.0,1601.0,1398.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
+150,8,Sun,1.0,4.0,0.0,Seattle Seahawks,2011,Bengals,137.0,111.0,1327.0,632.0,6.0,9.0,1134.0,537.0,1959.0,1671.0,1,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
+151,9,Sun,1.0,5.0,0.0,Tennessee Titans,2011,Bengals,171.0,123.0,1487.0,724.0,8.0,11.0,1484.0,598.0,2211.0,2082.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
+152,10,Sun,0.0,6.0,1.0,Pittsburgh Steelers,2011,Bengals,195.0,140.0,1697.0,833.0,8.0,12.0,1734.0,676.0,2530.0,2410.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
+153,11,Sun,0.0,6.0,0.0,Baltimore Ravens,2011,Bengals,212.0,164.0,1867.0,942.0,10.0,13.0,1957.0,781.0,2809.0,2738.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
+154,12,Sun,1.0,6.0,1.0,Cleveland Browns,2011,Bengals,236.0,195.0,2231.0,1061.0,13.0,14.0,2225.0,886.0,3292.0,3111.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
+155,13,Sun,0.0,7.0,0.0,Pittsburgh Steelers,2011,Bengals,259.0,215.0,2488.0,1193.0,14.0,15.0,2365.0,1020.0,3681.0,3385.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
+156,14,Sun,0.0,7.0,1.0,Houston Texans,2011,Bengals,266.0,250.0,2616.0,1297.0,16.0,15.0,2524.0,1156.0,3913.0,3680.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
+157,15,Sun,1.0,7.0,0.0,St. Louis Rams,2011,Bengals,285.0,270.0,2800.0,1398.0,18.0,19.0,2792.0,1300.0,4198.0,4092.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
+158,16,Sat,1.0,8.0,1.0,Arizona Cardinals,2011,Bengals,305.0,283.0,2973.0,1508.0,19.0,19.0,3002.0,1395.0,4481.0,4397.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
+159,17,Sun,0.0,9.0,1.0,Baltimore Ravens,2011,Bengals,328.0,299.0,3109.0,1673.0,21.0,22.0,3259.0,1454.0,4782.0,4713.0,0,Marvin Lewis,Jay Gruden,Mike Zimmer,Andy Dalton
+160,1,Sun,0.0,0.0,0.0,New England Patriots,2010,Bengals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Marvin Lewis,Bob Bratkowski,Mike Zimmer,Carson Palmer
+161,2,Sun,1.0,0.0,1.0,Baltimore Ravens,2010,Bengals,24.0,38.0,341.0,87.0,2.0,0.0,258.0,118.0,428.0,376.0,0,Marvin Lewis,Bob Bratkowski,Mike Zimmer,Carson Palmer
+162,3,Sun,1.0,1.0,0.0,Carolina Panthers,2010,Bengals,39.0,48.0,500.0,181.0,2.0,4.0,408.0,227.0,681.0,635.0,0,Marvin Lewis,Bob Bratkowski,Mike Zimmer,Carson Palmer
+163,4,Sun,0.0,2.0,0.0,Cleveland Browns,2010,Bengals,59.0,55.0,685.0,301.0,4.0,8.0,588.0,314.0,986.0,902.0,0,Marvin Lewis,Bob Bratkowski,Mike Zimmer,Carson Palmer
+164,5,Sun,0.0,2.0,1.0,Tampa Bay Buccaneers,2010,Bengals,79.0,78.0,1031.0,368.0,6.0,9.0,767.0,430.0,1399.0,1197.0,0,Marvin Lewis,Bob Bratkowski,Mike Zimmer,Carson Palmer
+165,7,Sun,0.0,2.0,0.0,Atlanta Falcons,2010,Bengals,100.0,102.0,1240.0,517.0,10.0,12.0,1033.0,555.0,1757.0,1588.0,1,Marvin Lewis,Bob Bratkowski,Mike Zimmer,Carson Palmer
+166,8,Sun,0.0,2.0,1.0,Miami Dolphins,2010,Bengals,132.0,141.0,1625.0,601.0,11.0,14.0,1332.0,708.0,2226.0,2040.0,0,Marvin Lewis,Bob Bratkowski,Mike Zimmer,Carson Palmer
+167,9,Mon,0.0,2.0,1.0,Pittsburgh Steelers,2010,Bengals,146.0,163.0,1781.0,707.0,12.0,16.0,1549.0,845.0,2488.0,2394.0,0,Marvin Lewis,Bob Bratkowski,Mike Zimmer,Carson Palmer
+168,10,Sun,0.0,2.0,0.0,Indianapolis Colts,2010,Bengals,167.0,190.0,1999.0,761.0,14.0,18.0,1742.0,966.0,2760.0,2708.0,0,Marvin Lewis,Bob Bratkowski,Mike Zimmer,Carson Palmer
+169,11,Sun,0.0,2.0,1.0,Buffalo Bills,2010,Bengals,184.0,213.0,2268.0,833.0,19.0,18.0,1922.0,1042.0,3101.0,2964.0,0,Marvin Lewis,Bob Bratkowski,Mike Zimmer,Carson Palmer
+170,12,Thu,0.0,2.0,0.0,New York Jets,2010,Bengals,215.0,262.0,2496.0,966.0,22.0,20.0,2230.0,1183.0,3462.0,3413.0,0,Marvin Lewis,Bob Bratkowski,Mike Zimmer,Carson Palmer
+171,13,Sun,0.0,2.0,1.0,New Orleans Saints,2010,Bengals,225.0,288.0,2613.0,1012.0,25.0,21.0,2379.0,1353.0,3625.0,3732.0,0,Marvin Lewis,Bob Bratkowski,Mike Zimmer,Carson Palmer
+172,14,Sun,0.0,2.0,0.0,Pittsburgh Steelers,2010,Bengals,255.0,322.0,2828.0,1108.0,25.0,22.0,2669.0,1499.0,3936.0,4168.0,0,Marvin Lewis,Bob Bratkowski,Mike Zimmer,Carson Palmer
+173,15,Sun,1.0,2.0,1.0,Cleveland Browns,2010,Bengals,262.0,345.0,2984.0,1142.0,28.0,22.0,2900.0,1622.0,4126.0,4522.0,0,Marvin Lewis,Bob Bratkowski,Mike Zimmer,Carson Palmer
+174,16,Sun,1.0,3.0,1.0,San Diego Chargers,2010,Bengals,281.0,362.0,3193.0,1330.0,28.0,22.0,3119.0,1681.0,4523.0,4800.0,0,Marvin Lewis,Bob Bratkowski,Mike Zimmer,Carson Palmer
+175,17,Sun,0.0,4.0,0.0,Baltimore Ravens,2010,Bengals,315.0,382.0,3462.0,1432.0,29.0,24.0,3368.0,1745.0,4894.0,5113.0,0,Marvin Lewis,Bob Bratkowski,Mike Zimmer,Carson Palmer

@@ -1,161 +1,177 @@
 ,Week,Day,Results,Wins Tally,Home,Opp,year,Base_Team,PF Tally,PA Tally,OPassY Tally,ORushY Tally,TO_lost Tally,TO_won Tally,DPassY Tally,DRushY Tally,OTotYd Tally,DTotYd Tally,after_bye,Head_Coach,OC,DC,QB
-0,1,Mon,0.0,0.0,0.0,Oakland Raiders,2019,Broncos,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Vic Fangio,Rich Scangarello,Ed Donatell,Joe Flacco
-1,2,Sun,0.0,0.0,1.0,Chicago Bears,2019,Broncos,16.0,24.0,249.0,95.0,0.0,0.0,259.0,98.0,344.0,357.0,0,Vic Fangio,Rich Scangarello,Ed Donatell,Joe Flacco
-2,3,Sun,0.0,0.0,0.0,Green Bay Packers,2019,Broncos,30.0,40.0,531.0,185.0,1.0,0.0,379.0,251.0,716.0,630.0,0,Vic Fangio,Rich Scangarello,Ed Donatell,Joe Flacco
-3,4,Sun,0.0,0.0,1.0,Jacksonville Jaguars,2019,Broncos,46.0,67.0,692.0,334.0,4.0,0.0,614.0,328.0,1026.0,942.0,0,Vic Fangio,Rich Scangarello,Ed Donatell,Joe Flacco
-4,5,Sun,1.0,0.0,0.0,Los Angeles Chargers,2019,Broncos,70.0,93.0,995.0,402.0,5.0,0.0,800.0,597.0,1397.0,1397.0,0,Vic Fangio,Rich Scangarello,Ed Donatell,Joe Flacco
-5,6,Sun,1.0,1.0,1.0,Tennessee Titans,2019,Broncos,90.0,106.0,1154.0,593.0,7.0,3.0,1011.0,632.0,1747.0,1643.0,0,Vic Fangio,Rich Scangarello,Ed Donatell,Joe Flacco
-6,7,Thu,0.0,2.0,1.0,Kansas City Chiefs,2019,Broncos,106.0,106.0,1321.0,696.0,8.0,6.0,1176.0,671.0,2017.0,1847.0,0,Vic Fangio,Rich Scangarello,Ed Donatell,Joe Flacco
-7,8,Sun,0.0,2.0,0.0,Indianapolis Colts,2019,Broncos,112.0,136.0,1455.0,767.0,9.0,6.0,1367.0,751.0,2222.0,2118.0,0,Vic Fangio,Rich Scangarello,Ed Donatell,Joe Flacco
-8,9,Sun,1.0,2.0,1.0,Cleveland Browns,2019,Broncos,125.0,151.0,1621.0,880.0,9.0,7.0,1558.0,878.0,2501.0,2436.0,0,Vic Fangio,Rich Scangarello,Ed Donatell,Joe Flacco
-9,11,Sun,0.0,3.0,0.0,Minnesota Vikings,2019,Broncos,149.0,170.0,1796.0,1007.0,10.0,7.0,1819.0,968.0,2803.0,2787.0,1,Vic Fangio,Rich Scangarello,Ed Donatell,Joe Flacco
-10,12,Sun,0.0,3.0,0.0,Buffalo Bills,2019,Broncos,172.0,197.0,2066.0,1131.0,11.0,9.0,2103.0,1005.0,3197.0,3108.0,0,Vic Fangio,Rich Scangarello,Ed Donatell,Joe Flacco
-11,13,Sun,1.0,3.0,1.0,Los Angeles Chargers,2019,Broncos,175.0,217.0,2115.0,1216.0,12.0,10.0,2283.0,1249.0,3331.0,3532.0,0,Vic Fangio,Rich Scangarello,Ed Donatell,Joe Flacco
-12,14,Sun,1.0,4.0,0.0,Houston Texans,2019,Broncos,198.0,237.0,2249.0,1300.0,13.0,12.0,2527.0,1364.0,3549.0,3891.0,0,Vic Fangio,Rich Scangarello,Ed Donatell,Joe Flacco
-13,15,Sun,0.0,5.0,0.0,Kansas City Chiefs,2019,Broncos,236.0,261.0,2550.0,1390.0,14.0,15.0,2807.0,1498.0,3940.0,4305.0,0,Vic Fangio,Rich Scangarello,Ed Donatell,Joe Flacco
-14,16,Sun,1.0,5.0,1.0,Detroit Lions,2019,Broncos,239.0,284.0,2749.0,1442.0,15.0,16.0,3134.0,1590.0,4191.0,4724.0,0,Vic Fangio,Rich Scangarello,Ed Donatell,Joe Flacco
-15,17,Sun,1.0,6.0,1.0,Oakland Raiders,2019,Broncos,266.0,301.0,2947.0,1592.0,15.0,16.0,3229.0,1686.0,4539.0,4915.0,0,Vic Fangio,Rich Scangarello,Ed Donatell,Joe Flacco
-16,1,Sun,1.0,0.0,1.0,Seattle Seahawks,2018,Broncos,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Vance Joseph,Bill Musgrave,Joe Woods,Case Keenum
-17,2,Sun,1.0,1.0,1.0,Oakland Raiders,2018,Broncos,27.0,24.0,324.0,146.0,3.0,3.0,242.0,64.0,470.0,306.0,0,Vance Joseph,Bill Musgrave,Joe Woods,Case Keenum
-18,3,Sun,0.0,2.0,0.0,Baltimore Ravens,2018,Broncos,47.0,43.0,541.0,314.0,4.0,3.0,523.0,156.0,855.0,679.0,0,Vance Joseph,Bill Musgrave,Joe Woods,Case Keenum
-19,4,Mon,0.0,2.0,1.0,Kansas City Chiefs,2018,Broncos,61.0,70.0,714.0,434.0,5.0,3.0,788.0,233.0,1148.0,1021.0,0,Vance Joseph,Bill Musgrave,Joe Woods,Case Keenum
-20,5,Sun,0.0,2.0,0.0,New York Jets,2018,Broncos,84.0,97.0,940.0,593.0,6.0,3.0,1092.0,375.0,1533.0,1467.0,0,Vance Joseph,Bill Musgrave,Joe Woods,Case Keenum
-21,6,Sun,0.0,2.0,1.0,Los Angeles Rams,2018,Broncos,100.0,131.0,1284.0,685.0,7.0,5.0,1281.0,698.0,1969.0,1979.0,0,Vance Joseph,Bill Musgrave,Joe Woods,Case Keenum
-22,7,Thu,1.0,2.0,0.0,Arizona Cardinals,2018,Broncos,120.0,154.0,1581.0,745.0,8.0,6.0,1455.0,968.0,2326.0,2423.0,0,Vance Joseph,Bill Musgrave,Joe Woods,Case Keenum
-23,8,Sun,0.0,3.0,0.0,Kansas City Chiefs,2018,Broncos,165.0,164.0,1759.0,876.0,9.0,11.0,1609.0,1037.0,2635.0,2646.0,0,Vance Joseph,Bill Musgrave,Joe Woods,Case Keenum
-24,9,Sun,0.0,3.0,1.0,Houston Texans,2018,Broncos,188.0,194.0,1981.0,1065.0,11.0,12.0,1900.0,1086.0,3046.0,2986.0,0,Vance Joseph,Bill Musgrave,Joe Woods,Case Keenum
-25,11,Sun,1.0,3.0,0.0,Los Angeles Chargers,2018,Broncos,205.0,213.0,2254.0,1140.0,12.0,12.0,2092.0,1184.0,3394.0,3276.0,1,Vance Joseph,Bill Musgrave,Joe Woods,Case Keenum
-26,12,Sun,1.0,4.0,1.0,Pittsburgh Steelers,2018,Broncos,228.0,235.0,2471.0,1248.0,12.0,14.0,2476.0,1279.0,3719.0,3755.0,0,Vance Joseph,Bill Musgrave,Joe Woods,Case Keenum
-27,13,Sun,1.0,5.0,0.0,Cincinnati Bengals,2018,Broncos,252.0,252.0,2655.0,1372.0,12.0,18.0,2928.0,1354.0,4027.0,4282.0,0,Vance Joseph,Bill Musgrave,Joe Woods,Case Keenum
-28,14,Sun,0.0,6.0,0.0,San Francisco 49ers,2018,Broncos,276.0,262.0,2798.0,1590.0,13.0,21.0,3130.0,1465.0,4388.0,4595.0,0,Vance Joseph,Bill Musgrave,Joe Woods,Case Keenum
-29,15,Sat,0.0,6.0,1.0,Cleveland Browns,2018,Broncos,290.0,282.0,2969.0,1693.0,13.0,22.0,3435.0,1549.0,4662.0,4984.0,0,Vance Joseph,Bill Musgrave,Joe Woods,Case Keenum
-30,16,Mon,0.0,6.0,0.0,Oakland Raiders,2018,Broncos,306.0,299.0,3207.0,1725.0,15.0,24.0,3610.0,1683.0,4932.0,5293.0,0,Vance Joseph,Bill Musgrave,Joe Woods,Case Keenum
-31,17,Sun,0.0,6.0,1.0,Los Angeles Chargers,2018,Broncos,320.0,326.0,3407.0,1825.0,17.0,24.0,3769.0,1797.0,5232.0,5566.0,0,Vance Joseph,Bill Musgrave,Joe Woods,Case Keenum
-32,1,Mon,1.0,0.0,1.0,Los Angeles Chargers,2017,Broncos,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Vance Joseph,Mike McCoy,Joe Woods,Trevor Siemian
-33,2,Sun,1.0,1.0,1.0,Dallas Cowboys,2017,Broncos,24.0,21.0,181.0,140.0,2.0,1.0,185.0,64.0,321.0,249.0,0,Vance Joseph,Mike McCoy,Joe Woods,Trevor Siemian
-34,3,Sun,0.0,2.0,0.0,Buffalo Bills,2017,Broncos,66.0,38.0,383.0,318.0,4.0,3.0,413.0,104.0,701.0,517.0,0,Vance Joseph,Mike McCoy,Joe Woods,Trevor Siemian
-35,4,Sun,1.0,2.0,1.0,Oakland Raiders,2017,Broncos,82.0,64.0,638.0,429.0,6.0,3.0,610.0,179.0,1067.0,789.0,0,Vance Joseph,Mike McCoy,Joe Woods,Trevor Siemian
-36,6,Sun,0.0,3.0,1.0,New York Giants,2017,Broncos,98.0,74.0,793.0,572.0,6.0,4.0,840.0,203.0,1365.0,1043.0,1,Vance Joseph,Mike McCoy,Joe Woods,Trevor Siemian
-37,7,Sun,0.0,3.0,0.0,Los Angeles Chargers,2017,Broncos,108.0,97.0,1159.0,618.0,9.0,4.0,958.0,351.0,1777.0,1309.0,0,Vance Joseph,Mike McCoy,Joe Woods,Trevor Siemian
-38,8,Mon,0.0,3.0,0.0,Kansas City Chiefs,2017,Broncos,108.0,118.0,1341.0,687.0,12.0,4.0,1120.0,431.0,2028.0,1551.0,0,Vance Joseph,Mike McCoy,Joe Woods,Trevor Siemian
-39,9,Sun,0.0,3.0,0.0,Philadelphia Eagles,2017,Broncos,127.0,147.0,1528.0,864.0,17.0,6.0,1317.0,510.0,2392.0,1827.0,0,Vance Joseph,Mike McCoy,Joe Woods,Trevor Siemian
-40,10,Sun,0.0,3.0,1.0,New England Patriots,2017,Broncos,150.0,198.0,1719.0,899.0,19.0,7.0,1539.0,707.0,2618.0,2246.0,0,Vance Joseph,Mike McCoy,Joe Woods,Trevor Siemian
-41,11,Sun,0.0,3.0,1.0,Cincinnati Bengals,2017,Broncos,166.0,239.0,1940.0,1017.0,21.0,7.0,1836.0,806.0,2957.0,2642.0,0,Vance Joseph,Mike McCoy,Joe Woods,Trevor Siemian
-42,12,Sun,0.0,3.0,0.0,Oakland Raiders,2017,Broncos,183.0,259.0,2169.0,1129.0,23.0,7.0,1977.0,855.0,3298.0,2832.0,0,Vance Joseph,Mike McCoy,Joe Woods,Paxton Lynch
-43,13,Sun,0.0,3.0,0.0,Miami Dolphins,2017,Broncos,197.0,280.0,2329.0,1185.0,24.0,8.0,2221.0,959.0,3514.0,3180.0,0,Vance Joseph,Mike McCoy,Joe Woods,Trevor Siemian
-44,14,Sun,1.0,3.0,1.0,New York Jets,2017,Broncos,206.0,315.0,2496.0,1288.0,27.0,11.0,2443.0,1104.0,3784.0,3547.0,0,Vance Joseph,Mike McCoy,Joe Woods,Trevor Siemian
-45,15,Thu,1.0,4.0,0.0,Indianapolis Colts,2017,Broncos,229.0,315.0,2685.0,1372.0,27.0,13.0,2484.0,1163.0,4057.0,3647.0,0,Vance Joseph,Mike McCoy,Joe Woods,Trevor Siemian
-46,16,Sun,0.0,5.0,0.0,Washington Redskins,2017,Broncos,254.0,328.0,2936.0,1583.0,28.0,13.0,2642.0,1233.0,4519.0,3875.0,0,Vance Joseph,Mike McCoy,Joe Woods,Brock Osweiler
-47,17,Sun,0.0,5.0,1.0,Kansas City Chiefs,2017,Broncos,265.0,355.0,3107.0,1742.0,31.0,15.0,2941.0,1320.0,4849.0,4261.0,0,Vance Joseph,Mike McCoy,Joe Woods,Paxton Lynch
-48,1,Thu,1.0,0.0,1.0,Carolina Panthers,2016,Broncos,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Gary Kubiak,Rick Dennison,Wade Phillips,Trevor Siemian
-49,2,Sun,1.0,1.0,1.0,Indianapolis Colts,2016,Broncos,21.0,20.0,159.0,148.0,3.0,1.0,176.0,157.0,307.0,333.0,0,Gary Kubiak,Rick Dennison,Wade Phillips,Trevor Siemian
-50,3,Sun,1.0,2.0,0.0,Cincinnati Bengals,2016,Broncos,55.0,40.0,425.0,282.0,4.0,3.0,346.0,240.0,707.0,586.0,0,Gary Kubiak,Rick Dennison,Wade Phillips,Trevor Siemian
-51,4,Sun,1.0,3.0,0.0,Tampa Bay Buccaneers,2016,Broncos,84.0,57.0,728.0,334.0,5.0,5.0,535.0,383.0,1062.0,918.0,0,Gary Kubiak,Rick Dennison,Wade Phillips,Trevor Siemian
-52,5,Sun,0.0,4.0,1.0,Atlanta Falcons,2016,Broncos,111.0,64.0,946.0,423.0,5.0,8.0,678.0,455.0,1369.0,1133.0,0,Paxton Lynch,Rick Dennison,Wade Phillips,Trevor Siemian
-53,6,Thu,0.0,4.0,0.0,San Diego Chargers,2016,Broncos,127.0,87.0,1129.0,507.0,6.0,9.0,928.0,577.0,1636.0,1505.0,0,Gary Kubiak,Rick Dennison,Wade Phillips,Trevor Siemian
-54,7,Mon,1.0,4.0,1.0,Houston Texans,2016,Broncos,140.0,108.0,1349.0,591.0,8.0,11.0,1094.0,676.0,1940.0,1770.0,0,Gary Kubiak,Rick Dennison,Wade Phillips,Trevor Siemian
-55,8,Sun,1.0,5.0,1.0,San Diego Chargers,2016,Broncos,167.0,117.0,1506.0,781.0,8.0,13.0,1225.0,816.0,2287.0,2041.0,0,Gary Kubiak,Rick Dennison,Wade Phillips,Trevor Siemian
-56,9,Sun,0.0,6.0,0.0,Oakland Raiders,2016,Broncos,194.0,136.0,1773.0,838.0,11.0,16.0,1471.0,939.0,2611.0,2410.0,0,Gary Kubiak,Rick Dennison,Wade Phillips,Trevor Siemian
-57,10,Sun,1.0,6.0,0.0,New Orleans Saints,2016,Broncos,214.0,166.0,2039.0,871.0,13.0,16.0,1650.0,1157.0,2910.0,2807.0,0,Gary Kubiak,Rick Dennison,Wade Phillips,Trevor Siemian
-58,12,Sun,0.0,7.0,1.0,Kansas City Chiefs,2016,Broncos,239.0,189.0,2273.0,974.0,15.0,20.0,1943.0,1237.0,3247.0,3180.0,1,Gary Kubiak,Rick Dennison,Wade Phillips,Trevor Siemian
-59,13,Sun,1.0,7.0,0.0,Jacksonville Jaguars,2016,Broncos,266.0,219.0,2613.0,1098.0,16.0,20.0,2133.0,1320.0,3711.0,3453.0,0,Gary Kubiak,Rick Dennison,Wade Phillips,Paxton Lynch
-60,14,Sun,0.0,8.0,0.0,Tennessee Titans,2016,Broncos,286.0,229.0,2715.0,1202.0,16.0,23.0,2312.0,1474.0,3917.0,3786.0,0,Gary Kubiak,Rick Dennison,Wade Phillips,Trevor Siemian
-61,15,Sun,0.0,8.0,1.0,New England Patriots,2016,Broncos,296.0,242.0,3045.0,1220.0,18.0,23.0,2385.0,1654.0,4265.0,4039.0,0,Gary Kubiak,Rick Dennison,Wade Phillips,Trevor Siemian
-62,16,Sun,0.0,8.0,0.0,Kansas City Chiefs,2016,Broncos,299.0,258.0,3296.0,1278.0,21.0,23.0,2562.0,1790.0,4574.0,4352.0,0,Gary Kubiak,Rick Dennison,Wade Phillips,Trevor Siemian
-63,17,Sun,1.0,8.0,1.0,Oakland Raiders,2016,Broncos,309.0,291.0,3479.0,1341.0,24.0,24.0,2808.0,2028.0,4820.0,4836.0,0,Gary Kubiak,Rick Dennison,Wade Phillips,Trevor Siemian
-64,1,Sun,1.0,0.0,1.0,Baltimore Ravens,2015,Broncos,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Gary Kubiak,Rick Dennison,Wade Phillips,Peyton Manning
-65,2,Thu,1.0,1.0,0.0,Kansas City Chiefs,2015,Broncos,19.0,13.0,150.0,69.0,1.0,2.0,100.0,73.0,219.0,173.0,0,Gary Kubiak,Rick Dennison,Wade Phillips,Peyton Manning
-66,3,Sun,1.0,2.0,0.0,Detroit Lions,2015,Broncos,50.0,37.0,388.0,130.0,2.0,7.0,267.0,220.0,518.0,487.0,0,Gary Kubiak,Rick Dennison,Wade Phillips,Peyton Manning
-67,4,Sun,1.0,3.0,1.0,Minnesota Vikings,2015,Broncos,74.0,49.0,701.0,171.0,4.0,10.0,529.0,248.0,872.0,777.0,0,Gary Kubiak,Rick Dennison,Wade Phillips,Peyton Manning
-68,5,Sun,1.0,4.0,0.0,Oakland Raiders,2015,Broncos,97.0,69.0,901.0,315.0,6.0,11.0,741.0,361.0,1216.0,1102.0,0,Gary Kubiak,Rick Dennison,Wade Phillips,Peyton Manning
-69,6,Sun,1.0,5.0,0.0,Cleveland Browns,2015,Broncos,113.0,79.0,1155.0,358.0,8.0,14.0,964.0,426.0,1513.0,1390.0,0,Gary Kubiak,Rick Dennison,Wade Phillips,Peyton Manning
-70,8,Sun,1.0,6.0,1.0,Green Bay Packers,2015,Broncos,139.0,102.0,1445.0,510.0,11.0,17.0,1153.0,535.0,1955.0,1688.0,1,Gary Kubiak,Rick Dennison,Wade Phillips,Peyton Manning
-71,9,Sun,0.0,7.0,0.0,Indianapolis Colts,2015,Broncos,168.0,112.0,1785.0,670.0,12.0,17.0,1203.0,625.0,2455.0,1828.0,0,Gary Kubiak,Rick Dennison,Wade Phillips,Peyton Manning
-72,10,Sun,0.0,7.0,1.0,Kansas City Chiefs,2015,Broncos,192.0,139.0,2059.0,705.0,14.0,17.0,1448.0,745.0,2764.0,2193.0,0,Gary Kubiak,Rick Dennison,Wade Phillips,Peyton Manning
-73,11,Sun,1.0,7.0,0.0,Chicago Bears,2015,Broncos,205.0,168.0,2211.0,774.0,19.0,17.0,1645.0,851.0,2985.0,2496.0,0,Gary Kubiak,Rick Dennison,Wade Phillips,Peyton Manning
-74,12,Sun,1.0,8.0,1.0,New England Patriots,2015,Broncos,222.0,183.0,2430.0,944.0,19.0,19.0,1906.0,937.0,3374.0,2843.0,0,Gary Kubiak,Rick Dennison,Wade Phillips,Peyton Manning
-75,13,Sun,1.0,9.0,0.0,San Diego Chargers,2015,Broncos,252.0,207.0,2684.0,1123.0,20.0,20.0,2168.0,976.0,3807.0,3144.0,0,Gary Kubiak,Rick Dennison,Wade Phillips,Peyton Manning
-76,14,Sun,0.0,10.0,1.0,Oakland Raiders,2015,Broncos,269.0,210.0,2843.0,1257.0,21.0,23.0,2347.0,1069.0,4100.0,3416.0,0,Gary Kubiak,Rick Dennison,Wade Phillips,Peyton Manning
-77,15,Sun,0.0,10.0,0.0,Pittsburgh Steelers,2015,Broncos,281.0,225.0,3119.0,1291.0,23.0,23.0,2446.0,1096.0,4410.0,3542.0,0,Gary Kubiak,Rick Dennison,Wade Phillips,Peyton Manning
-78,16,Mon,1.0,10.0,1.0,Cincinnati Bengals,2015,Broncos,308.0,259.0,3400.0,1395.0,25.0,25.0,2800.0,1119.0,4795.0,3919.0,0,Gary Kubiak,Rick Dennison,Wade Phillips,Peyton Manning
-79,17,Sun,1.0,11.0,1.0,San Diego Chargers,2015,Broncos,328.0,276.0,3677.0,1508.0,26.0,26.0,2986.0,1227.0,5185.0,4213.0,0,Gary Kubiak,Rick Dennison,Wade Phillips,Peyton Manning
-80,1,Sun,1.0,0.0,1.0,Indianapolis Colts,2014,Broncos,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
-81,2,Sun,1.0,1.0,1.0,Kansas City Chiefs,2014,Broncos,31.0,24.0,259.0,102.0,0.0,2.0,354.0,54.0,361.0,408.0,0,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
-82,3,Sun,0.0,2.0,0.0,Seattle Seahawks,2014,Broncos,55.0,41.0,496.0,190.0,0.0,2.0,601.0,187.0,686.0,788.0,0,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
-83,5,Sun,1.0,2.0,1.0,Arizona Cardinals,2014,Broncos,75.0,67.0,792.0,226.0,2.0,3.0,856.0,316.0,1018.0,1172.0,1,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
-84,6,Sun,1.0,3.0,0.0,New York Jets,2014,Broncos,116.0,87.0,1268.0,318.0,4.0,3.0,1034.0,353.0,1586.0,1387.0,0,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
-85,7,Sun,1.0,4.0,1.0,San Francisco 49ers,2014,Broncos,147.0,104.0,1489.0,456.0,4.0,5.0,1207.0,384.0,1945.0,1591.0,0,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
-86,8,Thu,1.0,5.0,1.0,San Diego Chargers,2014,Broncos,189.0,121.0,1793.0,571.0,4.0,6.0,1455.0,446.0,2364.0,1901.0,0,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
-87,9,Sun,0.0,6.0,0.0,New England Patriots,2014,Broncos,224.0,142.0,2079.0,710.0,4.0,8.0,1700.0,507.0,2789.0,2207.0,0,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
-88,10,Sun,1.0,6.0,0.0,Oakland Raiders,2014,Broncos,245.0,185.0,2508.0,753.0,6.0,9.0,2032.0,573.0,3261.0,2605.0,0,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
-89,11,Sun,0.0,7.0,0.0,St. Louis Rams,2014,Broncos,286.0,202.0,2861.0,871.0,8.0,12.0,2224.0,603.0,3732.0,2827.0,0,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
-90,12,Sun,1.0,7.0,1.0,Miami Dolphins,2014,Broncos,293.0,224.0,3230.0,899.0,10.0,12.0,2430.0,734.0,4129.0,3164.0,0,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
-91,13,Sun,1.0,8.0,0.0,Kansas City Chiefs,2014,Broncos,332.0,260.0,3479.0,1100.0,11.0,13.0,2646.0,831.0,4579.0,3477.0,0,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
-92,14,Sun,1.0,9.0,1.0,Buffalo Bills,2014,Broncos,361.0,276.0,3653.0,1314.0,12.0,16.0,2756.0,872.0,4967.0,3628.0,0,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
-93,15,Sun,1.0,10.0,0.0,San Diego Chargers,2014,Broncos,385.0,293.0,3826.0,1447.0,15.0,19.0,3097.0,946.0,5273.0,4043.0,0,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
-94,16,Mon,0.0,11.0,0.0,Cincinnati Bengals,2014,Broncos,407.0,303.0,4052.0,1558.0,15.0,21.0,3329.0,1002.0,5610.0,4331.0,0,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
-95,17,Sun,1.0,11.0,1.0,Oakland Raiders,2014,Broncos,435.0,340.0,4352.0,1643.0,19.0,23.0,3475.0,1209.0,5995.0,4684.0,0,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
-96,1,Thu,1.0,0.0,1.0,Baltimore Ravens,2013,Broncos,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
-97,2,Sun,1.0,1.0,0.0,New York Giants,2013,Broncos,49.0,27.0,445.0,65.0,2.0,2.0,335.0,58.0,510.0,393.0,0,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
-98,3,Mon,1.0,2.0,1.0,Oakland Raiders,2013,Broncos,90.0,50.0,752.0,172.0,3.0,6.0,688.0,81.0,924.0,769.0,0,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
-99,4,Sun,1.0,3.0,1.0,Philadelphia Eagles,2013,Broncos,127.0,71.0,1124.0,336.0,5.0,6.0,981.0,130.0,1460.0,1111.0,0,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
-100,5,Sun,1.0,4.0,0.0,Dallas Cowboys,2013,Broncos,179.0,91.0,1455.0,477.0,5.0,6.0,1265.0,296.0,1932.0,1561.0,0,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
-101,6,Sun,1.0,5.0,1.0,Jacksonville Jaguars,2013,Broncos,230.0,139.0,1869.0,580.0,7.0,8.0,1735.0,348.0,2449.0,2083.0,0,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
-102,7,Sun,0.0,6.0,0.0,Indianapolis Colts,2013,Broncos,265.0,158.0,2164.0,692.0,10.0,10.0,2026.0,419.0,2856.0,2445.0,0,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
-103,8,Sun,1.0,6.0,1.0,Washington Redskins,2013,Broncos,298.0,197.0,2529.0,756.0,13.0,11.0,2239.0,540.0,3285.0,2779.0,0,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
-104,10,Sun,1.0,7.0,0.0,San Diego Chargers,2013,Broncos,343.0,218.0,2868.0,863.0,17.0,16.0,2393.0,652.0,3731.0,3045.0,1,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
-105,11,Sun,1.0,8.0,1.0,Kansas City Chiefs,2013,Broncos,371.0,238.0,3181.0,947.0,18.0,16.0,2591.0,783.0,4128.0,3374.0,0,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
-106,12,Sun,0.0,9.0,0.0,New England Patriots,2013,Broncos,398.0,255.0,3504.0,1051.0,19.0,17.0,2791.0,927.0,4555.0,3718.0,0,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
-107,13,Sun,1.0,9.0,0.0,Kansas City Chiefs,2013,Broncos,429.0,289.0,3636.0,1331.0,23.0,20.0,3115.0,1043.0,4967.0,4158.0,0,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
-108,14,Sun,1.0,10.0,1.0,Tennessee Titans,2013,Broncos,464.0,317.0,4039.0,1463.0,25.0,21.0,3408.0,1202.0,5502.0,4610.0,0,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
-109,15,Thu,0.0,11.0,1.0,San Diego Chargers,2013,Broncos,515.0,345.0,4436.0,1617.0,25.0,23.0,3566.0,1298.0,6053.0,4864.0,0,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
-110,16,Sun,1.0,11.0,0.0,Houston Texans,2013,Broncos,535.0,372.0,4713.0,1635.0,26.0,23.0,3726.0,1475.0,6348.0,5201.0,0,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
-111,17,Sun,1.0,12.0,0.0,Oakland Raiders,2013,Broncos,572.0,385.0,5110.0,1749.0,26.0,25.0,3879.0,1562.0,6859.0,5441.0,0,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
-112,1,Sun,1.0,0.0,1.0,Pittsburgh Steelers,2012,Broncos,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,John Fox,Mike McCoy,Jack Del Rio,Peyton Manning
-113,2,Mon,0.0,1.0,0.0,Atlanta Falcons,2012,Broncos,31.0,19.0,240.0,94.0,1.0,1.0,209.0,75.0,334.0,284.0,0,John Fox,Mike McCoy,Jack Del Rio,Peyton Manning
-114,3,Sun,0.0,1.0,1.0,Houston Texans,2012,Broncos,52.0,46.0,458.0,212.0,5.0,1.0,417.0,142.0,670.0,559.0,0,John Fox,Mike McCoy,Jack Del Rio,Peyton Manning
-115,4,Sun,1.0,1.0,1.0,Oakland Raiders,2012,Broncos,77.0,77.0,774.0,271.0,6.0,3.0,701.0,294.0,1045.0,995.0,0,John Fox,Mike McCoy,Jack Del Rio,Peyton Manning
-116,5,Sun,0.0,2.0,0.0,New England Patriots,2012,Broncos,114.0,83.0,1112.0,436.0,7.0,3.0,882.0,350.0,1548.0,1232.0,0,John Fox,Mike McCoy,Jack Del Rio,Peyton Manning
-117,6,Mon,1.0,2.0,0.0,San Diego Chargers,2012,Broncos,135.0,114.0,1436.0,506.0,10.0,4.0,1075.0,601.0,1942.0,1676.0,0,John Fox,Mike McCoy,Jack Del Rio,Peyton Manning
-118,8,Sun,1.0,3.0,1.0,New Orleans Saints,2012,Broncos,170.0,138.0,1745.0,562.0,13.0,10.0,1292.0,691.0,2307.0,1983.0,1,John Fox,Mike McCoy,Jack Del Rio,Peyton Manning
-119,9,Sun,1.0,4.0,0.0,Cincinnati Bengals,2012,Broncos,204.0,152.0,2050.0,787.0,14.0,11.0,1493.0,742.0,2837.0,2235.0,0,John Fox,Mike McCoy,Jack Del Rio,Peyton Manning
-120,10,Sun,1.0,5.0,0.0,Carolina Panthers,2012,Broncos,235.0,175.0,2341.0,855.0,16.0,12.0,1768.0,833.0,3196.0,2601.0,0,John Fox,Mike McCoy,Jack Del Rio,Peyton Manning
-121,11,Sun,1.0,6.0,1.0,San Diego Chargers,2012,Broncos,271.0,189.0,2636.0,920.0,18.0,14.0,1966.0,885.0,3556.0,2851.0,0,John Fox,Mike McCoy,Jack Del Rio,Peyton Manning
-122,12,Sun,1.0,7.0,0.0,Kansas City Chiefs,2012,Broncos,301.0,212.0,2889.0,1053.0,20.0,17.0,2190.0,938.0,3942.0,3128.0,0,John Fox,Mike McCoy,Jack Del Rio,Peyton Manning
-123,13,Sun,1.0,8.0,1.0,Tampa Bay Buccaneers,2012,Broncos,318.0,221.0,3162.0,1148.0,21.0,18.0,2306.0,1086.0,4310.0,3392.0,0,John Fox,Mike McCoy,Jack Del Rio,Peyton Manning
-124,14,Thu,1.0,9.0,0.0,Oakland Raiders,2012,Broncos,349.0,244.0,3404.0,1239.0,22.0,19.0,2541.0,1157.0,4643.0,3698.0,0,John Fox,Mike McCoy,Jack Del Rio,Peyton Manning
-125,15,Sun,1.0,10.0,0.0,Baltimore Ravens,2012,Broncos,375.0,257.0,3692.0,1379.0,23.0,21.0,2804.0,1218.0,5071.0,4022.0,0,John Fox,Mike McCoy,Jack Del Rio,Peyton Manning
-126,16,Sun,1.0,11.0,1.0,Cleveland Browns,2012,Broncos,409.0,274.0,3879.0,1542.0,23.0,23.0,3026.0,1274.0,5421.0,4300.0,0,John Fox,Mike McCoy,Jack Del Rio,Peyton Manning
-127,17,Sun,1.0,12.0,1.0,Kansas City Chiefs,2012,Broncos,443.0,286.0,4218.0,1660.0,24.0,24.0,3168.0,1365.0,5878.0,4533.0,0,John Fox,Mike McCoy,Jack Del Rio,Peyton Manning
-128,1,Mon,0.0,0.0,1.0,Oakland Raiders,2011,Broncos,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,John Fox,Mike McCoy,Dennis Allen,Tim Tebow
-129,2,Sun,1.0,0.0,1.0,Cincinnati Bengals,2011,Broncos,20.0,23.0,272.0,38.0,3.0,1.0,99.0,190.0,310.0,289.0,0,John Fox,Mike McCoy,Dennis Allen,Tim Tebow
-130,3,Sun,0.0,1.0,0.0,Tennessee Titans,2011,Broncos,44.0,45.0,459.0,169.0,5.0,1.0,409.0,262.0,628.0,671.0,0,John Fox,Mike McCoy,Dennis Allen,Tim Tebow
-131,4,Sun,0.0,1.0,0.0,Green Bay Packers,2011,Broncos,58.0,62.0,631.0,228.0,7.0,3.0,704.0,300.0,859.0,1004.0,0,John Fox,Mike McCoy,Dennis Allen,Tim Tebow
-132,5,Sun,0.0,1.0,1.0,San Diego Chargers,2011,Broncos,81.0,111.0,896.0,347.0,11.0,5.0,1100.0,411.0,1243.0,1511.0,0,John Fox,Mike McCoy,Dennis Allen,Tim Tebow
-133,7,Sun,1.0,1.0,0.0,Miami Dolphins,2011,Broncos,105.0,140.0,1009.0,509.0,12.0,7.0,1312.0,617.0,1518.0,1929.0,1,John Fox,Mike McCoy,Dennis Allen,Tim Tebow
-134,8,Sun,0.0,2.0,1.0,Detroit Lions,2011,Broncos,123.0,155.0,1140.0,686.0,13.0,8.0,1485.0,711.0,1826.0,2196.0,0,John Fox,Mike McCoy,Dennis Allen,Tim Tebow
-135,9,Sun,1.0,2.0,0.0,Oakland Raiders,2011,Broncos,133.0,200.0,1257.0,881.0,16.0,8.0,1748.0,824.0,2138.0,2572.0,0,John Fox,Mike McCoy,Dennis Allen,Tim Tebow
-136,10,Sun,1.0,3.0,0.0,Kansas City Chiefs,2011,Broncos,171.0,224.0,1370.0,1180.0,16.0,11.0,2064.0,924.0,2550.0,2988.0,0,John Fox,Mike McCoy,Dennis Allen,Tim Tebow
-137,11,Thu,1.0,4.0,1.0,New York Jets,2011,Broncos,188.0,234.0,1439.0,1424.0,16.0,11.0,2188.0,1058.0,2863.0,3246.0,0,John Fox,Mike McCoy,Dennis Allen,Tim Tebow
-138,12,Sun,1.0,5.0,0.0,San Diego Chargers,2011,Broncos,205.0,247.0,1543.0,1549.0,17.0,13.0,2423.0,1141.0,3092.0,3564.0,0,John Fox,Mike McCoy,Dennis Allen,Tim Tebow
-139,13,Sun,1.0,6.0,0.0,Minnesota Vikings,2011,Broncos,221.0,260.0,1684.0,1757.0,17.0,13.0,2582.0,1326.0,3441.0,3908.0,0,John Fox,Mike McCoy,Dennis Allen,Tim Tebow
-140,14,Sun,1.0,7.0,1.0,Chicago Bears,2011,Broncos,256.0,292.0,1870.0,1907.0,19.0,16.0,2942.0,1455.0,3777.0,4397.0,0,John Fox,Mike McCoy,Dennis Allen,Tim Tebow
-141,15,Sun,0.0,8.0,1.0,New England Patriots,2011,Broncos,269.0,302.0,2091.0,2031.0,21.0,17.0,3028.0,1614.0,4122.0,4642.0,0,John Fox,Mike McCoy,Dennis Allen,Tim Tebow
-142,16,Sat,0.0,8.0,0.0,Buffalo Bills,2011,Broncos,292.0,343.0,2232.0,2283.0,24.0,17.0,3338.0,1755.0,4515.0,5093.0,0,John Fox,Mike McCoy,Dennis Allen,Tim Tebow
-143,17,Sun,0.0,8.0,1.0,Kansas City Chiefs,2011,Broncos,306.0,383.0,2384.0,2416.0,27.0,17.0,3529.0,1915.0,4800.0,5444.0,0,John Fox,Mike McCoy,Dennis Allen,Tim Tebow
-144,1,Sun,0.0,0.0,0.0,Jacksonville Jaguars,2010,Broncos,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Josh McDaniels,Mike McCoy,Don Martindale,Kyle Orton
-145,2,Sun,1.0,0.0,1.0,Seattle Seahawks,2010,Broncos,17.0,24.0,274.0,89.0,2.0,0.0,165.0,134.0,363.0,299.0,0,Josh McDaniels,Mike McCoy,Don Martindale,Kyle Orton
-146,3,Sun,0.0,1.0,1.0,Indianapolis Colts,2010,Broncos,48.0,38.0,578.0,154.0,2.0,4.0,395.0,243.0,732.0,638.0,0,Josh McDaniels,Mike McCoy,Don Martindale,Kyle Orton
-147,4,Sun,1.0,1.0,0.0,Tennessee Titans,2010,Broncos,61.0,65.0,1050.0,201.0,4.0,4.0,720.0,283.0,1251.0,1003.0,0,Josh McDaniels,Mike McCoy,Don Martindale,Kyle Orton
-148,5,Sun,0.0,2.0,0.0,Baltimore Ravens,2010,Broncos,87.0,85.0,1358.0,220.0,5.0,6.0,887.0,404.0,1578.0,1291.0,0,Josh McDaniels,Mike McCoy,Don Martindale,Kyle Orton
-149,6,Sun,0.0,2.0,1.0,New York Jets,2010,Broncos,104.0,116.0,1665.0,259.0,6.0,6.0,1069.0,637.0,1924.0,1706.0,0,Josh McDaniels,Mike McCoy,Don Martindale,Kyle Orton
-150,7,Sun,0.0,2.0,1.0,Oakland Raiders,2010,Broncos,124.0,140.0,1866.0,404.0,8.0,9.0,1259.0,766.0,2270.0,2025.0,0,Josh McDaniels,Mike McCoy,Don Martindale,Kyle Orton
-151,8,Sun,0.0,2.0,0.0,San Francisco 49ers,2010,Broncos,138.0,199.0,2031.0,479.0,11.0,9.0,1439.0,1094.0,2510.0,2533.0,0,Josh McDaniels,Mike McCoy,Don Martindale,Kyle Orton
-152,10,Sun,1.0,2.0,1.0,Kansas City Chiefs,2010,Broncos,154.0,223.0,2370.0,538.0,13.0,9.0,1635.0,1237.0,2908.0,2872.0,1,Josh McDaniels,Mike McCoy,Don Martindale,Kyle Orton
-153,11,Mon,0.0,3.0,0.0,San Diego Chargers,2010,Broncos,203.0,252.0,2669.0,691.0,13.0,10.0,2068.0,1288.0,3360.0,3356.0,0,Josh McDaniels,Mike McCoy,Don Martindale,Kyle Orton
-154,12,Sun,0.0,3.0,1.0,St. Louis Rams,2010,Broncos,217.0,287.0,2841.0,754.0,14.0,11.0,2321.0,1435.0,3595.0,3756.0,0,Josh McDaniels,Mike McCoy,Don Martindale,Kyle Orton
-155,13,Sun,0.0,3.0,0.0,Kansas City Chiefs,2010,Broncos,250.0,323.0,3171.0,873.0,16.0,11.0,2629.0,1558.0,4044.0,4187.0,0,Josh McDaniels,Mike McCoy,Don Martindale,Kyle Orton
-156,14,Sun,0.0,3.0,0.0,Arizona Cardinals,2010,Broncos,256.0,333.0,3257.0,1034.0,17.0,12.0,2803.0,1743.0,4291.0,4546.0,0,Josh McDaniels,Mike McCoy,Don Martindale,Kyle Orton
-157,15,Sun,0.0,3.0,0.0,Oakland Raiders,2010,Broncos,269.0,376.0,3413.0,1166.0,23.0,13.0,2949.0,1954.0,4579.0,4903.0,0,Josh McDaniels,Mike McCoy,Don Martindale,Kyle Orton
-158,16,Sun,1.0,3.0,1.0,Houston Texans,2010,Broncos,292.0,415.0,3542.0,1272.0,24.0,16.0,3187.0,2218.0,4814.0,5405.0,0,Josh McDaniels,Mike McCoy,Don Martindale,Kyle Orton
-159,17,Sun,0.0,4.0,1.0,San Diego Chargers,2010,Broncos,316.0,438.0,3847.0,1398.0,25.0,17.0,3497.0,2309.0,5245.0,5806.0,0,Josh McDaniels,Mike McCoy,Don Martindale,Kyle Orton
+0,1,Mon,0.0,0.0,1.0,Tennessee Titans,2020,Broncos,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Vic Fangio,Pat Shurmur,Ed Donatell,Drew Lock
+1,2,Sun,0.0,0.0,0.0,Pittsburgh Steelers,2020,Broncos,14.0,16.0,216.0,107.0,1.0,0.0,247.0,130.0,323.0,377.0,0,Vic Fangio,Pat Shurmur,Ed Donatell,Drew Lock
+2,3,Sun,0.0,0.0,1.0,Tampa Bay Buccaneers,2020,Broncos,35.0,42.0,431.0,211.0,3.0,2.0,548.0,239.0,642.0,787.0,0,Vic Fangio,Pat Shurmur,Ed Donatell,Jeff Driskel
+3,4,Thu,1.0,0.0,0.0,New York Jets,2020,Broncos,45.0,70.0,615.0,253.0,5.0,2.0,833.0,307.0,868.0,1140.0,0,Vic Fangio,Pat Shurmur,Ed Donatell,Brett Rypien
+4,5,Sun,,,0.0,New England Patriots,2020,Broncos,82.0,98.0,857.0,370.0,8.0,2.0,1025.0,436.0,1227.0,1461.0,0,Vic Fangio,Pat Shurmur,Ed Donatell,Drew Lock
+5,6,Sun,,,1.0,Miami Dolphins,2020,Broncos,82.0,98.0,857.0,370.0,8.0,2.0,1025.0,436.0,1227.0,1461.0,0,Vic Fangio,Pat Shurmur,Ed Donatell,Drew Lock
+6,7,Sun,,,1.0,Kansas City Chiefs,2020,Broncos,82.0,98.0,857.0,370.0,8.0,2.0,1025.0,436.0,1227.0,1461.0,0,Vic Fangio,Pat Shurmur,Ed Donatell,Drew Lock
+7,9,Sun,,,0.0,Atlanta Falcons,2020,Broncos,82.0,98.0,857.0,370.0,8.0,2.0,1025.0,436.0,1227.0,1461.0,1,Vic Fangio,Pat Shurmur,Ed Donatell,Drew Lock
+8,10,Sun,,,0.0,Las Vegas Raiders,2020,Broncos,82.0,98.0,857.0,370.0,8.0,2.0,1025.0,436.0,1227.0,1461.0,0,Vic Fangio,Pat Shurmur,Ed Donatell,Drew Lock
+9,11,Sun,,,1.0,Los Angeles Chargers,2020,Broncos,82.0,98.0,857.0,370.0,8.0,2.0,1025.0,436.0,1227.0,1461.0,0,Vic Fangio,Pat Shurmur,Ed Donatell,Drew Lock
+10,12,Sun,,,1.0,New Orleans Saints,2020,Broncos,82.0,98.0,857.0,370.0,8.0,2.0,1025.0,436.0,1227.0,1461.0,0,Vic Fangio,Pat Shurmur,Ed Donatell,Drew Lock
+11,13,Sun,,,0.0,Kansas City Chiefs,2020,Broncos,82.0,98.0,857.0,370.0,8.0,2.0,1025.0,436.0,1227.0,1461.0,0,Vic Fangio,Pat Shurmur,Ed Donatell,Drew Lock
+12,14,Sun,,,0.0,Carolina Panthers,2020,Broncos,82.0,98.0,857.0,370.0,8.0,2.0,1025.0,436.0,1227.0,1461.0,0,Vic Fangio,Pat Shurmur,Ed Donatell,Drew Lock
+13,15,Sun,,,1.0,Buffalo Bills,2020,Broncos,82.0,98.0,857.0,370.0,8.0,2.0,1025.0,436.0,1227.0,1461.0,0,Vic Fangio,Pat Shurmur,Ed Donatell,Drew Lock
+14,16,Sun,,,0.0,Los Angeles Chargers,2020,Broncos,82.0,98.0,857.0,370.0,8.0,2.0,1025.0,436.0,1227.0,1461.0,0,Vic Fangio,Pat Shurmur,Ed Donatell,Drew Lock
+15,17,Sun,,,1.0,Las Vegas Raiders,2020,Broncos,82.0,98.0,857.0,370.0,8.0,2.0,1025.0,436.0,1227.0,1461.0,0,Vic Fangio,Pat Shurmur,Ed Donatell,Drew Lock
+16,1,Mon,0.0,0.0,0.0,Oakland Raiders,2019,Broncos,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Vic Fangio,Rich Scangarello,Ed Donatell,Joe Flacco
+17,2,Sun,0.0,0.0,1.0,Chicago Bears,2019,Broncos,16.0,24.0,249.0,95.0,0.0,0.0,259.0,98.0,344.0,357.0,0,Vic Fangio,Rich Scangarello,Ed Donatell,Joe Flacco
+18,3,Sun,0.0,0.0,0.0,Green Bay Packers,2019,Broncos,30.0,40.0,531.0,185.0,1.0,0.0,379.0,251.0,716.0,630.0,0,Vic Fangio,Rich Scangarello,Ed Donatell,Joe Flacco
+19,4,Sun,0.0,0.0,1.0,Jacksonville Jaguars,2019,Broncos,46.0,67.0,692.0,334.0,4.0,0.0,614.0,328.0,1026.0,942.0,0,Vic Fangio,Rich Scangarello,Ed Donatell,Joe Flacco
+20,5,Sun,1.0,0.0,0.0,Los Angeles Chargers,2019,Broncos,70.0,93.0,995.0,402.0,5.0,0.0,800.0,597.0,1397.0,1397.0,0,Vic Fangio,Rich Scangarello,Ed Donatell,Joe Flacco
+21,6,Sun,1.0,1.0,1.0,Tennessee Titans,2019,Broncos,90.0,106.0,1154.0,593.0,7.0,3.0,1011.0,632.0,1747.0,1643.0,0,Vic Fangio,Rich Scangarello,Ed Donatell,Joe Flacco
+22,7,Thu,0.0,2.0,1.0,Kansas City Chiefs,2019,Broncos,106.0,106.0,1321.0,696.0,8.0,6.0,1176.0,671.0,2017.0,1847.0,0,Vic Fangio,Rich Scangarello,Ed Donatell,Joe Flacco
+23,8,Sun,0.0,2.0,0.0,Indianapolis Colts,2019,Broncos,112.0,136.0,1455.0,767.0,9.0,6.0,1367.0,751.0,2222.0,2118.0,0,Vic Fangio,Rich Scangarello,Ed Donatell,Joe Flacco
+24,9,Sun,1.0,2.0,1.0,Cleveland Browns,2019,Broncos,125.0,151.0,1621.0,880.0,9.0,7.0,1558.0,878.0,2501.0,2436.0,0,Vic Fangio,Rich Scangarello,Ed Donatell,Joe Flacco
+25,11,Sun,0.0,3.0,0.0,Minnesota Vikings,2019,Broncos,149.0,170.0,1796.0,1007.0,10.0,7.0,1819.0,968.0,2803.0,2787.0,1,Vic Fangio,Rich Scangarello,Ed Donatell,Joe Flacco
+26,12,Sun,0.0,3.0,0.0,Buffalo Bills,2019,Broncos,172.0,197.0,2066.0,1131.0,11.0,9.0,2103.0,1005.0,3197.0,3108.0,0,Vic Fangio,Rich Scangarello,Ed Donatell,Joe Flacco
+27,13,Sun,1.0,3.0,1.0,Los Angeles Chargers,2019,Broncos,175.0,217.0,2115.0,1216.0,12.0,10.0,2283.0,1249.0,3331.0,3532.0,0,Vic Fangio,Rich Scangarello,Ed Donatell,Joe Flacco
+28,14,Sun,1.0,4.0,0.0,Houston Texans,2019,Broncos,198.0,237.0,2249.0,1300.0,13.0,12.0,2527.0,1364.0,3549.0,3891.0,0,Vic Fangio,Rich Scangarello,Ed Donatell,Joe Flacco
+29,15,Sun,0.0,5.0,0.0,Kansas City Chiefs,2019,Broncos,236.0,261.0,2550.0,1390.0,14.0,15.0,2807.0,1498.0,3940.0,4305.0,0,Vic Fangio,Rich Scangarello,Ed Donatell,Joe Flacco
+30,16,Sun,1.0,5.0,1.0,Detroit Lions,2019,Broncos,239.0,284.0,2749.0,1442.0,15.0,16.0,3134.0,1590.0,4191.0,4724.0,0,Vic Fangio,Rich Scangarello,Ed Donatell,Joe Flacco
+31,17,Sun,1.0,6.0,1.0,Oakland Raiders,2019,Broncos,266.0,301.0,2947.0,1592.0,15.0,16.0,3229.0,1686.0,4539.0,4915.0,0,Vic Fangio,Rich Scangarello,Ed Donatell,Joe Flacco
+32,1,Sun,1.0,0.0,1.0,Seattle Seahawks,2018,Broncos,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Vance Joseph,Bill Musgrave,Joe Woods,Case Keenum
+33,2,Sun,1.0,1.0,1.0,Oakland Raiders,2018,Broncos,27.0,24.0,324.0,146.0,3.0,3.0,242.0,64.0,470.0,306.0,0,Vance Joseph,Bill Musgrave,Joe Woods,Case Keenum
+34,3,Sun,0.0,2.0,0.0,Baltimore Ravens,2018,Broncos,47.0,43.0,541.0,314.0,4.0,3.0,523.0,156.0,855.0,679.0,0,Vance Joseph,Bill Musgrave,Joe Woods,Case Keenum
+35,4,Mon,0.0,2.0,1.0,Kansas City Chiefs,2018,Broncos,61.0,70.0,714.0,434.0,5.0,3.0,788.0,233.0,1148.0,1021.0,0,Vance Joseph,Bill Musgrave,Joe Woods,Case Keenum
+36,5,Sun,0.0,2.0,0.0,New York Jets,2018,Broncos,84.0,97.0,940.0,593.0,6.0,3.0,1092.0,375.0,1533.0,1467.0,0,Vance Joseph,Bill Musgrave,Joe Woods,Case Keenum
+37,6,Sun,0.0,2.0,1.0,Los Angeles Rams,2018,Broncos,100.0,131.0,1284.0,685.0,7.0,5.0,1281.0,698.0,1969.0,1979.0,0,Vance Joseph,Bill Musgrave,Joe Woods,Case Keenum
+38,7,Thu,1.0,2.0,0.0,Arizona Cardinals,2018,Broncos,120.0,154.0,1581.0,745.0,8.0,6.0,1455.0,968.0,2326.0,2423.0,0,Vance Joseph,Bill Musgrave,Joe Woods,Case Keenum
+39,8,Sun,0.0,3.0,0.0,Kansas City Chiefs,2018,Broncos,165.0,164.0,1759.0,876.0,9.0,11.0,1609.0,1037.0,2635.0,2646.0,0,Vance Joseph,Bill Musgrave,Joe Woods,Case Keenum
+40,9,Sun,0.0,3.0,1.0,Houston Texans,2018,Broncos,188.0,194.0,1981.0,1065.0,11.0,12.0,1900.0,1086.0,3046.0,2986.0,0,Vance Joseph,Bill Musgrave,Joe Woods,Case Keenum
+41,11,Sun,1.0,3.0,0.0,Los Angeles Chargers,2018,Broncos,205.0,213.0,2254.0,1140.0,12.0,12.0,2092.0,1184.0,3394.0,3276.0,1,Vance Joseph,Bill Musgrave,Joe Woods,Case Keenum
+42,12,Sun,1.0,4.0,1.0,Pittsburgh Steelers,2018,Broncos,228.0,235.0,2471.0,1248.0,12.0,14.0,2476.0,1279.0,3719.0,3755.0,0,Vance Joseph,Bill Musgrave,Joe Woods,Case Keenum
+43,13,Sun,1.0,5.0,0.0,Cincinnati Bengals,2018,Broncos,252.0,252.0,2655.0,1372.0,12.0,18.0,2928.0,1354.0,4027.0,4282.0,0,Vance Joseph,Bill Musgrave,Joe Woods,Case Keenum
+44,14,Sun,0.0,6.0,0.0,San Francisco 49ers,2018,Broncos,276.0,262.0,2798.0,1590.0,13.0,21.0,3130.0,1465.0,4388.0,4595.0,0,Vance Joseph,Bill Musgrave,Joe Woods,Case Keenum
+45,15,Sat,0.0,6.0,1.0,Cleveland Browns,2018,Broncos,290.0,282.0,2969.0,1693.0,13.0,22.0,3435.0,1549.0,4662.0,4984.0,0,Vance Joseph,Bill Musgrave,Joe Woods,Case Keenum
+46,16,Mon,0.0,6.0,0.0,Oakland Raiders,2018,Broncos,306.0,299.0,3207.0,1725.0,15.0,24.0,3610.0,1683.0,4932.0,5293.0,0,Vance Joseph,Bill Musgrave,Joe Woods,Case Keenum
+47,17,Sun,0.0,6.0,1.0,Los Angeles Chargers,2018,Broncos,320.0,326.0,3407.0,1825.0,17.0,24.0,3769.0,1797.0,5232.0,5566.0,0,Vance Joseph,Bill Musgrave,Joe Woods,Case Keenum
+48,1,Mon,1.0,0.0,1.0,Los Angeles Chargers,2017,Broncos,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Vance Joseph,Mike McCoy,Joe Woods,Trevor Siemian
+49,2,Sun,1.0,1.0,1.0,Dallas Cowboys,2017,Broncos,24.0,21.0,181.0,140.0,2.0,1.0,185.0,64.0,321.0,249.0,0,Vance Joseph,Mike McCoy,Joe Woods,Trevor Siemian
+50,3,Sun,0.0,2.0,0.0,Buffalo Bills,2017,Broncos,66.0,38.0,383.0,318.0,4.0,3.0,413.0,104.0,701.0,517.0,0,Vance Joseph,Mike McCoy,Joe Woods,Trevor Siemian
+51,4,Sun,1.0,2.0,1.0,Oakland Raiders,2017,Broncos,82.0,64.0,638.0,429.0,6.0,3.0,610.0,179.0,1067.0,789.0,0,Vance Joseph,Mike McCoy,Joe Woods,Trevor Siemian
+52,6,Sun,0.0,3.0,1.0,New York Giants,2017,Broncos,98.0,74.0,793.0,572.0,6.0,4.0,840.0,203.0,1365.0,1043.0,1,Vance Joseph,Mike McCoy,Joe Woods,Trevor Siemian
+53,7,Sun,0.0,3.0,0.0,Los Angeles Chargers,2017,Broncos,108.0,97.0,1159.0,618.0,9.0,4.0,958.0,351.0,1777.0,1309.0,0,Vance Joseph,Mike McCoy,Joe Woods,Trevor Siemian
+54,8,Mon,0.0,3.0,0.0,Kansas City Chiefs,2017,Broncos,108.0,118.0,1341.0,687.0,12.0,4.0,1120.0,431.0,2028.0,1551.0,0,Vance Joseph,Mike McCoy,Joe Woods,Trevor Siemian
+55,9,Sun,0.0,3.0,0.0,Philadelphia Eagles,2017,Broncos,127.0,147.0,1528.0,864.0,17.0,6.0,1317.0,510.0,2392.0,1827.0,0,Vance Joseph,Mike McCoy,Joe Woods,Trevor Siemian
+56,10,Sun,0.0,3.0,1.0,New England Patriots,2017,Broncos,150.0,198.0,1719.0,899.0,19.0,7.0,1539.0,707.0,2618.0,2246.0,0,Vance Joseph,Mike McCoy,Joe Woods,Trevor Siemian
+57,11,Sun,0.0,3.0,1.0,Cincinnati Bengals,2017,Broncos,166.0,239.0,1940.0,1017.0,21.0,7.0,1836.0,806.0,2957.0,2642.0,0,Vance Joseph,Mike McCoy,Joe Woods,Trevor Siemian
+58,12,Sun,0.0,3.0,0.0,Oakland Raiders,2017,Broncos,183.0,259.0,2169.0,1129.0,23.0,7.0,1977.0,855.0,3298.0,2832.0,0,Vance Joseph,Mike McCoy,Joe Woods,Paxton Lynch
+59,13,Sun,0.0,3.0,0.0,Miami Dolphins,2017,Broncos,197.0,280.0,2329.0,1185.0,24.0,8.0,2221.0,959.0,3514.0,3180.0,0,Vance Joseph,Mike McCoy,Joe Woods,Trevor Siemian
+60,14,Sun,1.0,3.0,1.0,New York Jets,2017,Broncos,206.0,315.0,2496.0,1288.0,27.0,11.0,2443.0,1104.0,3784.0,3547.0,0,Vance Joseph,Mike McCoy,Joe Woods,Trevor Siemian
+61,15,Thu,1.0,4.0,0.0,Indianapolis Colts,2017,Broncos,229.0,315.0,2685.0,1372.0,27.0,13.0,2484.0,1163.0,4057.0,3647.0,0,Vance Joseph,Mike McCoy,Joe Woods,Trevor Siemian
+62,16,Sun,0.0,5.0,0.0,Washington Redskins,2017,Broncos,254.0,328.0,2936.0,1583.0,28.0,13.0,2642.0,1233.0,4519.0,3875.0,0,Vance Joseph,Mike McCoy,Joe Woods,Brock Osweiler
+63,17,Sun,0.0,5.0,1.0,Kansas City Chiefs,2017,Broncos,265.0,355.0,3107.0,1742.0,31.0,15.0,2941.0,1320.0,4849.0,4261.0,0,Vance Joseph,Mike McCoy,Joe Woods,Paxton Lynch
+64,1,Thu,1.0,0.0,1.0,Carolina Panthers,2016,Broncos,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Gary Kubiak,Rick Dennison,Wade Phillips,Trevor Siemian
+65,2,Sun,1.0,1.0,1.0,Indianapolis Colts,2016,Broncos,21.0,20.0,159.0,148.0,3.0,1.0,176.0,157.0,307.0,333.0,0,Gary Kubiak,Rick Dennison,Wade Phillips,Trevor Siemian
+66,3,Sun,1.0,2.0,0.0,Cincinnati Bengals,2016,Broncos,55.0,40.0,425.0,282.0,4.0,3.0,346.0,240.0,707.0,586.0,0,Gary Kubiak,Rick Dennison,Wade Phillips,Trevor Siemian
+67,4,Sun,1.0,3.0,0.0,Tampa Bay Buccaneers,2016,Broncos,84.0,57.0,728.0,334.0,5.0,5.0,535.0,383.0,1062.0,918.0,0,Gary Kubiak,Rick Dennison,Wade Phillips,Trevor Siemian
+68,5,Sun,0.0,4.0,1.0,Atlanta Falcons,2016,Broncos,111.0,64.0,946.0,423.0,5.0,8.0,678.0,455.0,1369.0,1133.0,0,Gary Kubiak,Rick Dennison,Wade Phillips,Paxton Lynch
+69,6,Thu,0.0,4.0,0.0,San Diego Chargers,2016,Broncos,127.0,87.0,1129.0,507.0,6.0,9.0,928.0,577.0,1636.0,1505.0,0,Gary Kubiak,Rick Dennison,Wade Phillips,Trevor Siemian
+70,7,Mon,1.0,4.0,1.0,Houston Texans,2016,Broncos,140.0,108.0,1349.0,591.0,8.0,11.0,1094.0,676.0,1940.0,1770.0,0,Gary Kubiak,Rick Dennison,Wade Phillips,Trevor Siemian
+71,8,Sun,1.0,5.0,1.0,San Diego Chargers,2016,Broncos,167.0,117.0,1506.0,781.0,8.0,13.0,1225.0,816.0,2287.0,2041.0,0,Gary Kubiak,Rick Dennison,Wade Phillips,Trevor Siemian
+72,9,Sun,0.0,6.0,0.0,Oakland Raiders,2016,Broncos,194.0,136.0,1773.0,838.0,11.0,16.0,1471.0,939.0,2611.0,2410.0,0,Gary Kubiak,Rick Dennison,Wade Phillips,Trevor Siemian
+73,10,Sun,1.0,6.0,0.0,New Orleans Saints,2016,Broncos,214.0,166.0,2039.0,871.0,13.0,16.0,1650.0,1157.0,2910.0,2807.0,0,Gary Kubiak,Rick Dennison,Wade Phillips,Trevor Siemian
+74,12,Sun,0.0,7.0,1.0,Kansas City Chiefs,2016,Broncos,239.0,189.0,2273.0,974.0,15.0,20.0,1943.0,1237.0,3247.0,3180.0,1,Gary Kubiak,Rick Dennison,Wade Phillips,Trevor Siemian
+75,13,Sun,1.0,7.0,0.0,Jacksonville Jaguars,2016,Broncos,266.0,219.0,2613.0,1098.0,16.0,20.0,2133.0,1320.0,3711.0,3453.0,0,Gary Kubiak,Rick Dennison,Wade Phillips,Paxton Lynch
+76,14,Sun,0.0,8.0,0.0,Tennessee Titans,2016,Broncos,286.0,229.0,2715.0,1202.0,16.0,23.0,2312.0,1474.0,3917.0,3786.0,0,Gary Kubiak,Rick Dennison,Wade Phillips,Trevor Siemian
+77,15,Sun,0.0,8.0,1.0,New England Patriots,2016,Broncos,296.0,242.0,3045.0,1220.0,18.0,23.0,2385.0,1654.0,4265.0,4039.0,0,Gary Kubiak,Rick Dennison,Wade Phillips,Trevor Siemian
+78,16,Sun,0.0,8.0,0.0,Kansas City Chiefs,2016,Broncos,299.0,258.0,3296.0,1278.0,21.0,23.0,2562.0,1790.0,4574.0,4352.0,0,Gary Kubiak,Rick Dennison,Wade Phillips,Trevor Siemian
+79,17,Sun,1.0,8.0,1.0,Oakland Raiders,2016,Broncos,309.0,291.0,3479.0,1341.0,24.0,24.0,2808.0,2028.0,4820.0,4836.0,0,Gary Kubiak,Rick Dennison,Wade Phillips,Trevor Siemian
+80,1,Sun,1.0,0.0,1.0,Baltimore Ravens,2015,Broncos,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Gary Kubiak,Rick Dennison,Wade Phillips,Peyton Manning
+81,2,Thu,1.0,1.0,0.0,Kansas City Chiefs,2015,Broncos,19.0,13.0,150.0,69.0,1.0,2.0,100.0,73.0,219.0,173.0,0,Gary Kubiak,Rick Dennison,Wade Phillips,Peyton Manning
+82,3,Sun,1.0,2.0,0.0,Detroit Lions,2015,Broncos,50.0,37.0,388.0,130.0,2.0,7.0,267.0,220.0,518.0,487.0,0,Gary Kubiak,Rick Dennison,Wade Phillips,Peyton Manning
+83,4,Sun,1.0,3.0,1.0,Minnesota Vikings,2015,Broncos,74.0,49.0,701.0,171.0,4.0,10.0,529.0,248.0,872.0,777.0,0,Gary Kubiak,Rick Dennison,Wade Phillips,Peyton Manning
+84,5,Sun,1.0,4.0,0.0,Oakland Raiders,2015,Broncos,97.0,69.0,901.0,315.0,6.0,11.0,741.0,361.0,1216.0,1102.0,0,Gary Kubiak,Rick Dennison,Wade Phillips,Peyton Manning
+85,6,Sun,1.0,5.0,0.0,Cleveland Browns,2015,Broncos,113.0,79.0,1155.0,358.0,8.0,14.0,964.0,426.0,1513.0,1390.0,0,Gary Kubiak,Rick Dennison,Wade Phillips,Peyton Manning
+86,8,Sun,1.0,6.0,1.0,Green Bay Packers,2015,Broncos,139.0,102.0,1445.0,510.0,11.0,17.0,1153.0,535.0,1955.0,1688.0,1,Gary Kubiak,Rick Dennison,Wade Phillips,Peyton Manning
+87,9,Sun,0.0,7.0,0.0,Indianapolis Colts,2015,Broncos,168.0,112.0,1785.0,670.0,12.0,17.0,1203.0,625.0,2455.0,1828.0,0,Gary Kubiak,Rick Dennison,Wade Phillips,Peyton Manning
+88,10,Sun,0.0,7.0,1.0,Kansas City Chiefs,2015,Broncos,192.0,139.0,2059.0,705.0,14.0,17.0,1448.0,745.0,2764.0,2193.0,0,Gary Kubiak,Rick Dennison,Wade Phillips,Peyton Manning
+89,11,Sun,1.0,7.0,0.0,Chicago Bears,2015,Broncos,205.0,168.0,2211.0,774.0,19.0,17.0,1645.0,851.0,2985.0,2496.0,0,Gary Kubiak,Rick Dennison,Wade Phillips,Peyton Manning
+90,12,Sun,1.0,8.0,1.0,New England Patriots,2015,Broncos,222.0,183.0,2430.0,944.0,19.0,19.0,1906.0,937.0,3374.0,2843.0,0,Gary Kubiak,Rick Dennison,Wade Phillips,Peyton Manning
+91,13,Sun,1.0,9.0,0.0,San Diego Chargers,2015,Broncos,252.0,207.0,2684.0,1123.0,20.0,20.0,2168.0,976.0,3807.0,3144.0,0,Gary Kubiak,Rick Dennison,Wade Phillips,Peyton Manning
+92,14,Sun,0.0,10.0,1.0,Oakland Raiders,2015,Broncos,269.0,210.0,2843.0,1257.0,21.0,23.0,2347.0,1069.0,4100.0,3416.0,0,Gary Kubiak,Rick Dennison,Wade Phillips,Peyton Manning
+93,15,Sun,0.0,10.0,0.0,Pittsburgh Steelers,2015,Broncos,281.0,225.0,3119.0,1291.0,23.0,23.0,2446.0,1096.0,4410.0,3542.0,0,Gary Kubiak,Rick Dennison,Wade Phillips,Peyton Manning
+94,16,Mon,1.0,10.0,1.0,Cincinnati Bengals,2015,Broncos,308.0,259.0,3400.0,1395.0,25.0,25.0,2800.0,1119.0,4795.0,3919.0,0,Gary Kubiak,Rick Dennison,Wade Phillips,Peyton Manning
+95,17,Sun,1.0,11.0,1.0,San Diego Chargers,2015,Broncos,328.0,276.0,3677.0,1508.0,26.0,26.0,2986.0,1227.0,5185.0,4213.0,0,Gary Kubiak,Rick Dennison,Wade Phillips,Peyton Manning
+96,1,Sun,1.0,0.0,1.0,Indianapolis Colts,2014,Broncos,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
+97,2,Sun,1.0,1.0,1.0,Kansas City Chiefs,2014,Broncos,31.0,24.0,259.0,102.0,0.0,2.0,354.0,54.0,361.0,408.0,0,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
+98,3,Sun,0.0,2.0,0.0,Seattle Seahawks,2014,Broncos,55.0,41.0,496.0,190.0,0.0,2.0,601.0,187.0,686.0,788.0,0,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
+99,5,Sun,1.0,2.0,1.0,Arizona Cardinals,2014,Broncos,75.0,67.0,792.0,226.0,2.0,3.0,856.0,316.0,1018.0,1172.0,1,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
+100,6,Sun,1.0,3.0,0.0,New York Jets,2014,Broncos,116.0,87.0,1268.0,318.0,4.0,3.0,1034.0,353.0,1586.0,1387.0,0,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
+101,7,Sun,1.0,4.0,1.0,San Francisco 49ers,2014,Broncos,147.0,104.0,1489.0,456.0,4.0,5.0,1207.0,384.0,1945.0,1591.0,0,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
+102,8,Thu,1.0,5.0,1.0,San Diego Chargers,2014,Broncos,189.0,121.0,1793.0,571.0,4.0,6.0,1455.0,446.0,2364.0,1901.0,0,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
+103,9,Sun,0.0,6.0,0.0,New England Patriots,2014,Broncos,224.0,142.0,2079.0,710.0,4.0,8.0,1700.0,507.0,2789.0,2207.0,0,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
+104,10,Sun,1.0,6.0,0.0,Oakland Raiders,2014,Broncos,245.0,185.0,2508.0,753.0,6.0,9.0,2032.0,573.0,3261.0,2605.0,0,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
+105,11,Sun,0.0,7.0,0.0,St. Louis Rams,2014,Broncos,286.0,202.0,2861.0,871.0,8.0,12.0,2224.0,603.0,3732.0,2827.0,0,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
+106,12,Sun,1.0,7.0,1.0,Miami Dolphins,2014,Broncos,293.0,224.0,3230.0,899.0,10.0,12.0,2430.0,734.0,4129.0,3164.0,0,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
+107,13,Sun,1.0,8.0,0.0,Kansas City Chiefs,2014,Broncos,332.0,260.0,3479.0,1100.0,11.0,13.0,2646.0,831.0,4579.0,3477.0,0,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
+108,14,Sun,1.0,9.0,1.0,Buffalo Bills,2014,Broncos,361.0,276.0,3653.0,1314.0,12.0,16.0,2756.0,872.0,4967.0,3628.0,0,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
+109,15,Sun,1.0,10.0,0.0,San Diego Chargers,2014,Broncos,385.0,293.0,3826.0,1447.0,15.0,19.0,3097.0,946.0,5273.0,4043.0,0,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
+110,16,Mon,0.0,11.0,0.0,Cincinnati Bengals,2014,Broncos,407.0,303.0,4052.0,1558.0,15.0,21.0,3329.0,1002.0,5610.0,4331.0,0,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
+111,17,Sun,1.0,11.0,1.0,Oakland Raiders,2014,Broncos,435.0,340.0,4352.0,1643.0,19.0,23.0,3475.0,1209.0,5995.0,4684.0,0,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
+112,1,Thu,1.0,0.0,1.0,Baltimore Ravens,2013,Broncos,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
+113,2,Sun,1.0,1.0,0.0,New York Giants,2013,Broncos,49.0,27.0,445.0,65.0,2.0,2.0,335.0,58.0,510.0,393.0,0,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
+114,3,Mon,1.0,2.0,1.0,Oakland Raiders,2013,Broncos,90.0,50.0,752.0,172.0,3.0,6.0,688.0,81.0,924.0,769.0,0,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
+115,4,Sun,1.0,3.0,1.0,Philadelphia Eagles,2013,Broncos,127.0,71.0,1124.0,336.0,5.0,6.0,981.0,130.0,1460.0,1111.0,0,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
+116,5,Sun,1.0,4.0,0.0,Dallas Cowboys,2013,Broncos,179.0,91.0,1455.0,477.0,5.0,6.0,1265.0,296.0,1932.0,1561.0,0,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
+117,6,Sun,1.0,5.0,1.0,Jacksonville Jaguars,2013,Broncos,230.0,139.0,1869.0,580.0,7.0,8.0,1735.0,348.0,2449.0,2083.0,0,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
+118,7,Sun,0.0,6.0,0.0,Indianapolis Colts,2013,Broncos,265.0,158.0,2164.0,692.0,10.0,10.0,2026.0,419.0,2856.0,2445.0,0,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
+119,8,Sun,1.0,6.0,1.0,Washington Redskins,2013,Broncos,298.0,197.0,2529.0,756.0,13.0,11.0,2239.0,540.0,3285.0,2779.0,0,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
+120,10,Sun,1.0,7.0,0.0,San Diego Chargers,2013,Broncos,343.0,218.0,2868.0,863.0,17.0,16.0,2393.0,652.0,3731.0,3045.0,1,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
+121,11,Sun,1.0,8.0,1.0,Kansas City Chiefs,2013,Broncos,371.0,238.0,3181.0,947.0,18.0,16.0,2591.0,783.0,4128.0,3374.0,0,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
+122,12,Sun,0.0,9.0,0.0,New England Patriots,2013,Broncos,398.0,255.0,3504.0,1051.0,19.0,17.0,2791.0,927.0,4555.0,3718.0,0,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
+123,13,Sun,1.0,9.0,0.0,Kansas City Chiefs,2013,Broncos,429.0,289.0,3636.0,1331.0,23.0,20.0,3115.0,1043.0,4967.0,4158.0,0,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
+124,14,Sun,1.0,10.0,1.0,Tennessee Titans,2013,Broncos,464.0,317.0,4039.0,1463.0,25.0,21.0,3408.0,1202.0,5502.0,4610.0,0,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
+125,15,Thu,0.0,11.0,1.0,San Diego Chargers,2013,Broncos,515.0,345.0,4436.0,1617.0,25.0,23.0,3566.0,1298.0,6053.0,4864.0,0,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
+126,16,Sun,1.0,11.0,0.0,Houston Texans,2013,Broncos,535.0,372.0,4713.0,1635.0,26.0,23.0,3726.0,1475.0,6348.0,5201.0,0,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
+127,17,Sun,1.0,12.0,0.0,Oakland Raiders,2013,Broncos,572.0,385.0,5110.0,1749.0,26.0,25.0,3879.0,1562.0,6859.0,5441.0,0,John Fox,Adam Gase,Jack Del Rio,Peyton Manning
+128,1,Sun,1.0,0.0,1.0,Pittsburgh Steelers,2012,Broncos,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,John Fox,Mike McCoy,Jack Del Rio,Peyton Manning
+129,2,Mon,0.0,1.0,0.0,Atlanta Falcons,2012,Broncos,31.0,19.0,240.0,94.0,1.0,1.0,209.0,75.0,334.0,284.0,0,John Fox,Mike McCoy,Jack Del Rio,Peyton Manning
+130,3,Sun,0.0,1.0,1.0,Houston Texans,2012,Broncos,52.0,46.0,458.0,212.0,5.0,1.0,417.0,142.0,670.0,559.0,0,John Fox,Mike McCoy,Jack Del Rio,Peyton Manning
+131,4,Sun,1.0,1.0,1.0,Oakland Raiders,2012,Broncos,77.0,77.0,774.0,271.0,6.0,3.0,701.0,294.0,1045.0,995.0,0,John Fox,Mike McCoy,Jack Del Rio,Peyton Manning
+132,5,Sun,0.0,2.0,0.0,New England Patriots,2012,Broncos,114.0,83.0,1112.0,436.0,7.0,3.0,882.0,350.0,1548.0,1232.0,0,John Fox,Mike McCoy,Jack Del Rio,Peyton Manning
+133,6,Mon,1.0,2.0,0.0,San Diego Chargers,2012,Broncos,135.0,114.0,1436.0,506.0,10.0,4.0,1075.0,601.0,1942.0,1676.0,0,John Fox,Mike McCoy,Jack Del Rio,Peyton Manning
+134,8,Sun,1.0,3.0,1.0,New Orleans Saints,2012,Broncos,170.0,138.0,1745.0,562.0,13.0,10.0,1292.0,691.0,2307.0,1983.0,1,John Fox,Mike McCoy,Jack Del Rio,Peyton Manning
+135,9,Sun,1.0,4.0,0.0,Cincinnati Bengals,2012,Broncos,204.0,152.0,2050.0,787.0,14.0,11.0,1493.0,742.0,2837.0,2235.0,0,John Fox,Mike McCoy,Jack Del Rio,Peyton Manning
+136,10,Sun,1.0,5.0,0.0,Carolina Panthers,2012,Broncos,235.0,175.0,2341.0,855.0,16.0,12.0,1768.0,833.0,3196.0,2601.0,0,John Fox,Mike McCoy,Jack Del Rio,Peyton Manning
+137,11,Sun,1.0,6.0,1.0,San Diego Chargers,2012,Broncos,271.0,189.0,2636.0,920.0,18.0,14.0,1966.0,885.0,3556.0,2851.0,0,John Fox,Mike McCoy,Jack Del Rio,Peyton Manning
+138,12,Sun,1.0,7.0,0.0,Kansas City Chiefs,2012,Broncos,301.0,212.0,2889.0,1053.0,20.0,17.0,2190.0,938.0,3942.0,3128.0,0,John Fox,Mike McCoy,Jack Del Rio,Peyton Manning
+139,13,Sun,1.0,8.0,1.0,Tampa Bay Buccaneers,2012,Broncos,318.0,221.0,3162.0,1148.0,21.0,18.0,2306.0,1086.0,4310.0,3392.0,0,John Fox,Mike McCoy,Jack Del Rio,Peyton Manning
+140,14,Thu,1.0,9.0,0.0,Oakland Raiders,2012,Broncos,349.0,244.0,3404.0,1239.0,22.0,19.0,2541.0,1157.0,4643.0,3698.0,0,John Fox,Mike McCoy,Jack Del Rio,Peyton Manning
+141,15,Sun,1.0,10.0,0.0,Baltimore Ravens,2012,Broncos,375.0,257.0,3692.0,1379.0,23.0,21.0,2804.0,1218.0,5071.0,4022.0,0,John Fox,Mike McCoy,Jack Del Rio,Peyton Manning
+142,16,Sun,1.0,11.0,1.0,Cleveland Browns,2012,Broncos,409.0,274.0,3879.0,1542.0,23.0,23.0,3026.0,1274.0,5421.0,4300.0,0,John Fox,Mike McCoy,Jack Del Rio,Peyton Manning
+143,17,Sun,1.0,12.0,1.0,Kansas City Chiefs,2012,Broncos,443.0,286.0,4218.0,1660.0,24.0,24.0,3168.0,1365.0,5878.0,4533.0,0,John Fox,Mike McCoy,Jack Del Rio,Peyton Manning
+144,1,Mon,0.0,0.0,1.0,Oakland Raiders,2011,Broncos,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,John Fox,Mike McCoy,Dennis Allen,Tim Tebow
+145,2,Sun,1.0,0.0,1.0,Cincinnati Bengals,2011,Broncos,20.0,23.0,272.0,38.0,3.0,1.0,99.0,190.0,310.0,289.0,0,John Fox,Mike McCoy,Dennis Allen,Tim Tebow
+146,3,Sun,0.0,1.0,0.0,Tennessee Titans,2011,Broncos,44.0,45.0,459.0,169.0,5.0,1.0,409.0,262.0,628.0,671.0,0,John Fox,Mike McCoy,Dennis Allen,Tim Tebow
+147,4,Sun,0.0,1.0,0.0,Green Bay Packers,2011,Broncos,58.0,62.0,631.0,228.0,7.0,3.0,704.0,300.0,859.0,1004.0,0,John Fox,Mike McCoy,Dennis Allen,Tim Tebow
+148,5,Sun,0.0,1.0,1.0,San Diego Chargers,2011,Broncos,81.0,111.0,896.0,347.0,11.0,5.0,1100.0,411.0,1243.0,1511.0,0,John Fox,Mike McCoy,Dennis Allen,Tim Tebow
+149,7,Sun,1.0,1.0,0.0,Miami Dolphins,2011,Broncos,105.0,140.0,1009.0,509.0,12.0,7.0,1312.0,617.0,1518.0,1929.0,1,John Fox,Mike McCoy,Dennis Allen,Tim Tebow
+150,8,Sun,0.0,2.0,1.0,Detroit Lions,2011,Broncos,123.0,155.0,1140.0,686.0,13.0,8.0,1485.0,711.0,1826.0,2196.0,0,John Fox,Mike McCoy,Dennis Allen,Tim Tebow
+151,9,Sun,1.0,2.0,0.0,Oakland Raiders,2011,Broncos,133.0,200.0,1257.0,881.0,16.0,8.0,1748.0,824.0,2138.0,2572.0,0,John Fox,Mike McCoy,Dennis Allen,Tim Tebow
+152,10,Sun,1.0,3.0,0.0,Kansas City Chiefs,2011,Broncos,171.0,224.0,1370.0,1180.0,16.0,11.0,2064.0,924.0,2550.0,2988.0,0,John Fox,Mike McCoy,Dennis Allen,Tim Tebow
+153,11,Thu,1.0,4.0,1.0,New York Jets,2011,Broncos,188.0,234.0,1439.0,1424.0,16.0,11.0,2188.0,1058.0,2863.0,3246.0,0,John Fox,Mike McCoy,Dennis Allen,Tim Tebow
+154,12,Sun,1.0,5.0,0.0,San Diego Chargers,2011,Broncos,205.0,247.0,1543.0,1549.0,17.0,13.0,2423.0,1141.0,3092.0,3564.0,0,John Fox,Mike McCoy,Dennis Allen,Tim Tebow
+155,13,Sun,1.0,6.0,0.0,Minnesota Vikings,2011,Broncos,221.0,260.0,1684.0,1757.0,17.0,13.0,2582.0,1326.0,3441.0,3908.0,0,John Fox,Mike McCoy,Dennis Allen,Tim Tebow
+156,14,Sun,1.0,7.0,1.0,Chicago Bears,2011,Broncos,256.0,292.0,1870.0,1907.0,19.0,16.0,2942.0,1455.0,3777.0,4397.0,0,John Fox,Mike McCoy,Dennis Allen,Tim Tebow
+157,15,Sun,0.0,8.0,1.0,New England Patriots,2011,Broncos,269.0,302.0,2091.0,2031.0,21.0,17.0,3028.0,1614.0,4122.0,4642.0,0,John Fox,Mike McCoy,Dennis Allen,Tim Tebow
+158,16,Sat,0.0,8.0,0.0,Buffalo Bills,2011,Broncos,292.0,343.0,2232.0,2283.0,24.0,17.0,3338.0,1755.0,4515.0,5093.0,0,John Fox,Mike McCoy,Dennis Allen,Tim Tebow
+159,17,Sun,0.0,8.0,1.0,Kansas City Chiefs,2011,Broncos,306.0,383.0,2384.0,2416.0,27.0,17.0,3529.0,1915.0,4800.0,5444.0,0,John Fox,Mike McCoy,Dennis Allen,Tim Tebow
+160,1,Sun,0.0,0.0,0.0,Jacksonville Jaguars,2010,Broncos,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Josh McDaniels,Mike McCoy,Don Martindale,Kyle Orton
+161,2,Sun,1.0,0.0,1.0,Seattle Seahawks,2010,Broncos,17.0,24.0,274.0,89.0,2.0,0.0,165.0,134.0,363.0,299.0,0,Josh McDaniels,Mike McCoy,Don Martindale,Kyle Orton
+162,3,Sun,0.0,1.0,1.0,Indianapolis Colts,2010,Broncos,48.0,38.0,578.0,154.0,2.0,4.0,395.0,243.0,732.0,638.0,0,Josh McDaniels,Mike McCoy,Don Martindale,Kyle Orton
+163,4,Sun,1.0,1.0,0.0,Tennessee Titans,2010,Broncos,61.0,65.0,1050.0,201.0,4.0,4.0,720.0,283.0,1251.0,1003.0,0,Josh McDaniels,Mike McCoy,Don Martindale,Kyle Orton
+164,5,Sun,0.0,2.0,0.0,Baltimore Ravens,2010,Broncos,87.0,85.0,1358.0,220.0,5.0,6.0,887.0,404.0,1578.0,1291.0,0,Josh McDaniels,Mike McCoy,Don Martindale,Kyle Orton
+165,6,Sun,0.0,2.0,1.0,New York Jets,2010,Broncos,104.0,116.0,1665.0,259.0,6.0,6.0,1069.0,637.0,1924.0,1706.0,0,Josh McDaniels,Mike McCoy,Don Martindale,Kyle Orton
+166,7,Sun,0.0,2.0,1.0,Oakland Raiders,2010,Broncos,124.0,140.0,1866.0,404.0,8.0,9.0,1259.0,766.0,2270.0,2025.0,0,Josh McDaniels,Mike McCoy,Don Martindale,Kyle Orton
+167,8,Sun,0.0,2.0,0.0,San Francisco 49ers,2010,Broncos,138.0,199.0,2031.0,479.0,11.0,9.0,1439.0,1094.0,2510.0,2533.0,0,Josh McDaniels,Mike McCoy,Don Martindale,Kyle Orton
+168,10,Sun,1.0,2.0,1.0,Kansas City Chiefs,2010,Broncos,154.0,223.0,2370.0,538.0,13.0,9.0,1635.0,1237.0,2908.0,2872.0,1,Josh McDaniels,Mike McCoy,Don Martindale,Kyle Orton
+169,11,Mon,0.0,3.0,0.0,San Diego Chargers,2010,Broncos,203.0,252.0,2669.0,691.0,13.0,10.0,2068.0,1288.0,3360.0,3356.0,0,Josh McDaniels,Mike McCoy,Don Martindale,Kyle Orton
+170,12,Sun,0.0,3.0,1.0,St. Louis Rams,2010,Broncos,217.0,287.0,2841.0,754.0,14.0,11.0,2321.0,1435.0,3595.0,3756.0,0,Josh McDaniels,Mike McCoy,Don Martindale,Kyle Orton
+171,13,Sun,0.0,3.0,0.0,Kansas City Chiefs,2010,Broncos,250.0,323.0,3171.0,873.0,16.0,11.0,2629.0,1558.0,4044.0,4187.0,0,Josh McDaniels,Mike McCoy,Don Martindale,Kyle Orton
+172,14,Sun,0.0,3.0,0.0,Arizona Cardinals,2010,Broncos,256.0,333.0,3257.0,1034.0,17.0,12.0,2803.0,1743.0,4291.0,4546.0,0,Josh McDaniels,Mike McCoy,Don Martindale,Kyle Orton
+173,15,Sun,0.0,3.0,0.0,Oakland Raiders,2010,Broncos,269.0,376.0,3413.0,1166.0,23.0,13.0,2949.0,1954.0,4579.0,4903.0,0,Josh McDaniels,Mike McCoy,Don Martindale,Kyle Orton
+174,16,Sun,1.0,3.0,1.0,Houston Texans,2010,Broncos,292.0,415.0,3542.0,1272.0,24.0,16.0,3187.0,2218.0,4814.0,5405.0,0,Josh McDaniels,Mike McCoy,Don Martindale,Kyle Orton
+175,17,Sun,0.0,4.0,1.0,San Diego Chargers,2010,Broncos,316.0,438.0,3847.0,1398.0,25.0,17.0,3497.0,2309.0,5245.0,5806.0,0,Josh McDaniels,Mike McCoy,Don Martindale,Kyle Orton

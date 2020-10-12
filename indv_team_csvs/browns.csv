@@ -1,161 +1,177 @@
 ,Week,Day,Results,Wins Tally,Home,Opp,year,Base_Team,PF Tally,PA Tally,OPassY Tally,ORushY Tally,TO_lost Tally,TO_won Tally,DPassY Tally,DRushY Tally,OTotYd Tally,DTotYd Tally,after_bye,Head_Coach,OC,DC,QB
-0,1,Sun,0.0,0.0,1.0,Tennessee Titans,2019,Browns,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Freddie Kitchens,Todd Monken,Steve Wilks,Baker Mayfield
-1,2,Mon,1.0,0.0,0.0,New York Jets,2019,Browns,13.0,43.0,244.0,102.0,3.0,0.0,216.0,123.0,346.0,339.0,0,Freddie Kitchens,Todd Monken,Steve Wilks,Baker Mayfield
-2,3,Sun,0.0,1.0,1.0,Los Angeles Rams,2019,Browns,36.0,46.0,549.0,172.0,4.0,1.0,385.0,216.0,721.0,601.0,0,Freddie Kitchens,Todd Monken,Steve Wilks,Baker Mayfield
-3,4,Sun,1.0,1.0,0.0,Baltimore Ravens,2019,Browns,49.0,66.0,724.0,267.0,5.0,4.0,639.0,306.0,991.0,945.0,0,Freddie Kitchens,Todd Monken,Steve Wilks,Baker Mayfield
-4,5,Mon,0.0,2.0,0.0,San Francisco 49ers,2019,Browns,89.0,91.0,1061.0,460.0,6.0,7.0,861.0,479.0,1521.0,1340.0,0,Freddie Kitchens,Todd Monken,Steve Wilks,Baker Mayfield
-5,6,Sun,0.0,2.0,1.0,Seattle Seahawks,2019,Browns,92.0,122.0,1139.0,562.0,10.0,7.0,1032.0,754.0,1701.0,1786.0,0,Freddie Kitchens,Todd Monken,Steve Wilks,Baker Mayfield
-6,8,Sun,0.0,2.0,0.0,New England Patriots,2019,Browns,120.0,154.0,1388.0,719.0,14.0,8.0,1316.0,924.0,2107.0,2240.0,1,Freddie Kitchens,Todd Monken,Steve Wilks,Baker Mayfield
-7,9,Sun,0.0,2.0,0.0,Denver Broncos,2019,Browns,133.0,181.0,1539.0,878.0,17.0,8.0,1555.0,1003.0,2417.0,2558.0,0,Freddie Kitchens,Todd Monken,Steve Wilks,Baker Mayfield
-8,10,Sun,1.0,2.0,1.0,Buffalo Bills,2019,Browns,152.0,205.0,1800.0,968.0,17.0,9.0,1730.0,1130.0,2768.0,2860.0,0,Freddie Kitchens,Todd Monken,Steve Wilks,Baker Mayfield
-9,11,Thu,1.0,3.0,1.0,Pittsburgh Steelers,2019,Browns,171.0,221.0,2021.0,1115.0,17.0,9.0,1990.0,1214.0,3136.0,3204.0,0,Freddie Kitchens,Todd Monken,Steve Wilks,Baker Mayfield
-10,12,Sun,1.0,4.0,1.0,Miami Dolphins,2019,Browns,192.0,228.0,2210.0,1219.0,17.0,13.0,2168.0,1272.0,3429.0,3440.0,0,Freddie Kitchens,Todd Monken,Steve Wilks,Baker Mayfield
-11,13,Sun,0.0,5.0,0.0,Pittsburgh Steelers,2019,Browns,233.0,252.0,2530.0,1366.0,18.0,15.0,2360.0,1364.0,3896.0,3724.0,0,Freddie Kitchens,Todd Monken,Steve Wilks,Baker Mayfield
-12,14,Sun,1.0,5.0,1.0,Cincinnati Bengals,2019,Browns,246.0,272.0,2703.0,1472.0,20.0,16.0,2559.0,1488.0,4175.0,4047.0,0,Freddie Kitchens,Todd Monken,Steve Wilks,Baker Mayfield
-13,15,Sun,0.0,6.0,0.0,Arizona Cardinals,2019,Browns,273.0,291.0,2890.0,1618.0,22.0,17.0,2831.0,1667.0,4508.0,4498.0,0,Freddie Kitchens,Todd Monken,Steve Wilks,Baker Mayfield
-14,16,Sun,0.0,6.0,1.0,Baltimore Ravens,2019,Browns,297.0,329.0,3131.0,1770.0,24.0,18.0,3050.0,1893.0,4901.0,4943.0,0,Freddie Kitchens,Todd Monken,Steve Wilks,Baker Mayfield
-15,17,Sun,0.0,6.0,0.0,Cincinnati Bengals,2019,Browns,312.0,360.0,3315.0,1827.0,25.0,19.0,3288.0,2136.0,5142.0,5424.0,0,Freddie Kitchens,Todd Monken,Steve Wilks,Baker Mayfield
-16,1,Sun,0.0,0.0,1.0,Pittsburgh Steelers,2018,Browns,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Hue Jackson,Todd Haley,Gregg Williams,Baker Mayfield
-17,2,Sun,0.0,0.0,0.0,New Orleans Saints,2018,Browns,21.0,21.0,150.0,177.0,1.0,6.0,313.0,159.0,327.0,472.0,0,Hue Jackson,Todd Haley,Gregg Williams,Baker Mayfield
-18,3,Thu,1.0,0.0,1.0,New York Jets,2018,Browns,39.0,42.0,384.0,270.0,2.0,8.0,526.0,221.0,654.0,747.0,0,Hue Jackson,Todd Haley,Gregg Williams,Baker Mayfield
-19,4,Sun,0.0,1.0,0.0,Oakland Raiders,2018,Browns,60.0,59.0,574.0,403.0,2.0,11.0,687.0,328.0,977.0,1015.0,0,Hue Jackson,Todd Haley,Gregg Williams,Baker Mayfield
-20,5,Sun,1.0,1.0,1.0,Baltimore Ravens,2018,Browns,102.0,104.0,853.0,611.0,6.0,13.0,1113.0,467.0,1464.0,1580.0,0,Hue Jackson,Todd Haley,Gregg Williams,Baker Mayfield
-21,6,Sun,0.0,2.0,1.0,Los Angeles Chargers,2018,Browns,114.0,113.0,1157.0,723.0,7.0,15.0,1407.0,583.0,1880.0,1990.0,0,Hue Jackson,Todd Haley,Gregg Williams,Baker Mayfield
-22,7,Sun,0.0,2.0,0.0,Tampa Bay Buccaneers,2018,Browns,128.0,151.0,1371.0,826.0,9.0,16.0,1610.0,829.0,2197.0,2439.0,0,Hue Jackson,Todd Haley,Gregg Williams,Baker Mayfield
-23,8,Sun,0.0,2.0,0.0,Pittsburgh Steelers,2018,Browns,151.0,177.0,1557.0,945.0,10.0,20.0,1952.0,943.0,2502.0,2895.0,0,Hue Jackson,Todd Haley,Gregg Williams,Baker Mayfield
-24,9,Sun,0.0,2.0,1.0,Kansas City Chiefs,2018,Browns,169.0,210.0,1720.0,1019.0,11.0,22.0,2205.0,1111.0,2739.0,3316.0,0,Hue Jackson,Todd Haley,Gregg Williams,Baker Mayfield
-25,10,Sun,1.0,2.0,1.0,Atlanta Falcons,2018,Browns,190.0,247.0,2006.0,1121.0,12.0,23.0,2565.0,1250.0,3127.0,3815.0,0,Hue Jackson,Todd Haley,Gregg Williams,Baker Mayfield
-26,12,Sun,1.0,3.0,0.0,Cincinnati Bengals,2018,Browns,218.0,263.0,2222.0,1332.0,13.0,25.0,2876.0,1321.0,3554.0,4197.0,1,Hue Jackson,Todd Haley,Gregg Williams,Baker Mayfield
-27,13,Sun,0.0,4.0,0.0,Houston Texans,2018,Browns,253.0,283.0,2480.0,1416.0,13.0,27.0,3119.0,1450.0,3896.0,4569.0,0,Hue Jackson,Todd Haley,Gregg Williams,Baker Mayfield
-28,14,Sun,1.0,4.0,1.0,Carolina Panthers,2018,Browns,266.0,312.0,2877.0,1447.0,17.0,27.0,3316.0,1637.0,4324.0,4953.0,0,Hue Jackson,Todd Haley,Gregg Williams,Baker Mayfield
-29,15,Sat,1.0,5.0,0.0,Denver Broncos,2018,Browns,292.0,332.0,3109.0,1563.0,19.0,28.0,3613.0,1733.0,4672.0,5346.0,0,Hue Jackson,Todd Haley,Gregg Williams,Baker Mayfield
-30,16,Sun,1.0,6.0,1.0,Cincinnati Bengals,2018,Browns,309.0,348.0,3284.0,1697.0,21.0,30.0,3851.0,1765.0,4981.0,5616.0,0,Hue Jackson,Todd Haley,Gregg Williams,Baker Mayfield
-31,17,Sun,0.0,7.0,0.0,Baltimore Ravens,2018,Browns,335.0,366.0,3631.0,1843.0,21.0,30.0,3958.0,1867.0,5474.0,5825.0,0,Hue Jackson,Todd Haley,Gregg Williams,Baker Mayfield
-32,1,Sun,0.0,0.0,1.0,Pittsburgh Steelers,2017,Browns,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Hue Jackson,Hue Jackson,Gregg Williams,DeShone Kizer
-33,2,Sun,0.0,0.0,0.0,Baltimore Ravens,2017,Browns,18.0,21.0,180.0,57.0,1.0,1.0,255.0,35.0,237.0,290.0,0,Hue Jackson,Hue Jackson,Gregg Williams,DeShone Kizer
-34,3,Sun,0.0,0.0,0.0,Indianapolis Colts,2017,Browns,28.0,45.0,473.0,150.0,6.0,3.0,456.0,171.0,623.0,627.0,0,Hue Jackson,Hue Jackson,Gregg Williams,DeShone Kizer
-35,4,Sun,0.0,0.0,1.0,Cincinnati Bengals,2017,Browns,56.0,76.0,708.0,261.0,9.0,4.0,699.0,263.0,969.0,962.0,0,Hue Jackson,Hue Jackson,Gregg Williams,DeShone Kizer
-36,5,Sun,0.0,0.0,1.0,New York Jets,2017,Browns,63.0,107.0,878.0,306.0,10.0,5.0,963.0,349.0,1184.0,1312.0,0,Hue Jackson,Hue Jackson,Gregg Williams,DeShone Kizer
-37,6,Sun,0.0,0.0,0.0,Houston Texans,2017,Browns,77.0,124.0,1157.0,446.0,13.0,6.0,1141.0,383.0,1603.0,1524.0,0,Kevin Hogan,Hue Jackson,Gregg Williams,DeShone Kizer
-38,7,Sun,0.0,0.0,1.0,Tennessee Titans,2017,Browns,94.0,157.0,1270.0,580.0,16.0,7.0,1358.0,506.0,1850.0,1864.0,0,Hue Jackson,Hue Jackson,Gregg Williams,DeShone Kizer
-39,8,Sun,0.0,0.0,1.0,Minnesota Vikings,2017,Browns,103.0,169.0,1488.0,646.0,19.0,8.0,1547.0,586.0,2134.0,2133.0,0,Hue Jackson,Hue Jackson,Gregg Williams,DeShone Kizer
-40,10,Sun,0.0,0.0,0.0,Detroit Lions,2017,Browns,119.0,202.0,1649.0,761.0,21.0,9.0,1834.0,674.0,2410.0,2508.0,1,Hue Jackson,Hue Jackson,Gregg Williams,DeShone Kizer
-41,11,Sun,0.0,0.0,1.0,Jacksonville Jaguars,2017,Browns,143.0,240.0,1861.0,962.0,23.0,10.0,2075.0,778.0,2823.0,2853.0,0,Hue Jackson,Hue Jackson,Gregg Williams,DeShone Kizer
-42,12,Sun,0.0,0.0,0.0,Cincinnati Bengals,2017,Browns,150.0,259.0,1995.0,1012.0,28.0,11.0,2220.0,917.0,3007.0,3137.0,0,Hue Jackson,Hue Jackson,Gregg Williams,DeShone Kizer
-43,13,Sun,0.0,0.0,0.0,Los Angeles Chargers,2017,Browns,166.0,289.0,2231.0,1181.0,28.0,11.0,2429.0,1069.0,3412.0,3498.0,0,Hue Jackson,Hue Jackson,Gregg Williams,DeShone Kizer
-44,14,Sun,0.0,0.0,1.0,Green Bay Packers,2017,Browns,176.0,308.0,2433.0,1270.0,30.0,11.0,2764.0,1163.0,3703.0,3927.0,0,Hue Jackson,Hue Jackson,Gregg Williams,DeShone Kizer
-45,15,Sun,0.0,0.0,1.0,Baltimore Ravens,2017,Browns,197.0,335.0,2642.0,1406.0,32.0,11.0,3020.0,1248.0,4048.0,4268.0,0,Hue Jackson,Hue Jackson,Gregg Williams,DeShone Kizer
-46,16,Sun,0.0,0.0,0.0,Chicago Bears,2017,Browns,207.0,362.0,2778.0,1536.0,36.0,11.0,3299.0,1345.0,4314.0,4644.0,0,Hue Jackson,Hue Jackson,Gregg Williams,DeShone Kizer
-47,17,Sun,0.0,0.0,0.0,Pittsburgh Steelers,2017,Browns,210.0,382.0,2956.0,1612.0,39.0,11.0,3460.0,1442.0,4568.0,4902.0,0,Hue Jackson,Hue Jackson,Gregg Williams,DeShone Kizer
-48,1,Sun,0.0,0.0,0.0,Philadelphia Eagles,2016,Browns,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Hue Jackson,Hue Jackson,Ray Horton,Robert Griffin III
-49,2,Sun,0.0,0.0,1.0,Baltimore Ravens,2016,Browns,10.0,29.0,168.0,120.0,1.0,0.0,270.0,133.0,288.0,403.0,0,Hue Jackson,Hue Jackson,Ray Horton,Josh McCown
-50,3,Sun,0.0,0.0,0.0,Miami Dolphins,2016,Browns,30.0,54.0,410.0,265.0,3.0,2.0,572.0,213.0,675.0,785.0,0,Hue Jackson,Hue Jackson,Ray Horton,Cody Kessler
-51,4,Sun,0.0,0.0,0.0,Washington Redskins,2016,Browns,54.0,84.0,671.0,434.0,4.0,5.0,883.0,328.0,1105.0,1211.0,0,Hue Jackson,Hue Jackson,Ray Horton,Cody Kessler
-52,5,Sun,0.0,0.0,1.0,New England Patriots,2016,Browns,74.0,115.0,888.0,597.0,7.0,6.0,1039.0,473.0,1485.0,1512.0,0,Hue Jackson,Hue Jackson,Ray Horton,Cody Kessler
-53,6,Sun,0.0,0.0,0.0,Tennessee Titans,2016,Browns,87.0,148.0,1123.0,624.0,8.0,6.0,1442.0,571.0,1747.0,2013.0,0,Hue Jackson,Hue Jackson,Ray Horton,Cody Kessler
-54,7,Sun,0.0,0.0,0.0,Cincinnati Bengals,2016,Browns,113.0,176.0,1424.0,664.0,8.0,7.0,1712.0,708.0,2088.0,2420.0,0,Hue Jackson,Hue Jackson,Ray Horton,Cody Kessler
-55,8,Sun,0.0,0.0,1.0,New York Jets,2016,Browns,130.0,207.0,1596.0,844.0,10.0,8.0,2000.0,979.0,2440.0,2979.0,0,Hue Jackson,Hue Jackson,Ray Horton,Josh McCown
-56,9,Sun,0.0,0.0,1.0,Dallas Cowboys,2016,Browns,158.0,238.0,1935.0,912.0,12.0,8.0,2222.0,1150.0,2847.0,3372.0,0,Hue Jackson,Hue Jackson,Ray Horton,Cody Kessler
-57,10,Thu,0.0,0.0,0.0,Baltimore Ravens,2016,Browns,168.0,273.0,2112.0,957.0,12.0,8.0,2477.0,1318.0,3069.0,3795.0,0,Hue Jackson,Hue Jackson,Ray Horton,Cody Kessler
-58,11,Sun,0.0,0.0,1.0,Pittsburgh Steelers,2016,Browns,175.0,301.0,2223.0,990.0,15.0,10.0,2754.0,1437.0,3213.0,4191.0,0,Hue Jackson,Hue Jackson,Ray Horton,Cody Kessler
-59,12,Sun,0.0,0.0,1.0,New York Giants,2016,Browns,184.0,325.0,2399.0,1023.0,17.0,10.0,2921.0,1583.0,3422.0,4504.0,0,Hue Jackson,Hue Jackson,Ray Horton,Josh McCown
-60,14,Sun,0.0,0.0,1.0,Cincinnati Bengals,2016,Browns,197.0,352.0,2684.0,1081.0,20.0,11.0,3113.0,1687.0,3765.0,4800.0,1,Hue Jackson,Hue Jackson,Ray Horton,Cody Kessler
-61,15,Sun,0.0,0.0,0.0,Buffalo Bills,2016,Browns,207.0,375.0,2769.0,1250.0,21.0,11.0,3260.0,1900.0,4019.0,5160.0,0,Hue Jackson,Hue Jackson,Ray Horton,Cody Kessler
-62,16,Sat,1.0,0.0,1.0,San Diego Chargers,2016,Browns,220.0,408.0,2931.0,1357.0,21.0,11.0,3431.0,2180.0,4288.0,5611.0,0,Hue Jackson,Hue Jackson,Ray Horton,Cody Kessler
-63,17,Sun,0.0,1.0,0.0,Pittsburgh Steelers,2016,Browns,240.0,425.0,3058.0,1481.0,21.0,12.0,3753.0,2214.0,4539.0,5967.0,0,Hue Jackson,Hue Jackson,Ray Horton,Cody Kessler
-64,1,Sun,0.0,0.0,0.0,New York Jets,2015,Browns,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Mike Pettine,John DeFilippo,Jim O'Neil,Josh McCown
-65,2,Sun,1.0,0.0,1.0,Tennessee Titans,2015,Browns,10.0,31.0,217.0,104.0,5.0,1.0,179.0,154.0,321.0,333.0,0,Johnny Manziel,John DeFilippo,Jim O'Neil,Josh McCown
-66,3,Sun,0.0,1.0,1.0,Oakland Raiders,2015,Browns,38.0,45.0,375.0,220.0,5.0,4.0,398.0,320.0,595.0,718.0,0,Mike Pettine,John DeFilippo,Jim O'Neil,Josh McCown
-67,4,Sun,0.0,1.0,0.0,San Diego Chargers,2015,Browns,58.0,72.0,691.0,259.0,7.0,5.0,712.0,475.0,950.0,1187.0,0,Mike Pettine,John DeFilippo,Jim O'Neil,Josh McCown
-68,5,Sun,1.0,1.0,0.0,Baltimore Ravens,2015,Browns,85.0,102.0,1023.0,359.0,8.0,5.0,1059.0,566.0,1382.0,1625.0,0,Mike Pettine,John DeFilippo,Jim O'Neil,Josh McCown
-69,6,Sun,0.0,2.0,1.0,Denver Broncos,2015,Browns,118.0,132.0,1445.0,442.0,8.0,5.0,1255.0,747.0,1887.0,2002.0,0,Mike Pettine,John DeFilippo,Jim O'Neil,Josh McCown
-70,7,Sun,0.0,2.0,0.0,St. Louis Rams,2015,Browns,141.0,158.0,1634.0,551.0,11.0,8.0,1545.0,899.0,2185.0,2444.0,0,Mike Pettine,John DeFilippo,Jim O'Neil,Josh McCown
-71,8,Sun,0.0,2.0,1.0,Arizona Cardinals,2015,Browns,147.0,182.0,1916.0,633.0,15.0,9.0,1695.0,1057.0,2549.0,2752.0,0,Mike Pettine,John DeFilippo,Jim O'Neil,Josh McCown
-72,9,Thu,0.0,2.0,0.0,Cincinnati Bengals,2015,Browns,167.0,216.0,2131.0,672.0,17.0,13.0,2067.0,1176.0,2803.0,3243.0,0,Mike Pettine,John DeFilippo,Jim O'Neil,Josh McCown
-73,10,Sun,0.0,2.0,0.0,Pittsburgh Steelers,2015,Browns,177.0,247.0,2275.0,741.0,17.0,13.0,2286.0,1328.0,3016.0,3614.0,0,Mike Pettine,John DeFilippo,Jim O'Neil,Josh McCown
-74,12,Mon,0.0,2.0,1.0,Baltimore Ravens,2015,Browns,186.0,277.0,2602.0,756.0,20.0,15.0,2685.0,1388.0,3358.0,4073.0,1,Mike Pettine,John DeFilippo,Jim O'Neil,Josh McCown
-75,13,Sun,0.0,2.0,1.0,Cincinnati Bengals,2015,Browns,213.0,310.0,2877.0,819.0,20.0,17.0,2917.0,1492.0,3696.0,4409.0,0,Mike Pettine,John DeFilippo,Jim O'Neil,Austin Davis
-76,14,Sun,1.0,2.0,1.0,San Francisco 49ers,2015,Browns,216.0,347.0,3082.0,887.0,22.0,17.0,3150.0,1636.0,3969.0,4786.0,0,Mike Pettine,John DeFilippo,Jim O'Neil,Josh McCown
-77,15,Sun,0.0,3.0,0.0,Seattle Seahawks,2015,Browns,240.0,357.0,3333.0,1117.0,24.0,17.0,3300.0,1707.0,4450.0,5007.0,0,Mike Pettine,John DeFilippo,Jim O'Neil,Josh McCown
-78,16,Sun,0.0,3.0,0.0,Kansas City Chiefs,2015,Browns,253.0,387.0,3469.0,1211.0,25.0,17.0,3541.0,1889.0,4680.0,5430.0,0,Mike Pettine,John DeFilippo,Jim O'Neil,Josh McCown
-79,17,Sun,0.0,3.0,1.0,Pittsburgh Steelers,2015,Browns,266.0,404.0,3605.0,1443.0,26.0,18.0,3663.0,2025.0,5048.0,5688.0,0,Mike Pettine,John DeFilippo,Jim O'Neil,Austin Davis
-80,1,Sun,0.0,0.0,0.0,Pittsburgh Steelers,2014,Browns,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Mike Pettine,Kyle Shanahan,Jim O'Neil,Brian Hoyer
-81,2,Sun,1.0,0.0,1.0,New Orleans Saints,2014,Browns,27.0,30.0,198.0,191.0,0.0,1.0,376.0,127.0,389.0,503.0,0,Mike Pettine,Kyle Shanahan,Jim O'Neil,Brian Hoyer
-82,3,Sun,0.0,1.0,1.0,Baltimore Ravens,2014,Browns,53.0,54.0,400.0,313.0,0.0,3.0,599.0,301.0,713.0,900.0,0,Mike Pettine,Kyle Shanahan,Jim O'Neil,Brian Hoyer
-83,5,Sun,1.0,1.0,0.0,Tennessee Titans,2014,Browns,74.0,77.0,690.0,398.0,0.0,4.0,816.0,461.0,1088.0,1277.0,1,Mike Pettine,Kyle Shanahan,Jim O'Neil,Brian Hoyer
-84,6,Sun,1.0,2.0,1.0,Pittsburgh Steelers,2014,Browns,103.0,105.0,974.0,574.0,1.0,4.0,1077.0,610.0,1548.0,1687.0,0,Mike Pettine,Kyle Shanahan,Jim O'Neil,Brian Hoyer
-85,7,Sun,0.0,3.0,0.0,Jacksonville Jaguars,2014,Browns,134.0,115.0,1184.0,732.0,2.0,5.0,1298.0,748.0,1916.0,2046.0,0,Mike Pettine,Kyle Shanahan,Jim O'Neil,Brian Hoyer
-86,8,Sun,1.0,3.0,1.0,Oakland Raiders,2014,Browns,140.0,139.0,1381.0,801.0,5.0,8.0,1449.0,933.0,2182.0,2382.0,0,Mike Pettine,Kyle Shanahan,Jim O'Neil,Brian Hoyer
-87,9,Sun,1.0,4.0,1.0,Tampa Bay Buccaneers,2014,Browns,163.0,152.0,1648.0,840.0,5.0,11.0,1760.0,1009.0,2488.0,2769.0,0,Mike Pettine,Kyle Shanahan,Jim O'Neil,Brian Hoyer
-88,10,Thu,1.0,5.0,0.0,Cincinnati Bengals,2014,Browns,185.0,169.0,1922.0,896.0,7.0,13.0,2012.0,1122.0,2818.0,3134.0,0,Mike Pettine,Kyle Shanahan,Jim O'Neil,Brian Hoyer
-89,11,Sun,0.0,6.0,1.0,Houston Texans,2014,Browns,209.0,172.0,2120.0,1066.0,8.0,17.0,2091.0,1208.0,3186.0,3299.0,0,Mike Pettine,Kyle Shanahan,Jim O'Neil,Brian Hoyer
-90,12,Sun,1.0,6.0,0.0,Atlanta Falcons,2014,Browns,216.0,195.0,2430.0,1131.0,10.0,18.0,2302.0,1421.0,3561.0,3723.0,0,Mike Pettine,Kyle Shanahan,Jim O'Neil,Brian Hoyer
-91,13,Sun,0.0,7.0,0.0,Buffalo Bills,2014,Browns,242.0,219.0,2743.0,1293.0,13.0,20.0,2554.0,1484.0,4036.0,4038.0,0,Mike Pettine,Kyle Shanahan,Jim O'Neil,Brian Hoyer
-92,14,Sun,0.0,7.0,1.0,Indianapolis Colts,2014,Browns,252.0,245.0,2984.0,1367.0,16.0,22.0,2735.0,1590.0,4351.0,4325.0,0,Mike Pettine,Kyle Shanahan,Jim O'Neil,Brian Hoyer
-93,15,Sun,0.0,7.0,1.0,Cincinnati Bengals,2014,Browns,276.0,270.0,3117.0,1482.0,18.0,26.0,3004.0,1683.0,4599.0,4687.0,0,Mike Pettine,Kyle Shanahan,Jim O'Neil,Brian Hoyer
-94,16,Sun,0.0,7.0,0.0,Carolina Panthers,2014,Browns,276.0,300.0,3171.0,1535.0,20.0,27.0,3107.0,1927.0,4706.0,5034.0,0,Mike Pettine,Kyle Shanahan,Jim O'Neil,Brian Hoyer
-95,17,Sun,0.0,7.0,0.0,Baltimore Ravens,2014,Browns,289.0,317.0,3315.0,1619.0,21.0,29.0,3302.0,2136.0,4934.0,5438.0,0,Mike Pettine,Kyle Shanahan,Jim O'Neil,Connor Shaw
-96,1,Sun,0.0,0.0,1.0,Miami Dolphins,2013,Browns,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Rob Chudzinski,Norv Turner,Ray Horton,Jason Campbell
-97,2,Sun,0.0,0.0,0.0,Baltimore Ravens,2013,Browns,10.0,23.0,244.0,47.0,3.0,1.0,255.0,20.0,291.0,275.0,0,Rob Chudzinski,Norv Turner,Ray Horton,Jason Campbell
-98,3,Sun,1.0,0.0,0.0,Minnesota Vikings,2013,Browns,16.0,37.0,438.0,112.0,3.0,2.0,452.0,119.0,550.0,571.0,0,Rob Chudzinski,Norv Turner,Ray Horton,Jason Campbell
-99,4,Sun,1.0,1.0,1.0,Cincinnati Bengals,2013,Browns,47.0,64.0,744.0,215.0,7.0,5.0,647.0,253.0,959.0,900.0,0,Rob Chudzinski,Norv Turner,Ray Horton,Jason Campbell
-100,5,Thu,1.0,2.0,1.0,Buffalo Bills,2013,Browns,64.0,70.0,991.0,304.0,7.0,7.0,850.0,316.0,1295.0,1166.0,0,Rob Chudzinski,Norv Turner,Ray Horton,Jason Campbell
-101,6,Sun,0.0,3.0,1.0,Detroit Lions,2013,Browns,101.0,94.0,1190.0,395.0,7.0,8.0,1038.0,471.0,1585.0,1509.0,0,Rob Chudzinski,Norv Turner,Ray Horton,Jason Campbell
-102,7,Sun,0.0,3.0,0.0,Green Bay Packers,2013,Browns,118.0,125.0,1459.0,521.0,9.0,9.0,1286.0,589.0,1980.0,1875.0,0,Rob Chudzinski,Norv Turner,Ray Horton,Jason Campbell
-103,8,Sun,0.0,3.0,0.0,Kansas City Chiefs,2013,Browns,131.0,156.0,1592.0,604.0,10.0,9.0,1539.0,693.0,2196.0,2232.0,0,Rob Chudzinski,Norv Turner,Ray Horton,Jason Campbell
-104,9,Sun,1.0,3.0,1.0,Baltimore Ravens,2013,Browns,148.0,179.0,1875.0,661.0,11.0,9.0,1734.0,829.0,2536.0,2563.0,0,Rob Chudzinski,Norv Turner,Ray Horton,Jason Campbell
-105,11,Sun,0.0,4.0,0.0,Cincinnati Bengals,2013,Browns,172.0,197.0,2117.0,734.0,12.0,11.0,1957.0,884.0,2851.0,2841.0,1,Rob Chudzinski,Norv Turner,Ray Horton,Jason Campbell
-106,12,Sun,0.0,4.0,1.0,Pittsburgh Steelers,2013,Browns,192.0,238.0,2345.0,836.0,16.0,13.0,2075.0,990.0,3181.0,3065.0,0,Rob Chudzinski,Norv Turner,Ray Horton,Jason Campbell
-107,13,Sun,0.0,4.0,1.0,Jacksonville Jaguars,2013,Browns,203.0,265.0,2657.0,891.0,20.0,13.0,2292.0,1075.0,3548.0,3367.0,0,Rob Chudzinski,Norv Turner,Ray Horton,Brandon Weeden
-108,14,Sun,0.0,4.0,0.0,New England Patriots,2013,Browns,231.0,297.0,2999.0,988.0,23.0,14.0,2494.0,1187.0,3987.0,3681.0,0,Rob Chudzinski,Norv Turner,Ray Horton,Jason Campbell
-109,15,Sun,0.0,4.0,1.0,Chicago Bears,2013,Browns,257.0,324.0,3385.0,1096.0,23.0,16.0,2891.0,1274.0,4481.0,4165.0,0,Rob Chudzinski,Norv Turner,Ray Horton,Jason Campbell
-110,16,Sun,0.0,4.0,0.0,New York Jets,2013,Browns,288.0,362.0,3658.0,1189.0,25.0,19.0,3152.0,1453.0,4847.0,4605.0,0,Rob Chudzinski,Norv Turner,Ray Horton,Jason Campbell
-111,17,Sun,0.0,4.0,0.0,Pittsburgh Steelers,2013,Browns,301.0,386.0,3826.0,1304.0,27.0,19.0,3366.0,1661.0,5130.0,5027.0,0,Rob Chudzinski,Norv Turner,Ray Horton,Jason Campbell
-112,1,Sun,0.0,0.0,1.0,Philadelphia Eagles,2012,Browns,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Pat Shurmur,Brad Childress,Dick Jauron,Brandon Weeden
-113,2,Sun,0.0,0.0,0.0,Cincinnati Bengals,2012,Browns,16.0,17.0,111.0,99.0,4.0,5.0,306.0,150.0,210.0,456.0,0,Pat Shurmur,Brad Childress,Dick Jauron,Brandon Weeden
-114,3,Sun,0.0,0.0,1.0,Buffalo Bills,2012,Browns,43.0,51.0,420.0,229.0,5.0,6.0,601.0,230.0,649.0,831.0,0,Pat Shurmur,Brad Childress,Dick Jauron,Brandon Weeden
-115,4,Thu,0.0,0.0,0.0,Baltimore Ravens,2012,Browns,57.0,75.0,627.0,262.0,7.0,7.0,807.0,368.0,889.0,1175.0,0,Pat Shurmur,Brad Childress,Dick Jauron,Brandon Weeden
-116,5,Sun,0.0,0.0,0.0,New York Giants,2012,Browns,73.0,98.0,941.0,305.0,9.0,8.0,1144.0,469.0,1246.0,1613.0,0,Pat Shurmur,Brad Childress,Dick Jauron,Brandon Weeden
-117,6,Sun,1.0,0.0,1.0,Cincinnati Bengals,2012,Browns,100.0,139.0,1232.0,389.0,12.0,10.0,1403.0,712.0,1621.0,2115.0,0,Pat Shurmur,Brad Childress,Dick Jauron,Brandon Weeden
-118,7,Sun,0.0,1.0,0.0,Indianapolis Colts,2012,Browns,134.0,163.0,1450.0,499.0,13.0,14.0,1765.0,788.0,1949.0,2553.0,0,Pat Shurmur,Brad Childress,Dick Jauron,Brandon Weeden
-119,8,Sun,1.0,1.0,1.0,San Diego Chargers,2012,Browns,147.0,180.0,1714.0,554.0,13.0,15.0,1938.0,936.0,2268.0,2874.0,0,Pat Shurmur,Brad Childress,Dick Jauron,Brandon Weeden
-120,9,Sun,0.0,2.0,1.0,Baltimore Ravens,2012,Browns,154.0,186.0,1831.0,687.0,13.0,16.0,2086.0,1053.0,2518.0,3139.0,0,Pat Shurmur,Brad Childress,Dick Jauron,Brandon Weeden
-121,11,Sun,0.0,2.0,0.0,Dallas Cowboys,2012,Browns,169.0,211.0,2005.0,803.0,15.0,16.0,2231.0,1190.0,2808.0,3421.0,1,Pat Shurmur,Brad Childress,Dick Jauron,Brandon Weeden
-122,12,Sun,1.0,2.0,1.0,Pittsburgh Steelers,2012,Browns,189.0,234.0,2197.0,922.0,16.0,17.0,2488.0,1253.0,3119.0,3741.0,0,Pat Shurmur,Brad Childress,Dick Jauron,Brandon Weeden
-123,13,Sun,1.0,3.0,0.0,Oakland Raiders,2012,Browns,209.0,248.0,2327.0,1030.0,17.0,25.0,2681.0,1302.0,3357.0,3983.0,0,Pat Shurmur,Brad Childress,Dick Jauron,Brandon Weeden
-124,14,Sun,1.0,4.0,1.0,Kansas City Chiefs,2012,Browns,229.0,265.0,2680.0,1152.0,19.0,26.0,3025.0,1387.0,3832.0,4412.0,0,Pat Shurmur,Brad Childress,Dick Jauron,Brandon Weeden
-125,15,Sun,0.0,5.0,1.0,Washington Redskins,2012,Browns,259.0,272.0,2878.0,1306.0,19.0,27.0,3155.0,1567.0,4184.0,4722.0,0,Pat Shurmur,Brad Childress,Dick Jauron,Brandon Weeden
-126,16,Sun,0.0,5.0,0.0,Denver Broncos,2012,Browns,280.0,310.0,3111.0,1364.0,21.0,28.0,3463.0,1689.0,4475.0,5152.0,0,Pat Shurmur,Brad Childress,Dick Jauron,Brandon Weeden
-127,17,Sun,0.0,5.0,0.0,Pittsburgh Steelers,2012,Browns,292.0,344.0,3253.0,1455.0,22.0,29.0,3802.0,1807.0,4708.0,5609.0,0,Thad Lewis,Brad Childress,Dick Jauron,Brandon Weeden
-128,1,Sun,0.0,0.0,1.0,Cincinnati Bengals,2011,Browns,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Pat Shurmur,Pat Shurmur,Dick Jauron,Colt McCoy
-129,2,Sun,1.0,0.0,0.0,Indianapolis Colts,2011,Browns,17.0,27.0,202.0,83.0,1.0,0.0,155.0,139.0,285.0,294.0,0,Pat Shurmur,Pat Shurmur,Dick Jauron,Colt McCoy
-130,3,Sun,1.0,1.0,1.0,Miami Dolphins,2011,Browns,44.0,46.0,399.0,189.0,2.0,2.0,331.0,248.0,588.0,579.0,0,Pat Shurmur,Pat Shurmur,Dick Jauron,Colt McCoy
-131,4,Sun,0.0,2.0,1.0,Tennessee Titans,2011,Browns,61.0,62.0,609.0,259.0,3.0,4.0,562.0,386.0,868.0,948.0,0,Pat Shurmur,Pat Shurmur,Dick Jauron,Colt McCoy
-132,6,Sun,0.0,2.0,0.0,Oakland Raiders,2011,Browns,74.0,93.0,941.0,343.0,4.0,5.0,782.0,498.0,1284.0,1280.0,1,Pat Shurmur,Pat Shurmur,Dick Jauron,Colt McCoy
-133,7,Sun,1.0,2.0,1.0,Seattle Seahawks,2011,Browns,91.0,117.0,1144.0,408.0,5.0,6.0,960.0,649.0,1552.0,1609.0,0,Pat Shurmur,Pat Shurmur,Dick Jauron,Colt McCoy
-134,8,Sun,0.0,3.0,0.0,San Francisco 49ers,2011,Browns,97.0,120.0,1303.0,547.0,6.0,8.0,1029.0,717.0,1850.0,1746.0,0,Pat Shurmur,Pat Shurmur,Dick Jauron,Colt McCoy
-135,9,Sun,0.0,3.0,0.0,Houston Texans,2011,Browns,107.0,140.0,1527.0,613.0,8.0,8.0,1203.0,891.0,2140.0,2094.0,0,Pat Shurmur,Pat Shurmur,Dick Jauron,Colt McCoy
-136,10,Sun,0.0,3.0,1.0,St. Louis Rams,2011,Browns,119.0,170.0,1655.0,657.0,10.0,9.0,1322.0,1152.0,2312.0,2474.0,0,Pat Shurmur,Pat Shurmur,Dick Jauron,Colt McCoy
-137,11,Sun,1.0,3.0,1.0,Jacksonville Jaguars,2011,Browns,131.0,183.0,1864.0,783.0,11.0,11.0,1470.0,1285.0,2647.0,2755.0,0,Pat Shurmur,Pat Shurmur,Dick Jauron,Colt McCoy
-138,12,Sun,0.0,4.0,0.0,Cincinnati Bengals,2011,Browns,145.0,193.0,2050.0,931.0,12.0,11.0,1665.0,1393.0,2981.0,3058.0,0,Pat Shurmur,Pat Shurmur,Dick Jauron,Colt McCoy
-139,13,Sun,0.0,4.0,1.0,Baltimore Ravens,2011,Browns,165.0,216.0,2190.0,1065.0,13.0,12.0,1922.0,1525.0,3255.0,3447.0,0,Pat Shurmur,Pat Shurmur,Dick Jauron,Colt McCoy
-140,14,Thu,0.0,4.0,0.0,Pittsburgh Steelers,2011,Browns,175.0,240.0,2364.0,1124.0,14.0,13.0,2080.0,1815.0,3488.0,3895.0,0,Pat Shurmur,Pat Shurmur,Dick Jauron,Colt McCoy
-141,15,Sun,0.0,4.0,0.0,Arizona Cardinals,2011,Browns,178.0,254.0,2570.0,1222.0,16.0,16.0,2349.0,1962.0,3792.0,4311.0,0,Pat Shurmur,Pat Shurmur,Dick Jauron,Colt McCoy
-142,16,Sat,0.0,4.0,0.0,Baltimore Ravens,2011,Browns,195.0,274.0,2783.0,1342.0,17.0,17.0,2638.0,2036.0,4125.0,4674.0,0,Pat Shurmur,Pat Shurmur,Dick Jauron,Colt McCoy
-143,17,Sun,0.0,4.0,1.0,Pittsburgh Steelers,2011,Browns,209.0,294.0,2922.0,1459.0,18.0,18.0,2760.0,2198.0,4381.0,4958.0,0,Pat Shurmur,Pat Shurmur,Dick Jauron,Colt McCoy
-144,1,Sun,0.0,0.0,0.0,Tampa Bay Buccaneers,2010,Browns,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Eric Mangini,Brian Daboll,Rob Ryan,Jake Delhomme
-145,2,Sun,0.0,0.0,1.0,Kansas City Chiefs,2010,Browns,14.0,17.0,236.0,104.0,3.0,2.0,169.0,119.0,340.0,288.0,0,Eric Mangini,Brian Daboll,Rob Ryan,Jake Delhomme
-146,3,Sun,0.0,0.0,0.0,Baltimore Ravens,2010,Browns,28.0,33.0,462.0,177.0,5.0,4.0,341.0,259.0,639.0,600.0,0,Eric Mangini,Brian Daboll,Rob Ryan,Jake Delhomme
-147,4,Sun,1.0,0.0,1.0,Cincinnati Bengals,2010,Browns,45.0,57.0,593.0,350.0,5.0,4.0,597.0,368.0,943.0,965.0,0,Eric Mangini,Brian Daboll,Rob Ryan,Jake Delhomme
-148,5,Sun,0.0,1.0,1.0,Atlanta Falcons,2010,Browns,68.0,77.0,772.0,466.0,6.0,6.0,943.0,435.0,1238.0,1378.0,0,Eric Mangini,Brian Daboll,Rob Ryan,Jake Delhomme
-149,6,Sun,0.0,1.0,0.0,Pittsburgh Steelers,2010,Browns,78.0,97.0,993.0,514.0,9.0,7.0,1116.0,600.0,1507.0,1716.0,0,Eric Mangini,Brian Daboll,Rob Ryan,Jake Delhomme
-150,7,Sun,1.0,1.0,0.0,New Orleans Saints,2010,Browns,88.0,125.0,1251.0,583.0,12.0,8.0,1373.0,721.0,1834.0,2094.0,0,Eric Mangini,Brian Daboll,Rob Ryan,Jake Delhomme
-151,9,Sun,1.0,2.0,1.0,New England Patriots,2010,Browns,118.0,142.0,1336.0,708.0,12.0,12.0,1709.0,779.0,2044.0,2488.0,1,Eric Mangini,Brian Daboll,Rob Ryan,Jake Delhomme
-152,10,Sun,0.0,3.0,1.0,New York Jets,2010,Browns,152.0,156.0,1510.0,938.0,13.0,15.0,1924.0,847.0,2448.0,2771.0,0,Eric Mangini,Brian Daboll,Rob Ryan,Jake Delhomme
-153,11,Sun,0.0,3.0,0.0,Jacksonville Jaguars,2010,Browns,172.0,182.0,1706.0,1045.0,15.0,16.0,2208.0,1019.0,2751.0,3227.0,0,Eric Mangini,Brian Daboll,Rob Ryan,Jake Delhomme
-154,12,Sun,1.0,3.0,1.0,Carolina Panthers,2010,Browns,192.0,206.0,1901.0,1133.0,16.0,22.0,2434.0,1164.0,3034.0,3598.0,0,Eric Mangini,Brian Daboll,Rob Ryan,Jake Delhomme
-155,13,Sun,1.0,4.0,0.0,Miami Dolphins,2010,Browns,216.0,229.0,2128.0,1285.0,19.0,23.0,2609.0,1315.0,3413.0,3924.0,0,Eric Mangini,Brian Daboll,Rob Ryan,Jake Delhomme
-156,14,Sun,0.0,5.0,0.0,Buffalo Bills,2010,Browns,229.0,239.0,2328.0,1337.0,19.0,26.0,2776.0,1429.0,3665.0,4205.0,0,Eric Mangini,Brian Daboll,Rob Ryan,Jake Delhomme
-157,15,Sun,0.0,5.0,0.0,Cincinnati Bengals,2010,Browns,235.0,252.0,2410.0,1442.0,22.0,27.0,2907.0,1621.0,3852.0,4528.0,0,Eric Mangini,Brian Daboll,Rob Ryan,Jake Delhomme
-158,16,Sun,0.0,5.0,1.0,Baltimore Ravens,2010,Browns,252.0,271.0,2629.0,1501.0,22.0,27.0,3116.0,1809.0,4130.0,4925.0,0,Eric Mangini,Brian Daboll,Rob Ryan,Jake Delhomme
-159,17,Sun,0.0,5.0,1.0,Pittsburgh Steelers,2010,Browns,262.0,291.0,2807.0,1603.0,26.0,28.0,3213.0,1970.0,4410.0,5183.0,0,Eric Mangini,Brian Daboll,Rob Ryan,Jake Delhomme
+0,1,Sun,0.0,0.0,0.0,Baltimore Ravens,2020,Browns,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Kevin Stefanski,Alex Van Pelt,Joe Woods,Baker Mayfield
+1,2,Thu,1.0,0.0,1.0,Cincinnati Bengals,2020,Browns,6.0,38.0,168.0,138.0,3.0,1.0,270.0,111.0,306.0,381.0,0,Kevin Stefanski,Alex Van Pelt,Joe Woods,Baker Mayfield
+2,3,Sun,1.0,1.0,1.0,Washington Football Team,2020,Browns,41.0,68.0,387.0,353.0,4.0,2.0,555.0,179.0,740.0,734.0,0,Kevin Stefanski,Alex Van Pelt,Joe Woods,Baker Mayfield
+3,4,Sun,1.0,2.0,0.0,Dallas Cowboys,2020,Browns,75.0,88.0,529.0,511.0,4.0,7.0,761.0,282.0,1040.0,1043.0,0,Kevin Stefanski,Alex Van Pelt,Joe Woods,Baker Mayfield
+4,5,Sun,,,1.0,Indianapolis Colts,2020,Browns,124.0,126.0,730.0,818.0,4.0,10.0,1242.0,367.0,1548.0,1609.0,0,Kevin Stefanski,Alex Van Pelt,Joe Woods,Baker Mayfield
+5,6,Sun,,,0.0,Pittsburgh Steelers,2020,Browns,124.0,126.0,730.0,818.0,4.0,10.0,1242.0,367.0,1548.0,1609.0,0,Kevin Stefanski,Alex Van Pelt,Joe Woods,Baker Mayfield
+6,7,Sun,,,0.0,Cincinnati Bengals,2020,Browns,124.0,126.0,730.0,818.0,4.0,10.0,1242.0,367.0,1548.0,1609.0,0,Kevin Stefanski,Alex Van Pelt,Joe Woods,Baker Mayfield
+7,8,Sun,,,1.0,Las Vegas Raiders,2020,Browns,124.0,126.0,730.0,818.0,4.0,10.0,1242.0,367.0,1548.0,1609.0,0,Kevin Stefanski,Alex Van Pelt,Joe Woods,Baker Mayfield
+8,10,Sun,,,1.0,Houston Texans,2020,Browns,124.0,126.0,730.0,818.0,4.0,10.0,1242.0,367.0,1548.0,1609.0,1,Kevin Stefanski,Alex Van Pelt,Joe Woods,Baker Mayfield
+9,11,Sun,,,1.0,Philadelphia Eagles,2020,Browns,124.0,126.0,730.0,818.0,4.0,10.0,1242.0,367.0,1548.0,1609.0,0,Kevin Stefanski,Alex Van Pelt,Joe Woods,Baker Mayfield
+10,12,Sun,,,0.0,Jacksonville Jaguars,2020,Browns,124.0,126.0,730.0,818.0,4.0,10.0,1242.0,367.0,1548.0,1609.0,0,Kevin Stefanski,Alex Van Pelt,Joe Woods,Baker Mayfield
+11,13,Sun,,,0.0,Tennessee Titans,2020,Browns,124.0,126.0,730.0,818.0,4.0,10.0,1242.0,367.0,1548.0,1609.0,0,Kevin Stefanski,Alex Van Pelt,Joe Woods,Baker Mayfield
+12,14,Mon,,,1.0,Baltimore Ravens,2020,Browns,124.0,126.0,730.0,818.0,4.0,10.0,1242.0,367.0,1548.0,1609.0,0,Kevin Stefanski,Alex Van Pelt,Joe Woods,Baker Mayfield
+13,15,Sun,,,0.0,New York Giants,2020,Browns,124.0,126.0,730.0,818.0,4.0,10.0,1242.0,367.0,1548.0,1609.0,0,Kevin Stefanski,Alex Van Pelt,Joe Woods,Baker Mayfield
+14,16,Sun,,,0.0,New York Jets,2020,Browns,124.0,126.0,730.0,818.0,4.0,10.0,1242.0,367.0,1548.0,1609.0,0,Kevin Stefanski,Alex Van Pelt,Joe Woods,Baker Mayfield
+15,17,Sun,,,1.0,Pittsburgh Steelers,2020,Browns,124.0,126.0,730.0,818.0,4.0,10.0,1242.0,367.0,1548.0,1609.0,0,Kevin Stefanski,Alex Van Pelt,Joe Woods,Baker Mayfield
+16,1,Sun,0.0,0.0,1.0,Tennessee Titans,2019,Browns,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Freddie Kitchens,Todd Monken,Steve Wilks,Baker Mayfield
+17,2,Mon,1.0,0.0,0.0,New York Jets,2019,Browns,13.0,43.0,244.0,102.0,3.0,0.0,216.0,123.0,346.0,339.0,0,Freddie Kitchens,Todd Monken,Steve Wilks,Baker Mayfield
+18,3,Sun,0.0,1.0,1.0,Los Angeles Rams,2019,Browns,36.0,46.0,549.0,172.0,4.0,1.0,385.0,216.0,721.0,601.0,0,Freddie Kitchens,Todd Monken,Steve Wilks,Baker Mayfield
+19,4,Sun,1.0,1.0,0.0,Baltimore Ravens,2019,Browns,49.0,66.0,724.0,267.0,5.0,4.0,639.0,306.0,991.0,945.0,0,Freddie Kitchens,Todd Monken,Steve Wilks,Baker Mayfield
+20,5,Mon,0.0,2.0,0.0,San Francisco 49ers,2019,Browns,89.0,91.0,1061.0,460.0,6.0,7.0,861.0,479.0,1521.0,1340.0,0,Freddie Kitchens,Todd Monken,Steve Wilks,Baker Mayfield
+21,6,Sun,0.0,2.0,1.0,Seattle Seahawks,2019,Browns,92.0,122.0,1139.0,562.0,10.0,7.0,1032.0,754.0,1701.0,1786.0,0,Freddie Kitchens,Todd Monken,Steve Wilks,Baker Mayfield
+22,8,Sun,0.0,2.0,0.0,New England Patriots,2019,Browns,120.0,154.0,1388.0,719.0,14.0,8.0,1316.0,924.0,2107.0,2240.0,1,Freddie Kitchens,Todd Monken,Steve Wilks,Baker Mayfield
+23,9,Sun,0.0,2.0,0.0,Denver Broncos,2019,Browns,133.0,181.0,1539.0,878.0,17.0,8.0,1555.0,1003.0,2417.0,2558.0,0,Freddie Kitchens,Todd Monken,Steve Wilks,Baker Mayfield
+24,10,Sun,1.0,2.0,1.0,Buffalo Bills,2019,Browns,152.0,205.0,1800.0,968.0,17.0,9.0,1730.0,1130.0,2768.0,2860.0,0,Freddie Kitchens,Todd Monken,Steve Wilks,Baker Mayfield
+25,11,Thu,1.0,3.0,1.0,Pittsburgh Steelers,2019,Browns,171.0,221.0,2021.0,1115.0,17.0,9.0,1990.0,1214.0,3136.0,3204.0,0,Freddie Kitchens,Todd Monken,Steve Wilks,Baker Mayfield
+26,12,Sun,1.0,4.0,1.0,Miami Dolphins,2019,Browns,192.0,228.0,2210.0,1219.0,17.0,13.0,2168.0,1272.0,3429.0,3440.0,0,Freddie Kitchens,Todd Monken,Steve Wilks,Baker Mayfield
+27,13,Sun,0.0,5.0,0.0,Pittsburgh Steelers,2019,Browns,233.0,252.0,2530.0,1366.0,18.0,15.0,2360.0,1364.0,3896.0,3724.0,0,Freddie Kitchens,Todd Monken,Steve Wilks,Baker Mayfield
+28,14,Sun,1.0,5.0,1.0,Cincinnati Bengals,2019,Browns,246.0,272.0,2703.0,1472.0,20.0,16.0,2559.0,1488.0,4175.0,4047.0,0,Freddie Kitchens,Todd Monken,Steve Wilks,Baker Mayfield
+29,15,Sun,0.0,6.0,0.0,Arizona Cardinals,2019,Browns,273.0,291.0,2890.0,1618.0,22.0,17.0,2831.0,1667.0,4508.0,4498.0,0,Freddie Kitchens,Todd Monken,Steve Wilks,Baker Mayfield
+30,16,Sun,0.0,6.0,1.0,Baltimore Ravens,2019,Browns,297.0,329.0,3131.0,1770.0,24.0,18.0,3050.0,1893.0,4901.0,4943.0,0,Freddie Kitchens,Todd Monken,Steve Wilks,Baker Mayfield
+31,17,Sun,0.0,6.0,0.0,Cincinnati Bengals,2019,Browns,312.0,360.0,3315.0,1827.0,25.0,19.0,3288.0,2136.0,5142.0,5424.0,0,Freddie Kitchens,Todd Monken,Steve Wilks,Baker Mayfield
+32,1,Sun,0.0,0.0,1.0,Pittsburgh Steelers,2018,Browns,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Hue Jackson,Todd Haley,Gregg Williams,Baker Mayfield
+33,2,Sun,0.0,0.0,0.0,New Orleans Saints,2018,Browns,21.0,21.0,150.0,177.0,1.0,6.0,313.0,159.0,327.0,472.0,0,Hue Jackson,Todd Haley,Gregg Williams,Baker Mayfield
+34,3,Thu,1.0,0.0,1.0,New York Jets,2018,Browns,39.0,42.0,384.0,270.0,2.0,8.0,526.0,221.0,654.0,747.0,0,Hue Jackson,Todd Haley,Gregg Williams,Baker Mayfield
+35,4,Sun,0.0,1.0,0.0,Oakland Raiders,2018,Browns,60.0,59.0,574.0,403.0,2.0,11.0,687.0,328.0,977.0,1015.0,0,Hue Jackson,Todd Haley,Gregg Williams,Baker Mayfield
+36,5,Sun,1.0,1.0,1.0,Baltimore Ravens,2018,Browns,102.0,104.0,853.0,611.0,6.0,13.0,1113.0,467.0,1464.0,1580.0,0,Hue Jackson,Todd Haley,Gregg Williams,Baker Mayfield
+37,6,Sun,0.0,2.0,1.0,Los Angeles Chargers,2018,Browns,114.0,113.0,1157.0,723.0,7.0,15.0,1407.0,583.0,1880.0,1990.0,0,Hue Jackson,Todd Haley,Gregg Williams,Baker Mayfield
+38,7,Sun,0.0,2.0,0.0,Tampa Bay Buccaneers,2018,Browns,128.0,151.0,1371.0,826.0,9.0,16.0,1610.0,829.0,2197.0,2439.0,0,Hue Jackson,Todd Haley,Gregg Williams,Baker Mayfield
+39,8,Sun,0.0,2.0,0.0,Pittsburgh Steelers,2018,Browns,151.0,177.0,1557.0,945.0,10.0,20.0,1952.0,943.0,2502.0,2895.0,0,Hue Jackson,Todd Haley,Gregg Williams,Baker Mayfield
+40,9,Sun,0.0,2.0,1.0,Kansas City Chiefs,2018,Browns,169.0,210.0,1720.0,1019.0,11.0,22.0,2205.0,1111.0,2739.0,3316.0,0,Hue Jackson,Todd Haley,Gregg Williams,Baker Mayfield
+41,10,Sun,1.0,2.0,1.0,Atlanta Falcons,2018,Browns,190.0,247.0,2006.0,1121.0,12.0,23.0,2565.0,1250.0,3127.0,3815.0,0,Hue Jackson,Todd Haley,Gregg Williams,Baker Mayfield
+42,12,Sun,1.0,3.0,0.0,Cincinnati Bengals,2018,Browns,218.0,263.0,2222.0,1332.0,13.0,25.0,2876.0,1321.0,3554.0,4197.0,1,Hue Jackson,Todd Haley,Gregg Williams,Baker Mayfield
+43,13,Sun,0.0,4.0,0.0,Houston Texans,2018,Browns,253.0,283.0,2480.0,1416.0,13.0,27.0,3119.0,1450.0,3896.0,4569.0,0,Hue Jackson,Todd Haley,Gregg Williams,Baker Mayfield
+44,14,Sun,1.0,4.0,1.0,Carolina Panthers,2018,Browns,266.0,312.0,2877.0,1447.0,17.0,27.0,3316.0,1637.0,4324.0,4953.0,0,Hue Jackson,Todd Haley,Gregg Williams,Baker Mayfield
+45,15,Sat,1.0,5.0,0.0,Denver Broncos,2018,Browns,292.0,332.0,3109.0,1563.0,19.0,28.0,3613.0,1733.0,4672.0,5346.0,0,Hue Jackson,Todd Haley,Gregg Williams,Baker Mayfield
+46,16,Sun,1.0,6.0,1.0,Cincinnati Bengals,2018,Browns,309.0,348.0,3284.0,1697.0,21.0,30.0,3851.0,1765.0,4981.0,5616.0,0,Hue Jackson,Todd Haley,Gregg Williams,Baker Mayfield
+47,17,Sun,0.0,7.0,0.0,Baltimore Ravens,2018,Browns,335.0,366.0,3631.0,1843.0,21.0,30.0,3958.0,1867.0,5474.0,5825.0,0,Hue Jackson,Todd Haley,Gregg Williams,Baker Mayfield
+48,1,Sun,0.0,0.0,1.0,Pittsburgh Steelers,2017,Browns,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Hue Jackson,Hue Jackson,Gregg Williams,DeShone Kizer
+49,2,Sun,0.0,0.0,0.0,Baltimore Ravens,2017,Browns,18.0,21.0,180.0,57.0,1.0,1.0,255.0,35.0,237.0,290.0,0,Hue Jackson,Hue Jackson,Gregg Williams,DeShone Kizer
+50,3,Sun,0.0,0.0,0.0,Indianapolis Colts,2017,Browns,28.0,45.0,473.0,150.0,6.0,3.0,456.0,171.0,623.0,627.0,0,Hue Jackson,Hue Jackson,Gregg Williams,DeShone Kizer
+51,4,Sun,0.0,0.0,1.0,Cincinnati Bengals,2017,Browns,56.0,76.0,708.0,261.0,9.0,4.0,699.0,263.0,969.0,962.0,0,Hue Jackson,Hue Jackson,Gregg Williams,DeShone Kizer
+52,5,Sun,0.0,0.0,1.0,New York Jets,2017,Browns,63.0,107.0,878.0,306.0,10.0,5.0,963.0,349.0,1184.0,1312.0,0,Hue Jackson,Hue Jackson,Gregg Williams,DeShone Kizer
+53,6,Sun,0.0,0.0,0.0,Houston Texans,2017,Browns,77.0,124.0,1157.0,446.0,13.0,6.0,1141.0,383.0,1603.0,1524.0,0,Hue Jackson,Hue Jackson,Gregg Williams,Kevin Hogan
+54,7,Sun,0.0,0.0,1.0,Tennessee Titans,2017,Browns,94.0,157.0,1270.0,580.0,16.0,7.0,1358.0,506.0,1850.0,1864.0,0,Hue Jackson,Hue Jackson,Gregg Williams,DeShone Kizer
+55,8,Sun,0.0,0.0,1.0,Minnesota Vikings,2017,Browns,103.0,169.0,1488.0,646.0,19.0,8.0,1547.0,586.0,2134.0,2133.0,0,Hue Jackson,Hue Jackson,Gregg Williams,DeShone Kizer
+56,10,Sun,0.0,0.0,0.0,Detroit Lions,2017,Browns,119.0,202.0,1649.0,761.0,21.0,9.0,1834.0,674.0,2410.0,2508.0,1,Hue Jackson,Hue Jackson,Gregg Williams,DeShone Kizer
+57,11,Sun,0.0,0.0,1.0,Jacksonville Jaguars,2017,Browns,143.0,240.0,1861.0,962.0,23.0,10.0,2075.0,778.0,2823.0,2853.0,0,Hue Jackson,Hue Jackson,Gregg Williams,DeShone Kizer
+58,12,Sun,0.0,0.0,0.0,Cincinnati Bengals,2017,Browns,150.0,259.0,1995.0,1012.0,28.0,11.0,2220.0,917.0,3007.0,3137.0,0,Hue Jackson,Hue Jackson,Gregg Williams,DeShone Kizer
+59,13,Sun,0.0,0.0,0.0,Los Angeles Chargers,2017,Browns,166.0,289.0,2231.0,1181.0,28.0,11.0,2429.0,1069.0,3412.0,3498.0,0,Hue Jackson,Hue Jackson,Gregg Williams,DeShone Kizer
+60,14,Sun,0.0,0.0,1.0,Green Bay Packers,2017,Browns,176.0,308.0,2433.0,1270.0,30.0,11.0,2764.0,1163.0,3703.0,3927.0,0,Hue Jackson,Hue Jackson,Gregg Williams,DeShone Kizer
+61,15,Sun,0.0,0.0,1.0,Baltimore Ravens,2017,Browns,197.0,335.0,2642.0,1406.0,32.0,11.0,3020.0,1248.0,4048.0,4268.0,0,Hue Jackson,Hue Jackson,Gregg Williams,DeShone Kizer
+62,16,Sun,0.0,0.0,0.0,Chicago Bears,2017,Browns,207.0,362.0,2778.0,1536.0,36.0,11.0,3299.0,1345.0,4314.0,4644.0,0,Hue Jackson,Hue Jackson,Gregg Williams,DeShone Kizer
+63,17,Sun,0.0,0.0,0.0,Pittsburgh Steelers,2017,Browns,210.0,382.0,2956.0,1612.0,39.0,11.0,3460.0,1442.0,4568.0,4902.0,0,Hue Jackson,Hue Jackson,Gregg Williams,DeShone Kizer
+64,1,Sun,0.0,0.0,0.0,Philadelphia Eagles,2016,Browns,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Hue Jackson,Hue Jackson,Ray Horton,Robert Griffin III
+65,2,Sun,0.0,0.0,1.0,Baltimore Ravens,2016,Browns,10.0,29.0,168.0,120.0,1.0,0.0,270.0,133.0,288.0,403.0,0,Hue Jackson,Hue Jackson,Ray Horton,Josh McCown
+66,3,Sun,0.0,0.0,0.0,Miami Dolphins,2016,Browns,30.0,54.0,410.0,265.0,3.0,2.0,572.0,213.0,675.0,785.0,0,Hue Jackson,Hue Jackson,Ray Horton,Cody Kessler
+67,4,Sun,0.0,0.0,0.0,Washington Redskins,2016,Browns,54.0,84.0,671.0,434.0,4.0,5.0,883.0,328.0,1105.0,1211.0,0,Hue Jackson,Hue Jackson,Ray Horton,Cody Kessler
+68,5,Sun,0.0,0.0,1.0,New England Patriots,2016,Browns,74.0,115.0,888.0,597.0,7.0,6.0,1039.0,473.0,1485.0,1512.0,0,Hue Jackson,Hue Jackson,Ray Horton,Cody Kessler
+69,6,Sun,0.0,0.0,0.0,Tennessee Titans,2016,Browns,87.0,148.0,1123.0,624.0,8.0,6.0,1442.0,571.0,1747.0,2013.0,0,Hue Jackson,Hue Jackson,Ray Horton,Cody Kessler
+70,7,Sun,0.0,0.0,0.0,Cincinnati Bengals,2016,Browns,113.0,176.0,1424.0,664.0,8.0,7.0,1712.0,708.0,2088.0,2420.0,0,Hue Jackson,Hue Jackson,Ray Horton,Cody Kessler
+71,8,Sun,0.0,0.0,1.0,New York Jets,2016,Browns,130.0,207.0,1596.0,844.0,10.0,8.0,2000.0,979.0,2440.0,2979.0,0,Hue Jackson,Hue Jackson,Ray Horton,Josh McCown
+72,9,Sun,0.0,0.0,1.0,Dallas Cowboys,2016,Browns,158.0,238.0,1935.0,912.0,12.0,8.0,2222.0,1150.0,2847.0,3372.0,0,Hue Jackson,Hue Jackson,Ray Horton,Cody Kessler
+73,10,Thu,0.0,0.0,0.0,Baltimore Ravens,2016,Browns,168.0,273.0,2112.0,957.0,12.0,8.0,2477.0,1318.0,3069.0,3795.0,0,Hue Jackson,Hue Jackson,Ray Horton,Cody Kessler
+74,11,Sun,0.0,0.0,1.0,Pittsburgh Steelers,2016,Browns,175.0,301.0,2223.0,990.0,15.0,10.0,2754.0,1437.0,3213.0,4191.0,0,Hue Jackson,Hue Jackson,Ray Horton,Cody Kessler
+75,12,Sun,0.0,0.0,1.0,New York Giants,2016,Browns,184.0,325.0,2399.0,1023.0,17.0,10.0,2921.0,1583.0,3422.0,4504.0,0,Hue Jackson,Hue Jackson,Ray Horton,Josh McCown
+76,14,Sun,0.0,0.0,1.0,Cincinnati Bengals,2016,Browns,197.0,352.0,2684.0,1081.0,20.0,11.0,3113.0,1687.0,3765.0,4800.0,1,Hue Jackson,Hue Jackson,Ray Horton,Cody Kessler
+77,15,Sun,0.0,0.0,0.0,Buffalo Bills,2016,Browns,207.0,375.0,2769.0,1250.0,21.0,11.0,3260.0,1900.0,4019.0,5160.0,0,Hue Jackson,Hue Jackson,Ray Horton,Cody Kessler
+78,16,Sat,1.0,0.0,1.0,San Diego Chargers,2016,Browns,220.0,408.0,2931.0,1357.0,21.0,11.0,3431.0,2180.0,4288.0,5611.0,0,Hue Jackson,Hue Jackson,Ray Horton,Cody Kessler
+79,17,Sun,0.0,1.0,0.0,Pittsburgh Steelers,2016,Browns,240.0,425.0,3058.0,1481.0,21.0,12.0,3753.0,2214.0,4539.0,5967.0,0,Hue Jackson,Hue Jackson,Ray Horton,Cody Kessler
+80,1,Sun,0.0,0.0,0.0,New York Jets,2015,Browns,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Mike Pettine,John DeFilippo,Jim O'Neil,Josh McCown
+81,2,Sun,1.0,0.0,1.0,Tennessee Titans,2015,Browns,10.0,31.0,217.0,104.0,5.0,1.0,179.0,154.0,321.0,333.0,0,Mike Pettine,John DeFilippo,Jim O'Neil,Johnny Manziel
+82,3,Sun,0.0,1.0,1.0,Oakland Raiders,2015,Browns,38.0,45.0,375.0,220.0,5.0,4.0,398.0,320.0,595.0,718.0,0,Mike Pettine,John DeFilippo,Jim O'Neil,Josh McCown
+83,4,Sun,0.0,1.0,0.0,San Diego Chargers,2015,Browns,58.0,72.0,691.0,259.0,7.0,5.0,712.0,475.0,950.0,1187.0,0,Mike Pettine,John DeFilippo,Jim O'Neil,Josh McCown
+84,5,Sun,1.0,1.0,0.0,Baltimore Ravens,2015,Browns,85.0,102.0,1023.0,359.0,8.0,5.0,1059.0,566.0,1382.0,1625.0,0,Mike Pettine,John DeFilippo,Jim O'Neil,Josh McCown
+85,6,Sun,0.0,2.0,1.0,Denver Broncos,2015,Browns,118.0,132.0,1445.0,442.0,8.0,5.0,1255.0,747.0,1887.0,2002.0,0,Mike Pettine,John DeFilippo,Jim O'Neil,Josh McCown
+86,7,Sun,0.0,2.0,0.0,St. Louis Rams,2015,Browns,141.0,158.0,1634.0,551.0,11.0,8.0,1545.0,899.0,2185.0,2444.0,0,Mike Pettine,John DeFilippo,Jim O'Neil,Josh McCown
+87,8,Sun,0.0,2.0,1.0,Arizona Cardinals,2015,Browns,147.0,182.0,1916.0,633.0,15.0,9.0,1695.0,1057.0,2549.0,2752.0,0,Mike Pettine,John DeFilippo,Jim O'Neil,Josh McCown
+88,9,Thu,0.0,2.0,0.0,Cincinnati Bengals,2015,Browns,167.0,216.0,2131.0,672.0,17.0,13.0,2067.0,1176.0,2803.0,3243.0,0,Mike Pettine,John DeFilippo,Jim O'Neil,Josh McCown
+89,10,Sun,0.0,2.0,0.0,Pittsburgh Steelers,2015,Browns,177.0,247.0,2275.0,741.0,17.0,13.0,2286.0,1328.0,3016.0,3614.0,0,Mike Pettine,John DeFilippo,Jim O'Neil,Josh McCown
+90,12,Mon,0.0,2.0,1.0,Baltimore Ravens,2015,Browns,186.0,277.0,2602.0,756.0,20.0,15.0,2685.0,1388.0,3358.0,4073.0,1,Mike Pettine,John DeFilippo,Jim O'Neil,Josh McCown
+91,13,Sun,0.0,2.0,1.0,Cincinnati Bengals,2015,Browns,213.0,310.0,2877.0,819.0,20.0,17.0,2917.0,1492.0,3696.0,4409.0,0,Mike Pettine,John DeFilippo,Jim O'Neil,Austin Davis
+92,14,Sun,1.0,2.0,1.0,San Francisco 49ers,2015,Browns,216.0,347.0,3082.0,887.0,22.0,17.0,3150.0,1636.0,3969.0,4786.0,0,Mike Pettine,John DeFilippo,Jim O'Neil,Josh McCown
+93,15,Sun,0.0,3.0,0.0,Seattle Seahawks,2015,Browns,240.0,357.0,3333.0,1117.0,24.0,17.0,3300.0,1707.0,4450.0,5007.0,0,Mike Pettine,John DeFilippo,Jim O'Neil,Josh McCown
+94,16,Sun,0.0,3.0,0.0,Kansas City Chiefs,2015,Browns,253.0,387.0,3469.0,1211.0,25.0,17.0,3541.0,1889.0,4680.0,5430.0,0,Mike Pettine,John DeFilippo,Jim O'Neil,Josh McCown
+95,17,Sun,0.0,3.0,1.0,Pittsburgh Steelers,2015,Browns,266.0,404.0,3605.0,1443.0,26.0,18.0,3663.0,2025.0,5048.0,5688.0,0,Mike Pettine,John DeFilippo,Jim O'Neil,Austin Davis
+96,1,Sun,0.0,0.0,0.0,Pittsburgh Steelers,2014,Browns,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Mike Pettine,Kyle Shanahan,Jim O'Neil,Brian Hoyer
+97,2,Sun,1.0,0.0,1.0,New Orleans Saints,2014,Browns,27.0,30.0,198.0,191.0,0.0,1.0,376.0,127.0,389.0,503.0,0,Mike Pettine,Kyle Shanahan,Jim O'Neil,Brian Hoyer
+98,3,Sun,0.0,1.0,1.0,Baltimore Ravens,2014,Browns,53.0,54.0,400.0,313.0,0.0,3.0,599.0,301.0,713.0,900.0,0,Mike Pettine,Kyle Shanahan,Jim O'Neil,Brian Hoyer
+99,5,Sun,1.0,1.0,0.0,Tennessee Titans,2014,Browns,74.0,77.0,690.0,398.0,0.0,4.0,816.0,461.0,1088.0,1277.0,1,Mike Pettine,Kyle Shanahan,Jim O'Neil,Brian Hoyer
+100,6,Sun,1.0,2.0,1.0,Pittsburgh Steelers,2014,Browns,103.0,105.0,974.0,574.0,1.0,4.0,1077.0,610.0,1548.0,1687.0,0,Mike Pettine,Kyle Shanahan,Jim O'Neil,Brian Hoyer
+101,7,Sun,0.0,3.0,0.0,Jacksonville Jaguars,2014,Browns,134.0,115.0,1184.0,732.0,2.0,5.0,1298.0,748.0,1916.0,2046.0,0,Mike Pettine,Kyle Shanahan,Jim O'Neil,Brian Hoyer
+102,8,Sun,1.0,3.0,1.0,Oakland Raiders,2014,Browns,140.0,139.0,1381.0,801.0,5.0,8.0,1449.0,933.0,2182.0,2382.0,0,Mike Pettine,Kyle Shanahan,Jim O'Neil,Brian Hoyer
+103,9,Sun,1.0,4.0,1.0,Tampa Bay Buccaneers,2014,Browns,163.0,152.0,1648.0,840.0,5.0,11.0,1760.0,1009.0,2488.0,2769.0,0,Mike Pettine,Kyle Shanahan,Jim O'Neil,Brian Hoyer
+104,10,Thu,1.0,5.0,0.0,Cincinnati Bengals,2014,Browns,185.0,169.0,1922.0,896.0,7.0,13.0,2012.0,1122.0,2818.0,3134.0,0,Mike Pettine,Kyle Shanahan,Jim O'Neil,Brian Hoyer
+105,11,Sun,0.0,6.0,1.0,Houston Texans,2014,Browns,209.0,172.0,2120.0,1066.0,8.0,17.0,2091.0,1208.0,3186.0,3299.0,0,Mike Pettine,Kyle Shanahan,Jim O'Neil,Brian Hoyer
+106,12,Sun,1.0,6.0,0.0,Atlanta Falcons,2014,Browns,216.0,195.0,2430.0,1131.0,10.0,18.0,2302.0,1421.0,3561.0,3723.0,0,Mike Pettine,Kyle Shanahan,Jim O'Neil,Brian Hoyer
+107,13,Sun,0.0,7.0,0.0,Buffalo Bills,2014,Browns,242.0,219.0,2743.0,1293.0,13.0,20.0,2554.0,1484.0,4036.0,4038.0,0,Mike Pettine,Kyle Shanahan,Jim O'Neil,Brian Hoyer
+108,14,Sun,0.0,7.0,1.0,Indianapolis Colts,2014,Browns,252.0,245.0,2984.0,1367.0,16.0,22.0,2735.0,1590.0,4351.0,4325.0,0,Mike Pettine,Kyle Shanahan,Jim O'Neil,Brian Hoyer
+109,15,Sun,0.0,7.0,1.0,Cincinnati Bengals,2014,Browns,276.0,270.0,3117.0,1482.0,18.0,26.0,3004.0,1683.0,4599.0,4687.0,0,Mike Pettine,Kyle Shanahan,Jim O'Neil,Brian Hoyer
+110,16,Sun,0.0,7.0,0.0,Carolina Panthers,2014,Browns,276.0,300.0,3171.0,1535.0,20.0,27.0,3107.0,1927.0,4706.0,5034.0,0,Mike Pettine,Kyle Shanahan,Jim O'Neil,Brian Hoyer
+111,17,Sun,0.0,7.0,0.0,Baltimore Ravens,2014,Browns,289.0,317.0,3315.0,1619.0,21.0,29.0,3302.0,2136.0,4934.0,5438.0,0,Mike Pettine,Kyle Shanahan,Jim O'Neil,Connor Shaw
+112,1,Sun,0.0,0.0,1.0,Miami Dolphins,2013,Browns,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Rob Chudzinski,Norv Turner,Ray Horton,Jason Campbell
+113,2,Sun,0.0,0.0,0.0,Baltimore Ravens,2013,Browns,10.0,23.0,244.0,47.0,3.0,1.0,255.0,20.0,291.0,275.0,0,Rob Chudzinski,Norv Turner,Ray Horton,Jason Campbell
+114,3,Sun,1.0,0.0,0.0,Minnesota Vikings,2013,Browns,16.0,37.0,438.0,112.0,3.0,2.0,452.0,119.0,550.0,571.0,0,Rob Chudzinski,Norv Turner,Ray Horton,Jason Campbell
+115,4,Sun,1.0,1.0,1.0,Cincinnati Bengals,2013,Browns,47.0,64.0,744.0,215.0,7.0,5.0,647.0,253.0,959.0,900.0,0,Rob Chudzinski,Norv Turner,Ray Horton,Jason Campbell
+116,5,Thu,1.0,2.0,1.0,Buffalo Bills,2013,Browns,64.0,70.0,991.0,304.0,7.0,7.0,850.0,316.0,1295.0,1166.0,0,Rob Chudzinski,Norv Turner,Ray Horton,Jason Campbell
+117,6,Sun,0.0,3.0,1.0,Detroit Lions,2013,Browns,101.0,94.0,1190.0,395.0,7.0,8.0,1038.0,471.0,1585.0,1509.0,0,Rob Chudzinski,Norv Turner,Ray Horton,Jason Campbell
+118,7,Sun,0.0,3.0,0.0,Green Bay Packers,2013,Browns,118.0,125.0,1459.0,521.0,9.0,9.0,1286.0,589.0,1980.0,1875.0,0,Rob Chudzinski,Norv Turner,Ray Horton,Jason Campbell
+119,8,Sun,0.0,3.0,0.0,Kansas City Chiefs,2013,Browns,131.0,156.0,1592.0,604.0,10.0,9.0,1539.0,693.0,2196.0,2232.0,0,Rob Chudzinski,Norv Turner,Ray Horton,Jason Campbell
+120,9,Sun,1.0,3.0,1.0,Baltimore Ravens,2013,Browns,148.0,179.0,1875.0,661.0,11.0,9.0,1734.0,829.0,2536.0,2563.0,0,Rob Chudzinski,Norv Turner,Ray Horton,Jason Campbell
+121,11,Sun,0.0,4.0,0.0,Cincinnati Bengals,2013,Browns,172.0,197.0,2117.0,734.0,12.0,11.0,1957.0,884.0,2851.0,2841.0,1,Rob Chudzinski,Norv Turner,Ray Horton,Jason Campbell
+122,12,Sun,0.0,4.0,1.0,Pittsburgh Steelers,2013,Browns,192.0,238.0,2345.0,836.0,16.0,13.0,2075.0,990.0,3181.0,3065.0,0,Rob Chudzinski,Norv Turner,Ray Horton,Jason Campbell
+123,13,Sun,0.0,4.0,1.0,Jacksonville Jaguars,2013,Browns,203.0,265.0,2657.0,891.0,20.0,13.0,2292.0,1075.0,3548.0,3367.0,0,Rob Chudzinski,Norv Turner,Ray Horton,Brandon Weeden
+124,14,Sun,0.0,4.0,0.0,New England Patriots,2013,Browns,231.0,297.0,2999.0,988.0,23.0,14.0,2494.0,1187.0,3987.0,3681.0,0,Rob Chudzinski,Norv Turner,Ray Horton,Jason Campbell
+125,15,Sun,0.0,4.0,1.0,Chicago Bears,2013,Browns,257.0,324.0,3385.0,1096.0,23.0,16.0,2891.0,1274.0,4481.0,4165.0,0,Rob Chudzinski,Norv Turner,Ray Horton,Jason Campbell
+126,16,Sun,0.0,4.0,0.0,New York Jets,2013,Browns,288.0,362.0,3658.0,1189.0,25.0,19.0,3152.0,1453.0,4847.0,4605.0,0,Rob Chudzinski,Norv Turner,Ray Horton,Jason Campbell
+127,17,Sun,0.0,4.0,0.0,Pittsburgh Steelers,2013,Browns,301.0,386.0,3826.0,1304.0,27.0,19.0,3366.0,1661.0,5130.0,5027.0,0,Rob Chudzinski,Norv Turner,Ray Horton,Jason Campbell
+128,1,Sun,0.0,0.0,1.0,Philadelphia Eagles,2012,Browns,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Pat Shurmur,Brad Childress,Dick Jauron,Brandon Weeden
+129,2,Sun,0.0,0.0,0.0,Cincinnati Bengals,2012,Browns,16.0,17.0,111.0,99.0,4.0,5.0,306.0,150.0,210.0,456.0,0,Pat Shurmur,Brad Childress,Dick Jauron,Brandon Weeden
+130,3,Sun,0.0,0.0,1.0,Buffalo Bills,2012,Browns,43.0,51.0,420.0,229.0,5.0,6.0,601.0,230.0,649.0,831.0,0,Pat Shurmur,Brad Childress,Dick Jauron,Brandon Weeden
+131,4,Thu,0.0,0.0,0.0,Baltimore Ravens,2012,Browns,57.0,75.0,627.0,262.0,7.0,7.0,807.0,368.0,889.0,1175.0,0,Pat Shurmur,Brad Childress,Dick Jauron,Brandon Weeden
+132,5,Sun,0.0,0.0,0.0,New York Giants,2012,Browns,73.0,98.0,941.0,305.0,9.0,8.0,1144.0,469.0,1246.0,1613.0,0,Pat Shurmur,Brad Childress,Dick Jauron,Brandon Weeden
+133,6,Sun,1.0,0.0,1.0,Cincinnati Bengals,2012,Browns,100.0,139.0,1232.0,389.0,12.0,10.0,1403.0,712.0,1621.0,2115.0,0,Pat Shurmur,Brad Childress,Dick Jauron,Brandon Weeden
+134,7,Sun,0.0,1.0,0.0,Indianapolis Colts,2012,Browns,134.0,163.0,1450.0,499.0,13.0,14.0,1765.0,788.0,1949.0,2553.0,0,Pat Shurmur,Brad Childress,Dick Jauron,Brandon Weeden
+135,8,Sun,1.0,1.0,1.0,San Diego Chargers,2012,Browns,147.0,180.0,1714.0,554.0,13.0,15.0,1938.0,936.0,2268.0,2874.0,0,Pat Shurmur,Brad Childress,Dick Jauron,Brandon Weeden
+136,9,Sun,0.0,2.0,1.0,Baltimore Ravens,2012,Browns,154.0,186.0,1831.0,687.0,13.0,16.0,2086.0,1053.0,2518.0,3139.0,0,Pat Shurmur,Brad Childress,Dick Jauron,Brandon Weeden
+137,11,Sun,0.0,2.0,0.0,Dallas Cowboys,2012,Browns,169.0,211.0,2005.0,803.0,15.0,16.0,2231.0,1190.0,2808.0,3421.0,1,Pat Shurmur,Brad Childress,Dick Jauron,Brandon Weeden
+138,12,Sun,1.0,2.0,1.0,Pittsburgh Steelers,2012,Browns,189.0,234.0,2197.0,922.0,16.0,17.0,2488.0,1253.0,3119.0,3741.0,0,Pat Shurmur,Brad Childress,Dick Jauron,Brandon Weeden
+139,13,Sun,1.0,3.0,0.0,Oakland Raiders,2012,Browns,209.0,248.0,2327.0,1030.0,17.0,25.0,2681.0,1302.0,3357.0,3983.0,0,Pat Shurmur,Brad Childress,Dick Jauron,Brandon Weeden
+140,14,Sun,1.0,4.0,1.0,Kansas City Chiefs,2012,Browns,229.0,265.0,2680.0,1152.0,19.0,26.0,3025.0,1387.0,3832.0,4412.0,0,Pat Shurmur,Brad Childress,Dick Jauron,Brandon Weeden
+141,15,Sun,0.0,5.0,1.0,Washington Redskins,2012,Browns,259.0,272.0,2878.0,1306.0,19.0,27.0,3155.0,1567.0,4184.0,4722.0,0,Pat Shurmur,Brad Childress,Dick Jauron,Brandon Weeden
+142,16,Sun,0.0,5.0,0.0,Denver Broncos,2012,Browns,280.0,310.0,3111.0,1364.0,21.0,28.0,3463.0,1689.0,4475.0,5152.0,0,Pat Shurmur,Brad Childress,Dick Jauron,Brandon Weeden
+143,17,Sun,0.0,5.0,0.0,Pittsburgh Steelers,2012,Browns,292.0,344.0,3253.0,1455.0,22.0,29.0,3802.0,1807.0,4708.0,5609.0,0,Pat Shurmur,Brad Childress,Dick Jauron,Thad Lewis
+144,1,Sun,0.0,0.0,1.0,Cincinnati Bengals,2011,Browns,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Pat Shurmur,Pat Shurmur,Dick Jauron,Colt McCoy
+145,2,Sun,1.0,0.0,0.0,Indianapolis Colts,2011,Browns,17.0,27.0,202.0,83.0,1.0,0.0,155.0,139.0,285.0,294.0,0,Pat Shurmur,Pat Shurmur,Dick Jauron,Colt McCoy
+146,3,Sun,1.0,1.0,1.0,Miami Dolphins,2011,Browns,44.0,46.0,399.0,189.0,2.0,2.0,331.0,248.0,588.0,579.0,0,Pat Shurmur,Pat Shurmur,Dick Jauron,Colt McCoy
+147,4,Sun,0.0,2.0,1.0,Tennessee Titans,2011,Browns,61.0,62.0,609.0,259.0,3.0,4.0,562.0,386.0,868.0,948.0,0,Pat Shurmur,Pat Shurmur,Dick Jauron,Colt McCoy
+148,6,Sun,0.0,2.0,0.0,Oakland Raiders,2011,Browns,74.0,93.0,941.0,343.0,4.0,5.0,782.0,498.0,1284.0,1280.0,1,Pat Shurmur,Pat Shurmur,Dick Jauron,Colt McCoy
+149,7,Sun,1.0,2.0,1.0,Seattle Seahawks,2011,Browns,91.0,117.0,1144.0,408.0,5.0,6.0,960.0,649.0,1552.0,1609.0,0,Pat Shurmur,Pat Shurmur,Dick Jauron,Colt McCoy
+150,8,Sun,0.0,3.0,0.0,San Francisco 49ers,2011,Browns,97.0,120.0,1303.0,547.0,6.0,8.0,1029.0,717.0,1850.0,1746.0,0,Pat Shurmur,Pat Shurmur,Dick Jauron,Colt McCoy
+151,9,Sun,0.0,3.0,0.0,Houston Texans,2011,Browns,107.0,140.0,1527.0,613.0,8.0,8.0,1203.0,891.0,2140.0,2094.0,0,Pat Shurmur,Pat Shurmur,Dick Jauron,Colt McCoy
+152,10,Sun,0.0,3.0,1.0,St. Louis Rams,2011,Browns,119.0,170.0,1655.0,657.0,10.0,9.0,1322.0,1152.0,2312.0,2474.0,0,Pat Shurmur,Pat Shurmur,Dick Jauron,Colt McCoy
+153,11,Sun,1.0,3.0,1.0,Jacksonville Jaguars,2011,Browns,131.0,183.0,1864.0,783.0,11.0,11.0,1470.0,1285.0,2647.0,2755.0,0,Pat Shurmur,Pat Shurmur,Dick Jauron,Colt McCoy
+154,12,Sun,0.0,4.0,0.0,Cincinnati Bengals,2011,Browns,145.0,193.0,2050.0,931.0,12.0,11.0,1665.0,1393.0,2981.0,3058.0,0,Pat Shurmur,Pat Shurmur,Dick Jauron,Colt McCoy
+155,13,Sun,0.0,4.0,1.0,Baltimore Ravens,2011,Browns,165.0,216.0,2190.0,1065.0,13.0,12.0,1922.0,1525.0,3255.0,3447.0,0,Pat Shurmur,Pat Shurmur,Dick Jauron,Colt McCoy
+156,14,Thu,0.0,4.0,0.0,Pittsburgh Steelers,2011,Browns,175.0,240.0,2364.0,1124.0,14.0,13.0,2080.0,1815.0,3488.0,3895.0,0,Pat Shurmur,Pat Shurmur,Dick Jauron,Colt McCoy
+157,15,Sun,0.0,4.0,0.0,Arizona Cardinals,2011,Browns,178.0,254.0,2570.0,1222.0,16.0,16.0,2349.0,1962.0,3792.0,4311.0,0,Pat Shurmur,Pat Shurmur,Dick Jauron,Colt McCoy
+158,16,Sat,0.0,4.0,0.0,Baltimore Ravens,2011,Browns,195.0,274.0,2783.0,1342.0,17.0,17.0,2638.0,2036.0,4125.0,4674.0,0,Pat Shurmur,Pat Shurmur,Dick Jauron,Colt McCoy
+159,17,Sun,0.0,4.0,1.0,Pittsburgh Steelers,2011,Browns,209.0,294.0,2922.0,1459.0,18.0,18.0,2760.0,2198.0,4381.0,4958.0,0,Pat Shurmur,Pat Shurmur,Dick Jauron,Colt McCoy
+160,1,Sun,0.0,0.0,0.0,Tampa Bay Buccaneers,2010,Browns,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Eric Mangini,Brian Daboll,Rob Ryan,Jake Delhomme
+161,2,Sun,0.0,0.0,1.0,Kansas City Chiefs,2010,Browns,14.0,17.0,236.0,104.0,3.0,2.0,169.0,119.0,340.0,288.0,0,Eric Mangini,Brian Daboll,Rob Ryan,Jake Delhomme
+162,3,Sun,0.0,0.0,0.0,Baltimore Ravens,2010,Browns,28.0,33.0,462.0,177.0,5.0,4.0,341.0,259.0,639.0,600.0,0,Eric Mangini,Brian Daboll,Rob Ryan,Jake Delhomme
+163,4,Sun,1.0,0.0,1.0,Cincinnati Bengals,2010,Browns,45.0,57.0,593.0,350.0,5.0,4.0,597.0,368.0,943.0,965.0,0,Eric Mangini,Brian Daboll,Rob Ryan,Jake Delhomme
+164,5,Sun,0.0,1.0,1.0,Atlanta Falcons,2010,Browns,68.0,77.0,772.0,466.0,6.0,6.0,943.0,435.0,1238.0,1378.0,0,Eric Mangini,Brian Daboll,Rob Ryan,Jake Delhomme
+165,6,Sun,0.0,1.0,0.0,Pittsburgh Steelers,2010,Browns,78.0,97.0,993.0,514.0,9.0,7.0,1116.0,600.0,1507.0,1716.0,0,Eric Mangini,Brian Daboll,Rob Ryan,Jake Delhomme
+166,7,Sun,1.0,1.0,0.0,New Orleans Saints,2010,Browns,88.0,125.0,1251.0,583.0,12.0,8.0,1373.0,721.0,1834.0,2094.0,0,Eric Mangini,Brian Daboll,Rob Ryan,Jake Delhomme
+167,9,Sun,1.0,2.0,1.0,New England Patriots,2010,Browns,118.0,142.0,1336.0,708.0,12.0,12.0,1709.0,779.0,2044.0,2488.0,1,Eric Mangini,Brian Daboll,Rob Ryan,Jake Delhomme
+168,10,Sun,0.0,3.0,1.0,New York Jets,2010,Browns,152.0,156.0,1510.0,938.0,13.0,15.0,1924.0,847.0,2448.0,2771.0,0,Eric Mangini,Brian Daboll,Rob Ryan,Jake Delhomme
+169,11,Sun,0.0,3.0,0.0,Jacksonville Jaguars,2010,Browns,172.0,182.0,1706.0,1045.0,15.0,16.0,2208.0,1019.0,2751.0,3227.0,0,Eric Mangini,Brian Daboll,Rob Ryan,Jake Delhomme
+170,12,Sun,1.0,3.0,1.0,Carolina Panthers,2010,Browns,192.0,206.0,1901.0,1133.0,16.0,22.0,2434.0,1164.0,3034.0,3598.0,0,Eric Mangini,Brian Daboll,Rob Ryan,Jake Delhomme
+171,13,Sun,1.0,4.0,0.0,Miami Dolphins,2010,Browns,216.0,229.0,2128.0,1285.0,19.0,23.0,2609.0,1315.0,3413.0,3924.0,0,Eric Mangini,Brian Daboll,Rob Ryan,Jake Delhomme
+172,14,Sun,0.0,5.0,0.0,Buffalo Bills,2010,Browns,229.0,239.0,2328.0,1337.0,19.0,26.0,2776.0,1429.0,3665.0,4205.0,0,Eric Mangini,Brian Daboll,Rob Ryan,Jake Delhomme
+173,15,Sun,0.0,5.0,0.0,Cincinnati Bengals,2010,Browns,235.0,252.0,2410.0,1442.0,22.0,27.0,2907.0,1621.0,3852.0,4528.0,0,Eric Mangini,Brian Daboll,Rob Ryan,Jake Delhomme
+174,16,Sun,0.0,5.0,1.0,Baltimore Ravens,2010,Browns,252.0,271.0,2629.0,1501.0,22.0,27.0,3116.0,1809.0,4130.0,4925.0,0,Eric Mangini,Brian Daboll,Rob Ryan,Jake Delhomme
+175,17,Sun,0.0,5.0,1.0,Pittsburgh Steelers,2010,Browns,262.0,291.0,2807.0,1603.0,26.0,28.0,3213.0,1970.0,4410.0,5183.0,0,Eric Mangini,Brian Daboll,Rob Ryan,Jake Delhomme

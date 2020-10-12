@@ -1,161 +1,177 @@
 ,Week,Day,Results,Wins Tally,Home,Opp,year,Base_Team,PF Tally,PA Tally,OPassY Tally,ORushY Tally,TO_lost Tally,TO_won Tally,DPassY Tally,DRushY Tally,OTotYd Tally,DTotYd Tally,after_bye,Head_Coach,OC,DC,QB
-0,1,Sun,0.0,0.0,1.0,Baltimore Ravens,2019,Dolphins,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Brian Flores,Chad O'Shea,Patrick Graham,Ryan Fitzpatrick
-1,2,Sun,0.0,0.0,1.0,New England Patriots,2019,Dolphins,10.0,59.0,179.0,21.0,3.0,0.0,378.0,265.0,200.0,643.0,0,Brian Flores,Chad O'Shea,Patrick Graham,Ryan Fitzpatrick
-2,3,Sun,0.0,0.0,0.0,Dallas Cowboys,2019,Dolphins,10.0,102.0,321.0,63.0,7.0,1.0,633.0,389.0,384.0,1022.0,0,Brian Flores,Chad O'Shea,Patrick Graham,Ryan Fitzpatrick
-3,4,Sun,0.0,0.0,1.0,Los Angeles Chargers,2019,Dolphins,16.0,133.0,532.0,135.0,8.0,2.0,874.0,624.0,667.0,1498.0,0,Brian Flores,Chad O'Shea,Patrick Graham,Ryan Fitzpatrick
-4,6,Sun,0.0,0.0,1.0,Washington Redskins,2019,Dolphins,26.0,163.0,693.0,207.0,9.0,2.0,1185.0,703.0,900.0,1888.0,1,Brian Flores,Chad O'Shea,Patrick Graham,Ryan Fitzpatrick
-5,7,Sun,0.0,0.0,0.0,Buffalo Bills,2019,Dolphins,42.0,180.0,880.0,291.0,11.0,2.0,1351.0,848.0,1171.0,2199.0,0,Brian Flores,Chad O'Shea,Patrick Graham,Ryan Fitzpatrick
-6,8,Mon,0.0,0.0,0.0,Pittsburgh Steelers,2019,Dolphins,63.0,211.0,1152.0,400.0,13.0,2.0,1539.0,965.0,1552.0,2504.0,0,Brian Flores,Chad O'Shea,Patrick Graham,Ryan Fitzpatrick
-7,9,Sun,1.0,0.0,1.0,New York Jets,2019,Dolphins,77.0,238.0,1322.0,460.0,17.0,3.0,1775.0,1123.0,1782.0,2898.0,0,Brian Flores,Chad O'Shea,Patrick Graham,Ryan Fitzpatrick
-8,10,Sun,1.0,1.0,0.0,Indianapolis Colts,2019,Dolphins,103.0,256.0,1588.0,510.0,17.0,4.0,2013.0,1206.0,2098.0,3219.0,0,Brian Flores,Chad O'Shea,Patrick Graham,Ryan Fitzpatrick
-9,11,Sun,0.0,2.0,1.0,Buffalo Bills,2019,Dolphins,119.0,268.0,1747.0,580.0,19.0,7.0,2204.0,1315.0,2327.0,3519.0,0,Brian Flores,Chad O'Shea,Patrick Graham,Ryan Fitzpatrick
-10,12,Sun,0.0,2.0,0.0,Cleveland Browns,2019,Dolphins,139.0,305.0,2027.0,603.0,20.0,7.0,2460.0,1483.0,2630.0,3943.0,0,Brian Flores,Chad O'Shea,Patrick Graham,Ryan Fitzpatrick
-11,13,Sun,1.0,2.0,1.0,Philadelphia Eagles,2019,Dolphins,163.0,346.0,2219.0,695.0,22.0,8.0,2780.0,1630.0,2914.0,4410.0,0,Brian Flores,Chad O'Shea,Patrick Graham,Ryan Fitzpatrick
-12,14,Sun,0.0,3.0,0.0,New York Jets,2019,Dolphins,200.0,377.0,2570.0,753.0,23.0,9.0,3074.0,1722.0,3323.0,4796.0,0,Brian Flores,Chad O'Shea,Patrick Graham,Ryan Fitzpatrick
-13,15,Sun,0.0,3.0,0.0,New York Giants,2019,Dolphins,221.0,399.0,2810.0,875.0,24.0,10.0,3336.0,1834.0,3685.0,5170.0,0,Brian Flores,Chad O'Shea,Patrick Graham,Ryan Fitzpatrick
-14,16,Sun,1.0,3.0,1.0,Cincinnati Bengals,2019,Dolphins,241.0,435.0,3072.0,997.0,25.0,13.0,3610.0,1972.0,4069.0,5582.0,0,Brian Flores,Chad O'Shea,Patrick Graham,Ryan Fitzpatrick
-15,17,Sun,1.0,4.0,0.0,New England Patriots,2019,Dolphins,279.0,470.0,3478.0,1093.0,26.0,14.0,3981.0,2031.0,4571.0,6012.0,0,Brian Flores,Chad O'Shea,Patrick Graham,Ryan Fitzpatrick
-16,1,Sun,1.0,0.0,1.0,Tennessee Titans,2018,Dolphins,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Adam Gase,Dowell Loggains,Matt Burke,Ryan Tannehill
-17,2,Sun,1.0,1.0,0.0,New York Jets,2018,Dolphins,27.0,20.0,222.0,120.0,2.0,3.0,220.0,116.0,342.0,336.0,0,Adam Gase,Dowell Loggains,Matt Burke,Ryan Tannehill
-18,3,Sun,1.0,2.0,1.0,Oakland Raiders,2018,Dolphins,47.0,32.0,344.0,255.0,4.0,6.0,540.0,158.0,599.0,698.0,0,Adam Gase,Dowell Loggains,Matt Burke,Ryan Tannehill
-19,4,Sun,0.0,3.0,0.0,New England Patriots,2018,Dolphins,75.0,52.0,676.0,296.0,4.0,8.0,865.0,267.0,972.0,1132.0,0,Adam Gase,Dowell Loggains,Matt Burke,Ryan Tannehill
-20,5,Sun,0.0,3.0,0.0,Cincinnati Bengals,2018,Dolphins,82.0,90.0,792.0,352.0,6.0,10.0,1139.0,442.0,1144.0,1581.0,0,Adam Gase,Dowell Loggains,Matt Burke,Ryan Tannehill
-21,6,Sun,1.0,3.0,1.0,Chicago Bears,2018,Dolphins,99.0,117.0,961.0,480.0,9.0,11.0,1368.0,545.0,1441.0,1913.0,0,Adam Gase,Dowell Loggains,Matt Burke,Ryan Tannehill
-22,7,Sun,0.0,4.0,1.0,Detroit Lions,2018,Dolphins,130.0,145.0,1341.0,641.0,12.0,14.0,1671.0,709.0,1982.0,2380.0,0,Adam Gase,Dowell Loggains,Matt Burke,Ryan Tannehill
-23,8,Thu,0.0,4.0,0.0,Houston Texans,2018,Dolphins,151.0,177.0,1556.0,748.0,12.0,14.0,1880.0,957.0,2304.0,2837.0,0,Adam Gase,Dowell Loggains,Matt Burke,Ryan Tannehill
-24,9,Sun,1.0,4.0,1.0,New York Jets,2018,Dolphins,174.0,219.0,1810.0,864.0,13.0,14.0,2119.0,1145.0,2674.0,3264.0,0,Adam Gase,Dowell Loggains,Matt Burke,Ryan Tannehill
-25,10,Sun,0.0,5.0,0.0,Green Bay Packers,2018,Dolphins,187.0,225.0,1914.0,928.0,13.0,18.0,2321.0,1225.0,2842.0,3546.0,0,Adam Gase,Dowell Loggains,Matt Burke,Ryan Tannehill
-26,12,Sun,0.0,5.0,0.0,Indianapolis Colts,2018,Dolphins,199.0,256.0,2077.0,1059.0,15.0,19.0,2503.0,1420.0,3136.0,3923.0,1,Adam Gase,Dowell Loggains,Matt Burke,Ryan Tannehill
-27,13,Sun,1.0,5.0,1.0,Buffalo Bills,2018,Dolphins,223.0,283.0,2278.0,1172.0,16.0,22.0,2840.0,1538.0,3450.0,4378.0,0,Adam Gase,Dowell Loggains,Matt Burke,Ryan Tannehill
-28,14,Sun,1.0,6.0,1.0,New England Patriots,2018,Dolphins,244.0,300.0,2393.0,1232.0,17.0,25.0,3057.0,1736.0,3625.0,4793.0,0,Adam Gase,Dowell Loggains,Matt Burke,Ryan Tannehill
-29,15,Sun,0.0,7.0,0.0,Minnesota Vikings,2018,Dolphins,278.0,333.0,2616.0,1421.0,17.0,25.0,3401.0,1813.0,4037.0,5214.0,0,Adam Gase,Dowell Loggains,Matt Burke,Ryan Tannehill
-30,16,Sun,0.0,7.0,1.0,Jacksonville Jaguars,2018,Dolphins,295.0,374.0,2653.0,1577.0,17.0,26.0,3599.0,2033.0,4230.0,5632.0,0,Adam Gase,Dowell Loggains,Matt Burke,Ryan Tannehill
-31,17,Sun,0.0,7.0,0.0,Buffalo Bills,2018,Dolphins,302.0,391.0,2774.0,1639.0,19.0,27.0,3717.0,2159.0,4413.0,5876.0,0,Adam Gase,Dowell Loggains,Matt Burke,Ryan Tannehill
-32,2,Sun,1.0,0.0,0.0,Los Angeles Chargers,2017,Dolphins,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Adam Gase,Clyde Christensen,Matt Burke,Jay Cutler
-33,3,Sun,0.0,1.0,0.0,New York Jets,2017,Dolphins,19.0,17.0,225.0,111.0,0.0,0.0,323.0,44.0,336.0,367.0,0,Adam Gase,Clyde Christensen,Matt Burke,Jay Cutler
-34,4,Sun,0.0,1.0,1.0,New Orleans Saints,2017,Dolphins,25.0,37.0,420.0,141.0,2.0,1.0,556.0,147.0,561.0,703.0,0,Adam Gase,Clyde Christensen,Matt Burke,Jay Cutler
-35,5,Sun,1.0,1.0,1.0,Tennessee Titans,2017,Dolphins,25.0,57.0,548.0,199.0,3.0,1.0,817.0,233.0,747.0,1050.0,0,Adam Gase,Clyde Christensen,Matt Burke,Jay Cutler
-36,6,Sun,1.0,2.0,0.0,Atlanta Falcons,2017,Dolphins,41.0,67.0,626.0,299.0,5.0,3.0,936.0,302.0,925.0,1238.0,0,Adam Gase,Clyde Christensen,Matt Burke,Jay Cutler
-37,7,Sun,1.0,3.0,1.0,New York Jets,2017,Dolphins,61.0,84.0,777.0,437.0,6.0,4.0,1175.0,402.0,1214.0,1577.0,0,Adam Gase,Clyde Christensen,Matt Burke,Jay Cutler
-38,8,Thu,0.0,4.0,0.0,Baltimore Ravens,2017,Dolphins,92.0,112.0,1081.0,490.0,8.0,6.0,1355.0,494.0,1571.0,1849.0,0,Adam Gase,Clyde Christensen,Matt Burke,Jay Cutler
-39,9,Sun,0.0,4.0,1.0,Oakland Raiders,2017,Dolphins,92.0,152.0,1232.0,535.0,10.0,6.0,1476.0,668.0,1767.0,2144.0,0,Adam Gase,Clyde Christensen,Matt Burke,Jay Cutler
-40,10,Mon,0.0,4.0,0.0,Carolina Panthers,2017,Dolphins,116.0,179.0,1541.0,621.0,11.0,8.0,1771.0,752.0,2162.0,2523.0,0,Adam Gase,Clyde Christensen,Matt Burke,Jay Cutler
-41,11,Sun,0.0,4.0,1.0,Tampa Bay Buccaneers,2017,Dolphins,137.0,224.0,1754.0,721.0,12.0,8.0,2025.0,1046.0,2475.0,3071.0,0,Adam Gase,Clyde Christensen,Matt Burke,Jay Cutler
-42,12,Sun,0.0,4.0,0.0,New England Patriots,2017,Dolphins,157.0,254.0,2119.0,804.0,17.0,8.0,2293.0,1099.0,2923.0,3392.0,0,Adam Gase,Clyde Christensen,Matt Burke,Jay Cutler
-43,13,Sun,1.0,4.0,1.0,Denver Broncos,2017,Dolphins,174.0,289.0,2273.0,871.0,20.0,10.0,2514.0,1295.0,3144.0,3809.0,0,Adam Gase,Clyde Christensen,Matt Burke,Jay Cutler
-44,14,Mon,1.0,5.0,1.0,New England Patriots,2017,Dolphins,209.0,298.0,2495.0,1016.0,23.0,13.0,2681.0,1398.0,3511.0,4079.0,0,Adam Gase,Clyde Christensen,Matt Burke,Jay Cutler
-45,15,Sun,0.0,6.0,0.0,Buffalo Bills,2017,Dolphins,236.0,318.0,2737.0,1136.0,23.0,15.0,2904.0,1423.0,3873.0,4327.0,0,Adam Gase,Clyde Christensen,Matt Burke,Jay Cutler
-46,16,Sun,0.0,6.0,0.0,Kansas City Chiefs,2017,Dolphins,252.0,342.0,2986.0,1236.0,26.0,15.0,3116.0,1539.0,4222.0,4655.0,0,Adam Gase,Clyde Christensen,Matt Burke,Jay Cutler
-47,17,Sun,0.0,6.0,1.0,Buffalo Bills,2017,Dolphins,265.0,371.0,3272.0,1295.0,28.0,15.0,3417.0,1642.0,4567.0,5059.0,0,Adam Gase,Clyde Christensen,Matt Burke,Jay Cutler
-48,1,Sun,0.0,0.0,0.0,Seattle Seahawks,2016,Dolphins,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Adam Gase,Clyde Christensen,Vance Joseph,Ryan Tannehill
-49,2,Sun,0.0,0.0,0.0,New England Patriots,2016,Dolphins,10.0,12.0,150.0,64.0,0.0,2.0,240.0,112.0,214.0,352.0,0,Adam Gase,Clyde Christensen,Vance Joseph,Ryan Tannehill
-50,3,Sun,1.0,0.0,1.0,Cleveland Browns,2016,Dolphins,34.0,43.0,537.0,134.0,4.0,3.0,542.0,273.0,671.0,815.0,0,Adam Gase,Clyde Christensen,Vance Joseph,Ryan Tannehill
-51,4,Thu,0.0,1.0,0.0,Cincinnati Bengals,2016,Dolphins,64.0,67.0,848.0,249.0,7.0,4.0,803.0,442.0,1097.0,1245.0,0,Adam Gase,Clyde Christensen,Vance Joseph,Ryan Tannehill
-52,5,Sun,0.0,1.0,1.0,Tennessee Titans,2016,Dolphins,71.0,89.0,1008.0,311.0,9.0,4.0,1088.0,519.0,1319.0,1607.0,0,Adam Gase,Clyde Christensen,Vance Joseph,Ryan Tannehill
-53,6,Sun,1.0,1.0,1.0,Pittsburgh Steelers,2016,Dolphins,88.0,119.0,1157.0,362.0,11.0,4.0,1251.0,754.0,1519.0,2005.0,0,Adam Gase,Clyde Christensen,Vance Joseph,Ryan Tannehill
-54,7,Sun,1.0,2.0,1.0,Buffalo Bills,2016,Dolphins,118.0,134.0,1409.0,584.0,11.0,6.0,1420.0,882.0,1993.0,2302.0,0,Adam Gase,Clyde Christensen,Vance Joseph,Ryan Tannehill
-55,9,Sun,1.0,3.0,1.0,New York Jets,2016,Dolphins,146.0,159.0,1607.0,840.0,11.0,6.0,1620.0,949.0,2447.0,2569.0,1,Adam Gase,Clyde Christensen,Vance Joseph,Ryan Tannehill
-56,10,Sun,1.0,4.0,0.0,San Diego Chargers,2016,Dolphins,173.0,182.0,1744.0,977.0,11.0,8.0,1811.0,1089.0,2721.0,2900.0,0,Adam Gase,Clyde Christensen,Vance Joseph,Ryan Tannehill
-57,11,Sun,1.0,5.0,0.0,Los Angeles Rams,2016,Dolphins,204.0,206.0,1975.0,1083.0,12.0,12.0,2120.0,1159.0,3058.0,3279.0,0,Adam Gase,Clyde Christensen,Vance Joseph,Ryan Tannehill
-58,12,Sun,1.0,6.0,1.0,San Francisco 49ers,2016,Dolphins,218.0,216.0,2117.0,1181.0,13.0,13.0,2245.0,1261.0,3298.0,3506.0,0,Adam Gase,Clyde Christensen,Vance Joseph,Ryan Tannehill
-59,13,Sun,0.0,7.0,0.0,Baltimore Ravens,2016,Dolphins,249.0,240.0,2380.0,1276.0,13.0,15.0,2527.0,1454.0,3656.0,3981.0,0,Adam Gase,Clyde Christensen,Vance Joseph,Ryan Tannehill
-60,14,Sun,1.0,7.0,1.0,Arizona Cardinals,2016,Dolphins,255.0,278.0,2595.0,1338.0,16.0,17.0,2913.0,1564.0,3933.0,4477.0,0,Adam Gase,Clyde Christensen,Vance Joseph,Ryan Tannehill
-61,15,Sat,1.0,8.0,0.0,New York Jets,2016,Dolphins,281.0,301.0,2826.0,1421.0,19.0,21.0,3038.0,1739.0,4247.0,4777.0,0,Adam Gase,Clyde Christensen,Vance Joseph,Ryan Tannehill
-62,16,Sat,1.0,9.0,0.0,Buffalo Bills,2016,Dolphins,315.0,314.0,3062.0,1488.0,20.0,25.0,3282.0,1855.0,4550.0,5137.0,0,Adam Gase,Clyde Christensen,Vance Joseph,Ryan Tannehill
-63,17,Sun,0.0,10.0,1.0,New England Patriots,2016,Dolphins,349.0,345.0,3295.0,1749.0,21.0,25.0,3599.0,2127.0,5044.0,5726.0,0,Adam Gase,Clyde Christensen,Vance Joseph,Ryan Tannehill
-64,1,Sun,1.0,0.0,0.0,Washington Redskins,2015,Dolphins,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
-65,2,Sun,0.0,1.0,0.0,Jacksonville Jaguars,2015,Dolphins,17.0,10.0,182.0,74.0,1.0,2.0,188.0,161.0,256.0,349.0,0,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
-66,3,Sun,0.0,1.0,1.0,Buffalo Bills,2015,Dolphins,37.0,33.0,526.0,116.0,1.0,2.0,461.0,284.0,642.0,745.0,0,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
-67,4,Sun,0.0,1.0,1.0,New York Jets,2015,Dolphins,51.0,74.0,815.0,218.0,4.0,2.0,738.0,435.0,1033.0,1173.0,0,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
-68,6,Sun,1.0,1.0,0.0,Tennessee Titans,2015,Dolphins,65.0,101.0,982.0,277.0,6.0,3.0,956.0,642.0,1259.0,1598.0,1,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
-69,7,Sun,1.0,2.0,1.0,Houston Texans,2015,Dolphins,103.0,111.0,1236.0,457.0,8.0,7.0,1192.0,705.0,1693.0,1897.0,0,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
-70,8,Thu,0.0,3.0,0.0,New England Patriots,2015,Dolphins,147.0,137.0,1491.0,705.0,9.0,8.0,1443.0,776.0,2196.0,2219.0,0,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
-71,9,Sun,0.0,3.0,0.0,Buffalo Bills,2015,Dolphins,154.0,173.0,1746.0,720.0,11.0,8.0,1785.0,871.0,2466.0,2656.0,0,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
-72,10,Sun,1.0,3.0,0.0,Philadelphia Eagles,2015,Dolphins,171.0,206.0,2035.0,828.0,12.0,8.0,1939.0,1137.0,2863.0,3076.0,0,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
-73,11,Sun,0.0,4.0,1.0,Dallas Cowboys,2015,Dolphins,191.0,225.0,2225.0,927.0,12.0,9.0,2292.0,1220.0,3152.0,3512.0,0,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
-74,12,Sun,0.0,4.0,0.0,New York Jets,2015,Dolphins,205.0,249.0,2365.0,997.0,13.0,11.0,2512.0,1386.0,3362.0,3898.0,0,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
-75,13,Sun,1.0,4.0,1.0,Baltimore Ravens,2015,Dolphins,225.0,287.0,2686.0,1009.0,15.0,11.0,2786.0,1523.0,3695.0,4309.0,0,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
-76,14,Mon,0.0,5.0,1.0,New York Giants,2015,Dolphins,240.0,300.0,2768.0,1146.0,16.0,13.0,3067.0,1617.0,3914.0,4684.0,0,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
-77,15,Sun,0.0,5.0,0.0,San Diego Chargers,2015,Dolphins,264.0,331.0,3003.0,1274.0,17.0,14.0,3404.0,1709.0,4277.0,5113.0,0,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
-78,16,Sun,0.0,5.0,1.0,Indianapolis Colts,2015,Dolphins,278.0,361.0,3190.0,1318.0,18.0,16.0,3706.0,1849.0,4508.0,5555.0,0,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
-79,17,Sun,1.0,5.0,1.0,New England Patriots,2015,Dolphins,290.0,379.0,3469.0,1400.0,19.0,16.0,3874.0,1949.0,4869.0,5823.0,0,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
-80,1,Sun,1.0,0.0,1.0,New England Patriots,2014,Dolphins,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
-81,2,Sun,0.0,1.0,0.0,Buffalo Bills,2014,Dolphins,33.0,20.0,169.0,191.0,3.0,2.0,226.0,89.0,360.0,315.0,0,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
-82,3,Sun,0.0,1.0,1.0,Kansas City Chiefs,2014,Dolphins,43.0,49.0,379.0,271.0,5.0,2.0,428.0,202.0,650.0,630.0,0,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
-83,4,Sun,1.0,1.0,0.0,Oakland Raiders,2014,Dolphins,58.0,83.0,570.0,412.0,5.0,4.0,596.0,376.0,982.0,972.0,0,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
-84,6,Sun,0.0,2.0,1.0,Green Bay Packers,2014,Dolphins,96.0,97.0,848.0,569.0,8.0,8.0,860.0,429.0,1417.0,1289.0,1,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
-85,7,Sun,1.0,2.0,0.0,Chicago Bears,2014,Dolphins,120.0,124.0,1085.0,681.0,11.0,8.0,1108.0,550.0,1766.0,1658.0,0,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
-86,8,Sun,1.0,3.0,0.0,Jacksonville Jaguars,2014,Dolphins,147.0,138.0,1341.0,818.0,11.0,11.0,1280.0,602.0,2159.0,1882.0,0,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
-87,9,Sun,1.0,4.0,1.0,San Diego Chargers,2014,Dolphins,174.0,151.0,1519.0,966.0,12.0,14.0,1481.0,778.0,2485.0,2259.0,0,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
-88,10,Sun,0.0,5.0,0.0,Detroit Lions,2014,Dolphins,211.0,151.0,1828.0,1098.0,12.0,18.0,1609.0,828.0,2926.0,2437.0,0,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
-89,11,Thu,1.0,5.0,1.0,Buffalo Bills,2014,Dolphins,227.0,171.0,2006.0,1148.0,14.0,19.0,1897.0,891.0,3154.0,2788.0,0,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
-90,12,Sun,0.0,6.0,0.0,Denver Broncos,2014,Dolphins,249.0,180.0,2211.0,1273.0,16.0,19.0,2080.0,945.0,3484.0,3025.0,0,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
-91,13,Mon,1.0,6.0,0.0,New York Jets,2014,Dolphins,285.0,219.0,2427.0,1370.0,17.0,20.0,2329.0,1146.0,3797.0,3475.0,0,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
-92,14,Sun,0.0,7.0,1.0,Baltimore Ravens,2014,Dolphins,301.0,232.0,2644.0,1444.0,18.0,21.0,2378.0,1423.0,4088.0,3801.0,0,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
-93,15,Sun,0.0,7.0,0.0,New England Patriots,2014,Dolphins,314.0,260.0,2830.0,1507.0,18.0,22.0,2642.0,1606.0,4337.0,4248.0,0,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
-94,16,Sun,1.0,7.0,1.0,Minnesota Vikings,2014,Dolphins,327.0,301.0,3138.0,1583.0,20.0,23.0,2929.0,1714.0,4721.0,4643.0,0,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
-95,17,Sun,0.0,8.0,1.0,New York Jets,2014,Dolphins,364.0,336.0,3521.0,1693.0,22.0,24.0,3167.0,1833.0,5214.0,5000.0,0,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
-96,1,Sun,1.0,0.0,0.0,Cleveland Browns,2013,Dolphins,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
-97,2,Sun,1.0,1.0,0.0,Indianapolis Colts,2013,Dolphins,23.0,10.0,255.0,20.0,1.0,3.0,244.0,47.0,275.0,291.0,0,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
-98,3,Sun,1.0,2.0,1.0,Atlanta Falcons,2013,Dolphins,47.0,30.0,552.0,121.0,2.0,4.0,559.0,180.0,673.0,739.0,0,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
-99,4,Mon,0.0,3.0,0.0,New Orleans Saints,2013,Dolphins,74.0,53.0,747.0,211.0,4.0,6.0,790.0,326.0,958.0,1116.0,0,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
-100,5,Sun,0.0,3.0,1.0,Baltimore Ravens,2013,Dolphins,91.0,91.0,963.0,326.0,8.0,7.0,1187.0,394.0,1289.0,1581.0,0,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
-101,7,Sun,0.0,3.0,1.0,Buffalo Bills,2013,Dolphins,114.0,117.0,1235.0,348.0,8.0,9.0,1438.0,527.0,1583.0,1965.0,1,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
-102,8,Sun,0.0,3.0,0.0,New England Patriots,2013,Dolphins,135.0,140.0,1408.0,468.0,11.0,10.0,1616.0,617.0,1876.0,2233.0,0,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
-103,9,Thu,1.0,3.0,1.0,Cincinnati Bengals,2013,Dolphins,152.0,167.0,1553.0,624.0,14.0,11.0,1716.0,769.0,2177.0,2485.0,0,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
-104,10,Mon,0.0,4.0,0.0,Tampa Bay Buccaneers,2013,Dolphins,174.0,187.0,1741.0,781.0,15.0,15.0,2018.0,932.0,2522.0,2950.0,0,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
-105,11,Sun,1.0,4.0,1.0,San Diego Chargers,2013,Dolphins,193.0,209.0,1952.0,783.0,16.0,16.0,2142.0,1072.0,2735.0,3214.0,0,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
-106,12,Sun,0.0,5.0,1.0,Carolina Panthers,2013,Dolphins,213.0,225.0,2191.0,887.0,17.0,17.0,2423.0,1226.0,3078.0,3649.0,0,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
-107,13,Sun,1.0,5.0,0.0,New York Jets,2013,Dolphins,229.0,245.0,2471.0,939.0,18.0,18.0,2582.0,1362.0,3410.0,3944.0,0,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
-108,14,Sun,1.0,6.0,0.0,Pittsburgh Steelers,2013,Dolphins,252.0,248.0,2799.0,1064.0,19.0,21.0,2660.0,1461.0,3863.0,4121.0,0,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
-109,15,Sun,1.0,7.0,1.0,New England Patriots,2013,Dolphins,286.0,276.0,2985.0,1245.0,20.0,22.0,2988.0,1545.0,4230.0,4533.0,0,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
-110,16,Sun,0.0,8.0,0.0,Buffalo Bills,2013,Dolphins,310.0,296.0,3274.0,1334.0,21.0,23.0,3345.0,1641.0,4608.0,4986.0,0,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
-111,17,Sun,0.0,8.0,1.0,New York Jets,2013,Dolphins,310.0,315.0,3363.0,1348.0,23.0,24.0,3532.0,1844.0,4711.0,5376.0,0,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
-112,1,Sun,0.0,0.0,0.0,Houston Texans,2012,Dolphins,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
-113,2,Sun,1.0,0.0,1.0,Oakland Raiders,2012,Dolphins,10.0,30.0,199.0,76.0,4.0,0.0,254.0,83.0,275.0,337.0,0,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
-114,3,Sun,0.0,1.0,1.0,New York Jets,2012,Dolphins,45.0,43.0,388.0,339.0,4.0,1.0,627.0,106.0,727.0,733.0,0,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
-115,4,Sun,0.0,1.0,0.0,Arizona Cardinals,2012,Dolphins,65.0,66.0,584.0,524.0,6.0,3.0,922.0,199.0,1108.0,1121.0,0,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
-116,5,Sun,1.0,1.0,0.0,Cincinnati Bengals,2012,Dolphins,86.0,90.0,978.0,610.0,10.0,5.0,1191.0,227.0,1588.0,1418.0,0,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
-117,6,Sun,1.0,2.0,1.0,St. Louis Rams,2012,Dolphins,103.0,103.0,1189.0,678.0,12.0,8.0,1409.0,307.0,1867.0,1716.0,0,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
-118,8,Sun,1.0,3.0,0.0,New York Jets,2012,Dolphins,120.0,117.0,1345.0,714.0,12.0,9.0,1709.0,469.0,2059.0,2178.0,1,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
-119,9,Sun,0.0,4.0,0.0,Indianapolis Colts,2012,Dolphins,150.0,126.0,1484.0,811.0,13.0,11.0,1967.0,574.0,2295.0,2541.0,0,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
-120,10,Sun,0.0,4.0,1.0,Tennessee Titans,2012,Dolphins,170.0,149.0,1765.0,895.0,13.0,11.0,2386.0,671.0,2660.0,3057.0,0,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
-121,11,Thu,0.0,4.0,0.0,Buffalo Bills,2012,Dolphins,173.0,186.0,1966.0,949.0,17.0,11.0,2502.0,848.0,2915.0,3350.0,0,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
-122,12,Sun,1.0,4.0,1.0,Seattle Seahawks,2012,Dolphins,187.0,205.0,2090.0,1009.0,20.0,11.0,2663.0,968.0,3099.0,3631.0,0,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
-123,13,Sun,0.0,5.0,1.0,New England Patriots,2012,Dolphins,211.0,226.0,2336.0,1198.0,21.0,11.0,2879.0,1064.0,3534.0,3943.0,0,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
-124,14,Sun,0.0,5.0,0.0,San Francisco 49ers,2012,Dolphins,227.0,249.0,2512.0,1299.0,22.0,12.0,3092.0,1172.0,3811.0,4264.0,0,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
-125,15,Sun,1.0,5.0,1.0,Jacksonville Jaguars,2012,Dolphins,240.0,276.0,2645.0,1393.0,23.0,12.0,3258.0,1327.0,4038.0,4585.0,0,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
-126,16,Sun,1.0,6.0,1.0,Buffalo Bills,2012,Dolphins,264.0,279.0,2854.0,1573.0,24.0,12.0,3471.0,1413.0,4427.0,4884.0,0,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
-127,17,Sun,0.0,7.0,0.0,New England Patriots,2012,Dolphins,288.0,289.0,2973.0,1755.0,24.0,16.0,3698.0,1567.0,4728.0,5265.0,0,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
-128,1,Mon,0.0,0.0,1.0,New England Patriots,2011,Dolphins,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Tony Sparano,Brian Daboll,Mike Nolan,Chad Henne
-129,2,Sun,0.0,0.0,1.0,Houston Texans,2011,Dolphins,24.0,38.0,390.0,98.0,1.0,1.0,516.0,106.0,488.0,622.0,0,Tony Sparano,Brian Daboll,Mike Nolan,Chad Henne
-130,3,Sun,0.0,0.0,0.0,Cleveland Browns,2011,Dolphins,37.0,61.0,543.0,251.0,3.0,1.0,723.0,244.0,794.0,967.0,0,Tony Sparano,Brian Daboll,Mike Nolan,Chad Henne
-131,4,Sun,0.0,0.0,0.0,San Diego Chargers,2011,Dolphins,53.0,78.0,774.0,389.0,5.0,2.0,933.0,314.0,1163.0,1247.0,0,Tony Sparano,Brian Daboll,Mike Nolan,Chad Henne
-132,6,Mon,0.0,0.0,0.0,New York Jets,2011,Dolphins,69.0,104.0,950.0,461.0,7.0,2.0,1228.0,430.0,1411.0,1658.0,1,Tony Sparano,Brian Daboll,Mike Nolan,Chad Henne
-133,7,Sun,0.0,0.0,1.0,Denver Broncos,2011,Dolphins,75.0,128.0,1140.0,579.0,10.0,3.0,1420.0,534.0,1719.0,1954.0,0,Tony Sparano,Brian Daboll,Mike Nolan,Chad Henne
-134,8,Sun,0.0,0.0,0.0,New York Giants,2011,Dolphins,90.0,146.0,1313.0,673.0,11.0,4.0,1551.0,711.0,1986.0,2262.0,0,Tony Sparano,Brian Daboll,Mike Nolan,Chad Henne
-135,9,Sun,1.0,0.0,0.0,Kansas City Chiefs,2011,Dolphins,107.0,166.0,1414.0,818.0,12.0,4.0,1895.0,769.0,2232.0,2664.0,0,Tony Sparano,Brian Daboll,Mike Nolan,Chad Henne
-136,10,Sun,1.0,1.0,1.0,Washington Redskins,2011,Dolphins,138.0,169.0,1658.0,925.0,12.0,4.0,2122.0,885.0,2583.0,3007.0,0,Tony Sparano,Brian Daboll,Mike Nolan,Chad Henne
-137,11,Sun,1.0,2.0,1.0,Buffalo Bills,2011,Dolphins,158.0,178.0,1858.0,1028.0,14.0,6.0,2307.0,946.0,2886.0,3253.0,0,Tony Sparano,Brian Daboll,Mike Nolan,Chad Henne
-138,12,Thu,0.0,3.0,0.0,Dallas Cowboys,2011,Dolphins,193.0,186.0,2005.0,1123.0,14.0,8.0,2511.0,987.0,3128.0,3498.0,0,Tony Sparano,Brian Daboll,Mike Nolan,Chad Henne
-139,13,Sun,1.0,3.0,1.0,Oakland Raiders,2011,Dolphins,212.0,206.0,2268.0,1212.0,15.0,10.0,2729.0,1072.0,3480.0,3801.0,0,Tony Sparano,Brian Daboll,Mike Nolan,Chad Henne
-140,14,Sun,0.0,4.0,1.0,Philadelphia Eagles,2011,Dolphins,246.0,220.0,2421.0,1421.0,15.0,11.0,2987.0,1118.0,3842.0,4105.0,0,Tony Sparano,Brian Daboll,Mike Nolan,Chad Henne
-141,15,Sun,1.0,4.0,0.0,Buffalo Bills,2011,Dolphins,256.0,246.0,2516.0,1530.0,18.0,13.0,3175.0,1169.0,4046.0,4344.0,0,Tony Sparano,Brian Daboll,Mike Nolan,Chad Henne
-142,16,Sat,0.0,5.0,0.0,New England Patriots,2011,Dolphins,286.0,269.0,2710.0,1784.0,21.0,16.0,3466.0,1282.0,4494.0,4748.0,0,Tony Sparano,Brian Daboll,Mike Nolan,Chad Henne
-143,17,Sun,1.0,5.0,1.0,New York Jets,2011,Dolphins,310.0,296.0,2963.0,1905.0,23.0,16.0,3747.0,1401.0,4868.0,5148.0,0,Tony Sparano,Brian Daboll,Mike Nolan,Chad Henne
-144,1,Sun,1.0,0.0,0.0,Buffalo Bills,2010,Dolphins,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Tony Sparano,Dan Henning,Mike Nolan,Chad Henne
-145,2,Sun,1.0,1.0,0.0,Minnesota Vikings,2010,Dolphins,15.0,10.0,164.0,132.0,0.0,0.0,116.0,50.0,296.0,166.0,0,Tony Sparano,Dan Henning,Mike Nolan,Chad Henne
-146,3,Sun,0.0,2.0,1.0,New York Jets,2010,Dolphins,29.0,20.0,270.0,252.0,2.0,4.0,324.0,206.0,522.0,530.0,0,Tony Sparano,Dan Henning,Mike Nolan,Chad Henne
-147,4,Mon,0.0,2.0,1.0,New England Patriots,2010,Dolphins,52.0,51.0,622.0,336.0,3.0,4.0,580.0,352.0,958.0,932.0,0,Tony Sparano,Dan Henning,Mike Nolan,Chad Henne
-148,6,Sun,1.0,2.0,0.0,Green Bay Packers,2010,Dolphins,66.0,92.0,930.0,428.0,7.0,4.0,726.0,471.0,1358.0,1197.0,1,Tony Sparano,Dan Henning,Mike Nolan,Chad Henne
-149,7,Sun,0.0,3.0,1.0,Pittsburgh Steelers,2010,Dolphins,89.0,112.0,1161.0,578.0,8.0,5.0,1009.0,547.0,1739.0,1556.0,0,Tony Sparano,Dan Henning,Mike Nolan,Chad Henne
-150,8,Sun,1.0,3.0,0.0,Cincinnati Bengals,2010,Dolphins,111.0,135.0,1410.0,642.0,10.0,7.0,1299.0,605.0,2052.0,1904.0,0,Tony Sparano,Dan Henning,Mike Nolan,Chad Henne
-151,9,Sun,0.0,4.0,0.0,Baltimore Ravens,2010,Dolphins,133.0,149.0,1627.0,779.0,12.0,8.0,1455.0,711.0,2406.0,2166.0,0,Tony Sparano,Dan Henning,Mike Nolan,Chad Henne
-152,10,Sun,1.0,4.0,1.0,Tennessee Titans,2010,Dolphins,143.0,175.0,1843.0,852.0,15.0,8.0,1711.0,857.0,2695.0,2568.0,0,Tony Sparano,Dan Henning,Mike Nolan,Chad Pennington
-153,11,Thu,0.0,5.0,1.0,Chicago Bears,2010,Dolphins,172.0,192.0,2159.0,940.0,16.0,11.0,1835.0,992.0,3099.0,2827.0,0,Tyler Thigpen,Dan Henning,Mike Nolan,Chad Henne
-154,12,Sun,1.0,5.0,0.0,Oakland Raiders,2010,Dolphins,172.0,208.0,2307.0,979.0,17.0,12.0,1968.0,1127.0,3286.0,3095.0,0,Tony Sparano,Dan Henning,Mike Nolan,Chad Henne
-155,13,Sun,0.0,6.0,1.0,Cleveland Browns,2010,Dolphins,205.0,225.0,2592.0,1165.0,18.0,15.0,2215.0,1143.0,3757.0,3358.0,0,Tony Sparano,Dan Henning,Mike Nolan,Chad Henne
-156,14,Sun,1.0,6.0,0.0,New York Jets,2010,Dolphins,215.0,238.0,2759.0,1279.0,21.0,15.0,2415.0,1195.0,4038.0,3610.0,0,Tony Sparano,Dan Henning,Mike Nolan,Chad Henne
-157,15,Sun,0.0,7.0,1.0,Buffalo Bills,2010,Dolphins,225.0,244.0,2789.0,1380.0,24.0,17.0,2608.0,1282.0,4169.0,3890.0,0,Tony Sparano,Dan Henning,Mike Nolan,Chad Henne
-158,16,Sun,0.0,7.0,1.0,Detroit Lions,2010,Dolphins,239.0,261.0,3050.0,1445.0,26.0,18.0,2819.0,1353.0,4495.0,4172.0,0,Tony Sparano,Dan Henning,Mike Nolan,Chad Henne
-159,17,Sun,0.0,7.0,0.0,New England Patriots,2010,Dolphins,266.0,295.0,3321.0,1599.0,29.0,18.0,3027.0,1420.0,4920.0,4447.0,0,Tony Sparano,Dan Henning,Mike Nolan,Chad Henne
+0,1,Sun,0.0,0.0,0.0,New England Patriots,2020,Dolphins,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Brian Flores,Chan Gailey,Josh Boyer,Ryan Fitzpatrick
+1,2,Sun,0.0,0.0,1.0,Buffalo Bills,2020,Dolphins,11.0,21.0,182.0,87.0,3.0,1.0,140.0,217.0,269.0,357.0,0,Brian Flores,Chan Gailey,Josh Boyer,Ryan Fitzpatrick
+2,3,Thu,1.0,0.0,0.0,Jacksonville Jaguars,2020,Dolphins,39.0,52.0,493.0,186.0,3.0,2.0,551.0,329.0,679.0,880.0,0,Brian Flores,Chan Gailey,Josh Boyer,Ryan Fitzpatrick
+3,4,Sun,0.0,1.0,1.0,Seattle Seahawks,2020,Dolphins,70.0,65.0,649.0,324.0,3.0,4.0,797.0,401.0,973.0,1198.0,0,Brian Flores,Chan Gailey,Josh Boyer,Ryan Fitzpatrick
+4,5,Sun,,,0.0,San Francisco 49ers,2020,Dolphins,93.0,96.0,961.0,427.0,5.0,5.0,1140.0,499.0,1388.0,1639.0,0,Brian Flores,Chan Gailey,Josh Boyer,Ryan Fitzpatrick
+5,6,Sun,,,0.0,Denver Broncos,2020,Dolphins,93.0,96.0,961.0,427.0,5.0,5.0,1140.0,499.0,1388.0,1639.0,0,Brian Flores,Chan Gailey,Josh Boyer,Ryan Fitzpatrick
+6,7,Sun,,,1.0,Los Angeles Chargers,2020,Dolphins,93.0,96.0,961.0,427.0,5.0,5.0,1140.0,499.0,1388.0,1639.0,0,Brian Flores,Chan Gailey,Josh Boyer,Ryan Fitzpatrick
+7,8,Sun,,,1.0,Los Angeles Rams,2020,Dolphins,93.0,96.0,961.0,427.0,5.0,5.0,1140.0,499.0,1388.0,1639.0,0,Brian Flores,Chan Gailey,Josh Boyer,Ryan Fitzpatrick
+8,9,Sun,,,0.0,Arizona Cardinals,2020,Dolphins,93.0,96.0,961.0,427.0,5.0,5.0,1140.0,499.0,1388.0,1639.0,0,Brian Flores,Chan Gailey,Josh Boyer,Ryan Fitzpatrick
+9,10,Sun,,,1.0,New York Jets,2020,Dolphins,93.0,96.0,961.0,427.0,5.0,5.0,1140.0,499.0,1388.0,1639.0,0,Brian Flores,Chan Gailey,Josh Boyer,Ryan Fitzpatrick
+10,12,Sun,,,0.0,New York Jets,2020,Dolphins,93.0,96.0,961.0,427.0,5.0,5.0,1140.0,499.0,1388.0,1639.0,1,Brian Flores,Chan Gailey,Josh Boyer,Ryan Fitzpatrick
+11,13,Sun,,,1.0,Cincinnati Bengals,2020,Dolphins,93.0,96.0,961.0,427.0,5.0,5.0,1140.0,499.0,1388.0,1639.0,0,Brian Flores,Chan Gailey,Josh Boyer,Ryan Fitzpatrick
+12,14,Sun,,,1.0,Kansas City Chiefs,2020,Dolphins,93.0,96.0,961.0,427.0,5.0,5.0,1140.0,499.0,1388.0,1639.0,0,Brian Flores,Chan Gailey,Josh Boyer,Ryan Fitzpatrick
+13,15,Sun,,,1.0,New England Patriots,2020,Dolphins,93.0,96.0,961.0,427.0,5.0,5.0,1140.0,499.0,1388.0,1639.0,0,Brian Flores,Chan Gailey,Josh Boyer,Ryan Fitzpatrick
+14,16,Sun,,,0.0,Las Vegas Raiders,2020,Dolphins,93.0,96.0,961.0,427.0,5.0,5.0,1140.0,499.0,1388.0,1639.0,0,Brian Flores,Chan Gailey,Josh Boyer,Ryan Fitzpatrick
+15,17,Sun,,,0.0,Buffalo Bills,2020,Dolphins,93.0,96.0,961.0,427.0,5.0,5.0,1140.0,499.0,1388.0,1639.0,0,Brian Flores,Chan Gailey,Josh Boyer,Ryan Fitzpatrick
+16,1,Sun,0.0,0.0,1.0,Baltimore Ravens,2019,Dolphins,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Brian Flores,Chad O'Shea,Patrick Graham,Ryan Fitzpatrick
+17,2,Sun,0.0,0.0,1.0,New England Patriots,2019,Dolphins,10.0,59.0,179.0,21.0,3.0,0.0,378.0,265.0,200.0,643.0,0,Brian Flores,Chad O'Shea,Patrick Graham,Ryan Fitzpatrick
+18,3,Sun,0.0,0.0,0.0,Dallas Cowboys,2019,Dolphins,10.0,102.0,321.0,63.0,7.0,1.0,633.0,389.0,384.0,1022.0,0,Brian Flores,Chad O'Shea,Patrick Graham,Ryan Fitzpatrick
+19,4,Sun,0.0,0.0,1.0,Los Angeles Chargers,2019,Dolphins,16.0,133.0,532.0,135.0,8.0,2.0,874.0,624.0,667.0,1498.0,0,Brian Flores,Chad O'Shea,Patrick Graham,Ryan Fitzpatrick
+20,6,Sun,0.0,0.0,1.0,Washington Redskins,2019,Dolphins,26.0,163.0,693.0,207.0,9.0,2.0,1185.0,703.0,900.0,1888.0,1,Brian Flores,Chad O'Shea,Patrick Graham,Ryan Fitzpatrick
+21,7,Sun,0.0,0.0,0.0,Buffalo Bills,2019,Dolphins,42.0,180.0,880.0,291.0,11.0,2.0,1351.0,848.0,1171.0,2199.0,0,Brian Flores,Chad O'Shea,Patrick Graham,Ryan Fitzpatrick
+22,8,Mon,0.0,0.0,0.0,Pittsburgh Steelers,2019,Dolphins,63.0,211.0,1152.0,400.0,13.0,2.0,1539.0,965.0,1552.0,2504.0,0,Brian Flores,Chad O'Shea,Patrick Graham,Ryan Fitzpatrick
+23,9,Sun,1.0,0.0,1.0,New York Jets,2019,Dolphins,77.0,238.0,1322.0,460.0,17.0,3.0,1775.0,1123.0,1782.0,2898.0,0,Brian Flores,Chad O'Shea,Patrick Graham,Ryan Fitzpatrick
+24,10,Sun,1.0,1.0,0.0,Indianapolis Colts,2019,Dolphins,103.0,256.0,1588.0,510.0,17.0,4.0,2013.0,1206.0,2098.0,3219.0,0,Brian Flores,Chad O'Shea,Patrick Graham,Ryan Fitzpatrick
+25,11,Sun,0.0,2.0,1.0,Buffalo Bills,2019,Dolphins,119.0,268.0,1747.0,580.0,19.0,7.0,2204.0,1315.0,2327.0,3519.0,0,Brian Flores,Chad O'Shea,Patrick Graham,Ryan Fitzpatrick
+26,12,Sun,0.0,2.0,0.0,Cleveland Browns,2019,Dolphins,139.0,305.0,2027.0,603.0,20.0,7.0,2460.0,1483.0,2630.0,3943.0,0,Brian Flores,Chad O'Shea,Patrick Graham,Ryan Fitzpatrick
+27,13,Sun,1.0,2.0,1.0,Philadelphia Eagles,2019,Dolphins,163.0,346.0,2219.0,695.0,22.0,8.0,2780.0,1630.0,2914.0,4410.0,0,Brian Flores,Chad O'Shea,Patrick Graham,Ryan Fitzpatrick
+28,14,Sun,0.0,3.0,0.0,New York Jets,2019,Dolphins,200.0,377.0,2570.0,753.0,23.0,9.0,3074.0,1722.0,3323.0,4796.0,0,Brian Flores,Chad O'Shea,Patrick Graham,Ryan Fitzpatrick
+29,15,Sun,0.0,3.0,0.0,New York Giants,2019,Dolphins,221.0,399.0,2810.0,875.0,24.0,10.0,3336.0,1834.0,3685.0,5170.0,0,Brian Flores,Chad O'Shea,Patrick Graham,Ryan Fitzpatrick
+30,16,Sun,1.0,3.0,1.0,Cincinnati Bengals,2019,Dolphins,241.0,435.0,3072.0,997.0,25.0,13.0,3610.0,1972.0,4069.0,5582.0,0,Brian Flores,Chad O'Shea,Patrick Graham,Ryan Fitzpatrick
+31,17,Sun,1.0,4.0,0.0,New England Patriots,2019,Dolphins,279.0,470.0,3478.0,1093.0,26.0,14.0,3981.0,2031.0,4571.0,6012.0,0,Brian Flores,Chad O'Shea,Patrick Graham,Ryan Fitzpatrick
+32,1,Sun,1.0,0.0,1.0,Tennessee Titans,2018,Dolphins,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Adam Gase,Dowell Loggains,Matt Burke,Ryan Tannehill
+33,2,Sun,1.0,1.0,0.0,New York Jets,2018,Dolphins,27.0,20.0,222.0,120.0,2.0,3.0,220.0,116.0,342.0,336.0,0,Adam Gase,Dowell Loggains,Matt Burke,Ryan Tannehill
+34,3,Sun,1.0,2.0,1.0,Oakland Raiders,2018,Dolphins,47.0,32.0,344.0,255.0,4.0,6.0,540.0,158.0,599.0,698.0,0,Adam Gase,Dowell Loggains,Matt Burke,Ryan Tannehill
+35,4,Sun,0.0,3.0,0.0,New England Patriots,2018,Dolphins,75.0,52.0,676.0,296.0,4.0,8.0,865.0,267.0,972.0,1132.0,0,Adam Gase,Dowell Loggains,Matt Burke,Ryan Tannehill
+36,5,Sun,0.0,3.0,0.0,Cincinnati Bengals,2018,Dolphins,82.0,90.0,792.0,352.0,6.0,10.0,1139.0,442.0,1144.0,1581.0,0,Adam Gase,Dowell Loggains,Matt Burke,Ryan Tannehill
+37,6,Sun,1.0,3.0,1.0,Chicago Bears,2018,Dolphins,99.0,117.0,961.0,480.0,9.0,11.0,1368.0,545.0,1441.0,1913.0,0,Adam Gase,Dowell Loggains,Matt Burke,Ryan Tannehill
+38,7,Sun,0.0,4.0,1.0,Detroit Lions,2018,Dolphins,130.0,145.0,1341.0,641.0,12.0,14.0,1671.0,709.0,1982.0,2380.0,0,Adam Gase,Dowell Loggains,Matt Burke,Ryan Tannehill
+39,8,Thu,0.0,4.0,0.0,Houston Texans,2018,Dolphins,151.0,177.0,1556.0,748.0,12.0,14.0,1880.0,957.0,2304.0,2837.0,0,Adam Gase,Dowell Loggains,Matt Burke,Ryan Tannehill
+40,9,Sun,1.0,4.0,1.0,New York Jets,2018,Dolphins,174.0,219.0,1810.0,864.0,13.0,14.0,2119.0,1145.0,2674.0,3264.0,0,Adam Gase,Dowell Loggains,Matt Burke,Ryan Tannehill
+41,10,Sun,0.0,5.0,0.0,Green Bay Packers,2018,Dolphins,187.0,225.0,1914.0,928.0,13.0,18.0,2321.0,1225.0,2842.0,3546.0,0,Adam Gase,Dowell Loggains,Matt Burke,Ryan Tannehill
+42,12,Sun,0.0,5.0,0.0,Indianapolis Colts,2018,Dolphins,199.0,256.0,2077.0,1059.0,15.0,19.0,2503.0,1420.0,3136.0,3923.0,1,Adam Gase,Dowell Loggains,Matt Burke,Ryan Tannehill
+43,13,Sun,1.0,5.0,1.0,Buffalo Bills,2018,Dolphins,223.0,283.0,2278.0,1172.0,16.0,22.0,2840.0,1538.0,3450.0,4378.0,0,Adam Gase,Dowell Loggains,Matt Burke,Ryan Tannehill
+44,14,Sun,1.0,6.0,1.0,New England Patriots,2018,Dolphins,244.0,300.0,2393.0,1232.0,17.0,25.0,3057.0,1736.0,3625.0,4793.0,0,Adam Gase,Dowell Loggains,Matt Burke,Ryan Tannehill
+45,15,Sun,0.0,7.0,0.0,Minnesota Vikings,2018,Dolphins,278.0,333.0,2616.0,1421.0,17.0,25.0,3401.0,1813.0,4037.0,5214.0,0,Adam Gase,Dowell Loggains,Matt Burke,Ryan Tannehill
+46,16,Sun,0.0,7.0,1.0,Jacksonville Jaguars,2018,Dolphins,295.0,374.0,2653.0,1577.0,17.0,26.0,3599.0,2033.0,4230.0,5632.0,0,Adam Gase,Dowell Loggains,Matt Burke,Ryan Tannehill
+47,17,Sun,0.0,7.0,0.0,Buffalo Bills,2018,Dolphins,302.0,391.0,2774.0,1639.0,19.0,27.0,3717.0,2159.0,4413.0,5876.0,0,Adam Gase,Dowell Loggains,Matt Burke,Ryan Tannehill
+48,2,Sun,1.0,0.0,0.0,Los Angeles Chargers,2017,Dolphins,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Adam Gase,Clyde Christensen,Matt Burke,Jay Cutler
+49,3,Sun,0.0,1.0,0.0,New York Jets,2017,Dolphins,19.0,17.0,225.0,111.0,0.0,0.0,323.0,44.0,336.0,367.0,0,Adam Gase,Clyde Christensen,Matt Burke,Jay Cutler
+50,4,Sun,0.0,1.0,1.0,New Orleans Saints,2017,Dolphins,25.0,37.0,420.0,141.0,2.0,1.0,556.0,147.0,561.0,703.0,0,Adam Gase,Clyde Christensen,Matt Burke,Jay Cutler
+51,5,Sun,1.0,1.0,1.0,Tennessee Titans,2017,Dolphins,25.0,57.0,548.0,199.0,3.0,1.0,817.0,233.0,747.0,1050.0,0,Adam Gase,Clyde Christensen,Matt Burke,Jay Cutler
+52,6,Sun,1.0,2.0,0.0,Atlanta Falcons,2017,Dolphins,41.0,67.0,626.0,299.0,5.0,3.0,936.0,302.0,925.0,1238.0,0,Adam Gase,Clyde Christensen,Matt Burke,Jay Cutler
+53,7,Sun,1.0,3.0,1.0,New York Jets,2017,Dolphins,61.0,84.0,777.0,437.0,6.0,4.0,1175.0,402.0,1214.0,1577.0,0,Adam Gase,Clyde Christensen,Matt Burke,Jay Cutler
+54,8,Thu,0.0,4.0,0.0,Baltimore Ravens,2017,Dolphins,92.0,112.0,1081.0,490.0,8.0,6.0,1355.0,494.0,1571.0,1849.0,0,Adam Gase,Clyde Christensen,Matt Burke,Jay Cutler
+55,9,Sun,0.0,4.0,1.0,Oakland Raiders,2017,Dolphins,92.0,152.0,1232.0,535.0,10.0,6.0,1476.0,668.0,1767.0,2144.0,0,Adam Gase,Clyde Christensen,Matt Burke,Jay Cutler
+56,10,Mon,0.0,4.0,0.0,Carolina Panthers,2017,Dolphins,116.0,179.0,1541.0,621.0,11.0,8.0,1771.0,752.0,2162.0,2523.0,0,Adam Gase,Clyde Christensen,Matt Burke,Jay Cutler
+57,11,Sun,0.0,4.0,1.0,Tampa Bay Buccaneers,2017,Dolphins,137.0,224.0,1754.0,721.0,12.0,8.0,2025.0,1046.0,2475.0,3071.0,0,Adam Gase,Clyde Christensen,Matt Burke,Jay Cutler
+58,12,Sun,0.0,4.0,0.0,New England Patriots,2017,Dolphins,157.0,254.0,2119.0,804.0,17.0,8.0,2293.0,1099.0,2923.0,3392.0,0,Adam Gase,Clyde Christensen,Matt Burke,Jay Cutler
+59,13,Sun,1.0,4.0,1.0,Denver Broncos,2017,Dolphins,174.0,289.0,2273.0,871.0,20.0,10.0,2514.0,1295.0,3144.0,3809.0,0,Adam Gase,Clyde Christensen,Matt Burke,Jay Cutler
+60,14,Mon,1.0,5.0,1.0,New England Patriots,2017,Dolphins,209.0,298.0,2495.0,1016.0,23.0,13.0,2681.0,1398.0,3511.0,4079.0,0,Adam Gase,Clyde Christensen,Matt Burke,Jay Cutler
+61,15,Sun,0.0,6.0,0.0,Buffalo Bills,2017,Dolphins,236.0,318.0,2737.0,1136.0,23.0,15.0,2904.0,1423.0,3873.0,4327.0,0,Adam Gase,Clyde Christensen,Matt Burke,Jay Cutler
+62,16,Sun,0.0,6.0,0.0,Kansas City Chiefs,2017,Dolphins,252.0,342.0,2986.0,1236.0,26.0,15.0,3116.0,1539.0,4222.0,4655.0,0,Adam Gase,Clyde Christensen,Matt Burke,Jay Cutler
+63,17,Sun,0.0,6.0,1.0,Buffalo Bills,2017,Dolphins,265.0,371.0,3272.0,1295.0,28.0,15.0,3417.0,1642.0,4567.0,5059.0,0,Adam Gase,Clyde Christensen,Matt Burke,Jay Cutler
+64,1,Sun,0.0,0.0,0.0,Seattle Seahawks,2016,Dolphins,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Adam Gase,Clyde Christensen,Vance Joseph,Ryan Tannehill
+65,2,Sun,0.0,0.0,0.0,New England Patriots,2016,Dolphins,10.0,12.0,150.0,64.0,0.0,2.0,240.0,112.0,214.0,352.0,0,Adam Gase,Clyde Christensen,Vance Joseph,Ryan Tannehill
+66,3,Sun,1.0,0.0,1.0,Cleveland Browns,2016,Dolphins,34.0,43.0,537.0,134.0,4.0,3.0,542.0,273.0,671.0,815.0,0,Adam Gase,Clyde Christensen,Vance Joseph,Ryan Tannehill
+67,4,Thu,0.0,1.0,0.0,Cincinnati Bengals,2016,Dolphins,64.0,67.0,848.0,249.0,7.0,4.0,803.0,442.0,1097.0,1245.0,0,Adam Gase,Clyde Christensen,Vance Joseph,Ryan Tannehill
+68,5,Sun,0.0,1.0,1.0,Tennessee Titans,2016,Dolphins,71.0,89.0,1008.0,311.0,9.0,4.0,1088.0,519.0,1319.0,1607.0,0,Adam Gase,Clyde Christensen,Vance Joseph,Ryan Tannehill
+69,6,Sun,1.0,1.0,1.0,Pittsburgh Steelers,2016,Dolphins,88.0,119.0,1157.0,362.0,11.0,4.0,1251.0,754.0,1519.0,2005.0,0,Adam Gase,Clyde Christensen,Vance Joseph,Ryan Tannehill
+70,7,Sun,1.0,2.0,1.0,Buffalo Bills,2016,Dolphins,118.0,134.0,1409.0,584.0,11.0,6.0,1420.0,882.0,1993.0,2302.0,0,Adam Gase,Clyde Christensen,Vance Joseph,Ryan Tannehill
+71,9,Sun,1.0,3.0,1.0,New York Jets,2016,Dolphins,146.0,159.0,1607.0,840.0,11.0,6.0,1620.0,949.0,2447.0,2569.0,1,Adam Gase,Clyde Christensen,Vance Joseph,Ryan Tannehill
+72,10,Sun,1.0,4.0,0.0,San Diego Chargers,2016,Dolphins,173.0,182.0,1744.0,977.0,11.0,8.0,1811.0,1089.0,2721.0,2900.0,0,Adam Gase,Clyde Christensen,Vance Joseph,Ryan Tannehill
+73,11,Sun,1.0,5.0,0.0,Los Angeles Rams,2016,Dolphins,204.0,206.0,1975.0,1083.0,12.0,12.0,2120.0,1159.0,3058.0,3279.0,0,Adam Gase,Clyde Christensen,Vance Joseph,Ryan Tannehill
+74,12,Sun,1.0,6.0,1.0,San Francisco 49ers,2016,Dolphins,218.0,216.0,2117.0,1181.0,13.0,13.0,2245.0,1261.0,3298.0,3506.0,0,Adam Gase,Clyde Christensen,Vance Joseph,Ryan Tannehill
+75,13,Sun,0.0,7.0,0.0,Baltimore Ravens,2016,Dolphins,249.0,240.0,2380.0,1276.0,13.0,15.0,2527.0,1454.0,3656.0,3981.0,0,Adam Gase,Clyde Christensen,Vance Joseph,Ryan Tannehill
+76,14,Sun,1.0,7.0,1.0,Arizona Cardinals,2016,Dolphins,255.0,278.0,2595.0,1338.0,16.0,17.0,2913.0,1564.0,3933.0,4477.0,0,Adam Gase,Clyde Christensen,Vance Joseph,Ryan Tannehill
+77,15,Sat,1.0,8.0,0.0,New York Jets,2016,Dolphins,281.0,301.0,2826.0,1421.0,19.0,21.0,3038.0,1739.0,4247.0,4777.0,0,Adam Gase,Clyde Christensen,Vance Joseph,Ryan Tannehill
+78,16,Sat,1.0,9.0,0.0,Buffalo Bills,2016,Dolphins,315.0,314.0,3062.0,1488.0,20.0,25.0,3282.0,1855.0,4550.0,5137.0,0,Adam Gase,Clyde Christensen,Vance Joseph,Ryan Tannehill
+79,17,Sun,0.0,10.0,1.0,New England Patriots,2016,Dolphins,349.0,345.0,3295.0,1749.0,21.0,25.0,3599.0,2127.0,5044.0,5726.0,0,Adam Gase,Clyde Christensen,Vance Joseph,Ryan Tannehill
+80,1,Sun,1.0,0.0,0.0,Washington Redskins,2015,Dolphins,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
+81,2,Sun,0.0,1.0,0.0,Jacksonville Jaguars,2015,Dolphins,17.0,10.0,182.0,74.0,1.0,2.0,188.0,161.0,256.0,349.0,0,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
+82,3,Sun,0.0,1.0,1.0,Buffalo Bills,2015,Dolphins,37.0,33.0,526.0,116.0,1.0,2.0,461.0,284.0,642.0,745.0,0,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
+83,4,Sun,0.0,1.0,1.0,New York Jets,2015,Dolphins,51.0,74.0,815.0,218.0,4.0,2.0,738.0,435.0,1033.0,1173.0,0,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
+84,6,Sun,1.0,1.0,0.0,Tennessee Titans,2015,Dolphins,65.0,101.0,982.0,277.0,6.0,3.0,956.0,642.0,1259.0,1598.0,1,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
+85,7,Sun,1.0,2.0,1.0,Houston Texans,2015,Dolphins,103.0,111.0,1236.0,457.0,8.0,7.0,1192.0,705.0,1693.0,1897.0,0,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
+86,8,Thu,0.0,3.0,0.0,New England Patriots,2015,Dolphins,147.0,137.0,1491.0,705.0,9.0,8.0,1443.0,776.0,2196.0,2219.0,0,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
+87,9,Sun,0.0,3.0,0.0,Buffalo Bills,2015,Dolphins,154.0,173.0,1746.0,720.0,11.0,8.0,1785.0,871.0,2466.0,2656.0,0,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
+88,10,Sun,1.0,3.0,0.0,Philadelphia Eagles,2015,Dolphins,171.0,206.0,2035.0,828.0,12.0,8.0,1939.0,1137.0,2863.0,3076.0,0,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
+89,11,Sun,0.0,4.0,1.0,Dallas Cowboys,2015,Dolphins,191.0,225.0,2225.0,927.0,12.0,9.0,2292.0,1220.0,3152.0,3512.0,0,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
+90,12,Sun,0.0,4.0,0.0,New York Jets,2015,Dolphins,205.0,249.0,2365.0,997.0,13.0,11.0,2512.0,1386.0,3362.0,3898.0,0,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
+91,13,Sun,1.0,4.0,1.0,Baltimore Ravens,2015,Dolphins,225.0,287.0,2686.0,1009.0,15.0,11.0,2786.0,1523.0,3695.0,4309.0,0,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
+92,14,Mon,0.0,5.0,1.0,New York Giants,2015,Dolphins,240.0,300.0,2768.0,1146.0,16.0,13.0,3067.0,1617.0,3914.0,4684.0,0,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
+93,15,Sun,0.0,5.0,0.0,San Diego Chargers,2015,Dolphins,264.0,331.0,3003.0,1274.0,17.0,14.0,3404.0,1709.0,4277.0,5113.0,0,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
+94,16,Sun,0.0,5.0,1.0,Indianapolis Colts,2015,Dolphins,278.0,361.0,3190.0,1318.0,18.0,16.0,3706.0,1849.0,4508.0,5555.0,0,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
+95,17,Sun,1.0,5.0,1.0,New England Patriots,2015,Dolphins,290.0,379.0,3469.0,1400.0,19.0,16.0,3874.0,1949.0,4869.0,5823.0,0,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
+96,1,Sun,1.0,0.0,1.0,New England Patriots,2014,Dolphins,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
+97,2,Sun,0.0,1.0,0.0,Buffalo Bills,2014,Dolphins,33.0,20.0,169.0,191.0,3.0,2.0,226.0,89.0,360.0,315.0,0,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
+98,3,Sun,0.0,1.0,1.0,Kansas City Chiefs,2014,Dolphins,43.0,49.0,379.0,271.0,5.0,2.0,428.0,202.0,650.0,630.0,0,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
+99,4,Sun,1.0,1.0,0.0,Oakland Raiders,2014,Dolphins,58.0,83.0,570.0,412.0,5.0,4.0,596.0,376.0,982.0,972.0,0,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
+100,6,Sun,0.0,2.0,1.0,Green Bay Packers,2014,Dolphins,96.0,97.0,848.0,569.0,8.0,8.0,860.0,429.0,1417.0,1289.0,1,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
+101,7,Sun,1.0,2.0,0.0,Chicago Bears,2014,Dolphins,120.0,124.0,1085.0,681.0,11.0,8.0,1108.0,550.0,1766.0,1658.0,0,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
+102,8,Sun,1.0,3.0,0.0,Jacksonville Jaguars,2014,Dolphins,147.0,138.0,1341.0,818.0,11.0,11.0,1280.0,602.0,2159.0,1882.0,0,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
+103,9,Sun,1.0,4.0,1.0,San Diego Chargers,2014,Dolphins,174.0,151.0,1519.0,966.0,12.0,14.0,1481.0,778.0,2485.0,2259.0,0,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
+104,10,Sun,0.0,5.0,0.0,Detroit Lions,2014,Dolphins,211.0,151.0,1828.0,1098.0,12.0,18.0,1609.0,828.0,2926.0,2437.0,0,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
+105,11,Thu,1.0,5.0,1.0,Buffalo Bills,2014,Dolphins,227.0,171.0,2006.0,1148.0,14.0,19.0,1897.0,891.0,3154.0,2788.0,0,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
+106,12,Sun,0.0,6.0,0.0,Denver Broncos,2014,Dolphins,249.0,180.0,2211.0,1273.0,16.0,19.0,2080.0,945.0,3484.0,3025.0,0,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
+107,13,Mon,1.0,6.0,0.0,New York Jets,2014,Dolphins,285.0,219.0,2427.0,1370.0,17.0,20.0,2329.0,1146.0,3797.0,3475.0,0,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
+108,14,Sun,0.0,7.0,1.0,Baltimore Ravens,2014,Dolphins,301.0,232.0,2644.0,1444.0,18.0,21.0,2378.0,1423.0,4088.0,3801.0,0,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
+109,15,Sun,0.0,7.0,0.0,New England Patriots,2014,Dolphins,314.0,260.0,2830.0,1507.0,18.0,22.0,2642.0,1606.0,4337.0,4248.0,0,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
+110,16,Sun,1.0,7.0,1.0,Minnesota Vikings,2014,Dolphins,327.0,301.0,3138.0,1583.0,20.0,23.0,2929.0,1714.0,4721.0,4643.0,0,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
+111,17,Sun,0.0,8.0,1.0,New York Jets,2014,Dolphins,364.0,336.0,3521.0,1693.0,22.0,24.0,3167.0,1833.0,5214.0,5000.0,0,Joe Philbin,Bill Lazor,Kevin Coyle,Ryan Tannehill
+112,1,Sun,1.0,0.0,0.0,Cleveland Browns,2013,Dolphins,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
+113,2,Sun,1.0,1.0,0.0,Indianapolis Colts,2013,Dolphins,23.0,10.0,255.0,20.0,1.0,3.0,244.0,47.0,275.0,291.0,0,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
+114,3,Sun,1.0,2.0,1.0,Atlanta Falcons,2013,Dolphins,47.0,30.0,552.0,121.0,2.0,4.0,559.0,180.0,673.0,739.0,0,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
+115,4,Mon,0.0,3.0,0.0,New Orleans Saints,2013,Dolphins,74.0,53.0,747.0,211.0,4.0,6.0,790.0,326.0,958.0,1116.0,0,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
+116,5,Sun,0.0,3.0,1.0,Baltimore Ravens,2013,Dolphins,91.0,91.0,963.0,326.0,8.0,7.0,1187.0,394.0,1289.0,1581.0,0,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
+117,7,Sun,0.0,3.0,1.0,Buffalo Bills,2013,Dolphins,114.0,117.0,1235.0,348.0,8.0,9.0,1438.0,527.0,1583.0,1965.0,1,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
+118,8,Sun,0.0,3.0,0.0,New England Patriots,2013,Dolphins,135.0,140.0,1408.0,468.0,11.0,10.0,1616.0,617.0,1876.0,2233.0,0,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
+119,9,Thu,1.0,3.0,1.0,Cincinnati Bengals,2013,Dolphins,152.0,167.0,1553.0,624.0,14.0,11.0,1716.0,769.0,2177.0,2485.0,0,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
+120,10,Mon,0.0,4.0,0.0,Tampa Bay Buccaneers,2013,Dolphins,174.0,187.0,1741.0,781.0,15.0,15.0,2018.0,932.0,2522.0,2950.0,0,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
+121,11,Sun,1.0,4.0,1.0,San Diego Chargers,2013,Dolphins,193.0,209.0,1952.0,783.0,16.0,16.0,2142.0,1072.0,2735.0,3214.0,0,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
+122,12,Sun,0.0,5.0,1.0,Carolina Panthers,2013,Dolphins,213.0,225.0,2191.0,887.0,17.0,17.0,2423.0,1226.0,3078.0,3649.0,0,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
+123,13,Sun,1.0,5.0,0.0,New York Jets,2013,Dolphins,229.0,245.0,2471.0,939.0,18.0,18.0,2582.0,1362.0,3410.0,3944.0,0,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
+124,14,Sun,1.0,6.0,0.0,Pittsburgh Steelers,2013,Dolphins,252.0,248.0,2799.0,1064.0,19.0,21.0,2660.0,1461.0,3863.0,4121.0,0,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
+125,15,Sun,1.0,7.0,1.0,New England Patriots,2013,Dolphins,286.0,276.0,2985.0,1245.0,20.0,22.0,2988.0,1545.0,4230.0,4533.0,0,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
+126,16,Sun,0.0,8.0,0.0,Buffalo Bills,2013,Dolphins,310.0,296.0,3274.0,1334.0,21.0,23.0,3345.0,1641.0,4608.0,4986.0,0,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
+127,17,Sun,0.0,8.0,1.0,New York Jets,2013,Dolphins,310.0,315.0,3363.0,1348.0,23.0,24.0,3532.0,1844.0,4711.0,5376.0,0,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
+128,1,Sun,0.0,0.0,0.0,Houston Texans,2012,Dolphins,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
+129,2,Sun,1.0,0.0,1.0,Oakland Raiders,2012,Dolphins,10.0,30.0,199.0,76.0,4.0,0.0,254.0,83.0,275.0,337.0,0,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
+130,3,Sun,0.0,1.0,1.0,New York Jets,2012,Dolphins,45.0,43.0,388.0,339.0,4.0,1.0,627.0,106.0,727.0,733.0,0,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
+131,4,Sun,0.0,1.0,0.0,Arizona Cardinals,2012,Dolphins,65.0,66.0,584.0,524.0,6.0,3.0,922.0,199.0,1108.0,1121.0,0,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
+132,5,Sun,1.0,1.0,0.0,Cincinnati Bengals,2012,Dolphins,86.0,90.0,978.0,610.0,10.0,5.0,1191.0,227.0,1588.0,1418.0,0,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
+133,6,Sun,1.0,2.0,1.0,St. Louis Rams,2012,Dolphins,103.0,103.0,1189.0,678.0,12.0,8.0,1409.0,307.0,1867.0,1716.0,0,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
+134,8,Sun,1.0,3.0,0.0,New York Jets,2012,Dolphins,120.0,117.0,1345.0,714.0,12.0,9.0,1709.0,469.0,2059.0,2178.0,1,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
+135,9,Sun,0.0,4.0,0.0,Indianapolis Colts,2012,Dolphins,150.0,126.0,1484.0,811.0,13.0,11.0,1967.0,574.0,2295.0,2541.0,0,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
+136,10,Sun,0.0,4.0,1.0,Tennessee Titans,2012,Dolphins,170.0,149.0,1765.0,895.0,13.0,11.0,2386.0,671.0,2660.0,3057.0,0,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
+137,11,Thu,0.0,4.0,0.0,Buffalo Bills,2012,Dolphins,173.0,186.0,1966.0,949.0,17.0,11.0,2502.0,848.0,2915.0,3350.0,0,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
+138,12,Sun,1.0,4.0,1.0,Seattle Seahawks,2012,Dolphins,187.0,205.0,2090.0,1009.0,20.0,11.0,2663.0,968.0,3099.0,3631.0,0,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
+139,13,Sun,0.0,5.0,1.0,New England Patriots,2012,Dolphins,211.0,226.0,2336.0,1198.0,21.0,11.0,2879.0,1064.0,3534.0,3943.0,0,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
+140,14,Sun,0.0,5.0,0.0,San Francisco 49ers,2012,Dolphins,227.0,249.0,2512.0,1299.0,22.0,12.0,3092.0,1172.0,3811.0,4264.0,0,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
+141,15,Sun,1.0,5.0,1.0,Jacksonville Jaguars,2012,Dolphins,240.0,276.0,2645.0,1393.0,23.0,12.0,3258.0,1327.0,4038.0,4585.0,0,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
+142,16,Sun,1.0,6.0,1.0,Buffalo Bills,2012,Dolphins,264.0,279.0,2854.0,1573.0,24.0,12.0,3471.0,1413.0,4427.0,4884.0,0,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
+143,17,Sun,0.0,7.0,0.0,New England Patriots,2012,Dolphins,288.0,289.0,2973.0,1755.0,24.0,16.0,3698.0,1567.0,4728.0,5265.0,0,Joe Philbin,Mike Sherman,Kevin Coyle,Ryan Tannehill
+144,1,Mon,0.0,0.0,1.0,New England Patriots,2011,Dolphins,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Tony Sparano,Brian Daboll,Mike Nolan,Chad Henne
+145,2,Sun,0.0,0.0,1.0,Houston Texans,2011,Dolphins,24.0,38.0,390.0,98.0,1.0,1.0,516.0,106.0,488.0,622.0,0,Tony Sparano,Brian Daboll,Mike Nolan,Chad Henne
+146,3,Sun,0.0,0.0,0.0,Cleveland Browns,2011,Dolphins,37.0,61.0,543.0,251.0,3.0,1.0,723.0,244.0,794.0,967.0,0,Tony Sparano,Brian Daboll,Mike Nolan,Chad Henne
+147,4,Sun,0.0,0.0,0.0,San Diego Chargers,2011,Dolphins,53.0,78.0,774.0,389.0,5.0,2.0,933.0,314.0,1163.0,1247.0,0,Tony Sparano,Brian Daboll,Mike Nolan,Chad Henne
+148,6,Mon,0.0,0.0,0.0,New York Jets,2011,Dolphins,69.0,104.0,950.0,461.0,7.0,2.0,1228.0,430.0,1411.0,1658.0,1,Tony Sparano,Brian Daboll,Mike Nolan,Chad Henne
+149,7,Sun,0.0,0.0,1.0,Denver Broncos,2011,Dolphins,75.0,128.0,1140.0,579.0,10.0,3.0,1420.0,534.0,1719.0,1954.0,0,Tony Sparano,Brian Daboll,Mike Nolan,Chad Henne
+150,8,Sun,0.0,0.0,0.0,New York Giants,2011,Dolphins,90.0,146.0,1313.0,673.0,11.0,4.0,1551.0,711.0,1986.0,2262.0,0,Tony Sparano,Brian Daboll,Mike Nolan,Chad Henne
+151,9,Sun,1.0,0.0,0.0,Kansas City Chiefs,2011,Dolphins,107.0,166.0,1414.0,818.0,12.0,4.0,1895.0,769.0,2232.0,2664.0,0,Tony Sparano,Brian Daboll,Mike Nolan,Chad Henne
+152,10,Sun,1.0,1.0,1.0,Washington Redskins,2011,Dolphins,138.0,169.0,1658.0,925.0,12.0,4.0,2122.0,885.0,2583.0,3007.0,0,Tony Sparano,Brian Daboll,Mike Nolan,Chad Henne
+153,11,Sun,1.0,2.0,1.0,Buffalo Bills,2011,Dolphins,158.0,178.0,1858.0,1028.0,14.0,6.0,2307.0,946.0,2886.0,3253.0,0,Tony Sparano,Brian Daboll,Mike Nolan,Chad Henne
+154,12,Thu,0.0,3.0,0.0,Dallas Cowboys,2011,Dolphins,193.0,186.0,2005.0,1123.0,14.0,8.0,2511.0,987.0,3128.0,3498.0,0,Tony Sparano,Brian Daboll,Mike Nolan,Chad Henne
+155,13,Sun,1.0,3.0,1.0,Oakland Raiders,2011,Dolphins,212.0,206.0,2268.0,1212.0,15.0,10.0,2729.0,1072.0,3480.0,3801.0,0,Tony Sparano,Brian Daboll,Mike Nolan,Chad Henne
+156,14,Sun,0.0,4.0,1.0,Philadelphia Eagles,2011,Dolphins,246.0,220.0,2421.0,1421.0,15.0,11.0,2987.0,1118.0,3842.0,4105.0,0,Tony Sparano,Brian Daboll,Mike Nolan,Chad Henne
+157,15,Sun,1.0,4.0,0.0,Buffalo Bills,2011,Dolphins,256.0,246.0,2516.0,1530.0,18.0,13.0,3175.0,1169.0,4046.0,4344.0,0,Tony Sparano,Brian Daboll,Mike Nolan,Chad Henne
+158,16,Sat,0.0,5.0,0.0,New England Patriots,2011,Dolphins,286.0,269.0,2710.0,1784.0,21.0,16.0,3466.0,1282.0,4494.0,4748.0,0,Tony Sparano,Brian Daboll,Mike Nolan,Chad Henne
+159,17,Sun,1.0,5.0,1.0,New York Jets,2011,Dolphins,310.0,296.0,2963.0,1905.0,23.0,16.0,3747.0,1401.0,4868.0,5148.0,0,Tony Sparano,Brian Daboll,Mike Nolan,Chad Henne
+160,1,Sun,1.0,0.0,0.0,Buffalo Bills,2010,Dolphins,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Tony Sparano,Dan Henning,Mike Nolan,Chad Henne
+161,2,Sun,1.0,1.0,0.0,Minnesota Vikings,2010,Dolphins,15.0,10.0,164.0,132.0,0.0,0.0,116.0,50.0,296.0,166.0,0,Tony Sparano,Dan Henning,Mike Nolan,Chad Henne
+162,3,Sun,0.0,2.0,1.0,New York Jets,2010,Dolphins,29.0,20.0,270.0,252.0,2.0,4.0,324.0,206.0,522.0,530.0,0,Tony Sparano,Dan Henning,Mike Nolan,Chad Henne
+163,4,Mon,0.0,2.0,1.0,New England Patriots,2010,Dolphins,52.0,51.0,622.0,336.0,3.0,4.0,580.0,352.0,958.0,932.0,0,Tony Sparano,Dan Henning,Mike Nolan,Chad Henne
+164,6,Sun,1.0,2.0,0.0,Green Bay Packers,2010,Dolphins,66.0,92.0,930.0,428.0,7.0,4.0,726.0,471.0,1358.0,1197.0,1,Tony Sparano,Dan Henning,Mike Nolan,Chad Henne
+165,7,Sun,0.0,3.0,1.0,Pittsburgh Steelers,2010,Dolphins,89.0,112.0,1161.0,578.0,8.0,5.0,1009.0,547.0,1739.0,1556.0,0,Tony Sparano,Dan Henning,Mike Nolan,Chad Henne
+166,8,Sun,1.0,3.0,0.0,Cincinnati Bengals,2010,Dolphins,111.0,135.0,1410.0,642.0,10.0,7.0,1299.0,605.0,2052.0,1904.0,0,Tony Sparano,Dan Henning,Mike Nolan,Chad Henne
+167,9,Sun,0.0,4.0,0.0,Baltimore Ravens,2010,Dolphins,133.0,149.0,1627.0,779.0,12.0,8.0,1455.0,711.0,2406.0,2166.0,0,Tony Sparano,Dan Henning,Mike Nolan,Chad Henne
+168,10,Sun,1.0,4.0,1.0,Tennessee Titans,2010,Dolphins,143.0,175.0,1843.0,852.0,15.0,8.0,1711.0,857.0,2695.0,2568.0,0,Tony Sparano,Dan Henning,Mike Nolan,Chad Pennington
+169,11,Thu,0.0,5.0,1.0,Chicago Bears,2010,Dolphins,172.0,192.0,2159.0,940.0,16.0,11.0,1835.0,992.0,3099.0,2827.0,0,Tony Sparano,Dan Henning,Mike Nolan,Tyler Thigpen
+170,12,Sun,1.0,5.0,0.0,Oakland Raiders,2010,Dolphins,172.0,208.0,2307.0,979.0,17.0,12.0,1968.0,1127.0,3286.0,3095.0,0,Tony Sparano,Dan Henning,Mike Nolan,Chad Henne
+171,13,Sun,0.0,6.0,1.0,Cleveland Browns,2010,Dolphins,205.0,225.0,2592.0,1165.0,18.0,15.0,2215.0,1143.0,3757.0,3358.0,0,Tony Sparano,Dan Henning,Mike Nolan,Chad Henne
+172,14,Sun,1.0,6.0,0.0,New York Jets,2010,Dolphins,215.0,238.0,2759.0,1279.0,21.0,15.0,2415.0,1195.0,4038.0,3610.0,0,Tony Sparano,Dan Henning,Mike Nolan,Chad Henne
+173,15,Sun,0.0,7.0,1.0,Buffalo Bills,2010,Dolphins,225.0,244.0,2789.0,1380.0,24.0,17.0,2608.0,1282.0,4169.0,3890.0,0,Tony Sparano,Dan Henning,Mike Nolan,Chad Henne
+174,16,Sun,0.0,7.0,1.0,Detroit Lions,2010,Dolphins,239.0,261.0,3050.0,1445.0,26.0,18.0,2819.0,1353.0,4495.0,4172.0,0,Tony Sparano,Dan Henning,Mike Nolan,Chad Henne
+175,17,Sun,0.0,7.0,0.0,New England Patriots,2010,Dolphins,266.0,295.0,3321.0,1599.0,29.0,18.0,3027.0,1420.0,4920.0,4447.0,0,Tony Sparano,Dan Henning,Mike Nolan,Chad Henne
