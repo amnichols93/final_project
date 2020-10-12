@@ -1,6 +1,10 @@
 # Final Project
 Solo team
 
+## Update for Segment 2:
+Presentation Slides: https://docs.google.com/presentation/d/1BMbp83ryxox5Rm0n8Au2fhnJJwBQ1P3ISek7oBGqSko/edit?usp=sharing
+This presentation offers an update on the project so far. Some slides only include key words, since I don't plan on presenting with a lot of text on the screen.
+
 ## Preliminary README.md for Segment 1:
 
 The goal of this final project is to predict the weekly outcomes of NFL games for the remainder of the season with at least 82% accuracy (14 out of 17 games), and to present these weekly predictions on a website via gitpages.
