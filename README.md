@@ -1,6 +1,14 @@
 # Final Project
 Solo team
 
+
+## Update for Segment 3:
+- Presentation on Google Slides has been updated to reflect the new model accuracy numbers and updated visualizations based on an adjustment in the code.
+- There is now a secondary model that can be used to find weaknesses/blindspots in the primary model. The secondary model identifies if there are any teams that are consistently over- or underestimated by the primary model. I used this secondary model to override my primary model's prediction that the Bengals would beat the Colts this week. The secondary model indicated that the Bengals have been overestimated by the model and the Colts have been underestimated, so I overrode the prediction and, as anticipated, the Colts won.
+- I now have a second repo for the website aspect of this project. I have purposefully separated these repos because I do not want people to have access to the code, in the event that I plan to commodify my algorithm, and gitpages requires me to keep the published repo "public." As soon as this course is over, I am going to make this repo private and use it only to log the code while the product of this code is visualized in the other repo.
+Link to other repo: https://github.com/amnichols93/PickSys
+Link to gitpage: https://amnichols93.github.io/PickSys/
+
 ## Update for Segment 2:
 Presentation Slides: https://docs.google.com/presentation/d/1BMbp83ryxox5Rm0n8Au2fhnJJwBQ1P3ISek7oBGqSko/edit?usp=sharing
 This presentation offers an update on the project so far. Some slides only include key words, since I don't plan on presenting with a lot of text on the screen.
