@@ -6,7 +6,8 @@ Order of operations for using the jupyter notebooks:
 - First, I used the "compiling" notebook to import all of the 2010-2019 data. This notebook no longer needs to be referenced as new data becomes available.
 - Second, I used the "updating" notebook to append the 2020 data, and I continue to update/run this notebook each week.
 - Third, I used the "modeling" notebook to scale and encode the data, and then run the built-in machine learning models. These turned out to be relatively inaccurate, so I no longer run this notebook.
-- Lastly, I use the "analyzing" notebook to determine weekly predictions and update accuracy figures. 
+- Fourth, I used the "SQL" notebook to create a relational database between team names and team ID
+- Lastly, I use the "analyzing" notebook to determine weekly predictions and update accuracy figures. This notebook reincorporates the SQL database tables.
 
 Directory Tree:
 - The folders should all be placed on level further away from the jupyter notebooks in a folder called "Resources"
