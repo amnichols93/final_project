@@ -1,6 +1,12 @@
 # Final Project
 Solo team
 
+Order of operations for using the jupyter notebooks:
+- First, I used the "compiling" notebook to import all of the 2010-2019 data. This notebook no longer needs to be referenced as new data becomes available.
+- Second, I used the "updating" notebook to append the 2020 data, and I continue to update/run this notebook each week.
+- Third, I used the "modeling" notebook to scale and encode the data, and then run the built-in machine learning models. These turned out to be relatively inaccurate, so I no longer run this notebook.
+- Lastly, I use the "analyzing" notebook to determine weekly predictions and update accuracy figures. 
+
 
 ## Update for Segment 3:
 - Presentation on Google Slides has been updated to reflect the new model accuracy numbers and updated visualizations based on an adjustment in the code.
